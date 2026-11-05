@@ -123,9 +123,358 @@ var IELTS_BANK_100 = {
           "explanation": "Chi phí là 35 bảng Anh (35 hoặc thirty five)."
         }
       ],
-      "vocabulary": [],
+      "vocabulary": [
+        {
+          "id": "voc_lis_1_1",
+          "term": "conservation group",
+          "type": "noun phrase",
+          "ipa": "/ˌkɒn.səˈveɪ.ʃən ɡruːp/",
+          "meaning": "Nhóm / tổ chức tình nguyện bảo tồn thiên nhiên",
+          "example": "The Buckworth Conservation Group organizes regular beach cleanups and habitat preservation.",
+          "paraphrase": "environmental protection organization / wildlife preservation society",
+          "collocation": "join an active conservation group"
+        },
+        {
+          "id": "voc_lis_1_2",
+          "term": "nature reserve",
+          "type": "noun phrase",
+          "ipa": "/ˈneɪ.tʃər rɪˌzɜːv/",
+          "meaning": "Khu bảo tồn thiên nhiên hoang dã",
+          "example": "The volunteers look after the walking paths to keep the nature reserve accessible.",
+          "paraphrase": "wildlife sanctuary / ecological protected zone",
+          "collocation": "manage a coastal nature reserve"
+        },
+        {
+          "id": "voc_lis_1_3",
+          "term": "biodiversity",
+          "type": "noun",
+          "ipa": "/ˌbaɪ.əʊ.daɪˈvɜː.sə.ti/",
+          "meaning": "Đa dạng sinh học, tính phong phú của sinh vật",
+          "example": "Encouraging insects is crucial for maintaining the biodiversity of the reserve.",
+          "paraphrase": "ecological diversity / biological variety",
+          "collocation": "enhance local biodiversity"
+        },
+        {
+          "id": "voc_lis_1_4",
+          "term": "habitat creation",
+          "type": "noun phrase",
+          "ipa": "/ˈhæb.ɪ.tæt kriˈeɪ.ʃən/",
+          "meaning": "Việc tạo lập và phục hồi môi trường sống cho động vật",
+          "example": "Volunteers have finished installing nesting boxes as part of their habitat creation programme.",
+          "paraphrase": "ecosystem restoration / biotope construction",
+          "collocation": "participate in habitat creation projects"
+        },
+        {
+          "id": "voc_lis_1_5",
+          "term": "nesting box",
+          "type": "noun phrase",
+          "ipa": "/ˈnes.tɪŋ bɒks/",
+          "meaning": "Hộp làm tổ nhân tạo cho các loài chim",
+          "example": "Installing wooden nesting boxes encourages endangered bird species to breed safely.",
+          "paraphrase": "artificial birdhouse / roosting shelter",
+          "collocation": "mount secure nesting boxes"
+        },
+        {
+          "id": "voc_lis_1_6",
+          "term": "low tide",
+          "type": "noun phrase",
+          "ipa": "/ˌləʊ ˈtaɪd/",
+          "meaning": "Thủy triều rút, nước cạn",
+          "example": "The guided walk to Ruston Island takes place at low tide when the sands are dry.",
+          "paraphrase": "ebb tide / receding waters",
+          "collocation": "cross the sandbar at low tide"
+        },
+        {
+          "id": "voc_lis_1_7",
+          "term": "guided walk",
+          "type": "noun phrase",
+          "ipa": "/ˈɡaɪ.dɪd wɔːk/",
+          "meaning": "Chuyến đi bộ dã ngoại có chuyên gia hướng dẫn",
+          "example": "Guided walks offer newcomers a wonderful opportunity to explore local coastal habitats.",
+          "paraphrase": "escorted hiking tour / naturalist expedition",
+          "collocation": "lead an informative guided walk"
+        },
+        {
+          "id": "voc_lis_1_8",
+          "term": "waterproof boots",
+          "type": "noun phrase",
+          "ipa": "/ˈwɔː.tə.pruːf buːts/",
+          "meaning": "Ủng chống thấm nước chuyên dụng đi biển",
+          "example": "Walking across the tidal flats requires sturdy waterproof boots to keep your feet dry.",
+          "paraphrase": "water-resistant footwear / wellingtons",
+          "collocation": "wear durable waterproof boots"
+        },
+        {
+          "id": "voc_lis_1_9",
+          "term": "woodwork session",
+          "type": "noun phrase",
+          "ipa": "/ˈwʊd.wɜːk ˈseʃ.ən/",
+          "meaning": "Buổi thực hành chế tác đồ mộc thủ công",
+          "example": "Beginners can craft wooden spoons during the hands-on woodwork session in Hopton Wood.",
+          "paraphrase": "carpentry workshop / timber crafting class",
+          "collocation": "attend a beginner woodwork session"
+        },
+        {
+          "id": "voc_lis_1_10",
+          "term": "coastal cliffs",
+          "type": "noun phrase",
+          "ipa": "/ˈkəʊ.stəl klɪfs/",
+          "meaning": "Những vách đá dựng đứng ven bờ biển",
+          "example": "Visitors can walk their dogs along the coastal cliffs while observing offshore seal colonies.",
+          "paraphrase": "oceanfront escarpments / seaside bluffs",
+          "collocation": "stroll along the coastal cliffs"
+        }
+      ],
       "camSeries": "cam_17",
-      "camBadge": "Cambridge 17"
+      "camBadge": "Cambridge 17",
+      "testVocabulary": [
+        {
+          "id": "voc_lis_1_1",
+          "term": "conservation group",
+          "type": "noun phrase",
+          "ipa": "/ˌkɒn.səˈveɪ.ʃən ɡruːp/",
+          "meaning": "Nhóm / tổ chức tình nguyện bảo tồn thiên nhiên",
+          "example": "The Buckworth Conservation Group organizes regular beach cleanups and habitat preservation.",
+          "paraphrase": "environmental protection organization / wildlife preservation society",
+          "collocation": "join an active conservation group"
+        },
+        {
+          "id": "voc_lis_1_2",
+          "term": "nature reserve",
+          "type": "noun phrase",
+          "ipa": "/ˈneɪ.tʃər rɪˌzɜːv/",
+          "meaning": "Khu bảo tồn thiên nhiên hoang dã",
+          "example": "The volunteers look after the walking paths to keep the nature reserve accessible.",
+          "paraphrase": "wildlife sanctuary / ecological protected zone",
+          "collocation": "manage a coastal nature reserve"
+        },
+        {
+          "id": "voc_lis_1_3",
+          "term": "biodiversity",
+          "type": "noun",
+          "ipa": "/ˌbaɪ.əʊ.daɪˈvɜː.sə.ti/",
+          "meaning": "Đa dạng sinh học, tính phong phú của sinh vật",
+          "example": "Encouraging insects is crucial for maintaining the biodiversity of the reserve.",
+          "paraphrase": "ecological diversity / biological variety",
+          "collocation": "enhance local biodiversity"
+        },
+        {
+          "id": "voc_lis_1_4",
+          "term": "habitat creation",
+          "type": "noun phrase",
+          "ipa": "/ˈhæb.ɪ.tæt kriˈeɪ.ʃən/",
+          "meaning": "Việc tạo lập và phục hồi môi trường sống cho động vật",
+          "example": "Volunteers have finished installing nesting boxes as part of their habitat creation programme.",
+          "paraphrase": "ecosystem restoration / biotope construction",
+          "collocation": "participate in habitat creation projects"
+        },
+        {
+          "id": "voc_lis_1_5",
+          "term": "nesting box",
+          "type": "noun phrase",
+          "ipa": "/ˈnes.tɪŋ bɒks/",
+          "meaning": "Hộp làm tổ nhân tạo cho các loài chim",
+          "example": "Installing wooden nesting boxes encourages endangered bird species to breed safely.",
+          "paraphrase": "artificial birdhouse / roosting shelter",
+          "collocation": "mount secure nesting boxes"
+        },
+        {
+          "id": "voc_lis_1_6",
+          "term": "low tide",
+          "type": "noun phrase",
+          "ipa": "/ˌləʊ ˈtaɪd/",
+          "meaning": "Thủy triều rút, nước cạn",
+          "example": "The guided walk to Ruston Island takes place at low tide when the sands are dry.",
+          "paraphrase": "ebb tide / receding waters",
+          "collocation": "cross the sandbar at low tide"
+        },
+        {
+          "id": "voc_lis_1_7",
+          "term": "guided walk",
+          "type": "noun phrase",
+          "ipa": "/ˈɡaɪ.dɪd wɔːk/",
+          "meaning": "Chuyến đi bộ dã ngoại có chuyên gia hướng dẫn",
+          "example": "Guided walks offer newcomers a wonderful opportunity to explore local coastal habitats.",
+          "paraphrase": "escorted hiking tour / naturalist expedition",
+          "collocation": "lead an informative guided walk"
+        },
+        {
+          "id": "voc_lis_1_8",
+          "term": "waterproof boots",
+          "type": "noun phrase",
+          "ipa": "/ˈwɔː.tə.pruːf buːts/",
+          "meaning": "Ủng chống thấm nước chuyên dụng đi biển",
+          "example": "Walking across the tidal flats requires sturdy waterproof boots to keep your feet dry.",
+          "paraphrase": "water-resistant footwear / wellingtons",
+          "collocation": "wear durable waterproof boots"
+        },
+        {
+          "id": "voc_lis_1_9",
+          "term": "woodwork session",
+          "type": "noun phrase",
+          "ipa": "/ˈwʊd.wɜːk ˈseʃ.ən/",
+          "meaning": "Buổi thực hành chế tác đồ mộc thủ công",
+          "example": "Beginners can craft wooden spoons during the hands-on woodwork session in Hopton Wood.",
+          "paraphrase": "carpentry workshop / timber crafting class",
+          "collocation": "attend a beginner woodwork session"
+        },
+        {
+          "id": "voc_lis_1_10",
+          "term": "coastal cliffs",
+          "type": "noun phrase",
+          "ipa": "/ˈkəʊ.stəl klɪfs/",
+          "meaning": "Những vách đá dựng đứng ven bờ biển",
+          "example": "Visitors can walk their dogs along the coastal cliffs while observing offshore seal colonies.",
+          "paraphrase": "oceanfront escarpments / seaside bluffs",
+          "collocation": "stroll along the coastal cliffs"
+        }
+      ],
+      "testVocabPractice": {
+        "flashcards": [
+          {
+            "front": "conservation group",
+            "back": "Nhóm / tổ chức tình nguyện bảo tồn thiên nhiên\n\n• IPA: /ˌkɒn.səˈveɪ.ʃən ɡruːp/\n• Ví dụ bài test: \"The Buckworth Conservation Group organizes regular beach cleanups and habitat preservation.\"\n• Paraphrase: environmental protection organization / wildlife preservation society\n• Collocation: join an active conservation group"
+          },
+          {
+            "front": "nature reserve",
+            "back": "Khu bảo tồn thiên nhiên hoang dã\n\n• IPA: /ˈneɪ.tʃər rɪˌzɜːv/\n• Ví dụ bài test: \"The volunteers look after the walking paths to keep the nature reserve accessible.\"\n• Paraphrase: wildlife sanctuary / ecological protected zone\n• Collocation: manage a coastal nature reserve"
+          },
+          {
+            "front": "biodiversity",
+            "back": "Đa dạng sinh học, tính phong phú của sinh vật\n\n• IPA: /ˌbaɪ.əʊ.daɪˈvɜː.sə.ti/\n• Ví dụ bài test: \"Encouraging insects is crucial for maintaining the biodiversity of the reserve.\"\n• Paraphrase: ecological diversity / biological variety\n• Collocation: enhance local biodiversity"
+          },
+          {
+            "front": "habitat creation",
+            "back": "Việc tạo lập và phục hồi môi trường sống cho động vật\n\n• IPA: /ˈhæb.ɪ.tæt kriˈeɪ.ʃən/\n• Ví dụ bài test: \"Volunteers have finished installing nesting boxes as part of their habitat creation programme.\"\n• Paraphrase: ecosystem restoration / biotope construction\n• Collocation: participate in habitat creation projects"
+          },
+          {
+            "front": "nesting box",
+            "back": "Hộp làm tổ nhân tạo cho các loài chim\n\n• IPA: /ˈnes.tɪŋ bɒks/\n• Ví dụ bài test: \"Installing wooden nesting boxes encourages endangered bird species to breed safely.\"\n• Paraphrase: artificial birdhouse / roosting shelter\n• Collocation: mount secure nesting boxes"
+          },
+          {
+            "front": "low tide",
+            "back": "Thủy triều rút, nước cạn\n\n• IPA: /ˌləʊ ˈtaɪd/\n• Ví dụ bài test: \"The guided walk to Ruston Island takes place at low tide when the sands are dry.\"\n• Paraphrase: ebb tide / receding waters\n• Collocation: cross the sandbar at low tide"
+          },
+          {
+            "front": "guided walk",
+            "back": "Chuyến đi bộ dã ngoại có chuyên gia hướng dẫn\n\n• IPA: /ˈɡaɪ.dɪd wɔːk/\n• Ví dụ bài test: \"Guided walks offer newcomers a wonderful opportunity to explore local coastal habitats.\"\n• Paraphrase: escorted hiking tour / naturalist expedition\n• Collocation: lead an informative guided walk"
+          },
+          {
+            "front": "waterproof boots",
+            "back": "Ủng chống thấm nước chuyên dụng đi biển\n\n• IPA: /ˈwɔː.tə.pruːf buːts/\n• Ví dụ bài test: \"Walking across the tidal flats requires sturdy waterproof boots to keep your feet dry.\"\n• Paraphrase: water-resistant footwear / wellingtons\n• Collocation: wear durable waterproof boots"
+          },
+          {
+            "front": "woodwork session",
+            "back": "Buổi thực hành chế tác đồ mộc thủ công\n\n• IPA: /ˈwʊd.wɜːk ˈseʃ.ən/\n• Ví dụ bài test: \"Beginners can craft wooden spoons during the hands-on woodwork session in Hopton Wood.\"\n• Paraphrase: carpentry workshop / timber crafting class\n• Collocation: attend a beginner woodwork session"
+          },
+          {
+            "front": "coastal cliffs",
+            "back": "Những vách đá dựng đứng ven bờ biển\n\n• IPA: /ˈkəʊ.stəl klɪfs/\n• Ví dụ bài test: \"Visitors can walk their dogs along the coastal cliffs while observing offshore seal colonies.\"\n• Paraphrase: oceanfront escarpments / seaside bluffs\n• Collocation: stroll along the coastal cliffs"
+          }
+        ],
+        "matching": [
+          {
+            "pairId": 1,
+            "left": "conservation group",
+            "right": "Nhóm / tổ chức tình nguyện bảo tồn thiên nhiên"
+          },
+          {
+            "pairId": 2,
+            "left": "nature reserve",
+            "right": "Khu bảo tồn thiên nhiên hoang dã"
+          },
+          {
+            "pairId": 3,
+            "left": "biodiversity",
+            "right": "Đa dạng sinh học, tính phong phú của sinh vật"
+          },
+          {
+            "pairId": 4,
+            "left": "habitat creation",
+            "right": "Việc tạo lập và phục hồi môi trường sống cho động vật"
+          },
+          {
+            "pairId": 5,
+            "left": "nesting box",
+            "right": "Hộp làm tổ nhân tạo cho các loài chim"
+          },
+          {
+            "pairId": 6,
+            "left": "low tide",
+            "right": "Thủy triều rút, nước cạn"
+          },
+          {
+            "pairId": 7,
+            "left": "guided walk",
+            "right": "Chuyến đi bộ dã ngoại có chuyên gia hướng dẫn"
+          },
+          {
+            "pairId": 8,
+            "left": "waterproof boots",
+            "right": "Ủng chống thấm nước chuyên dụng đi biển"
+          },
+          {
+            "pairId": 9,
+            "left": "woodwork session",
+            "right": "Buổi thực hành chế tác đồ mộc thủ công"
+          },
+          {
+            "pairId": 10,
+            "left": "coastal cliffs",
+            "right": "Những vách đá dựng đứng ven bờ biển"
+          }
+        ],
+        "quiz": [
+          {
+            "id": "qz_lis_test_1_1",
+            "question": "Trong ngữ cảnh bài thi này, cụm từ 'conservation group' (noun phrase) mang ý nghĩa chuẩn xác nhất là gì?",
+            "options": [
+              "Nhóm / tổ chức tình nguyện bảo tồn thiên nhiên",
+              "Hiện tượng biến đổi khí hậu bất thường",
+              "Thuật ngữ chỉ chi phí hành chính và giấy phép",
+              "Mô hình nghiên cứu lý thuyết chưa được áp dụng"
+            ],
+            "correct": 0,
+            "explanation": "'conservation group' (/ˌkɒn.səˈveɪ.ʃən ɡruːp/) có nghĩa là: Nhóm / tổ chức tình nguyện bảo tồn thiên nhiên. Ví dụ trích xuất: \"The Buckworth Conservation Group organizes regular beach cleanups and habitat preservation.\""
+          },
+          {
+            "id": "qz_lis_test_1_2",
+            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'nature reserve' là gì?",
+            "options": [
+              "deviate from arbitrary figures",
+              "manage a coastal nature reserve",
+              "contradict empirical survey findings",
+              "dismiss foundational historical accounts"
+            ],
+            "correct": 1,
+            "explanation": "Collocation chuẩn xác trong đề thi IELTS là: 'manage a coastal nature reserve'. Ý nghĩa: Khu bảo tồn thiên nhiên hoang dã."
+          },
+          {
+            "id": "qz_lis_test_1_3",
+            "question": "Từ hoặc cụm từ nào sau đây có thể dùng để Paraphrase (diễn giải tương đương) cho 'biodiversity'?",
+            "options": [
+              "spurious assertions / unfounded allegations",
+              "marginal fluctuations in monetary value",
+              "ecological diversity / biological variety",
+              "temporary administrative sanctions"
+            ],
+            "correct": 2,
+            "explanation": "Từ đồng nghĩa / Paraphrase thường gặp trong IELTS: 'biodiversity' tương đương với 'ecological diversity / biological variety'."
+          },
+          {
+            "id": "qz_lis_test_1_4",
+            "question": "Điền từ thích hợp vào chỗ trống: \"Volunteers have finished installing nesting boxes as part of their __________ programme.\"",
+            "options": [
+              "arbitrary hypothesis",
+              "superficial discrepancy",
+              "habitat creation",
+              "disproportionate allocation"
+            ],
+            "correct": 2,
+            "explanation": "Đáp án đúng là 'habitat creation'. Câu hoàn chỉnh: \"Volunteers have finished installing nesting boxes as part of their habitat creation programme.\""
+          }
+        ]
+      }
     },
     {
       "id": "lis_test_2",
@@ -313,9 +662,358 @@ var IELTS_BANK_100 = {
           "explanation": "Hướng dẫn viên sẽ thuyết minh bên trong hang (D) và không thể đi bộ tiếp cận trên đất liền (E)."
         }
       ],
-      "vocabulary": [],
+      "vocabulary": [
+        {
+          "id": "voc_lis_2_1",
+          "term": "scenic cruise",
+          "type": "noun phrase",
+          "ipa": "/ˈsiː.nɪk kruːz/",
+          "meaning": "Chuyến du thuyền ngắm phong cảnh tuyệt đẹp",
+          "example": "The scenic cruise sails past rugged promontories and offshore marine reserves.",
+          "paraphrase": "panoramic boat excursion / sightseeing voyage",
+          "collocation": "embark on a scenic cruise"
+        },
+        {
+          "id": "voc_lis_2_2",
+          "term": "ancient lighthouse",
+          "type": "noun phrase",
+          "ipa": "/ˈeɪn.ʃənt ˈlaɪt.haʊs/",
+          "meaning": "Ngọn hải đăng cổ kính ven biển",
+          "example": "The ancient lighthouse has warned mariners away from treacherous reefs for over a century.",
+          "paraphrase": "historic beacon tower / maritime beacon",
+          "collocation": "tour the ancient lighthouse"
+        },
+        {
+          "id": "voc_lis_2_3",
+          "term": "maritime heritage",
+          "type": "noun phrase",
+          "ipa": "/ˈmær.ɪ.taɪm ˈher.ɪ.tɪdʒ/",
+          "meaning": "Di sản lịch sử văn hóa hàng hải",
+          "example": "The island's maritime heritage is preserved through authentic shipwreck exhibits.",
+          "paraphrase": "nautical history / seafaring legacy",
+          "collocation": "celebrate rich maritime heritage"
+        },
+        {
+          "id": "voc_lis_2_4",
+          "term": "marine sanctuary",
+          "type": "noun phrase",
+          "ipa": "/məˈriːn ˈsæŋk.tʃʊə.ri/",
+          "meaning": "Khu bảo tồn sinh vật biển nghiêm ngặt",
+          "example": "Bottlenose dolphins and fur seals thrive within the protected marine sanctuary.",
+          "paraphrase": "oceanic reserve / marine park",
+          "collocation": "establish a coastal marine sanctuary"
+        },
+        {
+          "id": "voc_lis_2_5",
+          "term": "archipelago",
+          "type": "noun",
+          "ipa": "/ˌɑː.kɪˈpel.ə.ɡəʊ/",
+          "meaning": "Quần đảo gồm nhiều hòn đảo nhỏ liền kề",
+          "example": "The archipelago contains dozens of uninhabited islets rich in nesting seabirds.",
+          "paraphrase": "island chain / cluster of islets",
+          "collocation": "sail across the remote archipelago"
+        },
+        {
+          "id": "voc_lis_2_6",
+          "term": "rocky promontory",
+          "type": "noun phrase",
+          "ipa": "/ˈrɒk.i ˈprɒm.ən.tri/",
+          "meaning": "Mũi đá nhô ra biển hiểm trở",
+          "example": "Seabirds build their nests on the steep cliffs of the rocky promontory.",
+          "paraphrase": "headland / coastal outcrop",
+          "collocation": "overlook the rocky promontory"
+        },
+        {
+          "id": "voc_lis_2_7",
+          "term": "tidal currents",
+          "type": "noun phrase",
+          "ipa": "/ˈtaɪ.dəl ˈkʌr.ənts/",
+          "meaning": "Các dòng hải lưu sinh ra do thủy triều",
+          "example": "Experienced skippers carefully navigate through the strong tidal currents of the bay.",
+          "paraphrase": "ocean surges / tidal flow",
+          "collocation": "navigate turbulent tidal currents"
+        },
+        {
+          "id": "voc_lis_2_8",
+          "term": "harbour master",
+          "type": "noun phrase",
+          "ipa": "/ˈhɑː.bər ˈmɑː.stər/",
+          "meaning": "Trưởng ban điều hành và quản lý cảng biển",
+          "example": "The harbour master verifies weather forecasts before authorizing tourist ferries.",
+          "paraphrase": "port captain / wharf superintendent",
+          "collocation": "consult the harbour master"
+        },
+        {
+          "id": "voc_lis_2_9",
+          "term": "offshore reef",
+          "type": "noun phrase",
+          "ipa": "/ˌɒfˈʃɔː riːf/",
+          "meaning": "Rạn san hô / dải đá ngầm ngoài khơi",
+          "example": "The offshore reef provides vital shelter for juvenile fish and marine invertebrates.",
+          "paraphrase": "barrier reef / submerged shoal",
+          "collocation": "snorkel around the offshore reef"
+        },
+        {
+          "id": "voc_lis_2_10",
+          "term": "binoculars",
+          "type": "noun",
+          "ipa": "/bɪˈnɒk.jə.ləz/",
+          "meaning": "Kính tiềm vọng, ống nhòm hai mắt",
+          "example": "Passengers were given binoculars to spot migrating humpback whales.",
+          "paraphrase": "field glasses / optical viewer",
+          "collocation": "bring high-powered binoculars"
+        }
+      ],
       "camSeries": "cam_17",
-      "camBadge": "Cambridge 17"
+      "camBadge": "Cambridge 17",
+      "testVocabulary": [
+        {
+          "id": "voc_lis_2_1",
+          "term": "scenic cruise",
+          "type": "noun phrase",
+          "ipa": "/ˈsiː.nɪk kruːz/",
+          "meaning": "Chuyến du thuyền ngắm phong cảnh tuyệt đẹp",
+          "example": "The scenic cruise sails past rugged promontories and offshore marine reserves.",
+          "paraphrase": "panoramic boat excursion / sightseeing voyage",
+          "collocation": "embark on a scenic cruise"
+        },
+        {
+          "id": "voc_lis_2_2",
+          "term": "ancient lighthouse",
+          "type": "noun phrase",
+          "ipa": "/ˈeɪn.ʃənt ˈlaɪt.haʊs/",
+          "meaning": "Ngọn hải đăng cổ kính ven biển",
+          "example": "The ancient lighthouse has warned mariners away from treacherous reefs for over a century.",
+          "paraphrase": "historic beacon tower / maritime beacon",
+          "collocation": "tour the ancient lighthouse"
+        },
+        {
+          "id": "voc_lis_2_3",
+          "term": "maritime heritage",
+          "type": "noun phrase",
+          "ipa": "/ˈmær.ɪ.taɪm ˈher.ɪ.tɪdʒ/",
+          "meaning": "Di sản lịch sử văn hóa hàng hải",
+          "example": "The island's maritime heritage is preserved through authentic shipwreck exhibits.",
+          "paraphrase": "nautical history / seafaring legacy",
+          "collocation": "celebrate rich maritime heritage"
+        },
+        {
+          "id": "voc_lis_2_4",
+          "term": "marine sanctuary",
+          "type": "noun phrase",
+          "ipa": "/məˈriːn ˈsæŋk.tʃʊə.ri/",
+          "meaning": "Khu bảo tồn sinh vật biển nghiêm ngặt",
+          "example": "Bottlenose dolphins and fur seals thrive within the protected marine sanctuary.",
+          "paraphrase": "oceanic reserve / marine park",
+          "collocation": "establish a coastal marine sanctuary"
+        },
+        {
+          "id": "voc_lis_2_5",
+          "term": "archipelago",
+          "type": "noun",
+          "ipa": "/ˌɑː.kɪˈpel.ə.ɡəʊ/",
+          "meaning": "Quần đảo gồm nhiều hòn đảo nhỏ liền kề",
+          "example": "The archipelago contains dozens of uninhabited islets rich in nesting seabirds.",
+          "paraphrase": "island chain / cluster of islets",
+          "collocation": "sail across the remote archipelago"
+        },
+        {
+          "id": "voc_lis_2_6",
+          "term": "rocky promontory",
+          "type": "noun phrase",
+          "ipa": "/ˈrɒk.i ˈprɒm.ən.tri/",
+          "meaning": "Mũi đá nhô ra biển hiểm trở",
+          "example": "Seabirds build their nests on the steep cliffs of the rocky promontory.",
+          "paraphrase": "headland / coastal outcrop",
+          "collocation": "overlook the rocky promontory"
+        },
+        {
+          "id": "voc_lis_2_7",
+          "term": "tidal currents",
+          "type": "noun phrase",
+          "ipa": "/ˈtaɪ.dəl ˈkʌr.ənts/",
+          "meaning": "Các dòng hải lưu sinh ra do thủy triều",
+          "example": "Experienced skippers carefully navigate through the strong tidal currents of the bay.",
+          "paraphrase": "ocean surges / tidal flow",
+          "collocation": "navigate turbulent tidal currents"
+        },
+        {
+          "id": "voc_lis_2_8",
+          "term": "harbour master",
+          "type": "noun phrase",
+          "ipa": "/ˈhɑː.bər ˈmɑː.stər/",
+          "meaning": "Trưởng ban điều hành và quản lý cảng biển",
+          "example": "The harbour master verifies weather forecasts before authorizing tourist ferries.",
+          "paraphrase": "port captain / wharf superintendent",
+          "collocation": "consult the harbour master"
+        },
+        {
+          "id": "voc_lis_2_9",
+          "term": "offshore reef",
+          "type": "noun phrase",
+          "ipa": "/ˌɒfˈʃɔː riːf/",
+          "meaning": "Rạn san hô / dải đá ngầm ngoài khơi",
+          "example": "The offshore reef provides vital shelter for juvenile fish and marine invertebrates.",
+          "paraphrase": "barrier reef / submerged shoal",
+          "collocation": "snorkel around the offshore reef"
+        },
+        {
+          "id": "voc_lis_2_10",
+          "term": "binoculars",
+          "type": "noun",
+          "ipa": "/bɪˈnɒk.jə.ləz/",
+          "meaning": "Kính tiềm vọng, ống nhòm hai mắt",
+          "example": "Passengers were given binoculars to spot migrating humpback whales.",
+          "paraphrase": "field glasses / optical viewer",
+          "collocation": "bring high-powered binoculars"
+        }
+      ],
+      "testVocabPractice": {
+        "flashcards": [
+          {
+            "front": "scenic cruise",
+            "back": "Chuyến du thuyền ngắm phong cảnh tuyệt đẹp\n\n• IPA: /ˈsiː.nɪk kruːz/\n• Ví dụ bài test: \"The scenic cruise sails past rugged promontories and offshore marine reserves.\"\n• Paraphrase: panoramic boat excursion / sightseeing voyage\n• Collocation: embark on a scenic cruise"
+          },
+          {
+            "front": "ancient lighthouse",
+            "back": "Ngọn hải đăng cổ kính ven biển\n\n• IPA: /ˈeɪn.ʃənt ˈlaɪt.haʊs/\n• Ví dụ bài test: \"The ancient lighthouse has warned mariners away from treacherous reefs for over a century.\"\n• Paraphrase: historic beacon tower / maritime beacon\n• Collocation: tour the ancient lighthouse"
+          },
+          {
+            "front": "maritime heritage",
+            "back": "Di sản lịch sử văn hóa hàng hải\n\n• IPA: /ˈmær.ɪ.taɪm ˈher.ɪ.tɪdʒ/\n• Ví dụ bài test: \"The island's maritime heritage is preserved through authentic shipwreck exhibits.\"\n• Paraphrase: nautical history / seafaring legacy\n• Collocation: celebrate rich maritime heritage"
+          },
+          {
+            "front": "marine sanctuary",
+            "back": "Khu bảo tồn sinh vật biển nghiêm ngặt\n\n• IPA: /məˈriːn ˈsæŋk.tʃʊə.ri/\n• Ví dụ bài test: \"Bottlenose dolphins and fur seals thrive within the protected marine sanctuary.\"\n• Paraphrase: oceanic reserve / marine park\n• Collocation: establish a coastal marine sanctuary"
+          },
+          {
+            "front": "archipelago",
+            "back": "Quần đảo gồm nhiều hòn đảo nhỏ liền kề\n\n• IPA: /ˌɑː.kɪˈpel.ə.ɡəʊ/\n• Ví dụ bài test: \"The archipelago contains dozens of uninhabited islets rich in nesting seabirds.\"\n• Paraphrase: island chain / cluster of islets\n• Collocation: sail across the remote archipelago"
+          },
+          {
+            "front": "rocky promontory",
+            "back": "Mũi đá nhô ra biển hiểm trở\n\n• IPA: /ˈrɒk.i ˈprɒm.ən.tri/\n• Ví dụ bài test: \"Seabirds build their nests on the steep cliffs of the rocky promontory.\"\n• Paraphrase: headland / coastal outcrop\n• Collocation: overlook the rocky promontory"
+          },
+          {
+            "front": "tidal currents",
+            "back": "Các dòng hải lưu sinh ra do thủy triều\n\n• IPA: /ˈtaɪ.dəl ˈkʌr.ənts/\n• Ví dụ bài test: \"Experienced skippers carefully navigate through the strong tidal currents of the bay.\"\n• Paraphrase: ocean surges / tidal flow\n• Collocation: navigate turbulent tidal currents"
+          },
+          {
+            "front": "harbour master",
+            "back": "Trưởng ban điều hành và quản lý cảng biển\n\n• IPA: /ˈhɑː.bər ˈmɑː.stər/\n• Ví dụ bài test: \"The harbour master verifies weather forecasts before authorizing tourist ferries.\"\n• Paraphrase: port captain / wharf superintendent\n• Collocation: consult the harbour master"
+          },
+          {
+            "front": "offshore reef",
+            "back": "Rạn san hô / dải đá ngầm ngoài khơi\n\n• IPA: /ˌɒfˈʃɔː riːf/\n• Ví dụ bài test: \"The offshore reef provides vital shelter for juvenile fish and marine invertebrates.\"\n• Paraphrase: barrier reef / submerged shoal\n• Collocation: snorkel around the offshore reef"
+          },
+          {
+            "front": "binoculars",
+            "back": "Kính tiềm vọng, ống nhòm hai mắt\n\n• IPA: /bɪˈnɒk.jə.ləz/\n• Ví dụ bài test: \"Passengers were given binoculars to spot migrating humpback whales.\"\n• Paraphrase: field glasses / optical viewer\n• Collocation: bring high-powered binoculars"
+          }
+        ],
+        "matching": [
+          {
+            "pairId": 1,
+            "left": "scenic cruise",
+            "right": "Chuyến du thuyền ngắm phong cảnh tuyệt đẹp"
+          },
+          {
+            "pairId": 2,
+            "left": "ancient lighthouse",
+            "right": "Ngọn hải đăng cổ kính ven biển"
+          },
+          {
+            "pairId": 3,
+            "left": "maritime heritage",
+            "right": "Di sản lịch sử văn hóa hàng hải"
+          },
+          {
+            "pairId": 4,
+            "left": "marine sanctuary",
+            "right": "Khu bảo tồn sinh vật biển nghiêm ngặt"
+          },
+          {
+            "pairId": 5,
+            "left": "archipelago",
+            "right": "Quần đảo gồm nhiều hòn đảo nhỏ liền kề"
+          },
+          {
+            "pairId": 6,
+            "left": "rocky promontory",
+            "right": "Mũi đá nhô ra biển hiểm trở"
+          },
+          {
+            "pairId": 7,
+            "left": "tidal currents",
+            "right": "Các dòng hải lưu sinh ra do thủy triều"
+          },
+          {
+            "pairId": 8,
+            "left": "harbour master",
+            "right": "Trưởng ban điều hành và quản lý cảng biển"
+          },
+          {
+            "pairId": 9,
+            "left": "offshore reef",
+            "right": "Rạn san hô / dải đá ngầm ngoài khơi"
+          },
+          {
+            "pairId": 10,
+            "left": "binoculars",
+            "right": "Kính tiềm vọng, ống nhòm hai mắt"
+          }
+        ],
+        "quiz": [
+          {
+            "id": "qz_lis_test_2_1",
+            "question": "Trong ngữ cảnh bài thi này, cụm từ 'scenic cruise' (noun phrase) mang ý nghĩa chuẩn xác nhất là gì?",
+            "options": [
+              "Chuyến du thuyền ngắm phong cảnh tuyệt đẹp",
+              "Hiện tượng biến đổi khí hậu bất thường",
+              "Thuật ngữ chỉ chi phí hành chính và giấy phép",
+              "Mô hình nghiên cứu lý thuyết chưa được áp dụng"
+            ],
+            "correct": 0,
+            "explanation": "'scenic cruise' (/ˈsiː.nɪk kruːz/) có nghĩa là: Chuyến du thuyền ngắm phong cảnh tuyệt đẹp. Ví dụ trích xuất: \"The scenic cruise sails past rugged promontories and offshore marine reserves.\""
+          },
+          {
+            "id": "qz_lis_test_2_2",
+            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'ancient lighthouse' là gì?",
+            "options": [
+              "deviate from arbitrary figures",
+              "tour the ancient lighthouse",
+              "contradict empirical survey findings",
+              "dismiss foundational historical accounts"
+            ],
+            "correct": 1,
+            "explanation": "Collocation chuẩn xác trong đề thi IELTS là: 'tour the ancient lighthouse'. Ý nghĩa: Ngọn hải đăng cổ kính ven biển."
+          },
+          {
+            "id": "qz_lis_test_2_3",
+            "question": "Từ hoặc cụm từ nào sau đây có thể dùng để Paraphrase (diễn giải tương đương) cho 'maritime heritage'?",
+            "options": [
+              "spurious assertions / unfounded allegations",
+              "marginal fluctuations in monetary value",
+              "nautical history / seafaring legacy",
+              "temporary administrative sanctions"
+            ],
+            "correct": 2,
+            "explanation": "Từ đồng nghĩa / Paraphrase thường gặp trong IELTS: 'maritime heritage' tương đương với 'nautical history / seafaring legacy'."
+          },
+          {
+            "id": "qz_lis_test_2_4",
+            "question": "Điền từ thích hợp vào chỗ trống: \"Bottlenose dolphins and fur seals thrive within the protected __________.\"",
+            "options": [
+              "arbitrary hypothesis",
+              "superficial discrepancy",
+              "marine sanctuary",
+              "disproportionate allocation"
+            ],
+            "correct": 2,
+            "explanation": "Đáp án đúng là 'marine sanctuary'. Câu hoàn chỉnh: \"Bottlenose dolphins and fur seals thrive within the protected marine sanctuary.\""
+          }
+        ]
+      }
     },
     {
       "id": "lis_test_3",
@@ -497,9 +1195,358 @@ var IELTS_BANK_100 = {
           "explanation": "Diana dự định sẽ học chuyên sâu hơn về mảng thuốc chữa trị động vật hoang dã (C)."
         }
       ],
-      "vocabulary": [],
+      "vocabulary": [
+        {
+          "id": "voc_lis_3_1",
+          "term": "veterinary science",
+          "type": "noun phrase",
+          "ipa": "/ˈvet.ər.ɪ.nər.i ˈsaɪ.əns/",
+          "meaning": "Ngành khoa học thú y chuyên sâu",
+          "example": "Undergraduates in veterinary science require substantial clinical placement hours.",
+          "paraphrase": "animal medicine / veterinary medicine",
+          "collocation": "pursue a degree in veterinary science"
+        },
+        {
+          "id": "voc_lis_3_2",
+          "term": "clinical placement",
+          "type": "noun phrase",
+          "ipa": "/ˈklɪn.ɪ.kəl ˈpleɪs.mənt/",
+          "meaning": "Kỳ thực tập lâm sàng tại phòng khám / bệnh viện",
+          "example": "Completing a clinical placement at an animal sanctuary sharpens diagnostic intuition.",
+          "paraphrase": "hospital internship / practical clerkship",
+          "collocation": "undertake a hands-on clinical placement"
+        },
+        {
+          "id": "voc_lis_3_3",
+          "term": "animal husbandry",
+          "type": "noun phrase",
+          "ipa": "/ˈæn.ɪ.məl ˈhʌz.bən.dri/",
+          "meaning": "Kỹ thuật chăn nuôi và chăm sóc gia súc chuyên nghiệp",
+          "example": "Sound knowledge of animal husbandry prevents nutritional deficiencies in livestock.",
+          "paraphrase": "livestock farming / animal rearing",
+          "collocation": "practice ethical animal husbandry"
+        },
+        {
+          "id": "voc_lis_3_4",
+          "term": "diagnostic procedure",
+          "type": "noun phrase",
+          "ipa": "/ˌdaɪ.əɡˈnɒs.tɪk prəˈsiː.dʒər/",
+          "meaning": "Quy trình xét nghiệm chẩn đoán bệnh",
+          "example": "The veterinarian performed a routine diagnostic procedure to identify the infection.",
+          "paraphrase": "diagnostic test / medical assessment",
+          "collocation": "conduct an accurate diagnostic procedure"
+        },
+        {
+          "id": "voc_lis_3_5",
+          "term": "pathology laboratory",
+          "type": "noun phrase",
+          "ipa": "/pəˈθɒl.ə.dʒi ləˈbɒr.ə.tər.i/",
+          "meaning": "Phòng thí nghiệm xét nghiệm bệnh học",
+          "example": "Blood samples were dispatched promptly to the pathology laboratory for biopsy.",
+          "paraphrase": "diagnostic lab / testing facility",
+          "collocation": "analyze specimens in the pathology laboratory"
+        },
+        {
+          "id": "voc_lis_3_6",
+          "term": "quarantine protocol",
+          "type": "noun phrase",
+          "ipa": "/ˈkwɒr.ən.tiːn ˈprəʊ.tə.kɒl/",
+          "meaning": "Quy trình kiểm dịch và cách ly phòng ngừa dịch bệnh",
+          "example": "Strict quarantine protocols are enforced to contain the spread of infectious pathogens.",
+          "paraphrase": "isolation procedure / sanitary cordon",
+          "collocation": "comply with rigorous quarantine protocols"
+        },
+        {
+          "id": "voc_lis_3_7",
+          "term": "zoonotic infection",
+          "type": "noun phrase",
+          "ipa": "/ˌzəʊ.əˈnɒt.ɪk ɪnˈfek.ʃən/",
+          "meaning": "Bệnh truyền nhiễm từ động vật lây sang người",
+          "example": "Protective equipment shields veterinary personnel from contracting zoonotic infections.",
+          "paraphrase": "animal-to-human disease / zoonosis",
+          "collocation": "prevent the transmission of zoonotic infections"
+        },
+        {
+          "id": "voc_lis_3_8",
+          "term": "surgical assistance",
+          "type": "noun phrase",
+          "ipa": "/ˈsɜː.dʒɪ.kəl əˈsɪs.təns/",
+          "meaning": "Nhiệm vụ phụ tá phòng mổ và sát trùng dụng cụ",
+          "example": "Final-year students provided surgical assistance during complex orthopaedic operations.",
+          "paraphrase": "operative support / theatre assisting",
+          "collocation": "provide competent surgical assistance"
+        },
+        {
+          "id": "voc_lis_3_9",
+          "term": "hands-on experience",
+          "type": "noun phrase",
+          "ipa": "/ˌhændzˈɒn ɪkˈspɪə.ri.əns/",
+          "meaning": "Kinh nghiệm thực tế, thực hành bằng tay",
+          "example": "Working directly on farms gives interns invaluable hands-on experience with horses.",
+          "paraphrase": "practical training / empirical skill",
+          "collocation": "gain invaluable hands-on experience"
+        },
+        {
+          "id": "voc_lis_3_10",
+          "term": "rehabilitation centre",
+          "type": "noun phrase",
+          "ipa": "/ˌriː.həˌbɪl.ɪˈteɪ.ʃən ˈsen.tər/",
+          "meaning": "Trung tâm cứu hộ và phục hồi chức năng động vật",
+          "example": "Injured wildlife are treated and nursed back to health at the regional rehabilitation centre.",
+          "paraphrase": "wildlife recovery clinic / sanctuary",
+          "collocation": "release recovered animals from the rehabilitation centre"
+        }
+      ],
       "camSeries": "cam_17",
-      "camBadge": "Cambridge 17"
+      "camBadge": "Cambridge 17",
+      "testVocabulary": [
+        {
+          "id": "voc_lis_3_1",
+          "term": "veterinary science",
+          "type": "noun phrase",
+          "ipa": "/ˈvet.ər.ɪ.nər.i ˈsaɪ.əns/",
+          "meaning": "Ngành khoa học thú y chuyên sâu",
+          "example": "Undergraduates in veterinary science require substantial clinical placement hours.",
+          "paraphrase": "animal medicine / veterinary medicine",
+          "collocation": "pursue a degree in veterinary science"
+        },
+        {
+          "id": "voc_lis_3_2",
+          "term": "clinical placement",
+          "type": "noun phrase",
+          "ipa": "/ˈklɪn.ɪ.kəl ˈpleɪs.mənt/",
+          "meaning": "Kỳ thực tập lâm sàng tại phòng khám / bệnh viện",
+          "example": "Completing a clinical placement at an animal sanctuary sharpens diagnostic intuition.",
+          "paraphrase": "hospital internship / practical clerkship",
+          "collocation": "undertake a hands-on clinical placement"
+        },
+        {
+          "id": "voc_lis_3_3",
+          "term": "animal husbandry",
+          "type": "noun phrase",
+          "ipa": "/ˈæn.ɪ.məl ˈhʌz.bən.dri/",
+          "meaning": "Kỹ thuật chăn nuôi và chăm sóc gia súc chuyên nghiệp",
+          "example": "Sound knowledge of animal husbandry prevents nutritional deficiencies in livestock.",
+          "paraphrase": "livestock farming / animal rearing",
+          "collocation": "practice ethical animal husbandry"
+        },
+        {
+          "id": "voc_lis_3_4",
+          "term": "diagnostic procedure",
+          "type": "noun phrase",
+          "ipa": "/ˌdaɪ.əɡˈnɒs.tɪk prəˈsiː.dʒər/",
+          "meaning": "Quy trình xét nghiệm chẩn đoán bệnh",
+          "example": "The veterinarian performed a routine diagnostic procedure to identify the infection.",
+          "paraphrase": "diagnostic test / medical assessment",
+          "collocation": "conduct an accurate diagnostic procedure"
+        },
+        {
+          "id": "voc_lis_3_5",
+          "term": "pathology laboratory",
+          "type": "noun phrase",
+          "ipa": "/pəˈθɒl.ə.dʒi ləˈbɒr.ə.tər.i/",
+          "meaning": "Phòng thí nghiệm xét nghiệm bệnh học",
+          "example": "Blood samples were dispatched promptly to the pathology laboratory for biopsy.",
+          "paraphrase": "diagnostic lab / testing facility",
+          "collocation": "analyze specimens in the pathology laboratory"
+        },
+        {
+          "id": "voc_lis_3_6",
+          "term": "quarantine protocol",
+          "type": "noun phrase",
+          "ipa": "/ˈkwɒr.ən.tiːn ˈprəʊ.tə.kɒl/",
+          "meaning": "Quy trình kiểm dịch và cách ly phòng ngừa dịch bệnh",
+          "example": "Strict quarantine protocols are enforced to contain the spread of infectious pathogens.",
+          "paraphrase": "isolation procedure / sanitary cordon",
+          "collocation": "comply with rigorous quarantine protocols"
+        },
+        {
+          "id": "voc_lis_3_7",
+          "term": "zoonotic infection",
+          "type": "noun phrase",
+          "ipa": "/ˌzəʊ.əˈnɒt.ɪk ɪnˈfek.ʃən/",
+          "meaning": "Bệnh truyền nhiễm từ động vật lây sang người",
+          "example": "Protective equipment shields veterinary personnel from contracting zoonotic infections.",
+          "paraphrase": "animal-to-human disease / zoonosis",
+          "collocation": "prevent the transmission of zoonotic infections"
+        },
+        {
+          "id": "voc_lis_3_8",
+          "term": "surgical assistance",
+          "type": "noun phrase",
+          "ipa": "/ˈsɜː.dʒɪ.kəl əˈsɪs.təns/",
+          "meaning": "Nhiệm vụ phụ tá phòng mổ và sát trùng dụng cụ",
+          "example": "Final-year students provided surgical assistance during complex orthopaedic operations.",
+          "paraphrase": "operative support / theatre assisting",
+          "collocation": "provide competent surgical assistance"
+        },
+        {
+          "id": "voc_lis_3_9",
+          "term": "hands-on experience",
+          "type": "noun phrase",
+          "ipa": "/ˌhændzˈɒn ɪkˈspɪə.ri.əns/",
+          "meaning": "Kinh nghiệm thực tế, thực hành bằng tay",
+          "example": "Working directly on farms gives interns invaluable hands-on experience with horses.",
+          "paraphrase": "practical training / empirical skill",
+          "collocation": "gain invaluable hands-on experience"
+        },
+        {
+          "id": "voc_lis_3_10",
+          "term": "rehabilitation centre",
+          "type": "noun phrase",
+          "ipa": "/ˌriː.həˌbɪl.ɪˈteɪ.ʃən ˈsen.tər/",
+          "meaning": "Trung tâm cứu hộ và phục hồi chức năng động vật",
+          "example": "Injured wildlife are treated and nursed back to health at the regional rehabilitation centre.",
+          "paraphrase": "wildlife recovery clinic / sanctuary",
+          "collocation": "release recovered animals from the rehabilitation centre"
+        }
+      ],
+      "testVocabPractice": {
+        "flashcards": [
+          {
+            "front": "veterinary science",
+            "back": "Ngành khoa học thú y chuyên sâu\n\n• IPA: /ˈvet.ər.ɪ.nər.i ˈsaɪ.əns/\n• Ví dụ bài test: \"Undergraduates in veterinary science require substantial clinical placement hours.\"\n• Paraphrase: animal medicine / veterinary medicine\n• Collocation: pursue a degree in veterinary science"
+          },
+          {
+            "front": "clinical placement",
+            "back": "Kỳ thực tập lâm sàng tại phòng khám / bệnh viện\n\n• IPA: /ˈklɪn.ɪ.kəl ˈpleɪs.mənt/\n• Ví dụ bài test: \"Completing a clinical placement at an animal sanctuary sharpens diagnostic intuition.\"\n• Paraphrase: hospital internship / practical clerkship\n• Collocation: undertake a hands-on clinical placement"
+          },
+          {
+            "front": "animal husbandry",
+            "back": "Kỹ thuật chăn nuôi và chăm sóc gia súc chuyên nghiệp\n\n• IPA: /ˈæn.ɪ.məl ˈhʌz.bən.dri/\n• Ví dụ bài test: \"Sound knowledge of animal husbandry prevents nutritional deficiencies in livestock.\"\n• Paraphrase: livestock farming / animal rearing\n• Collocation: practice ethical animal husbandry"
+          },
+          {
+            "front": "diagnostic procedure",
+            "back": "Quy trình xét nghiệm chẩn đoán bệnh\n\n• IPA: /ˌdaɪ.əɡˈnɒs.tɪk prəˈsiː.dʒər/\n• Ví dụ bài test: \"The veterinarian performed a routine diagnostic procedure to identify the infection.\"\n• Paraphrase: diagnostic test / medical assessment\n• Collocation: conduct an accurate diagnostic procedure"
+          },
+          {
+            "front": "pathology laboratory",
+            "back": "Phòng thí nghiệm xét nghiệm bệnh học\n\n• IPA: /pəˈθɒl.ə.dʒi ləˈbɒr.ə.tər.i/\n• Ví dụ bài test: \"Blood samples were dispatched promptly to the pathology laboratory for biopsy.\"\n• Paraphrase: diagnostic lab / testing facility\n• Collocation: analyze specimens in the pathology laboratory"
+          },
+          {
+            "front": "quarantine protocol",
+            "back": "Quy trình kiểm dịch và cách ly phòng ngừa dịch bệnh\n\n• IPA: /ˈkwɒr.ən.tiːn ˈprəʊ.tə.kɒl/\n• Ví dụ bài test: \"Strict quarantine protocols are enforced to contain the spread of infectious pathogens.\"\n• Paraphrase: isolation procedure / sanitary cordon\n• Collocation: comply with rigorous quarantine protocols"
+          },
+          {
+            "front": "zoonotic infection",
+            "back": "Bệnh truyền nhiễm từ động vật lây sang người\n\n• IPA: /ˌzəʊ.əˈnɒt.ɪk ɪnˈfek.ʃən/\n• Ví dụ bài test: \"Protective equipment shields veterinary personnel from contracting zoonotic infections.\"\n• Paraphrase: animal-to-human disease / zoonosis\n• Collocation: prevent the transmission of zoonotic infections"
+          },
+          {
+            "front": "surgical assistance",
+            "back": "Nhiệm vụ phụ tá phòng mổ và sát trùng dụng cụ\n\n• IPA: /ˈsɜː.dʒɪ.kəl əˈsɪs.təns/\n• Ví dụ bài test: \"Final-year students provided surgical assistance during complex orthopaedic operations.\"\n• Paraphrase: operative support / theatre assisting\n• Collocation: provide competent surgical assistance"
+          },
+          {
+            "front": "hands-on experience",
+            "back": "Kinh nghiệm thực tế, thực hành bằng tay\n\n• IPA: /ˌhændzˈɒn ɪkˈspɪə.ri.əns/\n• Ví dụ bài test: \"Working directly on farms gives interns invaluable hands-on experience with horses.\"\n• Paraphrase: practical training / empirical skill\n• Collocation: gain invaluable hands-on experience"
+          },
+          {
+            "front": "rehabilitation centre",
+            "back": "Trung tâm cứu hộ và phục hồi chức năng động vật\n\n• IPA: /ˌriː.həˌbɪl.ɪˈteɪ.ʃən ˈsen.tər/\n• Ví dụ bài test: \"Injured wildlife are treated and nursed back to health at the regional rehabilitation centre.\"\n• Paraphrase: wildlife recovery clinic / sanctuary\n• Collocation: release recovered animals from the rehabilitation centre"
+          }
+        ],
+        "matching": [
+          {
+            "pairId": 1,
+            "left": "veterinary science",
+            "right": "Ngành khoa học thú y chuyên sâu"
+          },
+          {
+            "pairId": 2,
+            "left": "clinical placement",
+            "right": "Kỳ thực tập lâm sàng tại phòng khám / bệnh viện"
+          },
+          {
+            "pairId": 3,
+            "left": "animal husbandry",
+            "right": "Kỹ thuật chăn nuôi và chăm sóc gia súc chuyên nghiệp"
+          },
+          {
+            "pairId": 4,
+            "left": "diagnostic procedure",
+            "right": "Quy trình xét nghiệm chẩn đoán bệnh"
+          },
+          {
+            "pairId": 5,
+            "left": "pathology laboratory",
+            "right": "Phòng thí nghiệm xét nghiệm bệnh học"
+          },
+          {
+            "pairId": 6,
+            "left": "quarantine protocol",
+            "right": "Quy trình kiểm dịch và cách ly phòng ngừa dịch bệnh"
+          },
+          {
+            "pairId": 7,
+            "left": "zoonotic infection",
+            "right": "Bệnh truyền nhiễm từ động vật lây sang người"
+          },
+          {
+            "pairId": 8,
+            "left": "surgical assistance",
+            "right": "Nhiệm vụ phụ tá phòng mổ và sát trùng dụng cụ"
+          },
+          {
+            "pairId": 9,
+            "left": "hands-on experience",
+            "right": "Kinh nghiệm thực tế, thực hành bằng tay"
+          },
+          {
+            "pairId": 10,
+            "left": "rehabilitation centre",
+            "right": "Trung tâm cứu hộ và phục hồi chức năng động vật"
+          }
+        ],
+        "quiz": [
+          {
+            "id": "qz_lis_test_3_1",
+            "question": "Trong ngữ cảnh bài thi này, cụm từ 'veterinary science' (noun phrase) mang ý nghĩa chuẩn xác nhất là gì?",
+            "options": [
+              "Ngành khoa học thú y chuyên sâu",
+              "Hiện tượng biến đổi khí hậu bất thường",
+              "Thuật ngữ chỉ chi phí hành chính và giấy phép",
+              "Mô hình nghiên cứu lý thuyết chưa được áp dụng"
+            ],
+            "correct": 0,
+            "explanation": "'veterinary science' (/ˈvet.ər.ɪ.nər.i ˈsaɪ.əns/) có nghĩa là: Ngành khoa học thú y chuyên sâu. Ví dụ trích xuất: \"Undergraduates in veterinary science require substantial clinical placement hours.\""
+          },
+          {
+            "id": "qz_lis_test_3_2",
+            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'clinical placement' là gì?",
+            "options": [
+              "deviate from arbitrary figures",
+              "undertake a hands-on clinical placement",
+              "contradict empirical survey findings",
+              "dismiss foundational historical accounts"
+            ],
+            "correct": 1,
+            "explanation": "Collocation chuẩn xác trong đề thi IELTS là: 'undertake a hands-on clinical placement'. Ý nghĩa: Kỳ thực tập lâm sàng tại phòng khám / bệnh viện."
+          },
+          {
+            "id": "qz_lis_test_3_3",
+            "question": "Từ hoặc cụm từ nào sau đây có thể dùng để Paraphrase (diễn giải tương đương) cho 'animal husbandry'?",
+            "options": [
+              "spurious assertions / unfounded allegations",
+              "marginal fluctuations in monetary value",
+              "livestock farming / animal rearing",
+              "temporary administrative sanctions"
+            ],
+            "correct": 2,
+            "explanation": "Từ đồng nghĩa / Paraphrase thường gặp trong IELTS: 'animal husbandry' tương đương với 'livestock farming / animal rearing'."
+          },
+          {
+            "id": "qz_lis_test_3_4",
+            "question": "Điền từ thích hợp vào chỗ trống: \"The veterinarian performed a routine __________ to identify the infection.\"",
+            "options": [
+              "arbitrary hypothesis",
+              "superficial discrepancy",
+              "diagnostic procedure",
+              "disproportionate allocation"
+            ],
+            "correct": 2,
+            "explanation": "Đáp án đúng là 'diagnostic procedure'. Câu hoàn chỉnh: \"The veterinarian performed a routine diagnostic procedure to identify the infection.\""
+          }
+        ]
+      }
     },
     {
       "id": "lis_test_4",
@@ -623,9 +1670,358 @@ var IELTS_BANK_100 = {
           "explanation": "Bệnh nhân Alzheimer giảm bớt cảm giác lo âu, bồn chồn: 'anxiety'."
         }
       ],
-      "vocabulary": [],
+      "vocabulary": [
+        {
+          "id": "voc_lis_4_1",
+          "term": "labyrinth",
+          "type": "noun",
+          "ipa": "/ˈlæb.ə.rɪnθ/",
+          "meaning": "Mê cung đơn tuyến dùng cho mục đích thiền định",
+          "example": "Unlike a confusing maze with dead ends, a classical labyrinth has a single unicursal path.",
+          "paraphrase": "unicursal circuit / meditative maze",
+          "collocation": "walk the contemplative labyrinth"
+        },
+        {
+          "id": "voc_lis_4_2",
+          "term": "maze navigation",
+          "type": "noun phrase",
+          "ipa": "/meɪz ˌnæv.ɪˈɡeɪ.ʃən/",
+          "meaning": "Kỹ năng tìm đường vượt qua mê cung phân nhánh",
+          "example": "Researchers study maze navigation in mice to decode cognitive mapping in the brain.",
+          "paraphrase": "wayfinding / route orientation",
+          "collocation": "master spatial maze navigation"
+        },
+        {
+          "id": "voc_lis_4_3",
+          "term": "therapeutic benefit",
+          "type": "noun phrase",
+          "ipa": "/ˌθer.əˈpjuː.tɪk ˈben.ɪ.fɪt/",
+          "meaning": "Lợi ích trị liệu, chữa lành tâm lý và thể chất",
+          "example": "Walking along spiral paths confers measurable therapeutic benefits by lowering heart rate.",
+          "paraphrase": "healing effect / restorative outcome",
+          "collocation": "yield documented therapeutic benefits"
+        },
+        {
+          "id": "voc_lis_4_4",
+          "term": "mindfulness practice",
+          "type": "noun phrase",
+          "ipa": "/ˈmaɪnd.fəl.nəs ˈpræk.tɪs/",
+          "meaning": "Phương pháp rèn luyện chánh niệm và sự tĩnh tâm",
+          "example": "Labyrinths are frequently incorporated into modern mindfulness practice in wellness hospitals.",
+          "paraphrase": "meditative discipline / awareness cultivation",
+          "collocation": "engage in daily mindfulness practice"
+        },
+        {
+          "id": "voc_lis_4_5",
+          "term": "sacred geometry",
+          "type": "noun phrase",
+          "ipa": "/ˈseɪ.krɪd dʒiˈɒm.ə.tri/",
+          "meaning": "Hình học tâm linh mang ý nghĩa triết học cổ đại",
+          "example": "The floor design of Chartres Cathedral reflects the golden ratio and sacred geometry.",
+          "paraphrase": "spiritual proportions / harmonic layout",
+          "collocation": "construct designs rooted in sacred geometry"
+        },
+        {
+          "id": "voc_lis_4_6",
+          "term": "stress reduction",
+          "type": "noun phrase",
+          "ipa": "/stres rɪˈdʌk.ʃən/",
+          "meaning": "Sự thuyên giảm căng thẳng thần kinh và âu lo",
+          "example": "Slow, rhythmic pacing through a garden labyrinth promotes immediate stress reduction.",
+          "paraphrase": "anxiety relief / tension alleviation",
+          "collocation": "facilitate profound stress reduction"
+        },
+        {
+          "id": "voc_lis_4_7",
+          "term": "concentric circles",
+          "type": "noun phrase",
+          "ipa": "/kənˈsen.trɪk ˈsɜː.kəlz/",
+          "meaning": "Các vòng tròn đồng tâm xoay quanh một tâm điểm",
+          "example": "The prehistoric stone carving featured eleven concentric circles winding toward the core.",
+          "paraphrase": "nested rings / coaxial orbits",
+          "collocation": "arrange cobblestones in concentric circles"
+        },
+        {
+          "id": "voc_lis_4_8",
+          "term": "ancient pavement",
+          "type": "noun phrase",
+          "ipa": "/ˈeɪn.ʃənt ˈpeɪv.mənt/",
+          "meaning": "Mặt đá lát nền cổ kính từ hàng trăm năm trước",
+          "example": "The medieval labyrinth was inlaid directly into the stone of the cathedral's ancient pavement.",
+          "paraphrase": "historic flagstone floor / antique paving",
+          "collocation": "inlay patterns into ancient pavement"
+        },
+        {
+          "id": "voc_lis_4_9",
+          "term": "cognitive focus",
+          "type": "noun phrase",
+          "ipa": "/ˈkɒɡ.nə.tɪv ˈfəʊ.kəs/",
+          "meaning": "Khả năng tập trung nhận thức và trí tuệ",
+          "example": "Sustained walking meditation helps ADHD patients regain calm cognitive focus.",
+          "paraphrase": "mental concentration / attentional clarity",
+          "collocation": "enhance sustained cognitive focus"
+        },
+        {
+          "id": "voc_lis_4_10",
+          "term": "symbolic journey",
+          "type": "noun phrase",
+          "ipa": "/sɪmˈbɒl.ɪk ˈdʒɜː.ni/",
+          "meaning": "Hành trình mang tính biểu tượng tượng trưng cho cuộc đời",
+          "example": "For pilgrims, the journey to the center of the labyrinth represents a symbolic journey of rebirth.",
+          "paraphrase": "allegorical pilgrimage / metaphorical voyage",
+          "collocation": "undertake an introspective symbolic journey"
+        }
+      ],
       "camSeries": "cam_17",
-      "camBadge": "Cambridge 17"
+      "camBadge": "Cambridge 17",
+      "testVocabulary": [
+        {
+          "id": "voc_lis_4_1",
+          "term": "labyrinth",
+          "type": "noun",
+          "ipa": "/ˈlæb.ə.rɪnθ/",
+          "meaning": "Mê cung đơn tuyến dùng cho mục đích thiền định",
+          "example": "Unlike a confusing maze with dead ends, a classical labyrinth has a single unicursal path.",
+          "paraphrase": "unicursal circuit / meditative maze",
+          "collocation": "walk the contemplative labyrinth"
+        },
+        {
+          "id": "voc_lis_4_2",
+          "term": "maze navigation",
+          "type": "noun phrase",
+          "ipa": "/meɪz ˌnæv.ɪˈɡeɪ.ʃən/",
+          "meaning": "Kỹ năng tìm đường vượt qua mê cung phân nhánh",
+          "example": "Researchers study maze navigation in mice to decode cognitive mapping in the brain.",
+          "paraphrase": "wayfinding / route orientation",
+          "collocation": "master spatial maze navigation"
+        },
+        {
+          "id": "voc_lis_4_3",
+          "term": "therapeutic benefit",
+          "type": "noun phrase",
+          "ipa": "/ˌθer.əˈpjuː.tɪk ˈben.ɪ.fɪt/",
+          "meaning": "Lợi ích trị liệu, chữa lành tâm lý và thể chất",
+          "example": "Walking along spiral paths confers measurable therapeutic benefits by lowering heart rate.",
+          "paraphrase": "healing effect / restorative outcome",
+          "collocation": "yield documented therapeutic benefits"
+        },
+        {
+          "id": "voc_lis_4_4",
+          "term": "mindfulness practice",
+          "type": "noun phrase",
+          "ipa": "/ˈmaɪnd.fəl.nəs ˈpræk.tɪs/",
+          "meaning": "Phương pháp rèn luyện chánh niệm và sự tĩnh tâm",
+          "example": "Labyrinths are frequently incorporated into modern mindfulness practice in wellness hospitals.",
+          "paraphrase": "meditative discipline / awareness cultivation",
+          "collocation": "engage in daily mindfulness practice"
+        },
+        {
+          "id": "voc_lis_4_5",
+          "term": "sacred geometry",
+          "type": "noun phrase",
+          "ipa": "/ˈseɪ.krɪd dʒiˈɒm.ə.tri/",
+          "meaning": "Hình học tâm linh mang ý nghĩa triết học cổ đại",
+          "example": "The floor design of Chartres Cathedral reflects the golden ratio and sacred geometry.",
+          "paraphrase": "spiritual proportions / harmonic layout",
+          "collocation": "construct designs rooted in sacred geometry"
+        },
+        {
+          "id": "voc_lis_4_6",
+          "term": "stress reduction",
+          "type": "noun phrase",
+          "ipa": "/stres rɪˈdʌk.ʃən/",
+          "meaning": "Sự thuyên giảm căng thẳng thần kinh và âu lo",
+          "example": "Slow, rhythmic pacing through a garden labyrinth promotes immediate stress reduction.",
+          "paraphrase": "anxiety relief / tension alleviation",
+          "collocation": "facilitate profound stress reduction"
+        },
+        {
+          "id": "voc_lis_4_7",
+          "term": "concentric circles",
+          "type": "noun phrase",
+          "ipa": "/kənˈsen.trɪk ˈsɜː.kəlz/",
+          "meaning": "Các vòng tròn đồng tâm xoay quanh một tâm điểm",
+          "example": "The prehistoric stone carving featured eleven concentric circles winding toward the core.",
+          "paraphrase": "nested rings / coaxial orbits",
+          "collocation": "arrange cobblestones in concentric circles"
+        },
+        {
+          "id": "voc_lis_4_8",
+          "term": "ancient pavement",
+          "type": "noun phrase",
+          "ipa": "/ˈeɪn.ʃənt ˈpeɪv.mənt/",
+          "meaning": "Mặt đá lát nền cổ kính từ hàng trăm năm trước",
+          "example": "The medieval labyrinth was inlaid directly into the stone of the cathedral's ancient pavement.",
+          "paraphrase": "historic flagstone floor / antique paving",
+          "collocation": "inlay patterns into ancient pavement"
+        },
+        {
+          "id": "voc_lis_4_9",
+          "term": "cognitive focus",
+          "type": "noun phrase",
+          "ipa": "/ˈkɒɡ.nə.tɪv ˈfəʊ.kəs/",
+          "meaning": "Khả năng tập trung nhận thức và trí tuệ",
+          "example": "Sustained walking meditation helps ADHD patients regain calm cognitive focus.",
+          "paraphrase": "mental concentration / attentional clarity",
+          "collocation": "enhance sustained cognitive focus"
+        },
+        {
+          "id": "voc_lis_4_10",
+          "term": "symbolic journey",
+          "type": "noun phrase",
+          "ipa": "/sɪmˈbɒl.ɪk ˈdʒɜː.ni/",
+          "meaning": "Hành trình mang tính biểu tượng tượng trưng cho cuộc đời",
+          "example": "For pilgrims, the journey to the center of the labyrinth represents a symbolic journey of rebirth.",
+          "paraphrase": "allegorical pilgrimage / metaphorical voyage",
+          "collocation": "undertake an introspective symbolic journey"
+        }
+      ],
+      "testVocabPractice": {
+        "flashcards": [
+          {
+            "front": "labyrinth",
+            "back": "Mê cung đơn tuyến dùng cho mục đích thiền định\n\n• IPA: /ˈlæb.ə.rɪnθ/\n• Ví dụ bài test: \"Unlike a confusing maze with dead ends, a classical labyrinth has a single unicursal path.\"\n• Paraphrase: unicursal circuit / meditative maze\n• Collocation: walk the contemplative labyrinth"
+          },
+          {
+            "front": "maze navigation",
+            "back": "Kỹ năng tìm đường vượt qua mê cung phân nhánh\n\n• IPA: /meɪz ˌnæv.ɪˈɡeɪ.ʃən/\n• Ví dụ bài test: \"Researchers study maze navigation in mice to decode cognitive mapping in the brain.\"\n• Paraphrase: wayfinding / route orientation\n• Collocation: master spatial maze navigation"
+          },
+          {
+            "front": "therapeutic benefit",
+            "back": "Lợi ích trị liệu, chữa lành tâm lý và thể chất\n\n• IPA: /ˌθer.əˈpjuː.tɪk ˈben.ɪ.fɪt/\n• Ví dụ bài test: \"Walking along spiral paths confers measurable therapeutic benefits by lowering heart rate.\"\n• Paraphrase: healing effect / restorative outcome\n• Collocation: yield documented therapeutic benefits"
+          },
+          {
+            "front": "mindfulness practice",
+            "back": "Phương pháp rèn luyện chánh niệm và sự tĩnh tâm\n\n• IPA: /ˈmaɪnd.fəl.nəs ˈpræk.tɪs/\n• Ví dụ bài test: \"Labyrinths are frequently incorporated into modern mindfulness practice in wellness hospitals.\"\n• Paraphrase: meditative discipline / awareness cultivation\n• Collocation: engage in daily mindfulness practice"
+          },
+          {
+            "front": "sacred geometry",
+            "back": "Hình học tâm linh mang ý nghĩa triết học cổ đại\n\n• IPA: /ˈseɪ.krɪd dʒiˈɒm.ə.tri/\n• Ví dụ bài test: \"The floor design of Chartres Cathedral reflects the golden ratio and sacred geometry.\"\n• Paraphrase: spiritual proportions / harmonic layout\n• Collocation: construct designs rooted in sacred geometry"
+          },
+          {
+            "front": "stress reduction",
+            "back": "Sự thuyên giảm căng thẳng thần kinh và âu lo\n\n• IPA: /stres rɪˈdʌk.ʃən/\n• Ví dụ bài test: \"Slow, rhythmic pacing through a garden labyrinth promotes immediate stress reduction.\"\n• Paraphrase: anxiety relief / tension alleviation\n• Collocation: facilitate profound stress reduction"
+          },
+          {
+            "front": "concentric circles",
+            "back": "Các vòng tròn đồng tâm xoay quanh một tâm điểm\n\n• IPA: /kənˈsen.trɪk ˈsɜː.kəlz/\n• Ví dụ bài test: \"The prehistoric stone carving featured eleven concentric circles winding toward the core.\"\n• Paraphrase: nested rings / coaxial orbits\n• Collocation: arrange cobblestones in concentric circles"
+          },
+          {
+            "front": "ancient pavement",
+            "back": "Mặt đá lát nền cổ kính từ hàng trăm năm trước\n\n• IPA: /ˈeɪn.ʃənt ˈpeɪv.mənt/\n• Ví dụ bài test: \"The medieval labyrinth was inlaid directly into the stone of the cathedral's ancient pavement.\"\n• Paraphrase: historic flagstone floor / antique paving\n• Collocation: inlay patterns into ancient pavement"
+          },
+          {
+            "front": "cognitive focus",
+            "back": "Khả năng tập trung nhận thức và trí tuệ\n\n• IPA: /ˈkɒɡ.nə.tɪv ˈfəʊ.kəs/\n• Ví dụ bài test: \"Sustained walking meditation helps ADHD patients regain calm cognitive focus.\"\n• Paraphrase: mental concentration / attentional clarity\n• Collocation: enhance sustained cognitive focus"
+          },
+          {
+            "front": "symbolic journey",
+            "back": "Hành trình mang tính biểu tượng tượng trưng cho cuộc đời\n\n• IPA: /sɪmˈbɒl.ɪk ˈdʒɜː.ni/\n• Ví dụ bài test: \"For pilgrims, the journey to the center of the labyrinth represents a symbolic journey of rebirth.\"\n• Paraphrase: allegorical pilgrimage / metaphorical voyage\n• Collocation: undertake an introspective symbolic journey"
+          }
+        ],
+        "matching": [
+          {
+            "pairId": 1,
+            "left": "labyrinth",
+            "right": "Mê cung đơn tuyến dùng cho mục đích thiền định"
+          },
+          {
+            "pairId": 2,
+            "left": "maze navigation",
+            "right": "Kỹ năng tìm đường vượt qua mê cung phân nhánh"
+          },
+          {
+            "pairId": 3,
+            "left": "therapeutic benefit",
+            "right": "Lợi ích trị liệu, chữa lành tâm lý và thể chất"
+          },
+          {
+            "pairId": 4,
+            "left": "mindfulness practice",
+            "right": "Phương pháp rèn luyện chánh niệm và sự tĩnh tâm"
+          },
+          {
+            "pairId": 5,
+            "left": "sacred geometry",
+            "right": "Hình học tâm linh mang ý nghĩa triết học cổ đại"
+          },
+          {
+            "pairId": 6,
+            "left": "stress reduction",
+            "right": "Sự thuyên giảm căng thẳng thần kinh và âu lo"
+          },
+          {
+            "pairId": 7,
+            "left": "concentric circles",
+            "right": "Các vòng tròn đồng tâm xoay quanh một tâm điểm"
+          },
+          {
+            "pairId": 8,
+            "left": "ancient pavement",
+            "right": "Mặt đá lát nền cổ kính từ hàng trăm năm trước"
+          },
+          {
+            "pairId": 9,
+            "left": "cognitive focus",
+            "right": "Khả năng tập trung nhận thức và trí tuệ"
+          },
+          {
+            "pairId": 10,
+            "left": "symbolic journey",
+            "right": "Hành trình mang tính biểu tượng tượng trưng cho cuộc đời"
+          }
+        ],
+        "quiz": [
+          {
+            "id": "qz_lis_test_4_1",
+            "question": "Trong ngữ cảnh bài thi này, cụm từ 'labyrinth' (noun) mang ý nghĩa chuẩn xác nhất là gì?",
+            "options": [
+              "Mê cung đơn tuyến dùng cho mục đích thiền định",
+              "Hiện tượng biến đổi khí hậu bất thường",
+              "Thuật ngữ chỉ chi phí hành chính và giấy phép",
+              "Mô hình nghiên cứu lý thuyết chưa được áp dụng"
+            ],
+            "correct": 0,
+            "explanation": "'labyrinth' (/ˈlæb.ə.rɪnθ/) có nghĩa là: Mê cung đơn tuyến dùng cho mục đích thiền định. Ví dụ trích xuất: \"Unlike a confusing maze with dead ends, a classical labyrinth has a single unicursal path.\""
+          },
+          {
+            "id": "qz_lis_test_4_2",
+            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'maze navigation' là gì?",
+            "options": [
+              "deviate from arbitrary figures",
+              "master spatial maze navigation",
+              "contradict empirical survey findings",
+              "dismiss foundational historical accounts"
+            ],
+            "correct": 1,
+            "explanation": "Collocation chuẩn xác trong đề thi IELTS là: 'master spatial maze navigation'. Ý nghĩa: Kỹ năng tìm đường vượt qua mê cung phân nhánh."
+          },
+          {
+            "id": "qz_lis_test_4_3",
+            "question": "Từ hoặc cụm từ nào sau đây có thể dùng để Paraphrase (diễn giải tương đương) cho 'therapeutic benefit'?",
+            "options": [
+              "spurious assertions / unfounded allegations",
+              "marginal fluctuations in monetary value",
+              "healing effect / restorative outcome",
+              "temporary administrative sanctions"
+            ],
+            "correct": 2,
+            "explanation": "Từ đồng nghĩa / Paraphrase thường gặp trong IELTS: 'therapeutic benefit' tương đương với 'healing effect / restorative outcome'."
+          },
+          {
+            "id": "qz_lis_test_4_4",
+            "question": "Điền từ thích hợp vào chỗ trống: \"Labyrinths are frequently incorporated into modern __________ in wellness hospitals.\"",
+            "options": [
+              "arbitrary hypothesis",
+              "superficial discrepancy",
+              "mindfulness practice",
+              "disproportionate allocation"
+            ],
+            "correct": 2,
+            "explanation": "Đáp án đúng là 'mindfulness practice'. Câu hoàn chỉnh: \"Labyrinths are frequently incorporated into modern mindfulness practice in wellness hospitals.\""
+          }
+        ]
+      }
     },
     {
       "id": "lis_test_5",
@@ -1189,9 +2585,358 @@ var IELTS_BANK_100 = {
           "explanation": "Bệnh nhân Alzheimer giảm bớt cảm giác lo âu, bồn chồn: 'anxiety'."
         }
       ],
-      "vocabulary": [],
+      "vocabulary": [
+        {
+          "id": "voc_lis_5_1",
+          "term": "ecological stewardship",
+          "type": "noun phrase",
+          "ipa": "/ˌiː.kəˈlɒdʒ.ɪ.kəl ˈstjuː.əd.ʃɪp/",
+          "meaning": "Tinh thần trách nhiệm bảo vệ và gìn giữ hệ sinh thái",
+          "example": "True conservation demands active ecological stewardship from both citizens and state agencies.",
+          "paraphrase": "environmental governance / sustainable oversight",
+          "collocation": "foster lifelong ecological stewardship"
+        },
+        {
+          "id": "voc_lis_5_2",
+          "term": "navigational hazard",
+          "type": "noun phrase",
+          "ipa": "/ˌnæv.ɪˈɡeɪ.ʃən.əl ˈhæz.əd/",
+          "meaning": "Hiểm họa chướng ngại vật đối với tàu bè trên biển",
+          "example": "Hidden reefs and fierce cross-currents create a hazardous passage for maritime traffic.",
+          "paraphrase": "marine danger / nautical obstacle",
+          "collocation": "steer clear of known navigational hazards"
+        },
+        {
+          "id": "voc_lis_5_3",
+          "term": "pathological diagnosis",
+          "type": "noun phrase",
+          "ipa": "/ˌpæθ.əˈlɒdʒ.ɪ.kəl ˌdaɪ.əɡˈnəʊ.sɪs/",
+          "meaning": "Chẩn đoán bệnh lý dựa trên mô bệnh học và xét nghiệm",
+          "example": "A precise pathological diagnosis enables veterinary surgeons to choose optimal therapies.",
+          "paraphrase": "laboratory prognosis / clinical identification",
+          "collocation": "confirm an accurate pathological diagnosis"
+        },
+        {
+          "id": "voc_lis_5_4",
+          "term": "spatial disorientation",
+          "type": "noun phrase",
+          "ipa": "/ˈspeɪ.ʃəl dɪsˌɔː.ri.enˈteɪ.ʃən/",
+          "meaning": "Sự mất phương hướng và vị trí trong không gian",
+          "example": "Complex labyrinths with multiple false paths can induce temporary spatial disorientation.",
+          "paraphrase": "loss of direction / cognitive vertigo",
+          "collocation": "overcome sudden spatial disorientation"
+        },
+        {
+          "id": "voc_lis_5_5",
+          "term": "empirical validation",
+          "type": "noun phrase",
+          "ipa": "/ɪmˈpɪr.ɪ.kəl ˌvæl.ɪˈdeɪ.ʃən/",
+          "meaning": "Sự chứng minh và thẩm định bằng dữ liệu thực nghiệm",
+          "example": "Scientists demand empirical validation before declaring a psychological therapy effective.",
+          "paraphrase": "experimental proof / evidence-based verification",
+          "collocation": "provide solid empirical validation"
+        },
+        {
+          "id": "voc_lis_5_6",
+          "term": "coastal biodiversity",
+          "type": "noun phrase",
+          "ipa": "/ˈkəʊ.stəl ˌbaɪ.əʊ.daɪˈvɜː.sə.ti/",
+          "meaning": "Đa dạng sinh thái sinh vật vùng ven biển",
+          "example": "Tidal estuaries represent hotspots of rich coastal biodiversity that must be protected.",
+          "paraphrase": "littoral ecosystem richness / marine species variety",
+          "collocation": "safeguard vulnerable coastal biodiversity"
+        },
+        {
+          "id": "voc_lis_5_7",
+          "term": "therapeutic intervention",
+          "type": "noun phrase",
+          "ipa": "/ˌθer.əˈpjuː.tɪk ˌɪn.təˈven.ʃən/",
+          "meaning": "Biện pháp can thiệp trị liệu y tế / tâm lý",
+          "example": "Mindful walking acts as a non-invasive therapeutic intervention for acute anxiety disorders.",
+          "paraphrase": "healing protocol / medical remedy",
+          "collocation": "prescribe a targeted therapeutic intervention"
+        },
+        {
+          "id": "voc_lis_5_8",
+          "term": "sanitary containment",
+          "type": "noun phrase",
+          "ipa": "/ˈsæn.ɪ.tər.i kənˈteɪn.mənt/",
+          "meaning": "Biện pháp cô lập và kiểm soát vệ sinh dịch tễ",
+          "example": "The livestock farm established strict sanitary containment to stamp out the avian flu.",
+          "paraphrase": "bio-security isolation / hygiene blockade",
+          "collocation": "enforce strict sanitary containment"
+        },
+        {
+          "id": "voc_lis_5_9",
+          "term": "architectural antiquity",
+          "type": "noun phrase",
+          "ipa": "/ˌɑː.kɪˈtek.tʃər.əl ænˈtɪk.wə.ti/",
+          "meaning": "Dấu tích kiến trúc cổ xưa có giá trị lịch sử cao",
+          "example": "Lighthouses built in the Victorian era are treasured examples of architectural antiquity.",
+          "paraphrase": "historic edifice / ancient monument",
+          "collocation": "conserve structures of architectural antiquity"
+        },
+        {
+          "id": "voc_lis_5_10",
+          "term": "community engagement",
+          "type": "noun phrase",
+          "ipa": "/kəˈmjuː.nə.ti ɪnˈɡeɪdʒ.mənt/",
+          "meaning": "Sự tham gia và gắn kết tích cực của cộng đồng",
+          "example": "The conservation trust thrives thanks to passionate grassroots community engagement.",
+          "paraphrase": "public participation / civic involvement",
+          "collocation": "mobilize widespread community engagement"
+        }
+      ],
       "camSeries": "cam_17",
-      "camBadge": "Cambridge 17"
+      "camBadge": "Cambridge 17",
+      "testVocabulary": [
+        {
+          "id": "voc_lis_5_1",
+          "term": "ecological stewardship",
+          "type": "noun phrase",
+          "ipa": "/ˌiː.kəˈlɒdʒ.ɪ.kəl ˈstjuː.əd.ʃɪp/",
+          "meaning": "Tinh thần trách nhiệm bảo vệ và gìn giữ hệ sinh thái",
+          "example": "True conservation demands active ecological stewardship from both citizens and state agencies.",
+          "paraphrase": "environmental governance / sustainable oversight",
+          "collocation": "foster lifelong ecological stewardship"
+        },
+        {
+          "id": "voc_lis_5_2",
+          "term": "navigational hazard",
+          "type": "noun phrase",
+          "ipa": "/ˌnæv.ɪˈɡeɪ.ʃən.əl ˈhæz.əd/",
+          "meaning": "Hiểm họa chướng ngại vật đối với tàu bè trên biển",
+          "example": "Hidden reefs and fierce cross-currents create a hazardous passage for maritime traffic.",
+          "paraphrase": "marine danger / nautical obstacle",
+          "collocation": "steer clear of known navigational hazards"
+        },
+        {
+          "id": "voc_lis_5_3",
+          "term": "pathological diagnosis",
+          "type": "noun phrase",
+          "ipa": "/ˌpæθ.əˈlɒdʒ.ɪ.kəl ˌdaɪ.əɡˈnəʊ.sɪs/",
+          "meaning": "Chẩn đoán bệnh lý dựa trên mô bệnh học và xét nghiệm",
+          "example": "A precise pathological diagnosis enables veterinary surgeons to choose optimal therapies.",
+          "paraphrase": "laboratory prognosis / clinical identification",
+          "collocation": "confirm an accurate pathological diagnosis"
+        },
+        {
+          "id": "voc_lis_5_4",
+          "term": "spatial disorientation",
+          "type": "noun phrase",
+          "ipa": "/ˈspeɪ.ʃəl dɪsˌɔː.ri.enˈteɪ.ʃən/",
+          "meaning": "Sự mất phương hướng và vị trí trong không gian",
+          "example": "Complex labyrinths with multiple false paths can induce temporary spatial disorientation.",
+          "paraphrase": "loss of direction / cognitive vertigo",
+          "collocation": "overcome sudden spatial disorientation"
+        },
+        {
+          "id": "voc_lis_5_5",
+          "term": "empirical validation",
+          "type": "noun phrase",
+          "ipa": "/ɪmˈpɪr.ɪ.kəl ˌvæl.ɪˈdeɪ.ʃən/",
+          "meaning": "Sự chứng minh và thẩm định bằng dữ liệu thực nghiệm",
+          "example": "Scientists demand empirical validation before declaring a psychological therapy effective.",
+          "paraphrase": "experimental proof / evidence-based verification",
+          "collocation": "provide solid empirical validation"
+        },
+        {
+          "id": "voc_lis_5_6",
+          "term": "coastal biodiversity",
+          "type": "noun phrase",
+          "ipa": "/ˈkəʊ.stəl ˌbaɪ.əʊ.daɪˈvɜː.sə.ti/",
+          "meaning": "Đa dạng sinh thái sinh vật vùng ven biển",
+          "example": "Tidal estuaries represent hotspots of rich coastal biodiversity that must be protected.",
+          "paraphrase": "littoral ecosystem richness / marine species variety",
+          "collocation": "safeguard vulnerable coastal biodiversity"
+        },
+        {
+          "id": "voc_lis_5_7",
+          "term": "therapeutic intervention",
+          "type": "noun phrase",
+          "ipa": "/ˌθer.əˈpjuː.tɪk ˌɪn.təˈven.ʃən/",
+          "meaning": "Biện pháp can thiệp trị liệu y tế / tâm lý",
+          "example": "Mindful walking acts as a non-invasive therapeutic intervention for acute anxiety disorders.",
+          "paraphrase": "healing protocol / medical remedy",
+          "collocation": "prescribe a targeted therapeutic intervention"
+        },
+        {
+          "id": "voc_lis_5_8",
+          "term": "sanitary containment",
+          "type": "noun phrase",
+          "ipa": "/ˈsæn.ɪ.tər.i kənˈteɪn.mənt/",
+          "meaning": "Biện pháp cô lập và kiểm soát vệ sinh dịch tễ",
+          "example": "The livestock farm established strict sanitary containment to stamp out the avian flu.",
+          "paraphrase": "bio-security isolation / hygiene blockade",
+          "collocation": "enforce strict sanitary containment"
+        },
+        {
+          "id": "voc_lis_5_9",
+          "term": "architectural antiquity",
+          "type": "noun phrase",
+          "ipa": "/ˌɑː.kɪˈtek.tʃər.əl ænˈtɪk.wə.ti/",
+          "meaning": "Dấu tích kiến trúc cổ xưa có giá trị lịch sử cao",
+          "example": "Lighthouses built in the Victorian era are treasured examples of architectural antiquity.",
+          "paraphrase": "historic edifice / ancient monument",
+          "collocation": "conserve structures of architectural antiquity"
+        },
+        {
+          "id": "voc_lis_5_10",
+          "term": "community engagement",
+          "type": "noun phrase",
+          "ipa": "/kəˈmjuː.nə.ti ɪnˈɡeɪdʒ.mənt/",
+          "meaning": "Sự tham gia và gắn kết tích cực của cộng đồng",
+          "example": "The conservation trust thrives thanks to passionate grassroots community engagement.",
+          "paraphrase": "public participation / civic involvement",
+          "collocation": "mobilize widespread community engagement"
+        }
+      ],
+      "testVocabPractice": {
+        "flashcards": [
+          {
+            "front": "ecological stewardship",
+            "back": "Tinh thần trách nhiệm bảo vệ và gìn giữ hệ sinh thái\n\n• IPA: /ˌiː.kəˈlɒdʒ.ɪ.kəl ˈstjuː.əd.ʃɪp/\n• Ví dụ bài test: \"True conservation demands active ecological stewardship from both citizens and state agencies.\"\n• Paraphrase: environmental governance / sustainable oversight\n• Collocation: foster lifelong ecological stewardship"
+          },
+          {
+            "front": "navigational hazard",
+            "back": "Hiểm họa chướng ngại vật đối với tàu bè trên biển\n\n• IPA: /ˌnæv.ɪˈɡeɪ.ʃən.əl ˈhæz.əd/\n• Ví dụ bài test: \"Hidden reefs and fierce cross-currents create a hazardous passage for maritime traffic.\"\n• Paraphrase: marine danger / nautical obstacle\n• Collocation: steer clear of known navigational hazards"
+          },
+          {
+            "front": "pathological diagnosis",
+            "back": "Chẩn đoán bệnh lý dựa trên mô bệnh học và xét nghiệm\n\n• IPA: /ˌpæθ.əˈlɒdʒ.ɪ.kəl ˌdaɪ.əɡˈnəʊ.sɪs/\n• Ví dụ bài test: \"A precise pathological diagnosis enables veterinary surgeons to choose optimal therapies.\"\n• Paraphrase: laboratory prognosis / clinical identification\n• Collocation: confirm an accurate pathological diagnosis"
+          },
+          {
+            "front": "spatial disorientation",
+            "back": "Sự mất phương hướng và vị trí trong không gian\n\n• IPA: /ˈspeɪ.ʃəl dɪsˌɔː.ri.enˈteɪ.ʃən/\n• Ví dụ bài test: \"Complex labyrinths with multiple false paths can induce temporary spatial disorientation.\"\n• Paraphrase: loss of direction / cognitive vertigo\n• Collocation: overcome sudden spatial disorientation"
+          },
+          {
+            "front": "empirical validation",
+            "back": "Sự chứng minh và thẩm định bằng dữ liệu thực nghiệm\n\n• IPA: /ɪmˈpɪr.ɪ.kəl ˌvæl.ɪˈdeɪ.ʃən/\n• Ví dụ bài test: \"Scientists demand empirical validation before declaring a psychological therapy effective.\"\n• Paraphrase: experimental proof / evidence-based verification\n• Collocation: provide solid empirical validation"
+          },
+          {
+            "front": "coastal biodiversity",
+            "back": "Đa dạng sinh thái sinh vật vùng ven biển\n\n• IPA: /ˈkəʊ.stəl ˌbaɪ.əʊ.daɪˈvɜː.sə.ti/\n• Ví dụ bài test: \"Tidal estuaries represent hotspots of rich coastal biodiversity that must be protected.\"\n• Paraphrase: littoral ecosystem richness / marine species variety\n• Collocation: safeguard vulnerable coastal biodiversity"
+          },
+          {
+            "front": "therapeutic intervention",
+            "back": "Biện pháp can thiệp trị liệu y tế / tâm lý\n\n• IPA: /ˌθer.əˈpjuː.tɪk ˌɪn.təˈven.ʃən/\n• Ví dụ bài test: \"Mindful walking acts as a non-invasive therapeutic intervention for acute anxiety disorders.\"\n• Paraphrase: healing protocol / medical remedy\n• Collocation: prescribe a targeted therapeutic intervention"
+          },
+          {
+            "front": "sanitary containment",
+            "back": "Biện pháp cô lập và kiểm soát vệ sinh dịch tễ\n\n• IPA: /ˈsæn.ɪ.tər.i kənˈteɪn.mənt/\n• Ví dụ bài test: \"The livestock farm established strict sanitary containment to stamp out the avian flu.\"\n• Paraphrase: bio-security isolation / hygiene blockade\n• Collocation: enforce strict sanitary containment"
+          },
+          {
+            "front": "architectural antiquity",
+            "back": "Dấu tích kiến trúc cổ xưa có giá trị lịch sử cao\n\n• IPA: /ˌɑː.kɪˈtek.tʃər.əl ænˈtɪk.wə.ti/\n• Ví dụ bài test: \"Lighthouses built in the Victorian era are treasured examples of architectural antiquity.\"\n• Paraphrase: historic edifice / ancient monument\n• Collocation: conserve structures of architectural antiquity"
+          },
+          {
+            "front": "community engagement",
+            "back": "Sự tham gia và gắn kết tích cực của cộng đồng\n\n• IPA: /kəˈmjuː.nə.ti ɪnˈɡeɪdʒ.mənt/\n• Ví dụ bài test: \"The conservation trust thrives thanks to passionate grassroots community engagement.\"\n• Paraphrase: public participation / civic involvement\n• Collocation: mobilize widespread community engagement"
+          }
+        ],
+        "matching": [
+          {
+            "pairId": 1,
+            "left": "ecological stewardship",
+            "right": "Tinh thần trách nhiệm bảo vệ và gìn giữ hệ sinh thái"
+          },
+          {
+            "pairId": 2,
+            "left": "navigational hazard",
+            "right": "Hiểm họa chướng ngại vật đối với tàu bè trên biển"
+          },
+          {
+            "pairId": 3,
+            "left": "pathological diagnosis",
+            "right": "Chẩn đoán bệnh lý dựa trên mô bệnh học và xét nghiệm"
+          },
+          {
+            "pairId": 4,
+            "left": "spatial disorientation",
+            "right": "Sự mất phương hướng và vị trí trong không gian"
+          },
+          {
+            "pairId": 5,
+            "left": "empirical validation",
+            "right": "Sự chứng minh và thẩm định bằng dữ liệu thực nghiệm"
+          },
+          {
+            "pairId": 6,
+            "left": "coastal biodiversity",
+            "right": "Đa dạng sinh thái sinh vật vùng ven biển"
+          },
+          {
+            "pairId": 7,
+            "left": "therapeutic intervention",
+            "right": "Biện pháp can thiệp trị liệu y tế / tâm lý"
+          },
+          {
+            "pairId": 8,
+            "left": "sanitary containment",
+            "right": "Biện pháp cô lập và kiểm soát vệ sinh dịch tễ"
+          },
+          {
+            "pairId": 9,
+            "left": "architectural antiquity",
+            "right": "Dấu tích kiến trúc cổ xưa có giá trị lịch sử cao"
+          },
+          {
+            "pairId": 10,
+            "left": "community engagement",
+            "right": "Sự tham gia và gắn kết tích cực của cộng đồng"
+          }
+        ],
+        "quiz": [
+          {
+            "id": "qz_lis_test_5_1",
+            "question": "Trong ngữ cảnh bài thi này, cụm từ 'ecological stewardship' (noun phrase) mang ý nghĩa chuẩn xác nhất là gì?",
+            "options": [
+              "Tinh thần trách nhiệm bảo vệ và gìn giữ hệ sinh thái",
+              "Hiện tượng biến đổi khí hậu bất thường",
+              "Thuật ngữ chỉ chi phí hành chính và giấy phép",
+              "Mô hình nghiên cứu lý thuyết chưa được áp dụng"
+            ],
+            "correct": 0,
+            "explanation": "'ecological stewardship' (/ˌiː.kəˈlɒdʒ.ɪ.kəl ˈstjuː.əd.ʃɪp/) có nghĩa là: Tinh thần trách nhiệm bảo vệ và gìn giữ hệ sinh thái. Ví dụ trích xuất: \"True conservation demands active ecological stewardship from both citizens and state agencies.\""
+          },
+          {
+            "id": "qz_lis_test_5_2",
+            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'navigational hazard' là gì?",
+            "options": [
+              "deviate from arbitrary figures",
+              "steer clear of known navigational hazards",
+              "contradict empirical survey findings",
+              "dismiss foundational historical accounts"
+            ],
+            "correct": 1,
+            "explanation": "Collocation chuẩn xác trong đề thi IELTS là: 'steer clear of known navigational hazards'. Ý nghĩa: Hiểm họa chướng ngại vật đối với tàu bè trên biển."
+          },
+          {
+            "id": "qz_lis_test_5_3",
+            "question": "Từ hoặc cụm từ nào sau đây có thể dùng để Paraphrase (diễn giải tương đương) cho 'pathological diagnosis'?",
+            "options": [
+              "spurious assertions / unfounded allegations",
+              "marginal fluctuations in monetary value",
+              "laboratory prognosis / clinical identification",
+              "temporary administrative sanctions"
+            ],
+            "correct": 2,
+            "explanation": "Từ đồng nghĩa / Paraphrase thường gặp trong IELTS: 'pathological diagnosis' tương đương với 'laboratory prognosis / clinical identification'."
+          },
+          {
+            "id": "qz_lis_test_5_4",
+            "question": "Điền từ thích hợp vào chỗ trống: \"Complex labyrinths with multiple false paths can induce temporary __________.\"",
+            "options": [
+              "arbitrary hypothesis",
+              "superficial discrepancy",
+              "spatial disorientation",
+              "disproportionate allocation"
+            ],
+            "correct": 2,
+            "explanation": "Đáp án đúng là 'spatial disorientation'. Câu hoàn chỉnh: \"Complex labyrinths with multiple false paths can induce temporary spatial disorientation.\""
+          }
+        ]
+      }
     },
     {
       "id": "lis_test_6",
@@ -41588,9 +43333,358 @@ var IELTS_BANK_100 = {
           "explanation": "Tác giả chỉ nói tuyến rất phổ biến chứ không cung cấp thông tin về việc tàu có luôn chạy đúng giờ hay không -> NOT GIVEN."
         }
       ],
-      "vocabulary": [],
+      "vocabulary": [
+        {
+          "id": "voc_read_1_1",
+          "term": "subterranean network",
+          "type": "noun phrase",
+          "ipa": "/ˌsʌb.təˈreɪ.ni.ən ˈnet.wɜːk/",
+          "meaning": "Mạng lưới công trình chằng chịt dưới lòng đất",
+          "example": "Engineers designed a vast subterranean network of tunnels to carry London's commuter trains.",
+          "paraphrase": "underground system / subsurface rail grid",
+          "collocation": "excavate a subterranean network"
+        },
+        {
+          "id": "voc_read_1_2",
+          "term": "steam locomotive",
+          "type": "noun phrase",
+          "ipa": "/stiːm ˌləʊ.kəˈməʊ.tɪv/",
+          "meaning": "Đầu máy xe lửa chạy bằng hơi nước cổ điển",
+          "example": "Early underground lines relied on steam locomotives, creating noxious fumes in the stations.",
+          "paraphrase": "steam engine / railway locomotive",
+          "collocation": "operate heavy steam locomotives"
+        },
+        {
+          "id": "voc_read_1_3",
+          "term": "congestion relief",
+          "type": "noun phrase",
+          "ipa": "/kənˈdʒes.tʃən rɪˈliːf/",
+          "meaning": "Sự giải tỏa ùn tắc giao thông nghiêm trọng",
+          "example": "The Metropolitan Railway provided desperately needed congestion relief for horse-drawn streets.",
+          "paraphrase": "traffic mitigation / gridlock resolution",
+          "collocation": "provide vital congestion relief"
+        },
+        {
+          "id": "voc_read_1_4",
+          "term": "cut-and-cover method",
+          "type": "noun phrase",
+          "ipa": "/ˌkʌt ənd ˈkʌv.ər ˈmeθ.əd/",
+          "meaning": "Phương pháp đào hở chiến hào rồi lấp mái hoàn trả mặt bằng",
+          "example": "The first tube tunnels were built using the disruptive cut-and-cover method through main roads.",
+          "paraphrase": "trench-and-slab technique / open-cut tunnelling",
+          "collocation": "employ the cut-and-cover method"
+        },
+        {
+          "id": "voc_read_1_5",
+          "term": "tunnelling shield",
+          "type": "noun phrase",
+          "ipa": "/ˈtʌn.əl.ɪŋ ʃiːld/",
+          "meaning": "Khiên chắn đào hầm công nghệ cao bảo vệ công nhân",
+          "example": "Greathead's circular tunnelling shield enabled safe boring through London's wet clay.",
+          "paraphrase": "boring machine canopy / excavation shield",
+          "collocation": "advance the circular tunnelling shield"
+        },
+        {
+          "id": "voc_read_1_6",
+          "term": "ventilation shaft",
+          "type": "noun phrase",
+          "ipa": "/ˌven.tɪˈleɪ.ʃən ʃɑːft/",
+          "meaning": "Giếng thông gió thẳng đứng giải thoát khói và khí độc",
+          "example": "Large ventilation shafts were installed to expel steam and draw fresh air into the platforms.",
+          "paraphrase": "air duct / exhaust chimney",
+          "collocation": "construct vertical ventilation shafts"
+        },
+        {
+          "id": "voc_read_1_7",
+          "term": "passenger influx",
+          "type": "noun phrase",
+          "ipa": "/ˈpæs.ɪn.dʒər ˈɪn.flʌks/",
+          "meaning": "Dòng người / lượng hành khách ồ ạt đổ về",
+          "example": "Ticket barriers struggled to cope with the immense passenger influx during morning rush hour.",
+          "paraphrase": "commuter surge / crowd influx",
+          "collocation": "handle the massive passenger influx"
+        },
+        {
+          "id": "voc_read_1_8",
+          "term": "electrification",
+          "type": "noun",
+          "ipa": "/iˌlek.trɪ.fɪˈkeɪ.ʃən/",
+          "meaning": "Quá trình điện khí hóa toàn diện mạng lưới đường sắt",
+          "example": "The electrification of the tracks in the early 1900s eradicated choking smoke underground.",
+          "paraphrase": "conversion to electric power / electric retrofitting",
+          "collocation": "undertake full system electrification"
+        },
+        {
+          "id": "voc_read_1_9",
+          "term": "infrastructure investment",
+          "type": "noun phrase",
+          "ipa": "/ˈɪn.frəˌstrʌk.tʃər ɪnˈvest.mənt/",
+          "meaning": "Khoản vốn đầu tư vào cơ sở hạ tầng giao thông",
+          "example": "Private investors pooled substantial capital for this unprecedented infrastructure investment.",
+          "paraphrase": "capital public works / transport financing",
+          "collocation": "attract major infrastructure investment"
+        },
+        {
+          "id": "voc_read_1_10",
+          "term": "metropolitan transit",
+          "type": "noun phrase",
+          "ipa": "/ˌmet.rəˈpɒl.ɪ.tən ˈtræn.zɪt/",
+          "meaning": "Hệ thống giao thông công cộng đô thị hiện đại",
+          "example": "The London Underground became the pioneering prototype for global metropolitan transit.",
+          "paraphrase": "urban public transport / rapid transit",
+          "collocation": "revolutionize metropolitan transit"
+        }
+      ],
       "camSeries": "cam_21",
-      "camBadge": "Cam 21 (2026)"
+      "camBadge": "Cam 21 (2026)",
+      "testVocabulary": [
+        {
+          "id": "voc_read_1_1",
+          "term": "subterranean network",
+          "type": "noun phrase",
+          "ipa": "/ˌsʌb.təˈreɪ.ni.ən ˈnet.wɜːk/",
+          "meaning": "Mạng lưới công trình chằng chịt dưới lòng đất",
+          "example": "Engineers designed a vast subterranean network of tunnels to carry London's commuter trains.",
+          "paraphrase": "underground system / subsurface rail grid",
+          "collocation": "excavate a subterranean network"
+        },
+        {
+          "id": "voc_read_1_2",
+          "term": "steam locomotive",
+          "type": "noun phrase",
+          "ipa": "/stiːm ˌləʊ.kəˈməʊ.tɪv/",
+          "meaning": "Đầu máy xe lửa chạy bằng hơi nước cổ điển",
+          "example": "Early underground lines relied on steam locomotives, creating noxious fumes in the stations.",
+          "paraphrase": "steam engine / railway locomotive",
+          "collocation": "operate heavy steam locomotives"
+        },
+        {
+          "id": "voc_read_1_3",
+          "term": "congestion relief",
+          "type": "noun phrase",
+          "ipa": "/kənˈdʒes.tʃən rɪˈliːf/",
+          "meaning": "Sự giải tỏa ùn tắc giao thông nghiêm trọng",
+          "example": "The Metropolitan Railway provided desperately needed congestion relief for horse-drawn streets.",
+          "paraphrase": "traffic mitigation / gridlock resolution",
+          "collocation": "provide vital congestion relief"
+        },
+        {
+          "id": "voc_read_1_4",
+          "term": "cut-and-cover method",
+          "type": "noun phrase",
+          "ipa": "/ˌkʌt ənd ˈkʌv.ər ˈmeθ.əd/",
+          "meaning": "Phương pháp đào hở chiến hào rồi lấp mái hoàn trả mặt bằng",
+          "example": "The first tube tunnels were built using the disruptive cut-and-cover method through main roads.",
+          "paraphrase": "trench-and-slab technique / open-cut tunnelling",
+          "collocation": "employ the cut-and-cover method"
+        },
+        {
+          "id": "voc_read_1_5",
+          "term": "tunnelling shield",
+          "type": "noun phrase",
+          "ipa": "/ˈtʌn.əl.ɪŋ ʃiːld/",
+          "meaning": "Khiên chắn đào hầm công nghệ cao bảo vệ công nhân",
+          "example": "Greathead's circular tunnelling shield enabled safe boring through London's wet clay.",
+          "paraphrase": "boring machine canopy / excavation shield",
+          "collocation": "advance the circular tunnelling shield"
+        },
+        {
+          "id": "voc_read_1_6",
+          "term": "ventilation shaft",
+          "type": "noun phrase",
+          "ipa": "/ˌven.tɪˈleɪ.ʃən ʃɑːft/",
+          "meaning": "Giếng thông gió thẳng đứng giải thoát khói và khí độc",
+          "example": "Large ventilation shafts were installed to expel steam and draw fresh air into the platforms.",
+          "paraphrase": "air duct / exhaust chimney",
+          "collocation": "construct vertical ventilation shafts"
+        },
+        {
+          "id": "voc_read_1_7",
+          "term": "passenger influx",
+          "type": "noun phrase",
+          "ipa": "/ˈpæs.ɪn.dʒər ˈɪn.flʌks/",
+          "meaning": "Dòng người / lượng hành khách ồ ạt đổ về",
+          "example": "Ticket barriers struggled to cope with the immense passenger influx during morning rush hour.",
+          "paraphrase": "commuter surge / crowd influx",
+          "collocation": "handle the massive passenger influx"
+        },
+        {
+          "id": "voc_read_1_8",
+          "term": "electrification",
+          "type": "noun",
+          "ipa": "/iˌlek.trɪ.fɪˈkeɪ.ʃən/",
+          "meaning": "Quá trình điện khí hóa toàn diện mạng lưới đường sắt",
+          "example": "The electrification of the tracks in the early 1900s eradicated choking smoke underground.",
+          "paraphrase": "conversion to electric power / electric retrofitting",
+          "collocation": "undertake full system electrification"
+        },
+        {
+          "id": "voc_read_1_9",
+          "term": "infrastructure investment",
+          "type": "noun phrase",
+          "ipa": "/ˈɪn.frəˌstrʌk.tʃər ɪnˈvest.mənt/",
+          "meaning": "Khoản vốn đầu tư vào cơ sở hạ tầng giao thông",
+          "example": "Private investors pooled substantial capital for this unprecedented infrastructure investment.",
+          "paraphrase": "capital public works / transport financing",
+          "collocation": "attract major infrastructure investment"
+        },
+        {
+          "id": "voc_read_1_10",
+          "term": "metropolitan transit",
+          "type": "noun phrase",
+          "ipa": "/ˌmet.rəˈpɒl.ɪ.tən ˈtræn.zɪt/",
+          "meaning": "Hệ thống giao thông công cộng đô thị hiện đại",
+          "example": "The London Underground became the pioneering prototype for global metropolitan transit.",
+          "paraphrase": "urban public transport / rapid transit",
+          "collocation": "revolutionize metropolitan transit"
+        }
+      ],
+      "testVocabPractice": {
+        "flashcards": [
+          {
+            "front": "subterranean network",
+            "back": "Mạng lưới công trình chằng chịt dưới lòng đất\n\n• IPA: /ˌsʌb.təˈreɪ.ni.ən ˈnet.wɜːk/\n• Ví dụ bài test: \"Engineers designed a vast subterranean network of tunnels to carry London's commuter trains.\"\n• Paraphrase: underground system / subsurface rail grid\n• Collocation: excavate a subterranean network"
+          },
+          {
+            "front": "steam locomotive",
+            "back": "Đầu máy xe lửa chạy bằng hơi nước cổ điển\n\n• IPA: /stiːm ˌləʊ.kəˈməʊ.tɪv/\n• Ví dụ bài test: \"Early underground lines relied on steam locomotives, creating noxious fumes in the stations.\"\n• Paraphrase: steam engine / railway locomotive\n• Collocation: operate heavy steam locomotives"
+          },
+          {
+            "front": "congestion relief",
+            "back": "Sự giải tỏa ùn tắc giao thông nghiêm trọng\n\n• IPA: /kənˈdʒes.tʃən rɪˈliːf/\n• Ví dụ bài test: \"The Metropolitan Railway provided desperately needed congestion relief for horse-drawn streets.\"\n• Paraphrase: traffic mitigation / gridlock resolution\n• Collocation: provide vital congestion relief"
+          },
+          {
+            "front": "cut-and-cover method",
+            "back": "Phương pháp đào hở chiến hào rồi lấp mái hoàn trả mặt bằng\n\n• IPA: /ˌkʌt ənd ˈkʌv.ər ˈmeθ.əd/\n• Ví dụ bài test: \"The first tube tunnels were built using the disruptive cut-and-cover method through main roads.\"\n• Paraphrase: trench-and-slab technique / open-cut tunnelling\n• Collocation: employ the cut-and-cover method"
+          },
+          {
+            "front": "tunnelling shield",
+            "back": "Khiên chắn đào hầm công nghệ cao bảo vệ công nhân\n\n• IPA: /ˈtʌn.əl.ɪŋ ʃiːld/\n• Ví dụ bài test: \"Greathead's circular tunnelling shield enabled safe boring through London's wet clay.\"\n• Paraphrase: boring machine canopy / excavation shield\n• Collocation: advance the circular tunnelling shield"
+          },
+          {
+            "front": "ventilation shaft",
+            "back": "Giếng thông gió thẳng đứng giải thoát khói và khí độc\n\n• IPA: /ˌven.tɪˈleɪ.ʃən ʃɑːft/\n• Ví dụ bài test: \"Large ventilation shafts were installed to expel steam and draw fresh air into the platforms.\"\n• Paraphrase: air duct / exhaust chimney\n• Collocation: construct vertical ventilation shafts"
+          },
+          {
+            "front": "passenger influx",
+            "back": "Dòng người / lượng hành khách ồ ạt đổ về\n\n• IPA: /ˈpæs.ɪn.dʒər ˈɪn.flʌks/\n• Ví dụ bài test: \"Ticket barriers struggled to cope with the immense passenger influx during morning rush hour.\"\n• Paraphrase: commuter surge / crowd influx\n• Collocation: handle the massive passenger influx"
+          },
+          {
+            "front": "electrification",
+            "back": "Quá trình điện khí hóa toàn diện mạng lưới đường sắt\n\n• IPA: /iˌlek.trɪ.fɪˈkeɪ.ʃən/\n• Ví dụ bài test: \"The electrification of the tracks in the early 1900s eradicated choking smoke underground.\"\n• Paraphrase: conversion to electric power / electric retrofitting\n• Collocation: undertake full system electrification"
+          },
+          {
+            "front": "infrastructure investment",
+            "back": "Khoản vốn đầu tư vào cơ sở hạ tầng giao thông\n\n• IPA: /ˈɪn.frəˌstrʌk.tʃər ɪnˈvest.mənt/\n• Ví dụ bài test: \"Private investors pooled substantial capital for this unprecedented infrastructure investment.\"\n• Paraphrase: capital public works / transport financing\n• Collocation: attract major infrastructure investment"
+          },
+          {
+            "front": "metropolitan transit",
+            "back": "Hệ thống giao thông công cộng đô thị hiện đại\n\n• IPA: /ˌmet.rəˈpɒl.ɪ.tən ˈtræn.zɪt/\n• Ví dụ bài test: \"The London Underground became the pioneering prototype for global metropolitan transit.\"\n• Paraphrase: urban public transport / rapid transit\n• Collocation: revolutionize metropolitan transit"
+          }
+        ],
+        "matching": [
+          {
+            "pairId": 1,
+            "left": "subterranean network",
+            "right": "Mạng lưới công trình chằng chịt dưới lòng đất"
+          },
+          {
+            "pairId": 2,
+            "left": "steam locomotive",
+            "right": "Đầu máy xe lửa chạy bằng hơi nước cổ điển"
+          },
+          {
+            "pairId": 3,
+            "left": "congestion relief",
+            "right": "Sự giải tỏa ùn tắc giao thông nghiêm trọng"
+          },
+          {
+            "pairId": 4,
+            "left": "cut-and-cover method",
+            "right": "Phương pháp đào hở chiến hào rồi lấp mái hoàn trả mặt bằng"
+          },
+          {
+            "pairId": 5,
+            "left": "tunnelling shield",
+            "right": "Khiên chắn đào hầm công nghệ cao bảo vệ công nhân"
+          },
+          {
+            "pairId": 6,
+            "left": "ventilation shaft",
+            "right": "Giếng thông gió thẳng đứng giải thoát khói và khí độc"
+          },
+          {
+            "pairId": 7,
+            "left": "passenger influx",
+            "right": "Dòng người / lượng hành khách ồ ạt đổ về"
+          },
+          {
+            "pairId": 8,
+            "left": "electrification",
+            "right": "Quá trình điện khí hóa toàn diện mạng lưới đường sắt"
+          },
+          {
+            "pairId": 9,
+            "left": "infrastructure investment",
+            "right": "Khoản vốn đầu tư vào cơ sở hạ tầng giao thông"
+          },
+          {
+            "pairId": 10,
+            "left": "metropolitan transit",
+            "right": "Hệ thống giao thông công cộng đô thị hiện đại"
+          }
+        ],
+        "quiz": [
+          {
+            "id": "qz_read_test_1_1",
+            "question": "Trong ngữ cảnh bài thi này, cụm từ 'subterranean network' (noun phrase) mang ý nghĩa chuẩn xác nhất là gì?",
+            "options": [
+              "Mạng lưới công trình chằng chịt dưới lòng đất",
+              "Hiện tượng biến đổi khí hậu bất thường",
+              "Thuật ngữ chỉ chi phí hành chính và giấy phép",
+              "Mô hình nghiên cứu lý thuyết chưa được áp dụng"
+            ],
+            "correct": 0,
+            "explanation": "'subterranean network' (/ˌsʌb.təˈreɪ.ni.ən ˈnet.wɜːk/) có nghĩa là: Mạng lưới công trình chằng chịt dưới lòng đất. Ví dụ trích xuất: \"Engineers designed a vast subterranean network of tunnels to carry London's commuter trains.\""
+          },
+          {
+            "id": "qz_read_test_1_2",
+            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'steam locomotive' là gì?",
+            "options": [
+              "deviate from arbitrary figures",
+              "operate heavy steam locomotives",
+              "contradict empirical survey findings",
+              "dismiss foundational historical accounts"
+            ],
+            "correct": 1,
+            "explanation": "Collocation chuẩn xác trong đề thi IELTS là: 'operate heavy steam locomotives'. Ý nghĩa: Đầu máy xe lửa chạy bằng hơi nước cổ điển."
+          },
+          {
+            "id": "qz_read_test_1_3",
+            "question": "Từ hoặc cụm từ nào sau đây có thể dùng để Paraphrase (diễn giải tương đương) cho 'congestion relief'?",
+            "options": [
+              "spurious assertions / unfounded allegations",
+              "marginal fluctuations in monetary value",
+              "traffic mitigation / gridlock resolution",
+              "temporary administrative sanctions"
+            ],
+            "correct": 2,
+            "explanation": "Từ đồng nghĩa / Paraphrase thường gặp trong IELTS: 'congestion relief' tương đương với 'traffic mitigation / gridlock resolution'."
+          },
+          {
+            "id": "qz_read_test_1_4",
+            "question": "Điền từ thích hợp vào chỗ trống: \"The first tube tunnels were built using the disruptive __________ through main roads.\"",
+            "options": [
+              "arbitrary hypothesis",
+              "superficial discrepancy",
+              "cut-and-cover method",
+              "disproportionate allocation"
+            ],
+            "correct": 2,
+            "explanation": "Đáp án đúng là 'cut-and-cover method'. Câu hoàn chỉnh: \"The first tube tunnels were built using the disruptive cut-and-cover method through main roads.\""
+          }
+        ]
+      }
     },
     {
       "id": "read_test_2",
@@ -41815,9 +43909,358 @@ var IELTS_BANK_100 = {
           "explanation": "Hai ưu điểm nổi bật là tái kết nối đời sống cộng đồng đô thị (B) và tích hợp các trạm điện năng lượng tái tạo (E)."
         }
       ],
-      "vocabulary": [],
+      "vocabulary": [
+        {
+          "id": "voc_read_2_1",
+          "term": "architectural grandeur",
+          "type": "noun phrase",
+          "ipa": "/ˌɑː.kɪˈtek.tʃər.əl ˈɡræn.dʒər/",
+          "meaning": "Vẻ uy nghi, tráng lệ và kỳ vĩ của công trình kiến trúc",
+          "example": "The Roman Colosseum continues to awe visitors with its imposing architectural grandeur.",
+          "paraphrase": "structural magnificence / monumental beauty",
+          "collocation": "admire the architectural grandeur"
+        },
+        {
+          "id": "voc_read_2_2",
+          "term": "spectator capacity",
+          "type": "noun phrase",
+          "ipa": "/spekˈteɪ.tər kəˈpæs.ə.ti/",
+          "meaning": "Sức chứa tối đa số lượng khán giả ngồi xem",
+          "example": "Modern Olympic arenas boast a spectator capacity exceeding eighty thousand seats.",
+          "paraphrase": "seating volume / crowd capacity",
+          "collocation": "expand the total spectator capacity"
+        },
+        {
+          "id": "voc_read_2_3",
+          "term": "amphitheatre",
+          "type": "noun",
+          "ipa": "/ˈæm.fɪˌθɪə.tər/",
+          "meaning": "Khán đài hình tròn hoặc bầu dục dốc bậc cổ đại",
+          "example": "Ancient Roman towns constructed stone amphitheatres for gladiatorial combats and pageants.",
+          "paraphrase": "open-air arena / circular coliseum",
+          "collocation": "excavate a ruined Roman amphitheatre"
+        },
+        {
+          "id": "voc_read_2_4",
+          "term": "retractable roof",
+          "type": "noun phrase",
+          "ipa": "/rɪˈtræk.tə.bəl ruːf/",
+          "meaning": "Mái vòm sân vận động có thể kéo mở linh hoạt",
+          "example": "A motorized retractable roof ensures that matches continue regardless of torrential downpours.",
+          "paraphrase": "sliding canopy / convertible dome",
+          "collocation": "install an automated retractable roof"
+        },
+        {
+          "id": "voc_read_2_5",
+          "term": "acoustic optimization",
+          "type": "noun phrase",
+          "ipa": "/əˈkuː.stɪk ˌɒp.tɪ.maɪˈzeɪ.ʃən/",
+          "meaning": "Kỹ thuật tối ưu hóa chất lượng âm thanh công trình",
+          "example": "Acoustic optimization prevents deafening echoes while amplifying spectator cheers.",
+          "paraphrase": "sound engineering / acoustic tuning",
+          "collocation": "achieve superb acoustic optimization"
+        },
+        {
+          "id": "voc_read_2_6",
+          "term": "multi-purpose arena",
+          "type": "noun phrase",
+          "ipa": "/ˌmʌl.tiˈpɜː.pəs əˈriː.nə/",
+          "meaning": "Khu liên hợp thi đấu và tổ chức sự kiện đa năng",
+          "example": "The new stadium operates as a multi-purpose arena hosting concerts, expos, and finals.",
+          "paraphrase": "versatile stadium / polyvalent venue",
+          "collocation": "design a modern multi-purpose arena"
+        },
+        {
+          "id": "voc_read_2_7",
+          "term": "cantilevered canopy",
+          "type": "noun phrase",
+          "ipa": "/ˌkæn.tɪˈliː.vəd ˈkæn.ə.pi/",
+          "meaning": "Mái che chìa conson không cần cột chống đỡ tầm nhìn",
+          "example": "The cantilevered canopy shelters tier fans without obstructing any sightlines to the pitch.",
+          "paraphrase": "overhanging roof / unsupported overhang",
+          "collocation": "engineer a lightweight cantilevered canopy"
+        },
+        {
+          "id": "voc_read_2_8",
+          "term": "evacuation route",
+          "type": "noun phrase",
+          "ipa": "/ɪˌvæk.juˈeɪ.ʃən ruːt/",
+          "meaning": "Lối thoát hiểm khẩn cấp khi xảy ra sự cố",
+          "example": "Wide concourses and well-lit evacuation routes permit safe clearance in under eight minutes.",
+          "paraphrase": "emergency exit corridor / escape pathway",
+          "collocation": "design unobstructed evacuation routes"
+        },
+        {
+          "id": "voc_read_2_9",
+          "term": "urban landmark",
+          "type": "noun phrase",
+          "ipa": "/ˈɜː.bən ˈlænd.mɑːk/",
+          "meaning": "Công trình mang tính biểu tượng đặc trưng của thành phố",
+          "example": "The gleaming stadium serves as a proud urban landmark revitalizing the post-industrial docklands.",
+          "paraphrase": "city monument / iconic metropolitan fixture",
+          "collocation": "establish a recognizable urban landmark"
+        },
+        {
+          "id": "voc_read_2_10",
+          "term": "sustainability credentials",
+          "type": "noun phrase",
+          "ipa": "/səˌsteɪ.nəˈbɪl.ə.ti krɪˈden.ʃəlz/",
+          "meaning": "Các chứng chỉ và cam kết bảo vệ môi trường",
+          "example": "Rainwater harvesting and photovoltaic panels boost the venue's sustainability credentials.",
+          "paraphrase": "green certifications / eco-friendly rating",
+          "collocation": "demonstrate robust sustainability credentials"
+        }
+      ],
       "camSeries": "cam_21",
-      "camBadge": "Cam 21 (2026)"
+      "camBadge": "Cam 21 (2026)",
+      "testVocabulary": [
+        {
+          "id": "voc_read_2_1",
+          "term": "architectural grandeur",
+          "type": "noun phrase",
+          "ipa": "/ˌɑː.kɪˈtek.tʃər.əl ˈɡræn.dʒər/",
+          "meaning": "Vẻ uy nghi, tráng lệ và kỳ vĩ của công trình kiến trúc",
+          "example": "The Roman Colosseum continues to awe visitors with its imposing architectural grandeur.",
+          "paraphrase": "structural magnificence / monumental beauty",
+          "collocation": "admire the architectural grandeur"
+        },
+        {
+          "id": "voc_read_2_2",
+          "term": "spectator capacity",
+          "type": "noun phrase",
+          "ipa": "/spekˈteɪ.tər kəˈpæs.ə.ti/",
+          "meaning": "Sức chứa tối đa số lượng khán giả ngồi xem",
+          "example": "Modern Olympic arenas boast a spectator capacity exceeding eighty thousand seats.",
+          "paraphrase": "seating volume / crowd capacity",
+          "collocation": "expand the total spectator capacity"
+        },
+        {
+          "id": "voc_read_2_3",
+          "term": "amphitheatre",
+          "type": "noun",
+          "ipa": "/ˈæm.fɪˌθɪə.tər/",
+          "meaning": "Khán đài hình tròn hoặc bầu dục dốc bậc cổ đại",
+          "example": "Ancient Roman towns constructed stone amphitheatres for gladiatorial combats and pageants.",
+          "paraphrase": "open-air arena / circular coliseum",
+          "collocation": "excavate a ruined Roman amphitheatre"
+        },
+        {
+          "id": "voc_read_2_4",
+          "term": "retractable roof",
+          "type": "noun phrase",
+          "ipa": "/rɪˈtræk.tə.bəl ruːf/",
+          "meaning": "Mái vòm sân vận động có thể kéo mở linh hoạt",
+          "example": "A motorized retractable roof ensures that matches continue regardless of torrential downpours.",
+          "paraphrase": "sliding canopy / convertible dome",
+          "collocation": "install an automated retractable roof"
+        },
+        {
+          "id": "voc_read_2_5",
+          "term": "acoustic optimization",
+          "type": "noun phrase",
+          "ipa": "/əˈkuː.stɪk ˌɒp.tɪ.maɪˈzeɪ.ʃən/",
+          "meaning": "Kỹ thuật tối ưu hóa chất lượng âm thanh công trình",
+          "example": "Acoustic optimization prevents deafening echoes while amplifying spectator cheers.",
+          "paraphrase": "sound engineering / acoustic tuning",
+          "collocation": "achieve superb acoustic optimization"
+        },
+        {
+          "id": "voc_read_2_6",
+          "term": "multi-purpose arena",
+          "type": "noun phrase",
+          "ipa": "/ˌmʌl.tiˈpɜː.pəs əˈriː.nə/",
+          "meaning": "Khu liên hợp thi đấu và tổ chức sự kiện đa năng",
+          "example": "The new stadium operates as a multi-purpose arena hosting concerts, expos, and finals.",
+          "paraphrase": "versatile stadium / polyvalent venue",
+          "collocation": "design a modern multi-purpose arena"
+        },
+        {
+          "id": "voc_read_2_7",
+          "term": "cantilevered canopy",
+          "type": "noun phrase",
+          "ipa": "/ˌkæn.tɪˈliː.vəd ˈkæn.ə.pi/",
+          "meaning": "Mái che chìa conson không cần cột chống đỡ tầm nhìn",
+          "example": "The cantilevered canopy shelters tier fans without obstructing any sightlines to the pitch.",
+          "paraphrase": "overhanging roof / unsupported overhang",
+          "collocation": "engineer a lightweight cantilevered canopy"
+        },
+        {
+          "id": "voc_read_2_8",
+          "term": "evacuation route",
+          "type": "noun phrase",
+          "ipa": "/ɪˌvæk.juˈeɪ.ʃən ruːt/",
+          "meaning": "Lối thoát hiểm khẩn cấp khi xảy ra sự cố",
+          "example": "Wide concourses and well-lit evacuation routes permit safe clearance in under eight minutes.",
+          "paraphrase": "emergency exit corridor / escape pathway",
+          "collocation": "design unobstructed evacuation routes"
+        },
+        {
+          "id": "voc_read_2_9",
+          "term": "urban landmark",
+          "type": "noun phrase",
+          "ipa": "/ˈɜː.bən ˈlænd.mɑːk/",
+          "meaning": "Công trình mang tính biểu tượng đặc trưng của thành phố",
+          "example": "The gleaming stadium serves as a proud urban landmark revitalizing the post-industrial docklands.",
+          "paraphrase": "city monument / iconic metropolitan fixture",
+          "collocation": "establish a recognizable urban landmark"
+        },
+        {
+          "id": "voc_read_2_10",
+          "term": "sustainability credentials",
+          "type": "noun phrase",
+          "ipa": "/səˌsteɪ.nəˈbɪl.ə.ti krɪˈden.ʃəlz/",
+          "meaning": "Các chứng chỉ và cam kết bảo vệ môi trường",
+          "example": "Rainwater harvesting and photovoltaic panels boost the venue's sustainability credentials.",
+          "paraphrase": "green certifications / eco-friendly rating",
+          "collocation": "demonstrate robust sustainability credentials"
+        }
+      ],
+      "testVocabPractice": {
+        "flashcards": [
+          {
+            "front": "architectural grandeur",
+            "back": "Vẻ uy nghi, tráng lệ và kỳ vĩ của công trình kiến trúc\n\n• IPA: /ˌɑː.kɪˈtek.tʃər.əl ˈɡræn.dʒər/\n• Ví dụ bài test: \"The Roman Colosseum continues to awe visitors with its imposing architectural grandeur.\"\n• Paraphrase: structural magnificence / monumental beauty\n• Collocation: admire the architectural grandeur"
+          },
+          {
+            "front": "spectator capacity",
+            "back": "Sức chứa tối đa số lượng khán giả ngồi xem\n\n• IPA: /spekˈteɪ.tər kəˈpæs.ə.ti/\n• Ví dụ bài test: \"Modern Olympic arenas boast a spectator capacity exceeding eighty thousand seats.\"\n• Paraphrase: seating volume / crowd capacity\n• Collocation: expand the total spectator capacity"
+          },
+          {
+            "front": "amphitheatre",
+            "back": "Khán đài hình tròn hoặc bầu dục dốc bậc cổ đại\n\n• IPA: /ˈæm.fɪˌθɪə.tər/\n• Ví dụ bài test: \"Ancient Roman towns constructed stone amphitheatres for gladiatorial combats and pageants.\"\n• Paraphrase: open-air arena / circular coliseum\n• Collocation: excavate a ruined Roman amphitheatre"
+          },
+          {
+            "front": "retractable roof",
+            "back": "Mái vòm sân vận động có thể kéo mở linh hoạt\n\n• IPA: /rɪˈtræk.tə.bəl ruːf/\n• Ví dụ bài test: \"A motorized retractable roof ensures that matches continue regardless of torrential downpours.\"\n• Paraphrase: sliding canopy / convertible dome\n• Collocation: install an automated retractable roof"
+          },
+          {
+            "front": "acoustic optimization",
+            "back": "Kỹ thuật tối ưu hóa chất lượng âm thanh công trình\n\n• IPA: /əˈkuː.stɪk ˌɒp.tɪ.maɪˈzeɪ.ʃən/\n• Ví dụ bài test: \"Acoustic optimization prevents deafening echoes while amplifying spectator cheers.\"\n• Paraphrase: sound engineering / acoustic tuning\n• Collocation: achieve superb acoustic optimization"
+          },
+          {
+            "front": "multi-purpose arena",
+            "back": "Khu liên hợp thi đấu và tổ chức sự kiện đa năng\n\n• IPA: /ˌmʌl.tiˈpɜː.pəs əˈriː.nə/\n• Ví dụ bài test: \"The new stadium operates as a multi-purpose arena hosting concerts, expos, and finals.\"\n• Paraphrase: versatile stadium / polyvalent venue\n• Collocation: design a modern multi-purpose arena"
+          },
+          {
+            "front": "cantilevered canopy",
+            "back": "Mái che chìa conson không cần cột chống đỡ tầm nhìn\n\n• IPA: /ˌkæn.tɪˈliː.vəd ˈkæn.ə.pi/\n• Ví dụ bài test: \"The cantilevered canopy shelters tier fans without obstructing any sightlines to the pitch.\"\n• Paraphrase: overhanging roof / unsupported overhang\n• Collocation: engineer a lightweight cantilevered canopy"
+          },
+          {
+            "front": "evacuation route",
+            "back": "Lối thoát hiểm khẩn cấp khi xảy ra sự cố\n\n• IPA: /ɪˌvæk.juˈeɪ.ʃən ruːt/\n• Ví dụ bài test: \"Wide concourses and well-lit evacuation routes permit safe clearance in under eight minutes.\"\n• Paraphrase: emergency exit corridor / escape pathway\n• Collocation: design unobstructed evacuation routes"
+          },
+          {
+            "front": "urban landmark",
+            "back": "Công trình mang tính biểu tượng đặc trưng của thành phố\n\n• IPA: /ˈɜː.bən ˈlænd.mɑːk/\n• Ví dụ bài test: \"The gleaming stadium serves as a proud urban landmark revitalizing the post-industrial docklands.\"\n• Paraphrase: city monument / iconic metropolitan fixture\n• Collocation: establish a recognizable urban landmark"
+          },
+          {
+            "front": "sustainability credentials",
+            "back": "Các chứng chỉ và cam kết bảo vệ môi trường\n\n• IPA: /səˌsteɪ.nəˈbɪl.ə.ti krɪˈden.ʃəlz/\n• Ví dụ bài test: \"Rainwater harvesting and photovoltaic panels boost the venue's sustainability credentials.\"\n• Paraphrase: green certifications / eco-friendly rating\n• Collocation: demonstrate robust sustainability credentials"
+          }
+        ],
+        "matching": [
+          {
+            "pairId": 1,
+            "left": "architectural grandeur",
+            "right": "Vẻ uy nghi, tráng lệ và kỳ vĩ của công trình kiến trúc"
+          },
+          {
+            "pairId": 2,
+            "left": "spectator capacity",
+            "right": "Sức chứa tối đa số lượng khán giả ngồi xem"
+          },
+          {
+            "pairId": 3,
+            "left": "amphitheatre",
+            "right": "Khán đài hình tròn hoặc bầu dục dốc bậc cổ đại"
+          },
+          {
+            "pairId": 4,
+            "left": "retractable roof",
+            "right": "Mái vòm sân vận động có thể kéo mở linh hoạt"
+          },
+          {
+            "pairId": 5,
+            "left": "acoustic optimization",
+            "right": "Kỹ thuật tối ưu hóa chất lượng âm thanh công trình"
+          },
+          {
+            "pairId": 6,
+            "left": "multi-purpose arena",
+            "right": "Khu liên hợp thi đấu và tổ chức sự kiện đa năng"
+          },
+          {
+            "pairId": 7,
+            "left": "cantilevered canopy",
+            "right": "Mái che chìa conson không cần cột chống đỡ tầm nhìn"
+          },
+          {
+            "pairId": 8,
+            "left": "evacuation route",
+            "right": "Lối thoát hiểm khẩn cấp khi xảy ra sự cố"
+          },
+          {
+            "pairId": 9,
+            "left": "urban landmark",
+            "right": "Công trình mang tính biểu tượng đặc trưng của thành phố"
+          },
+          {
+            "pairId": 10,
+            "left": "sustainability credentials",
+            "right": "Các chứng chỉ và cam kết bảo vệ môi trường"
+          }
+        ],
+        "quiz": [
+          {
+            "id": "qz_read_test_2_1",
+            "question": "Trong ngữ cảnh bài thi này, cụm từ 'architectural grandeur' (noun phrase) mang ý nghĩa chuẩn xác nhất là gì?",
+            "options": [
+              "Vẻ uy nghi, tráng lệ và kỳ vĩ của công trình kiến trúc",
+              "Hiện tượng biến đổi khí hậu bất thường",
+              "Thuật ngữ chỉ chi phí hành chính và giấy phép",
+              "Mô hình nghiên cứu lý thuyết chưa được áp dụng"
+            ],
+            "correct": 0,
+            "explanation": "'architectural grandeur' (/ˌɑː.kɪˈtek.tʃər.əl ˈɡræn.dʒər/) có nghĩa là: Vẻ uy nghi, tráng lệ và kỳ vĩ của công trình kiến trúc. Ví dụ trích xuất: \"The Roman Colosseum continues to awe visitors with its imposing architectural grandeur.\""
+          },
+          {
+            "id": "qz_read_test_2_2",
+            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'spectator capacity' là gì?",
+            "options": [
+              "deviate from arbitrary figures",
+              "expand the total spectator capacity",
+              "contradict empirical survey findings",
+              "dismiss foundational historical accounts"
+            ],
+            "correct": 1,
+            "explanation": "Collocation chuẩn xác trong đề thi IELTS là: 'expand the total spectator capacity'. Ý nghĩa: Sức chứa tối đa số lượng khán giả ngồi xem."
+          },
+          {
+            "id": "qz_read_test_2_3",
+            "question": "Từ hoặc cụm từ nào sau đây có thể dùng để Paraphrase (diễn giải tương đương) cho 'amphitheatre'?",
+            "options": [
+              "spurious assertions / unfounded allegations",
+              "marginal fluctuations in monetary value",
+              "open-air arena / circular coliseum",
+              "temporary administrative sanctions"
+            ],
+            "correct": 2,
+            "explanation": "Từ đồng nghĩa / Paraphrase thường gặp trong IELTS: 'amphitheatre' tương đương với 'open-air arena / circular coliseum'."
+          },
+          {
+            "id": "qz_read_test_2_4",
+            "question": "Điền từ thích hợp vào chỗ trống: \"A motorized __________ ensures that matches continue regardless of torrential downpours.\"",
+            "options": [
+              "arbitrary hypothesis",
+              "superficial discrepancy",
+              "retractable roof",
+              "disproportionate allocation"
+            ],
+            "correct": 2,
+            "explanation": "Đáp án đúng là 'retractable roof'. Câu hoàn chỉnh: \"A motorized retractable roof ensures that matches continue regardless of torrential downpours.\""
+          }
+        ]
+      }
     },
     {
       "id": "read_test_3",
@@ -42068,9 +44511,358 @@ var IELTS_BANK_100 = {
           "explanation": "Tác giả chỉ trích cuốn sách đã không làm rõ liệu biến cố đó có tác động lâu dài đến con người vua sau này hay không (D)."
         }
       ],
-      "vocabulary": [],
+      "vocabulary": [
+        {
+          "id": "voc_read_3_1",
+          "term": "monarchical restoration",
+          "type": "noun phrase",
+          "ipa": "/məˈnɑː.kɪ.kəl ˌres.tərˈeɪ.ʃən/",
+          "meaning": "Sự phục hồi vương quyền và ngai vàng quân chủ",
+          "example": "The restoration of Charles II marked the end of the Commonwealth and the monarchical restoration.",
+          "paraphrase": "reinstatement of the crown / regal restoration",
+          "collocation": "culminate in the monarchical restoration"
+        },
+        {
+          "id": "voc_read_3_2",
+          "term": "fugitive monarch",
+          "type": "noun phrase",
+          "ipa": "/ˈfjuː.dʒə.tɪv ˈmɒn.ək/",
+          "meaning": "Vị vua đang đào tẩu và trốn chạy kẻ thù",
+          "example": "Following the Battle of Worcester, the fugitive monarch fled across the countryside in disguise.",
+          "paraphrase": "runaway king / exiled sovereign",
+          "collocation": "shelter the desperate fugitive monarch"
+        },
+        {
+          "id": "voc_read_3_3",
+          "term": "clandestine escape",
+          "type": "noun phrase",
+          "ipa": "/klænˈdes.tɪn ɪˈskeɪp/",
+          "meaning": "Cuộc tẩu thoát bí mật, lén lút trong đêm",
+          "example": "A loyal network of Catholic families orchestrated Charles's clandestine escape to France.",
+          "paraphrase": "covert getaway / stealthy flight",
+          "collocation": "orchestrate a perilous clandestine escape"
+        },
+        {
+          "id": "voc_read_3_4",
+          "term": "disguise tactic",
+          "type": "noun phrase",
+          "ipa": "/dɪsˈɡaɪz ˈtæk.tɪk/",
+          "meaning": "Chiến thuật cải trang thay hình đổi dạng",
+          "example": "Cutting his long hair and wearing rough servant garb was an effective disguise tactic.",
+          "paraphrase": "camouflage stratagem / alter-ego deception",
+          "collocation": "adopt a convincing disguise tactic"
+        },
+        {
+          "id": "voc_read_3_5",
+          "term": "royalist sympathizer",
+          "type": "noun phrase",
+          "ipa": "/ˈrɔɪ.əl.ɪst ˈsɪm.pə.θaɪ.zər/",
+          "meaning": "Người ủng hộ trung thành với hoàng gia",
+          "example": "Many brave royalist sympathizers risked execution by concealing the King in priest holes.",
+          "paraphrase": "loyalist supporter / cavalier partisan",
+          "collocation": "rely on steadfast royalist sympathizers"
+        },
+        {
+          "id": "voc_read_3_6",
+          "term": "political turmoil",
+          "type": "noun phrase",
+          "ipa": "/pəˈlɪt.ɪ.kəl ˈtɜː.mɔɪl/",
+          "meaning": "Sự rối ren, bất ổn và biến động chính trị",
+          "example": "England was plunged into deep political turmoil during the Civil War between Crown and Parliament.",
+          "paraphrase": "civil upheaval / state instability",
+          "collocation": "navigate turbulent political turmoil"
+        },
+        {
+          "id": "voc_read_3_7",
+          "term": "bounty hunter",
+          "type": "noun phrase",
+          "ipa": "/ˈbaʊn.ti ˌhʌn.tər/",
+          "meaning": "Kẻ săn tiền thưởng truy lùng tội phạm",
+          "example": "Parliament offered a fortune of £1,000 to any mercenary or bounty hunter who captured Charles.",
+          "paraphrase": "reward seeker / manhunter",
+          "collocation": "evade ruthless bounty hunters"
+        },
+        {
+          "id": "voc_read_3_8",
+          "term": "perilous journey",
+          "type": "noun phrase",
+          "ipa": "/ˈper.əl.əs ˈdʒɜː.ni/",
+          "meaning": "Hành trình đầy rẫy hiểm nguy chết người",
+          "example": "Riding across enemy patrols on horseback turned the escape into a perilous journey.",
+          "paraphrase": "hazardous odyssey / treacherous voyage",
+          "collocation": "endure a long perilous journey"
+        },
+        {
+          "id": "voc_read_3_9",
+          "term": "eyewitness chronicle",
+          "type": "noun phrase",
+          "ipa": "/ˈaɪˌwɪt.nəs ˈkrɒn.ɪ.kəl/",
+          "meaning": "Bản ghi chép và lời kể của nhân chứng trực tiếp",
+          "example": "Samuel Pepys recorded the King's personal eyewitness chronicle of hiding in the Royal Oak.",
+          "paraphrase": "firsthand memoir / contemporary testimonial",
+          "collocation": "compile an authentic eyewitness chronicle"
+        },
+        {
+          "id": "voc_read_3_10",
+          "term": "historical folklore",
+          "type": "noun phrase",
+          "ipa": "/hɪˈstɒr.ɪ.kəl ˈfəʊk.lɔːr/",
+          "meaning": "Truyền thuyết và văn hóa dân gian gắn liền với lịch sử",
+          "example": "The story of the King hiding inside an oak tree became immortalized in British historical folklore.",
+          "paraphrase": "popular legend / cultural mythos",
+          "collocation": "pass down through historical folklore"
+        }
+      ],
       "camSeries": "cam_21",
-      "camBadge": "Cam 21 (2026)"
+      "camBadge": "Cam 21 (2026)",
+      "testVocabulary": [
+        {
+          "id": "voc_read_3_1",
+          "term": "monarchical restoration",
+          "type": "noun phrase",
+          "ipa": "/məˈnɑː.kɪ.kəl ˌres.tərˈeɪ.ʃən/",
+          "meaning": "Sự phục hồi vương quyền và ngai vàng quân chủ",
+          "example": "The restoration of Charles II marked the end of the Commonwealth and the monarchical restoration.",
+          "paraphrase": "reinstatement of the crown / regal restoration",
+          "collocation": "culminate in the monarchical restoration"
+        },
+        {
+          "id": "voc_read_3_2",
+          "term": "fugitive monarch",
+          "type": "noun phrase",
+          "ipa": "/ˈfjuː.dʒə.tɪv ˈmɒn.ək/",
+          "meaning": "Vị vua đang đào tẩu và trốn chạy kẻ thù",
+          "example": "Following the Battle of Worcester, the fugitive monarch fled across the countryside in disguise.",
+          "paraphrase": "runaway king / exiled sovereign",
+          "collocation": "shelter the desperate fugitive monarch"
+        },
+        {
+          "id": "voc_read_3_3",
+          "term": "clandestine escape",
+          "type": "noun phrase",
+          "ipa": "/klænˈdes.tɪn ɪˈskeɪp/",
+          "meaning": "Cuộc tẩu thoát bí mật, lén lút trong đêm",
+          "example": "A loyal network of Catholic families orchestrated Charles's clandestine escape to France.",
+          "paraphrase": "covert getaway / stealthy flight",
+          "collocation": "orchestrate a perilous clandestine escape"
+        },
+        {
+          "id": "voc_read_3_4",
+          "term": "disguise tactic",
+          "type": "noun phrase",
+          "ipa": "/dɪsˈɡaɪz ˈtæk.tɪk/",
+          "meaning": "Chiến thuật cải trang thay hình đổi dạng",
+          "example": "Cutting his long hair and wearing rough servant garb was an effective disguise tactic.",
+          "paraphrase": "camouflage stratagem / alter-ego deception",
+          "collocation": "adopt a convincing disguise tactic"
+        },
+        {
+          "id": "voc_read_3_5",
+          "term": "royalist sympathizer",
+          "type": "noun phrase",
+          "ipa": "/ˈrɔɪ.əl.ɪst ˈsɪm.pə.θaɪ.zər/",
+          "meaning": "Người ủng hộ trung thành với hoàng gia",
+          "example": "Many brave royalist sympathizers risked execution by concealing the King in priest holes.",
+          "paraphrase": "loyalist supporter / cavalier partisan",
+          "collocation": "rely on steadfast royalist sympathizers"
+        },
+        {
+          "id": "voc_read_3_6",
+          "term": "political turmoil",
+          "type": "noun phrase",
+          "ipa": "/pəˈlɪt.ɪ.kəl ˈtɜː.mɔɪl/",
+          "meaning": "Sự rối ren, bất ổn và biến động chính trị",
+          "example": "England was plunged into deep political turmoil during the Civil War between Crown and Parliament.",
+          "paraphrase": "civil upheaval / state instability",
+          "collocation": "navigate turbulent political turmoil"
+        },
+        {
+          "id": "voc_read_3_7",
+          "term": "bounty hunter",
+          "type": "noun phrase",
+          "ipa": "/ˈbaʊn.ti ˌhʌn.tər/",
+          "meaning": "Kẻ săn tiền thưởng truy lùng tội phạm",
+          "example": "Parliament offered a fortune of £1,000 to any mercenary or bounty hunter who captured Charles.",
+          "paraphrase": "reward seeker / manhunter",
+          "collocation": "evade ruthless bounty hunters"
+        },
+        {
+          "id": "voc_read_3_8",
+          "term": "perilous journey",
+          "type": "noun phrase",
+          "ipa": "/ˈper.əl.əs ˈdʒɜː.ni/",
+          "meaning": "Hành trình đầy rẫy hiểm nguy chết người",
+          "example": "Riding across enemy patrols on horseback turned the escape into a perilous journey.",
+          "paraphrase": "hazardous odyssey / treacherous voyage",
+          "collocation": "endure a long perilous journey"
+        },
+        {
+          "id": "voc_read_3_9",
+          "term": "eyewitness chronicle",
+          "type": "noun phrase",
+          "ipa": "/ˈaɪˌwɪt.nəs ˈkrɒn.ɪ.kəl/",
+          "meaning": "Bản ghi chép và lời kể của nhân chứng trực tiếp",
+          "example": "Samuel Pepys recorded the King's personal eyewitness chronicle of hiding in the Royal Oak.",
+          "paraphrase": "firsthand memoir / contemporary testimonial",
+          "collocation": "compile an authentic eyewitness chronicle"
+        },
+        {
+          "id": "voc_read_3_10",
+          "term": "historical folklore",
+          "type": "noun phrase",
+          "ipa": "/hɪˈstɒr.ɪ.kəl ˈfəʊk.lɔːr/",
+          "meaning": "Truyền thuyết và văn hóa dân gian gắn liền với lịch sử",
+          "example": "The story of the King hiding inside an oak tree became immortalized in British historical folklore.",
+          "paraphrase": "popular legend / cultural mythos",
+          "collocation": "pass down through historical folklore"
+        }
+      ],
+      "testVocabPractice": {
+        "flashcards": [
+          {
+            "front": "monarchical restoration",
+            "back": "Sự phục hồi vương quyền và ngai vàng quân chủ\n\n• IPA: /məˈnɑː.kɪ.kəl ˌres.tərˈeɪ.ʃən/\n• Ví dụ bài test: \"The restoration of Charles II marked the end of the Commonwealth and the monarchical restoration.\"\n• Paraphrase: reinstatement of the crown / regal restoration\n• Collocation: culminate in the monarchical restoration"
+          },
+          {
+            "front": "fugitive monarch",
+            "back": "Vị vua đang đào tẩu và trốn chạy kẻ thù\n\n• IPA: /ˈfjuː.dʒə.tɪv ˈmɒn.ək/\n• Ví dụ bài test: \"Following the Battle of Worcester, the fugitive monarch fled across the countryside in disguise.\"\n• Paraphrase: runaway king / exiled sovereign\n• Collocation: shelter the desperate fugitive monarch"
+          },
+          {
+            "front": "clandestine escape",
+            "back": "Cuộc tẩu thoát bí mật, lén lút trong đêm\n\n• IPA: /klænˈdes.tɪn ɪˈskeɪp/\n• Ví dụ bài test: \"A loyal network of Catholic families orchestrated Charles's clandestine escape to France.\"\n• Paraphrase: covert getaway / stealthy flight\n• Collocation: orchestrate a perilous clandestine escape"
+          },
+          {
+            "front": "disguise tactic",
+            "back": "Chiến thuật cải trang thay hình đổi dạng\n\n• IPA: /dɪsˈɡaɪz ˈtæk.tɪk/\n• Ví dụ bài test: \"Cutting his long hair and wearing rough servant garb was an effective disguise tactic.\"\n• Paraphrase: camouflage stratagem / alter-ego deception\n• Collocation: adopt a convincing disguise tactic"
+          },
+          {
+            "front": "royalist sympathizer",
+            "back": "Người ủng hộ trung thành với hoàng gia\n\n• IPA: /ˈrɔɪ.əl.ɪst ˈsɪm.pə.θaɪ.zər/\n• Ví dụ bài test: \"Many brave royalist sympathizers risked execution by concealing the King in priest holes.\"\n• Paraphrase: loyalist supporter / cavalier partisan\n• Collocation: rely on steadfast royalist sympathizers"
+          },
+          {
+            "front": "political turmoil",
+            "back": "Sự rối ren, bất ổn và biến động chính trị\n\n• IPA: /pəˈlɪt.ɪ.kəl ˈtɜː.mɔɪl/\n• Ví dụ bài test: \"England was plunged into deep political turmoil during the Civil War between Crown and Parliament.\"\n• Paraphrase: civil upheaval / state instability\n• Collocation: navigate turbulent political turmoil"
+          },
+          {
+            "front": "bounty hunter",
+            "back": "Kẻ săn tiền thưởng truy lùng tội phạm\n\n• IPA: /ˈbaʊn.ti ˌhʌn.tər/\n• Ví dụ bài test: \"Parliament offered a fortune of £1,000 to any mercenary or bounty hunter who captured Charles.\"\n• Paraphrase: reward seeker / manhunter\n• Collocation: evade ruthless bounty hunters"
+          },
+          {
+            "front": "perilous journey",
+            "back": "Hành trình đầy rẫy hiểm nguy chết người\n\n• IPA: /ˈper.əl.əs ˈdʒɜː.ni/\n• Ví dụ bài test: \"Riding across enemy patrols on horseback turned the escape into a perilous journey.\"\n• Paraphrase: hazardous odyssey / treacherous voyage\n• Collocation: endure a long perilous journey"
+          },
+          {
+            "front": "eyewitness chronicle",
+            "back": "Bản ghi chép và lời kể của nhân chứng trực tiếp\n\n• IPA: /ˈaɪˌwɪt.nəs ˈkrɒn.ɪ.kəl/\n• Ví dụ bài test: \"Samuel Pepys recorded the King's personal eyewitness chronicle of hiding in the Royal Oak.\"\n• Paraphrase: firsthand memoir / contemporary testimonial\n• Collocation: compile an authentic eyewitness chronicle"
+          },
+          {
+            "front": "historical folklore",
+            "back": "Truyền thuyết và văn hóa dân gian gắn liền với lịch sử\n\n• IPA: /hɪˈstɒr.ɪ.kəl ˈfəʊk.lɔːr/\n• Ví dụ bài test: \"The story of the King hiding inside an oak tree became immortalized in British historical folklore.\"\n• Paraphrase: popular legend / cultural mythos\n• Collocation: pass down through historical folklore"
+          }
+        ],
+        "matching": [
+          {
+            "pairId": 1,
+            "left": "monarchical restoration",
+            "right": "Sự phục hồi vương quyền và ngai vàng quân chủ"
+          },
+          {
+            "pairId": 2,
+            "left": "fugitive monarch",
+            "right": "Vị vua đang đào tẩu và trốn chạy kẻ thù"
+          },
+          {
+            "pairId": 3,
+            "left": "clandestine escape",
+            "right": "Cuộc tẩu thoát bí mật, lén lút trong đêm"
+          },
+          {
+            "pairId": 4,
+            "left": "disguise tactic",
+            "right": "Chiến thuật cải trang thay hình đổi dạng"
+          },
+          {
+            "pairId": 5,
+            "left": "royalist sympathizer",
+            "right": "Người ủng hộ trung thành với hoàng gia"
+          },
+          {
+            "pairId": 6,
+            "left": "political turmoil",
+            "right": "Sự rối ren, bất ổn và biến động chính trị"
+          },
+          {
+            "pairId": 7,
+            "left": "bounty hunter",
+            "right": "Kẻ săn tiền thưởng truy lùng tội phạm"
+          },
+          {
+            "pairId": 8,
+            "left": "perilous journey",
+            "right": "Hành trình đầy rẫy hiểm nguy chết người"
+          },
+          {
+            "pairId": 9,
+            "left": "eyewitness chronicle",
+            "right": "Bản ghi chép và lời kể của nhân chứng trực tiếp"
+          },
+          {
+            "pairId": 10,
+            "left": "historical folklore",
+            "right": "Truyền thuyết và văn hóa dân gian gắn liền với lịch sử"
+          }
+        ],
+        "quiz": [
+          {
+            "id": "qz_read_test_3_1",
+            "question": "Trong ngữ cảnh bài thi này, cụm từ 'monarchical restoration' (noun phrase) mang ý nghĩa chuẩn xác nhất là gì?",
+            "options": [
+              "Sự phục hồi vương quyền và ngai vàng quân chủ",
+              "Hiện tượng biến đổi khí hậu bất thường",
+              "Thuật ngữ chỉ chi phí hành chính và giấy phép",
+              "Mô hình nghiên cứu lý thuyết chưa được áp dụng"
+            ],
+            "correct": 0,
+            "explanation": "'monarchical restoration' (/məˈnɑː.kɪ.kəl ˌres.tərˈeɪ.ʃən/) có nghĩa là: Sự phục hồi vương quyền và ngai vàng quân chủ. Ví dụ trích xuất: \"The restoration of Charles II marked the end of the Commonwealth and the monarchical restoration.\""
+          },
+          {
+            "id": "qz_read_test_3_2",
+            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'fugitive monarch' là gì?",
+            "options": [
+              "deviate from arbitrary figures",
+              "shelter the desperate fugitive monarch",
+              "contradict empirical survey findings",
+              "dismiss foundational historical accounts"
+            ],
+            "correct": 1,
+            "explanation": "Collocation chuẩn xác trong đề thi IELTS là: 'shelter the desperate fugitive monarch'. Ý nghĩa: Vị vua đang đào tẩu và trốn chạy kẻ thù."
+          },
+          {
+            "id": "qz_read_test_3_3",
+            "question": "Từ hoặc cụm từ nào sau đây có thể dùng để Paraphrase (diễn giải tương đương) cho 'clandestine escape'?",
+            "options": [
+              "spurious assertions / unfounded allegations",
+              "marginal fluctuations in monetary value",
+              "covert getaway / stealthy flight",
+              "temporary administrative sanctions"
+            ],
+            "correct": 2,
+            "explanation": "Từ đồng nghĩa / Paraphrase thường gặp trong IELTS: 'clandestine escape' tương đương với 'covert getaway / stealthy flight'."
+          },
+          {
+            "id": "qz_read_test_3_4",
+            "question": "Điền từ thích hợp vào chỗ trống: \"Cutting his long hair and wearing rough servant garb was an effective __________.\"",
+            "options": [
+              "arbitrary hypothesis",
+              "superficial discrepancy",
+              "disguise tactic",
+              "disproportionate allocation"
+            ],
+            "correct": 2,
+            "explanation": "Đáp án đúng là 'disguise tactic'. Câu hoàn chỉnh: \"Cutting his long hair and wearing rough servant garb was an effective disguise tactic.\""
+          }
+        ]
+      }
     },
     {
       "id": "read_test_4",
@@ -42665,9 +45457,358 @@ var IELTS_BANK_100 = {
           "explanation": "Tác giả chỉ trích cuốn sách đã không làm rõ liệu biến cố đó có tác động lâu dài đến con người vua sau này hay không (D)."
         }
       ],
-      "vocabulary": [],
+      "vocabulary": [
+        {
+          "id": "voc_read_4_1",
+          "term": "subterranean excavation",
+          "type": "noun phrase",
+          "ipa": "/ˌsʌb.təˈreɪ.ni.ən ˌek.skəˈveɪ.ʃən/",
+          "meaning": "Hoạt động đào hào và khai quật dưới lòng đất",
+          "example": "Early tube line construction relied on deep subterranean excavation through London clay.",
+          "paraphrase": "underground digging / subsurface boring",
+          "collocation": "supervise hazardous subterranean excavation"
+        },
+        {
+          "id": "voc_read_4_2",
+          "term": "structural integrity",
+          "type": "noun phrase",
+          "ipa": "/ˈstrʌk.tʃər.əl ɪnˈteɡ.rə.ti/",
+          "meaning": "Độ vững chắc và toàn vẹn của kết cấu công trình",
+          "example": "Engineers tested the cast-iron tunnel segments to guarantee long-term structural integrity.",
+          "paraphrase": "framework stability / load-bearing solidity",
+          "collocation": "maintain uncompromising structural integrity"
+        },
+        {
+          "id": "voc_read_4_3",
+          "term": "spectator logistics",
+          "type": "noun phrase",
+          "ipa": "/spekˈteɪ.tər ləˈdʒɪs.tɪks/",
+          "meaning": "Công tác điều phối và phân luồng lượng lớn khán giả",
+          "example": "Stadium designers must prioritize smooth spectator logistics to avert crowd bottlenecks.",
+          "paraphrase": "crowd control / attendance management",
+          "collocation": "manage seamless spectator logistics"
+        },
+        {
+          "id": "voc_read_4_4",
+          "term": "monarchical legitimacy",
+          "type": "noun phrase",
+          "ipa": "/məˈnɑː.kɪ.kəl lɪˈdʒɪt.ə.mə.si/",
+          "meaning": "Tính chính danh và hợp pháp của vương quyền hoàng gia",
+          "example": "Charles II's survival in exile preserved the constitutional monarchical legitimacy of the Stuarts.",
+          "paraphrase": "royal authority / sovereign right",
+          "collocation": "reassert monarchical legitimacy"
+        },
+        {
+          "id": "voc_read_4_5",
+          "term": "technological innovation",
+          "type": "noun phrase",
+          "ipa": "/ˌtek.nəˈlɒdʒ.ɪ.kəl ˌɪn.əˈveɪ.ʃən/",
+          "meaning": "Đổi mới sáng tạo mang tính đột phá về công nghệ",
+          "example": "The Greathead tunnelling shield was hailed as a revolutionary technological innovation.",
+          "paraphrase": "engineering breakthrough / novel invention",
+          "collocation": "pioneer bold technological innovation"
+        },
+        {
+          "id": "voc_read_4_6",
+          "term": "urban demographic",
+          "type": "noun phrase",
+          "ipa": "/ˈɜː.bən ˌdem.əˈɡræf.ɪk/",
+          "meaning": "Đặc điểm cơ cấu dân số tại vùng đô thị lớn",
+          "example": "Suburban railway expansion fundamentally transformed the London urban demographic.",
+          "paraphrase": "city populace / metropolitan population profile",
+          "collocation": "shift the local urban demographic"
+        },
+        {
+          "id": "voc_read_4_7",
+          "term": "acoustic reverberation",
+          "type": "noun phrase",
+          "ipa": "/əˈkuː.stɪk rɪˌvɜː.bərˈeɪ.ʃən/",
+          "meaning": "Hiện tượng dội âm và vang vọng âm thanh",
+          "example": "Sound baffles were mounted along the roof to dampen excessive acoustic reverberation.",
+          "paraphrase": "sound echo / acoustic resonance",
+          "collocation": "minimize disturbing acoustic reverberation"
+        },
+        {
+          "id": "voc_read_4_8",
+          "term": "political exile",
+          "type": "noun phrase",
+          "ipa": "/pəˈlɪt.ɪ.kəl ˈek.saɪl/",
+          "meaning": "Cảnh sống lưu vong tị nạn do biến động chính trị",
+          "example": "Charles spent nine years in poverty-stricken political exile across France and the Netherlands.",
+          "paraphrase": "banishment / state expatriation",
+          "collocation": "endure bitter political exile"
+        },
+        {
+          "id": "voc_read_4_9",
+          "term": "heritage conservation",
+          "type": "noun phrase",
+          "ipa": "/ˈher.ɪ.tɪdʒ ˌkɒn.səˈveɪ.ʃən/",
+          "meaning": "Công tác bảo tồn và lưu truyền di sản văn hóa",
+          "example": "Historic stadium facades are protected by strict national heritage conservation laws.",
+          "paraphrase": "monument preservation / cultural safeguarding",
+          "collocation": "champion historic heritage conservation"
+        },
+        {
+          "id": "voc_read_4_10",
+          "term": "metropolitan expansion",
+          "type": "noun phrase",
+          "ipa": "/ˌmet.rəˈpɒl.ɪ.tən ɪkˈspæn.ʃən/",
+          "meaning": "Sự mở rộng quy mô địa giới của các đô thị lớn",
+          "example": "Cheap underground fares spurred dramatic metropolitan expansion into greenbelt suburbs.",
+          "paraphrase": "city growth / suburban sprawl",
+          "collocation": "accelerate rapid metropolitan expansion"
+        }
+      ],
       "camSeries": "cam_21",
-      "camBadge": "Cam 21 (2026)"
+      "camBadge": "Cam 21 (2026)",
+      "testVocabulary": [
+        {
+          "id": "voc_read_4_1",
+          "term": "subterranean excavation",
+          "type": "noun phrase",
+          "ipa": "/ˌsʌb.təˈreɪ.ni.ən ˌek.skəˈveɪ.ʃən/",
+          "meaning": "Hoạt động đào hào và khai quật dưới lòng đất",
+          "example": "Early tube line construction relied on deep subterranean excavation through London clay.",
+          "paraphrase": "underground digging / subsurface boring",
+          "collocation": "supervise hazardous subterranean excavation"
+        },
+        {
+          "id": "voc_read_4_2",
+          "term": "structural integrity",
+          "type": "noun phrase",
+          "ipa": "/ˈstrʌk.tʃər.əl ɪnˈteɡ.rə.ti/",
+          "meaning": "Độ vững chắc và toàn vẹn của kết cấu công trình",
+          "example": "Engineers tested the cast-iron tunnel segments to guarantee long-term structural integrity.",
+          "paraphrase": "framework stability / load-bearing solidity",
+          "collocation": "maintain uncompromising structural integrity"
+        },
+        {
+          "id": "voc_read_4_3",
+          "term": "spectator logistics",
+          "type": "noun phrase",
+          "ipa": "/spekˈteɪ.tər ləˈdʒɪs.tɪks/",
+          "meaning": "Công tác điều phối và phân luồng lượng lớn khán giả",
+          "example": "Stadium designers must prioritize smooth spectator logistics to avert crowd bottlenecks.",
+          "paraphrase": "crowd control / attendance management",
+          "collocation": "manage seamless spectator logistics"
+        },
+        {
+          "id": "voc_read_4_4",
+          "term": "monarchical legitimacy",
+          "type": "noun phrase",
+          "ipa": "/məˈnɑː.kɪ.kəl lɪˈdʒɪt.ə.mə.si/",
+          "meaning": "Tính chính danh và hợp pháp của vương quyền hoàng gia",
+          "example": "Charles II's survival in exile preserved the constitutional monarchical legitimacy of the Stuarts.",
+          "paraphrase": "royal authority / sovereign right",
+          "collocation": "reassert monarchical legitimacy"
+        },
+        {
+          "id": "voc_read_4_5",
+          "term": "technological innovation",
+          "type": "noun phrase",
+          "ipa": "/ˌtek.nəˈlɒdʒ.ɪ.kəl ˌɪn.əˈveɪ.ʃən/",
+          "meaning": "Đổi mới sáng tạo mang tính đột phá về công nghệ",
+          "example": "The Greathead tunnelling shield was hailed as a revolutionary technological innovation.",
+          "paraphrase": "engineering breakthrough / novel invention",
+          "collocation": "pioneer bold technological innovation"
+        },
+        {
+          "id": "voc_read_4_6",
+          "term": "urban demographic",
+          "type": "noun phrase",
+          "ipa": "/ˈɜː.bən ˌdem.əˈɡræf.ɪk/",
+          "meaning": "Đặc điểm cơ cấu dân số tại vùng đô thị lớn",
+          "example": "Suburban railway expansion fundamentally transformed the London urban demographic.",
+          "paraphrase": "city populace / metropolitan population profile",
+          "collocation": "shift the local urban demographic"
+        },
+        {
+          "id": "voc_read_4_7",
+          "term": "acoustic reverberation",
+          "type": "noun phrase",
+          "ipa": "/əˈkuː.stɪk rɪˌvɜː.bərˈeɪ.ʃən/",
+          "meaning": "Hiện tượng dội âm và vang vọng âm thanh",
+          "example": "Sound baffles were mounted along the roof to dampen excessive acoustic reverberation.",
+          "paraphrase": "sound echo / acoustic resonance",
+          "collocation": "minimize disturbing acoustic reverberation"
+        },
+        {
+          "id": "voc_read_4_8",
+          "term": "political exile",
+          "type": "noun phrase",
+          "ipa": "/pəˈlɪt.ɪ.kəl ˈek.saɪl/",
+          "meaning": "Cảnh sống lưu vong tị nạn do biến động chính trị",
+          "example": "Charles spent nine years in poverty-stricken political exile across France and the Netherlands.",
+          "paraphrase": "banishment / state expatriation",
+          "collocation": "endure bitter political exile"
+        },
+        {
+          "id": "voc_read_4_9",
+          "term": "heritage conservation",
+          "type": "noun phrase",
+          "ipa": "/ˈher.ɪ.tɪdʒ ˌkɒn.səˈveɪ.ʃən/",
+          "meaning": "Công tác bảo tồn và lưu truyền di sản văn hóa",
+          "example": "Historic stadium facades are protected by strict national heritage conservation laws.",
+          "paraphrase": "monument preservation / cultural safeguarding",
+          "collocation": "champion historic heritage conservation"
+        },
+        {
+          "id": "voc_read_4_10",
+          "term": "metropolitan expansion",
+          "type": "noun phrase",
+          "ipa": "/ˌmet.rəˈpɒl.ɪ.tən ɪkˈspæn.ʃən/",
+          "meaning": "Sự mở rộng quy mô địa giới của các đô thị lớn",
+          "example": "Cheap underground fares spurred dramatic metropolitan expansion into greenbelt suburbs.",
+          "paraphrase": "city growth / suburban sprawl",
+          "collocation": "accelerate rapid metropolitan expansion"
+        }
+      ],
+      "testVocabPractice": {
+        "flashcards": [
+          {
+            "front": "subterranean excavation",
+            "back": "Hoạt động đào hào và khai quật dưới lòng đất\n\n• IPA: /ˌsʌb.təˈreɪ.ni.ən ˌek.skəˈveɪ.ʃən/\n• Ví dụ bài test: \"Early tube line construction relied on deep subterranean excavation through London clay.\"\n• Paraphrase: underground digging / subsurface boring\n• Collocation: supervise hazardous subterranean excavation"
+          },
+          {
+            "front": "structural integrity",
+            "back": "Độ vững chắc và toàn vẹn của kết cấu công trình\n\n• IPA: /ˈstrʌk.tʃər.əl ɪnˈteɡ.rə.ti/\n• Ví dụ bài test: \"Engineers tested the cast-iron tunnel segments to guarantee long-term structural integrity.\"\n• Paraphrase: framework stability / load-bearing solidity\n• Collocation: maintain uncompromising structural integrity"
+          },
+          {
+            "front": "spectator logistics",
+            "back": "Công tác điều phối và phân luồng lượng lớn khán giả\n\n• IPA: /spekˈteɪ.tər ləˈdʒɪs.tɪks/\n• Ví dụ bài test: \"Stadium designers must prioritize smooth spectator logistics to avert crowd bottlenecks.\"\n• Paraphrase: crowd control / attendance management\n• Collocation: manage seamless spectator logistics"
+          },
+          {
+            "front": "monarchical legitimacy",
+            "back": "Tính chính danh và hợp pháp của vương quyền hoàng gia\n\n• IPA: /məˈnɑː.kɪ.kəl lɪˈdʒɪt.ə.mə.si/\n• Ví dụ bài test: \"Charles II's survival in exile preserved the constitutional monarchical legitimacy of the Stuarts.\"\n• Paraphrase: royal authority / sovereign right\n• Collocation: reassert monarchical legitimacy"
+          },
+          {
+            "front": "technological innovation",
+            "back": "Đổi mới sáng tạo mang tính đột phá về công nghệ\n\n• IPA: /ˌtek.nəˈlɒdʒ.ɪ.kəl ˌɪn.əˈveɪ.ʃən/\n• Ví dụ bài test: \"The Greathead tunnelling shield was hailed as a revolutionary technological innovation.\"\n• Paraphrase: engineering breakthrough / novel invention\n• Collocation: pioneer bold technological innovation"
+          },
+          {
+            "front": "urban demographic",
+            "back": "Đặc điểm cơ cấu dân số tại vùng đô thị lớn\n\n• IPA: /ˈɜː.bən ˌdem.əˈɡræf.ɪk/\n• Ví dụ bài test: \"Suburban railway expansion fundamentally transformed the London urban demographic.\"\n• Paraphrase: city populace / metropolitan population profile\n• Collocation: shift the local urban demographic"
+          },
+          {
+            "front": "acoustic reverberation",
+            "back": "Hiện tượng dội âm và vang vọng âm thanh\n\n• IPA: /əˈkuː.stɪk rɪˌvɜː.bərˈeɪ.ʃən/\n• Ví dụ bài test: \"Sound baffles were mounted along the roof to dampen excessive acoustic reverberation.\"\n• Paraphrase: sound echo / acoustic resonance\n• Collocation: minimize disturbing acoustic reverberation"
+          },
+          {
+            "front": "political exile",
+            "back": "Cảnh sống lưu vong tị nạn do biến động chính trị\n\n• IPA: /pəˈlɪt.ɪ.kəl ˈek.saɪl/\n• Ví dụ bài test: \"Charles spent nine years in poverty-stricken political exile across France and the Netherlands.\"\n• Paraphrase: banishment / state expatriation\n• Collocation: endure bitter political exile"
+          },
+          {
+            "front": "heritage conservation",
+            "back": "Công tác bảo tồn và lưu truyền di sản văn hóa\n\n• IPA: /ˈher.ɪ.tɪdʒ ˌkɒn.səˈveɪ.ʃən/\n• Ví dụ bài test: \"Historic stadium facades are protected by strict national heritage conservation laws.\"\n• Paraphrase: monument preservation / cultural safeguarding\n• Collocation: champion historic heritage conservation"
+          },
+          {
+            "front": "metropolitan expansion",
+            "back": "Sự mở rộng quy mô địa giới của các đô thị lớn\n\n• IPA: /ˌmet.rəˈpɒl.ɪ.tən ɪkˈspæn.ʃən/\n• Ví dụ bài test: \"Cheap underground fares spurred dramatic metropolitan expansion into greenbelt suburbs.\"\n• Paraphrase: city growth / suburban sprawl\n• Collocation: accelerate rapid metropolitan expansion"
+          }
+        ],
+        "matching": [
+          {
+            "pairId": 1,
+            "left": "subterranean excavation",
+            "right": "Hoạt động đào hào và khai quật dưới lòng đất"
+          },
+          {
+            "pairId": 2,
+            "left": "structural integrity",
+            "right": "Độ vững chắc và toàn vẹn của kết cấu công trình"
+          },
+          {
+            "pairId": 3,
+            "left": "spectator logistics",
+            "right": "Công tác điều phối và phân luồng lượng lớn khán giả"
+          },
+          {
+            "pairId": 4,
+            "left": "monarchical legitimacy",
+            "right": "Tính chính danh và hợp pháp của vương quyền hoàng gia"
+          },
+          {
+            "pairId": 5,
+            "left": "technological innovation",
+            "right": "Đổi mới sáng tạo mang tính đột phá về công nghệ"
+          },
+          {
+            "pairId": 6,
+            "left": "urban demographic",
+            "right": "Đặc điểm cơ cấu dân số tại vùng đô thị lớn"
+          },
+          {
+            "pairId": 7,
+            "left": "acoustic reverberation",
+            "right": "Hiện tượng dội âm và vang vọng âm thanh"
+          },
+          {
+            "pairId": 8,
+            "left": "political exile",
+            "right": "Cảnh sống lưu vong tị nạn do biến động chính trị"
+          },
+          {
+            "pairId": 9,
+            "left": "heritage conservation",
+            "right": "Công tác bảo tồn và lưu truyền di sản văn hóa"
+          },
+          {
+            "pairId": 10,
+            "left": "metropolitan expansion",
+            "right": "Sự mở rộng quy mô địa giới của các đô thị lớn"
+          }
+        ],
+        "quiz": [
+          {
+            "id": "qz_read_test_4_1",
+            "question": "Trong ngữ cảnh bài thi này, cụm từ 'subterranean excavation' (noun phrase) mang ý nghĩa chuẩn xác nhất là gì?",
+            "options": [
+              "Hoạt động đào hào và khai quật dưới lòng đất",
+              "Hiện tượng biến đổi khí hậu bất thường",
+              "Thuật ngữ chỉ chi phí hành chính và giấy phép",
+              "Mô hình nghiên cứu lý thuyết chưa được áp dụng"
+            ],
+            "correct": 0,
+            "explanation": "'subterranean excavation' (/ˌsʌb.təˈreɪ.ni.ən ˌek.skəˈveɪ.ʃən/) có nghĩa là: Hoạt động đào hào và khai quật dưới lòng đất. Ví dụ trích xuất: \"Early tube line construction relied on deep subterranean excavation through London clay.\""
+          },
+          {
+            "id": "qz_read_test_4_2",
+            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'structural integrity' là gì?",
+            "options": [
+              "deviate from arbitrary figures",
+              "maintain uncompromising structural integrity",
+              "contradict empirical survey findings",
+              "dismiss foundational historical accounts"
+            ],
+            "correct": 1,
+            "explanation": "Collocation chuẩn xác trong đề thi IELTS là: 'maintain uncompromising structural integrity'. Ý nghĩa: Độ vững chắc và toàn vẹn của kết cấu công trình."
+          },
+          {
+            "id": "qz_read_test_4_3",
+            "question": "Từ hoặc cụm từ nào sau đây có thể dùng để Paraphrase (diễn giải tương đương) cho 'spectator logistics'?",
+            "options": [
+              "spurious assertions / unfounded allegations",
+              "marginal fluctuations in monetary value",
+              "crowd control / attendance management",
+              "temporary administrative sanctions"
+            ],
+            "correct": 2,
+            "explanation": "Từ đồng nghĩa / Paraphrase thường gặp trong IELTS: 'spectator logistics' tương đương với 'crowd control / attendance management'."
+          },
+          {
+            "id": "qz_read_test_4_4",
+            "question": "Điền từ thích hợp vào chỗ trống: \"Charles II's survival in exile preserved the constitutional __________ of the Stuarts.\"",
+            "options": [
+              "arbitrary hypothesis",
+              "superficial discrepancy",
+              "monarchical legitimacy",
+              "disproportionate allocation"
+            ],
+            "correct": 2,
+            "explanation": "Đáp án đúng là 'monarchical legitimacy'. Câu hoàn chỉnh: \"Charles II's survival in exile preserved the constitutional monarchical legitimacy of the Stuarts.\""
+          }
+        ]
+      }
     },
     {
       "id": "read_test_5",
@@ -42820,9 +45961,358 @@ var IELTS_BANK_100 = {
           "explanation": "Bảo tàng Quốc gia Wales đã tiếp nhận toàn bộ bộ sưu tập nghệ thuật theo di nguyện của hai chị em -> TRUE."
         }
       ],
-      "vocabulary": [],
+      "vocabulary": [
+        {
+          "id": "voc_read_5_1",
+          "term": "philanthropic bequest",
+          "type": "noun phrase",
+          "ipa": "/ˌfɪl.ənˈθrɒp.ɪk bɪˈkwest/",
+          "meaning": "Di sản tài sản hiến tặng vì mục đích từ thiện cộng đồng",
+          "example": "The sisters made a historic philanthropic bequest of their art collection to the National Museum of Wales.",
+          "paraphrase": "charitable legacy / altruistic endowment",
+          "collocation": "bequeath a generous philanthropic bequest"
+        },
+        {
+          "id": "voc_read_5_2",
+          "term": "artistic patron",
+          "type": "noun phrase",
+          "ipa": "/ɑːˈtɪs.tɪk ˈpeɪ.trən/",
+          "meaning": "Nhà tài trợ, bảo trợ cho các nghệ sĩ và nghệ thuật",
+          "example": "Gwendoline and Margaret Davies acted as discerning artistic patrons during the early 20th century.",
+          "paraphrase": "arts sponsor / cultural benefactor",
+          "collocation": "serve as a visionary artistic patron"
+        },
+        {
+          "id": "voc_read_5_3",
+          "term": "impressionist masterpiece",
+          "type": "noun phrase",
+          "ipa": "/ɪmˈpreʃ.ən.ɪst ˈmɑː.stə.piːs/",
+          "meaning": "Kiệt tác hội họa đỉnh cao thuộc trường phái Ấn tượng",
+          "example": "Their collection featured Monet's Water Lilies, an acknowledged impressionist masterpiece.",
+          "paraphrase": "landmark canvas / iconic impressionist work",
+          "collocation": "acquire an impressionist masterpiece"
+        },
+        {
+          "id": "voc_read_5_4",
+          "term": "cultural bequest",
+          "type": "noun phrase",
+          "ipa": "/ˈkʌl.tʃər.əl bɪˈkwest/",
+          "meaning": "Di sản văn hóa để lại cho thế hệ mai sau",
+          "example": "Their cultural bequest transformed a modest provincial museum into a world-class gallery.",
+          "paraphrase": "heritage gift / artistic endowment",
+          "collocation": "bestow a priceless cultural bequest"
+        },
+        {
+          "id": "voc_read_5_5",
+          "term": "avant-garde movement",
+          "type": "noun phrase",
+          "ipa": "/ˌæv.ɑ̃ːˈɡɑːd ˈmuːv.mənt/",
+          "meaning": "Phong trào văn hóa nghệ thuật tiên phong, đột phá",
+          "example": "The Davies sisters boldly collected works by the French avant-garde movement before it gained mainstream acclaim.",
+          "paraphrase": "pioneering art circle / experimental trend",
+          "collocation": "embrace the radical avant-garde movement"
+        },
+        {
+          "id": "voc_read_5_6",
+          "term": "gallery curator",
+          "type": "noun phrase",
+          "ipa": "/ˈɡæl.ər.i kjʊəˈreɪ.tər/",
+          "meaning": "Giám tuyển chuyên môn của bảo tàng / phòng trưng bày",
+          "example": "The gallery curator arranged the paintings chronologically to reflect the artists' technical evolution.",
+          "paraphrase": "museum keeper / exhibition organizer",
+          "collocation": "consult the head gallery curator"
+        },
+        {
+          "id": "voc_read_5_7",
+          "term": "aesthetic sensibility",
+          "type": "noun phrase",
+          "ipa": "/esˈθet.ɪk ˌsen.səˈbɪl.ə.ti/",
+          "meaning": "Khiếu thẩm mỹ tinh tế và cảm thụ nghệ thuật",
+          "example": "Their refined aesthetic sensibility guided their acquisition of sculptures by Rodin.",
+          "paraphrase": "artistic taste / discerning appreciation",
+          "collocation": "exhibit an innate aesthetic sensibility"
+        },
+        {
+          "id": "voc_read_5_8",
+          "term": "public benefactor",
+          "type": "noun phrase",
+          "ipa": "/ˈpʌb.lɪk ˈben.ɪ.fæk.tər/",
+          "meaning": "Ân nhân đóng góp lớn lao cho lợi ích công cộng",
+          "example": "Wales honors the two sisters as the country's most benevolent public benefactors.",
+          "paraphrase": "civic philanthropist / donor to the commonwealth",
+          "collocation": "commemorate an eminent public benefactor"
+        },
+        {
+          "id": "voc_read_5_9",
+          "term": "art connoisseur",
+          "type": "noun phrase",
+          "ipa": "/ɑːt ˌkɒn.əˈsɜːr/",
+          "meaning": "Chuyên gia sành sỏi, am tường sâu sắc về nghệ thuật",
+          "example": "Even skeptical art connoisseurs praised the sisters' exceptional eye for post-impressionist brilliance.",
+          "paraphrase": "arts expert / discerning collector",
+          "collocation": "win respect from seasoned art connoisseurs"
+        },
+        {
+          "id": "voc_read_5_10",
+          "term": "philanthropic vision",
+          "type": "noun phrase",
+          "ipa": "/ˌfɪl.ənˈθrɒp.ɪk ˈvɪʒ.ən/",
+          "meaning": "Tầm nhìn từ thiện chiến lược vì sự phát triển xã hội",
+          "example": "Their philanthropic vision aimed to make sublime fine art accessible to coal miners and students alike.",
+          "paraphrase": "humanitarian foresight / charitable ideals",
+          "collocation": "realize an egalitarian philanthropic vision"
+        }
+      ],
       "camSeries": "cam_21",
-      "camBadge": "Cam 21 (2026)"
+      "camBadge": "Cam 21 (2026)",
+      "testVocabulary": [
+        {
+          "id": "voc_read_5_1",
+          "term": "philanthropic bequest",
+          "type": "noun phrase",
+          "ipa": "/ˌfɪl.ənˈθrɒp.ɪk bɪˈkwest/",
+          "meaning": "Di sản tài sản hiến tặng vì mục đích từ thiện cộng đồng",
+          "example": "The sisters made a historic philanthropic bequest of their art collection to the National Museum of Wales.",
+          "paraphrase": "charitable legacy / altruistic endowment",
+          "collocation": "bequeath a generous philanthropic bequest"
+        },
+        {
+          "id": "voc_read_5_2",
+          "term": "artistic patron",
+          "type": "noun phrase",
+          "ipa": "/ɑːˈtɪs.tɪk ˈpeɪ.trən/",
+          "meaning": "Nhà tài trợ, bảo trợ cho các nghệ sĩ và nghệ thuật",
+          "example": "Gwendoline and Margaret Davies acted as discerning artistic patrons during the early 20th century.",
+          "paraphrase": "arts sponsor / cultural benefactor",
+          "collocation": "serve as a visionary artistic patron"
+        },
+        {
+          "id": "voc_read_5_3",
+          "term": "impressionist masterpiece",
+          "type": "noun phrase",
+          "ipa": "/ɪmˈpreʃ.ən.ɪst ˈmɑː.stə.piːs/",
+          "meaning": "Kiệt tác hội họa đỉnh cao thuộc trường phái Ấn tượng",
+          "example": "Their collection featured Monet's Water Lilies, an acknowledged impressionist masterpiece.",
+          "paraphrase": "landmark canvas / iconic impressionist work",
+          "collocation": "acquire an impressionist masterpiece"
+        },
+        {
+          "id": "voc_read_5_4",
+          "term": "cultural bequest",
+          "type": "noun phrase",
+          "ipa": "/ˈkʌl.tʃər.əl bɪˈkwest/",
+          "meaning": "Di sản văn hóa để lại cho thế hệ mai sau",
+          "example": "Their cultural bequest transformed a modest provincial museum into a world-class gallery.",
+          "paraphrase": "heritage gift / artistic endowment",
+          "collocation": "bestow a priceless cultural bequest"
+        },
+        {
+          "id": "voc_read_5_5",
+          "term": "avant-garde movement",
+          "type": "noun phrase",
+          "ipa": "/ˌæv.ɑ̃ːˈɡɑːd ˈmuːv.mənt/",
+          "meaning": "Phong trào văn hóa nghệ thuật tiên phong, đột phá",
+          "example": "The Davies sisters boldly collected works by the French avant-garde movement before it gained mainstream acclaim.",
+          "paraphrase": "pioneering art circle / experimental trend",
+          "collocation": "embrace the radical avant-garde movement"
+        },
+        {
+          "id": "voc_read_5_6",
+          "term": "gallery curator",
+          "type": "noun phrase",
+          "ipa": "/ˈɡæl.ər.i kjʊəˈreɪ.tər/",
+          "meaning": "Giám tuyển chuyên môn của bảo tàng / phòng trưng bày",
+          "example": "The gallery curator arranged the paintings chronologically to reflect the artists' technical evolution.",
+          "paraphrase": "museum keeper / exhibition organizer",
+          "collocation": "consult the head gallery curator"
+        },
+        {
+          "id": "voc_read_5_7",
+          "term": "aesthetic sensibility",
+          "type": "noun phrase",
+          "ipa": "/esˈθet.ɪk ˌsen.səˈbɪl.ə.ti/",
+          "meaning": "Khiếu thẩm mỹ tinh tế và cảm thụ nghệ thuật",
+          "example": "Their refined aesthetic sensibility guided their acquisition of sculptures by Rodin.",
+          "paraphrase": "artistic taste / discerning appreciation",
+          "collocation": "exhibit an innate aesthetic sensibility"
+        },
+        {
+          "id": "voc_read_5_8",
+          "term": "public benefactor",
+          "type": "noun phrase",
+          "ipa": "/ˈpʌb.lɪk ˈben.ɪ.fæk.tər/",
+          "meaning": "Ân nhân đóng góp lớn lao cho lợi ích công cộng",
+          "example": "Wales honors the two sisters as the country's most benevolent public benefactors.",
+          "paraphrase": "civic philanthropist / donor to the commonwealth",
+          "collocation": "commemorate an eminent public benefactor"
+        },
+        {
+          "id": "voc_read_5_9",
+          "term": "art connoisseur",
+          "type": "noun phrase",
+          "ipa": "/ɑːt ˌkɒn.əˈsɜːr/",
+          "meaning": "Chuyên gia sành sỏi, am tường sâu sắc về nghệ thuật",
+          "example": "Even skeptical art connoisseurs praised the sisters' exceptional eye for post-impressionist brilliance.",
+          "paraphrase": "arts expert / discerning collector",
+          "collocation": "win respect from seasoned art connoisseurs"
+        },
+        {
+          "id": "voc_read_5_10",
+          "term": "philanthropic vision",
+          "type": "noun phrase",
+          "ipa": "/ˌfɪl.ənˈθrɒp.ɪk ˈvɪʒ.ən/",
+          "meaning": "Tầm nhìn từ thiện chiến lược vì sự phát triển xã hội",
+          "example": "Their philanthropic vision aimed to make sublime fine art accessible to coal miners and students alike.",
+          "paraphrase": "humanitarian foresight / charitable ideals",
+          "collocation": "realize an egalitarian philanthropic vision"
+        }
+      ],
+      "testVocabPractice": {
+        "flashcards": [
+          {
+            "front": "philanthropic bequest",
+            "back": "Di sản tài sản hiến tặng vì mục đích từ thiện cộng đồng\n\n• IPA: /ˌfɪl.ənˈθrɒp.ɪk bɪˈkwest/\n• Ví dụ bài test: \"The sisters made a historic philanthropic bequest of their art collection to the National Museum of Wales.\"\n• Paraphrase: charitable legacy / altruistic endowment\n• Collocation: bequeath a generous philanthropic bequest"
+          },
+          {
+            "front": "artistic patron",
+            "back": "Nhà tài trợ, bảo trợ cho các nghệ sĩ và nghệ thuật\n\n• IPA: /ɑːˈtɪs.tɪk ˈpeɪ.trən/\n• Ví dụ bài test: \"Gwendoline and Margaret Davies acted as discerning artistic patrons during the early 20th century.\"\n• Paraphrase: arts sponsor / cultural benefactor\n• Collocation: serve as a visionary artistic patron"
+          },
+          {
+            "front": "impressionist masterpiece",
+            "back": "Kiệt tác hội họa đỉnh cao thuộc trường phái Ấn tượng\n\n• IPA: /ɪmˈpreʃ.ən.ɪst ˈmɑː.stə.piːs/\n• Ví dụ bài test: \"Their collection featured Monet's Water Lilies, an acknowledged impressionist masterpiece.\"\n• Paraphrase: landmark canvas / iconic impressionist work\n• Collocation: acquire an impressionist masterpiece"
+          },
+          {
+            "front": "cultural bequest",
+            "back": "Di sản văn hóa để lại cho thế hệ mai sau\n\n• IPA: /ˈkʌl.tʃər.əl bɪˈkwest/\n• Ví dụ bài test: \"Their cultural bequest transformed a modest provincial museum into a world-class gallery.\"\n• Paraphrase: heritage gift / artistic endowment\n• Collocation: bestow a priceless cultural bequest"
+          },
+          {
+            "front": "avant-garde movement",
+            "back": "Phong trào văn hóa nghệ thuật tiên phong, đột phá\n\n• IPA: /ˌæv.ɑ̃ːˈɡɑːd ˈmuːv.mənt/\n• Ví dụ bài test: \"The Davies sisters boldly collected works by the French avant-garde movement before it gained mainstream acclaim.\"\n• Paraphrase: pioneering art circle / experimental trend\n• Collocation: embrace the radical avant-garde movement"
+          },
+          {
+            "front": "gallery curator",
+            "back": "Giám tuyển chuyên môn của bảo tàng / phòng trưng bày\n\n• IPA: /ˈɡæl.ər.i kjʊəˈreɪ.tər/\n• Ví dụ bài test: \"The gallery curator arranged the paintings chronologically to reflect the artists' technical evolution.\"\n• Paraphrase: museum keeper / exhibition organizer\n• Collocation: consult the head gallery curator"
+          },
+          {
+            "front": "aesthetic sensibility",
+            "back": "Khiếu thẩm mỹ tinh tế và cảm thụ nghệ thuật\n\n• IPA: /esˈθet.ɪk ˌsen.səˈbɪl.ə.ti/\n• Ví dụ bài test: \"Their refined aesthetic sensibility guided their acquisition of sculptures by Rodin.\"\n• Paraphrase: artistic taste / discerning appreciation\n• Collocation: exhibit an innate aesthetic sensibility"
+          },
+          {
+            "front": "public benefactor",
+            "back": "Ân nhân đóng góp lớn lao cho lợi ích công cộng\n\n• IPA: /ˈpʌb.lɪk ˈben.ɪ.fæk.tər/\n• Ví dụ bài test: \"Wales honors the two sisters as the country's most benevolent public benefactors.\"\n• Paraphrase: civic philanthropist / donor to the commonwealth\n• Collocation: commemorate an eminent public benefactor"
+          },
+          {
+            "front": "art connoisseur",
+            "back": "Chuyên gia sành sỏi, am tường sâu sắc về nghệ thuật\n\n• IPA: /ɑːt ˌkɒn.əˈsɜːr/\n• Ví dụ bài test: \"Even skeptical art connoisseurs praised the sisters' exceptional eye for post-impressionist brilliance.\"\n• Paraphrase: arts expert / discerning collector\n• Collocation: win respect from seasoned art connoisseurs"
+          },
+          {
+            "front": "philanthropic vision",
+            "back": "Tầm nhìn từ thiện chiến lược vì sự phát triển xã hội\n\n• IPA: /ˌfɪl.ənˈθrɒp.ɪk ˈvɪʒ.ən/\n• Ví dụ bài test: \"Their philanthropic vision aimed to make sublime fine art accessible to coal miners and students alike.\"\n• Paraphrase: humanitarian foresight / charitable ideals\n• Collocation: realize an egalitarian philanthropic vision"
+          }
+        ],
+        "matching": [
+          {
+            "pairId": 1,
+            "left": "philanthropic bequest",
+            "right": "Di sản tài sản hiến tặng vì mục đích từ thiện cộng đồng"
+          },
+          {
+            "pairId": 2,
+            "left": "artistic patron",
+            "right": "Nhà tài trợ, bảo trợ cho các nghệ sĩ và nghệ thuật"
+          },
+          {
+            "pairId": 3,
+            "left": "impressionist masterpiece",
+            "right": "Kiệt tác hội họa đỉnh cao thuộc trường phái Ấn tượng"
+          },
+          {
+            "pairId": 4,
+            "left": "cultural bequest",
+            "right": "Di sản văn hóa để lại cho thế hệ mai sau"
+          },
+          {
+            "pairId": 5,
+            "left": "avant-garde movement",
+            "right": "Phong trào văn hóa nghệ thuật tiên phong, đột phá"
+          },
+          {
+            "pairId": 6,
+            "left": "gallery curator",
+            "right": "Giám tuyển chuyên môn của bảo tàng / phòng trưng bày"
+          },
+          {
+            "pairId": 7,
+            "left": "aesthetic sensibility",
+            "right": "Khiếu thẩm mỹ tinh tế và cảm thụ nghệ thuật"
+          },
+          {
+            "pairId": 8,
+            "left": "public benefactor",
+            "right": "Ân nhân đóng góp lớn lao cho lợi ích công cộng"
+          },
+          {
+            "pairId": 9,
+            "left": "art connoisseur",
+            "right": "Chuyên gia sành sỏi, am tường sâu sắc về nghệ thuật"
+          },
+          {
+            "pairId": 10,
+            "left": "philanthropic vision",
+            "right": "Tầm nhìn từ thiện chiến lược vì sự phát triển xã hội"
+          }
+        ],
+        "quiz": [
+          {
+            "id": "qz_read_test_5_1",
+            "question": "Trong ngữ cảnh bài thi này, cụm từ 'philanthropic bequest' (noun phrase) mang ý nghĩa chuẩn xác nhất là gì?",
+            "options": [
+              "Di sản tài sản hiến tặng vì mục đích từ thiện cộng đồng",
+              "Hiện tượng biến đổi khí hậu bất thường",
+              "Thuật ngữ chỉ chi phí hành chính và giấy phép",
+              "Mô hình nghiên cứu lý thuyết chưa được áp dụng"
+            ],
+            "correct": 0,
+            "explanation": "'philanthropic bequest' (/ˌfɪl.ənˈθrɒp.ɪk bɪˈkwest/) có nghĩa là: Di sản tài sản hiến tặng vì mục đích từ thiện cộng đồng. Ví dụ trích xuất: \"The sisters made a historic philanthropic bequest of their art collection to the National Museum of Wales.\""
+          },
+          {
+            "id": "qz_read_test_5_2",
+            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'artistic patron' là gì?",
+            "options": [
+              "deviate from arbitrary figures",
+              "serve as a visionary artistic patron",
+              "contradict empirical survey findings",
+              "dismiss foundational historical accounts"
+            ],
+            "correct": 1,
+            "explanation": "Collocation chuẩn xác trong đề thi IELTS là: 'serve as a visionary artistic patron'. Ý nghĩa: Nhà tài trợ, bảo trợ cho các nghệ sĩ và nghệ thuật."
+          },
+          {
+            "id": "qz_read_test_5_3",
+            "question": "Từ hoặc cụm từ nào sau đây có thể dùng để Paraphrase (diễn giải tương đương) cho 'impressionist masterpiece'?",
+            "options": [
+              "spurious assertions / unfounded allegations",
+              "marginal fluctuations in monetary value",
+              "landmark canvas / iconic impressionist work",
+              "temporary administrative sanctions"
+            ],
+            "correct": 2,
+            "explanation": "Từ đồng nghĩa / Paraphrase thường gặp trong IELTS: 'impressionist masterpiece' tương đương với 'landmark canvas / iconic impressionist work'."
+          },
+          {
+            "id": "qz_read_test_5_4",
+            "question": "Điền từ thích hợp vào chỗ trống: \"Their __________ transformed a modest provincial museum into a world-class gallery.\"",
+            "options": [
+              "arbitrary hypothesis",
+              "superficial discrepancy",
+              "cultural bequest",
+              "disproportionate allocation"
+            ],
+            "correct": 2,
+            "explanation": "Đáp án đúng là 'cultural bequest'. Câu hoàn chỉnh: \"Their cultural bequest transformed a modest provincial museum into a world-class gallery.\""
+          }
+        ]
+      }
     },
     {
       "id": "read_test_6",
@@ -135141,7 +138631,6 @@ var IELTS_BANK_100 = {
     }
   ]
 };
-
 
 if (typeof window !== 'undefined') {
   window.IELTS_BANK_100 = IELTS_BANK_100;
