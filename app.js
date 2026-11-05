@@ -4118,7 +4118,19 @@ function renderSkillZoneD(skill) {
       }
     }
     if (filters.topic !== 'all' && t.topic !== filters.topic) return false;
-    if (filters.type !== 'all' && t.questionType !== filters.type) return false;
+    if (filters.type !== 'all') {
+      if (filters.type === 'form_completion') {
+        if (t.questionType !== 'form_completion' && t.questionType !== 'notes_completion' && t.questionType !== 'fill') return false;
+      } else if (filters.type === 'matching') {
+        if (t.questionType !== 'matching' && t.questionType !== 'matching_features' && t.questionType !== 'matching_info') return false;
+      } else if (filters.type === 'choose_two') {
+        if (t.questionType !== 'choose_two' && t.questionType !== 'multiple_choice_multi') return false;
+      } else if (filters.type === 'table_completion') {
+        if (t.questionType !== 'table_completion' && t.questionType !== 'summary_word_bank') return false;
+      } else if (t.questionType !== filters.type) {
+        return false;
+      }
+    }
     if (filters.search) {
       const q = filters.search.toLowerCase();
       if (!t.title.toLowerCase().includes(q) && !(t.topicName || '').toLowerCase().includes(q)) return false;
@@ -4183,16 +4195,25 @@ function renderSkillZoneD(skill) {
           </select>
         </div>
 
-        <!-- Question Type Filter -->
+        <!-- Question Type Filter (Dynamic by Skill) -->
         <div>
           <label class="block text-[11px] font-bold text-slate-400 mb-1">Dạng câu hỏi (Type):</label>
-          <select onchange="setSkillTestFilter('${skill}', 'type', this.value)" class="w-full px-3 py-2 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs text-slate-800 dark:text-slate-200 font-medium">
-            <option value="all" ${filters.type === 'all' ? 'selected' : ''}>Tất cả các dạng bài</option>
-            <option value="form_completion" ${filters.type === 'form_completion' ? 'selected' : ''}>Form / Note Completion</option>
-            <option value="multiple_choice" ${filters.type === 'multiple_choice' ? 'selected' : ''}>Multiple Choice</option>
-            <option value="tfng" ${filters.type === 'tfng' ? 'selected' : ''}>True / False / Not Given</option>
-            <option value="matching_headings" ${filters.type === 'matching_headings' ? 'selected' : ''}>Matching Headings</option>
-            <option value="summary_completion" ${filters.type === 'summary_completion' ? 'selected' : ''}>Summary Completion</option>
+          <select onchange="setSkillTestFilter('${skill}', 'type', this.value)" class="w-full px-3 py-2 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs text-slate-800 dark:text-slate-200 font-bold text-amber-600 dark:text-amber-400">
+            <option value="all" ${filters.type === 'all' ? 'selected' : ''}>Tất cả các dạng bài (${filtered.length} bài)</option>
+            ${skill === 'listening' ? `
+              <option value="map_labelling" ${filters.type === 'map_labelling' ? 'selected' : ''}>🗺️ Map / Plan Labelling (Gán nhãn bản đồ A-H)</option>
+              <option value="matching" ${filters.type === 'matching' ? 'selected' : ''}>🔗 Matching Features / Opinions (Nối thông tin A-F)</option>
+              <option value="multiple_choice" ${filters.type === 'multiple_choice' ? 'selected' : ''}>🔘 Multiple Choice (Trắc nghiệm A, B, C)</option>
+              <option value="choose_two" ${filters.type === 'choose_two' ? 'selected' : ''}>☑️ Choose TWO Letters (Chọn 2 đáp án A-E)</option>
+              <option value="form_completion" ${filters.type === 'form_completion' ? 'selected' : ''}>📝 Form / Notes Completion (Điền đơn / ghi chú)</option>
+              <option value="table_completion" ${filters.type === 'table_completion' ? 'selected' : ''}>📊 Table / Flowchart Completion (Điền bảng)</option>
+            ` : `
+              <option value="tfng" ${filters.type === 'tfng' ? 'selected' : ''}>🟢 True / False / Not Given</option>
+              <option value="matching_headings" ${filters.type === 'matching_headings' ? 'selected' : ''}>📑 Matching Headings (Số La Mã i-viii)</option>
+              <option value="summary_completion" ${filters.type === 'summary_completion' ? 'selected' : ''}>📋 Summary Completion / Word Bank</option>
+              <option value="multiple_choice" ${filters.type === 'multiple_choice' ? 'selected' : ''}>🔘 Multiple Choice</option>
+              <option value="form_completion" ${filters.type === 'form_completion' ? 'selected' : ''}>✏️ Sentence / Notes Completion</option>
+            `}
           </select>
         </div>
 
@@ -4224,6 +4245,27 @@ function renderSkillZoneD(skill) {
       statusBadge = `<span class="px-2 py-0.5 rounded text-[10px] font-black ${bColor}">Đã nộp: Band ${b.toFixed(1)}</span>`;
     }
 
+    // Question Type Display Badge
+    let typeBadge = '';
+    const qt = t.questionType || '';
+    if (qt === 'map_labelling') {
+      typeBadge = `<span class="px-2 py-0.5 rounded text-[10px] font-black bg-violet-100 dark:bg-violet-950/80 text-violet-700 dark:text-violet-300 border border-violet-200 dark:border-violet-800">🗺️ Map / Plan Labelling</span>`;
+    } else if (qt === 'matching' || qt === 'matching_features') {
+      typeBadge = `<span class="px-2 py-0.5 rounded text-[10px] font-black bg-indigo-100 dark:bg-indigo-950/80 text-indigo-700 dark:text-indigo-300 border border-indigo-200 dark:border-indigo-800">🔗 Matching Features</span>`;
+    } else if (qt === 'choose_two' || qt === 'multiple_choice_multi') {
+      typeBadge = `<span class="px-2 py-0.5 rounded text-[10px] font-black bg-pink-100 dark:bg-pink-950/80 text-pink-700 dark:text-pink-300 border border-pink-200 dark:border-pink-800">☑️ Choose TWO Letters</span>`;
+    } else if (qt === 'multiple_choice') {
+      typeBadge = `<span class="px-2 py-0.5 rounded text-[10px] font-black bg-purple-100 dark:bg-purple-950/80 text-purple-700 dark:text-purple-300 border border-purple-200 dark:border-purple-800">🔘 Multiple Choice (A-B-C)</span>`;
+    } else if (qt === 'table_completion') {
+      typeBadge = `<span class="px-2 py-0.5 rounded text-[10px] font-black bg-teal-100 dark:bg-teal-950/80 text-teal-700 dark:text-teal-300 border border-teal-200 dark:border-teal-800">📊 Table Completion</span>`;
+    } else if (qt === 'tfng') {
+      typeBadge = `<span class="px-2 py-0.5 rounded text-[10px] font-black bg-emerald-100 dark:bg-emerald-950/80 text-emerald-700 dark:text-emerald-300 border border-emerald-200 dark:border-emerald-800">🟢 True / False / Not Given</span>`;
+    } else if (qt === 'matching_headings') {
+      typeBadge = `<span class="px-2 py-0.5 rounded text-[10px] font-black bg-amber-100 dark:bg-amber-950/80 text-amber-700 dark:text-amber-300 border border-amber-200 dark:border-amber-800">📑 Matching Headings</span>`;
+    } else {
+      typeBadge = `<span class="px-2 py-0.5 rounded text-[10px] font-black bg-blue-100 dark:bg-blue-950/80 text-blue-700 dark:text-blue-300 border border-blue-200 dark:border-blue-800">📝 Form / Notes Completion</span>`;
+    }
+
     html += `
       <div class="p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm flex flex-col justify-between space-y-4 hover:border-brand-400 hover:shadow-md transition">
         <div class="space-y-2.5">
@@ -4237,6 +4279,10 @@ function renderSkillZoneD(skill) {
               </span>
             </div>
             ${statusBadge}
+          </div>
+
+          <div class="flex items-center gap-2">
+            ${typeBadge}
           </div>
 
           <h4 class="text-sm font-bold text-slate-900 dark:text-white leading-snug line-clamp-2">
@@ -4253,11 +4299,14 @@ function renderSkillZoneD(skill) {
           </div>
         </div>
 
-        <div class="pt-2 border-t border-slate-100 dark:border-slate-800/80 flex items-center justify-between">
-          <span class="text-[10px] font-semibold text-slate-400">${t.level || 'Band 6.5 - 8.0'}</span>
-          <button onclick="openPreTestVocab('${skill}', '${t.id}')" class="px-3.5 py-1.5 rounded-xl bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-700 hover:to-indigo-700 text-white font-bold text-xs shadow-sm flex items-center gap-1.5 transition">
-            <i data-lucide="book-open" class="w-3.5 h-3.5"></i>
-            <span>${isDone ? 'Từ Vựng & Làm Lại' : 'Nạp Từ Vựng & Làm Test'}</span>
+        <div class="pt-2 border-t border-slate-100 dark:border-slate-800/80 flex items-center justify-between gap-2">
+          <button onclick="openTestArena('${skill}', '${t.id}')" class="flex-1 py-1.5 rounded-xl bg-amber-500 hover:bg-amber-600 text-white font-bold text-xs shadow-sm flex items-center justify-center gap-1.5 transition">
+            <i data-lucide="play" class="w-3.5 h-3.5"></i>
+            <span>Vào Thi Ngay</span>
+          </button>
+          <button onclick="openPreTestVocab('${skill}', '${t.id}')" class="py-1.5 px-3 rounded-xl bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-300 font-semibold text-xs flex items-center gap-1 transition" title="Xem từ vựng trước">
+            <i data-lucide="book-open" class="w-3.5 h-3.5 text-purple-500"></i>
+            <span>Từ Vựng</span>
           </button>
         </div>
       </div>
