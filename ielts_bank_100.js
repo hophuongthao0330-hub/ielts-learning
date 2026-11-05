@@ -124,8 +124,8 @@ const IELTS_BANK_100 = {
         }
       ],
       "vocabulary": [],
-      "camSeries": "cam_21",
-      "camBadge": "Cam 21 (2026)"
+      "camSeries": "cam_17",
+      "camBadge": "Cambridge 17"
     },
     {
       "id": "lis_test_2",
@@ -314,8 +314,8 @@ const IELTS_BANK_100 = {
         }
       ],
       "vocabulary": [],
-      "camSeries": "cam_21",
-      "camBadge": "Cam 21 (2026)"
+      "camSeries": "cam_17",
+      "camBadge": "Cambridge 17"
     },
     {
       "id": "lis_test_3",
@@ -324,7 +324,7 @@ const IELTS_BANK_100 = {
       "title": "Cam 17 Test 1 Part 3: Work Experience for Veterinary Science Students",
       "topic": "education",
       "topicName": "Education & Academic Growth",
-      "questionType": "multiple_choice",
+      "questionType": "matching",
       "level": "Band 6.5 - 8.0",
       "duration": "10 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam21_Cambridge_21___Test_3.mp3",
@@ -498,8 +498,8 @@ const IELTS_BANK_100 = {
         }
       ],
       "vocabulary": [],
-      "camSeries": "cam_21",
-      "camBadge": "Cam 21 (2026)"
+      "camSeries": "cam_17",
+      "camBadge": "Cambridge 17"
     },
     {
       "id": "lis_test_4",
@@ -508,7 +508,7 @@ const IELTS_BANK_100 = {
       "title": "Cam 17 Test 1 Part 4: The Cultural & Therapeutic History of Labyrinths",
       "topic": "culture",
       "topicName": "Culture, Arts & Heritage",
-      "questionType": "notes_completion",
+      "questionType": "table_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "10 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam21_Cambridge_21___Test_4.mp3",
@@ -624,8 +624,8 @@ const IELTS_BANK_100 = {
         }
       ],
       "vocabulary": [],
-      "camSeries": "cam_21",
-      "camBadge": "Cam 21 (2026)"
+      "camSeries": "cam_17",
+      "camBadge": "Cambridge 17"
     },
     {
       "id": "lis_test_5",
@@ -1190,17 +1190,17 @@ const IELTS_BANK_100 = {
         }
       ],
       "vocabulary": [],
-      "camSeries": "cam_21",
-      "camBadge": "Cam 21 (2026)"
+      "camSeries": "cam_17",
+      "camBadge": "Cambridge 17"
     },
     {
       "id": "lis_test_6",
       "skill": "listening",
       "testNum": 6,
-      "title": "Cam 21 (2026) Test 2 Part 2: Comprehensive Inquiry into Economy, Business & Globalization (Section 3)",
+      "title": "Cam 21 (2026) Test 1 Part 1: Economy, Business & Globalization (Form & Notes Completion)",
       "topic": "economy",
       "topicName": "Economy, Business & Globalization",
-      "questionType": "map_labelling",
+      "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam21_Cambridge_21___Test_2.mp3",
@@ -1646,7 +1646,7 @@ const IELTS_BANK_100 = {
         ]
       },
       "camSeries": "cam_21",
-      "camBadge": "Cam 21 (2026)",
+      "camBadge": "Cambridge 21",
       "questionGroups": [
         {
           "from": 1,
@@ -1660,10 +1660,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_7",
       "skill": "listening",
       "testNum": 7,
-      "title": "Cam 21 (2026) Test 2 Part 3: Comprehensive Inquiry into Culture, Heritage & Tourism (Section 4)",
+      "title": "Cam 21 (2026) Test 1 Part 2: Culture, Heritage & Tourism (Map / Plan Labelling)",
       "topic": "culture",
       "topicName": "Culture, Heritage & Tourism",
-      "questionType": "matching",
+      "questionType": "map_labelling",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam21_Cambridge_21___Test_3.mp3",
@@ -2089,7 +2089,7 @@ const IELTS_BANK_100 = {
         ]
       },
       "camSeries": "cam_21",
-      "camBadge": "Cam 21 (2026)",
+      "camBadge": "Cambridge 21",
       "questionGroups": [
         {
           "from": 1,
@@ -2111,7 +2111,7 @@ const IELTS_BANK_100 = {
       "id": "lis_test_8",
       "skill": "listening",
       "testNum": 8,
-      "title": "Cam 21 (2026) Test 3 Part 4: Comprehensive Inquiry into History & Archaeology (Section 1)",
+      "title": "Cam 21 (2026) Test 1 Part 3: History & Archaeology (Multiple Choice (Choose TWO))",
       "topic": "history",
       "topicName": "History & Archaeology",
       "questionType": "choose_two",
@@ -2540,7 +2540,7 @@ const IELTS_BANK_100 = {
         ]
       },
       "camSeries": "cam_21",
-      "camBadge": "Cam 21 (2026)",
+      "camBadge": "Cambridge 21",
       "questionGroups": [
         {
           "from": 1,
@@ -2554,7 +2554,7 @@ const IELTS_BANK_100 = {
       "id": "lis_test_9",
       "skill": "listening",
       "testNum": 9,
-      "title": "Cam 19 (2024) Test 3 Part 1: Comprehensive Inquiry into Science & Space Exploration (Section 2)",
+      "title": "Cam 21 (2026) Test 1 Part 4: Science & Space Exploration (Multiple Choice (A, B, C))",
       "topic": "science",
       "topicName": "Science & Space Exploration",
       "questionType": "multiple_choice",
@@ -2952,8 +2952,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_19",
-      "camBadge": "Cam 19 (2024)",
+      "camSeries": "cam_21",
+      "camBadge": "Cambridge 21",
       "questionGroups": [
         {
           "from": 1,
@@ -2967,10 +2967,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_10",
       "skill": "listening",
       "testNum": 10,
-      "title": "Cam 19 (2024) Test 3 Part 2: Comprehensive Inquiry into Crime, Law & Rehabilitation (Section 3)",
+      "title": "Cam 21 (2026) Test 2 Part 1: Crime, Law & Rehabilitation (Matching Features / Opinions)",
       "topic": "crime",
       "topicName": "Crime, Law & Rehabilitation",
-      "questionType": "form_completion",
+      "questionType": "matching",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam19_Test1_Part2.mp3",
@@ -3325,8 +3325,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_19",
-      "camBadge": "Cam 19 (2024)",
+      "camSeries": "cam_21",
+      "camBadge": "Cambridge 21",
       "questionGroups": [
         {
           "from": 1,
@@ -3340,7 +3340,7 @@ const IELTS_BANK_100 = {
       "id": "lis_test_11",
       "skill": "listening",
       "testNum": 11,
-      "title": "Cam 19 (2024) Test 3 Part 3: Comprehensive Inquiry into Media, Information & Advertising (Section 4)",
+      "title": "Cam 21 (2026) Test 2 Part 2: Media, Information & Advertising (Table / Flowchart Completion)",
       "topic": "media",
       "topicName": "Media, Information & Advertising",
       "questionType": "table_completion",
@@ -3698,8 +3698,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_19",
-      "camBadge": "Cam 19 (2024)",
+      "camSeries": "cam_21",
+      "camBadge": "Cambridge 21",
       "questionGroups": [
         {
           "from": 1,
@@ -3713,10 +3713,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_12",
       "skill": "listening",
       "testNum": 12,
-      "title": "Cam 19 (2024) Test 4 Part 4: Comprehensive Inquiry into Work, Career & Automation (Section 1)",
+      "title": "Cam 21 (2026) Test 2 Part 3: Work, Career & Automation (Form & Notes Completion)",
       "topic": "work",
       "topicName": "Work, Career & Automation",
-      "questionType": "map_labelling",
+      "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam19_Test1_Part1.mp3",
@@ -4161,8 +4161,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_19",
-      "camBadge": "Cam 19 (2024)",
+      "camSeries": "cam_21",
+      "camBadge": "Cambridge 21",
       "questionGroups": [
         {
           "from": 1,
@@ -4176,10 +4176,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_13",
       "skill": "listening",
       "testNum": 13,
-      "title": "Cam 19 (2024) Test 4 Part 1: Comprehensive Inquiry into Education & Academic Growth (Section 2)",
+      "title": "Cam 21 (2026) Test 2 Part 4: Education & Academic Growth (Map / Plan Labelling)",
       "topic": "education",
       "topicName": "Education & Academic Growth",
-      "questionType": "matching",
+      "questionType": "map_labelling",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam19_Test1_Part1.mp3",
@@ -4604,8 +4604,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_19",
-      "camBadge": "Cam 19 (2024)",
+      "camSeries": "cam_21",
+      "camBadge": "Cambridge 21",
       "questionGroups": [
         {
           "from": 1,
@@ -4627,10 +4627,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_14",
       "skill": "listening",
       "testNum": 14,
-      "title": "Cam 19 (2024) Test 4 Part 2: Comprehensive Inquiry into Environment & Climate Resilience (Section 3)",
+      "title": "Cam 21 (2026) Test 3 Part 1: Environment & Climate Resilience (Multiple Choice (A, B, C))",
       "topic": "environment",
       "topicName": "Environment & Climate Resilience",
-      "questionType": "choose_two",
+      "questionType": "multiple_choice",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam19_Test1_Part2.mp3",
@@ -5055,8 +5055,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_19",
-      "camBadge": "Cam 19 (2024)",
+      "camSeries": "cam_21",
+      "camBadge": "Cambridge 21",
       "questionGroups": [
         {
           "from": 1,
@@ -5070,10 +5070,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_15",
       "skill": "listening",
       "testNum": 15,
-      "title": "Cam 19 (2024) Test 4 Part 3: Comprehensive Inquiry into Technology & Artificial Intelligence (Section 4)",
+      "title": "Cam 21 (2026) Test 3 Part 2: Technology & Artificial Intelligence (Matching Features / Opinions)",
       "topic": "technology",
       "topicName": "Technology & Artificial Intelligence",
-      "questionType": "multiple_choice",
+      "questionType": "matching",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam19_Test1_Part3.mp3",
@@ -5468,8 +5468,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_19",
-      "camBadge": "Cam 19 (2024)",
+      "camSeries": "cam_21",
+      "camBadge": "Cambridge 21",
       "questionGroups": [
         {
           "from": 1,
@@ -5483,7 +5483,7 @@ const IELTS_BANK_100 = {
       "id": "lis_test_16",
       "skill": "listening",
       "testNum": 16,
-      "title": "Cam 19 (2024) Test 5 Part 4: Comprehensive Inquiry into Health, Medicine & Well-being (Section 1)",
+      "title": "Cam 19 (2024) Test 1 Part 1: Health, Medicine & Well-being (Form & Notes Completion)",
       "topic": "health",
       "topicName": "Health, Medicine & Well-being",
       "questionType": "form_completion",
@@ -5842,7 +5842,7 @@ const IELTS_BANK_100 = {
         ]
       },
       "camSeries": "cam_19",
-      "camBadge": "Cam 19 (2024)",
+      "camBadge": "Cambridge 19",
       "questionGroups": [
         {
           "from": 1,
@@ -5856,10 +5856,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_17",
       "skill": "listening",
       "testNum": 17,
-      "title": "Cam 18 (2023) Test 5 Part 1: Comprehensive Inquiry into Society, Urbanization & Demographics (Section 2)",
+      "title": "Cam 19 (2024) Test 1 Part 2: Society, Urbanization & Demographics (Map / Plan Labelling)",
       "topic": "society",
       "topicName": "Society, Urbanization & Demographics",
-      "questionType": "table_completion",
+      "questionType": "map_labelling",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam19_Test1_Part1.mp3",
@@ -6274,8 +6274,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_18",
-      "camBadge": "Cam 18 (2023)",
+      "camSeries": "cam_19",
+      "camBadge": "Cambridge 19",
       "questionGroups": [
         {
           "from": 1,
@@ -6289,10 +6289,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_18",
       "skill": "listening",
       "testNum": 18,
-      "title": "Cam 18 (2023) Test 5 Part 2: Comprehensive Inquiry into Economy, Business & Globalization (Section 3)",
+      "title": "Cam 19 (2024) Test 1 Part 3: Economy, Business & Globalization (Multiple Choice (Choose TWO))",
       "topic": "economy",
       "topicName": "Economy, Business & Globalization",
-      "questionType": "map_labelling",
+      "questionType": "choose_two",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam18_18_section1_part2.mp3",
@@ -6737,8 +6737,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_18",
-      "camBadge": "Cam 18 (2023)",
+      "camSeries": "cam_19",
+      "camBadge": "Cambridge 19",
       "questionGroups": [
         {
           "from": 1,
@@ -6752,10 +6752,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_19",
       "skill": "listening",
       "testNum": 19,
-      "title": "Cam 18 (2023) Test 5 Part 3: Comprehensive Inquiry into Culture, Heritage & Tourism (Section 4)",
+      "title": "Cam 19 (2024) Test 1 Part 4: Culture, Heritage & Tourism (Multiple Choice (A, B, C))",
       "topic": "culture",
       "topicName": "Culture, Heritage & Tourism",
-      "questionType": "matching",
+      "questionType": "multiple_choice",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam18_18_section1_part3.mp3",
@@ -7180,8 +7180,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_18",
-      "camBadge": "Cam 18 (2023)",
+      "camSeries": "cam_19",
+      "camBadge": "Cambridge 19",
       "questionGroups": [
         {
           "from": 1,
@@ -7203,10 +7203,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_20",
       "skill": "listening",
       "testNum": 20,
-      "title": "Cam 18 (2023) Test 6 Part 4: Comprehensive Inquiry into History & Archaeology (Section 1)",
+      "title": "Cam 19 (2024) Test 2 Part 1: History & Archaeology (Matching Features / Opinions)",
       "topic": "history",
       "topicName": "History & Archaeology",
-      "questionType": "choose_two",
+      "questionType": "matching",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam18_18_section1_part1.mp3",
@@ -7631,8 +7631,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_18",
-      "camBadge": "Cam 18 (2023)",
+      "camSeries": "cam_19",
+      "camBadge": "Cambridge 19",
       "questionGroups": [
         {
           "from": 1,
@@ -7646,10 +7646,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_21",
       "skill": "listening",
       "testNum": 21,
-      "title": "Cam 18 (2023) Test 6 Part 1: Comprehensive Inquiry into Science & Space Exploration (Section 2)",
+      "title": "Cam 19 (2024) Test 2 Part 2: Science & Space Exploration (Table / Flowchart Completion)",
       "topic": "science",
       "topicName": "Science & Space Exploration",
-      "questionType": "multiple_choice",
+      "questionType": "table_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam18_18_section1_part1.mp3",
@@ -8044,8 +8044,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_18",
-      "camBadge": "Cam 18 (2023)",
+      "camSeries": "cam_19",
+      "camBadge": "Cambridge 19",
       "questionGroups": [
         {
           "from": 1,
@@ -8059,7 +8059,7 @@ const IELTS_BANK_100 = {
       "id": "lis_test_22",
       "skill": "listening",
       "testNum": 22,
-      "title": "Cam 18 (2023) Test 6 Part 2: Comprehensive Inquiry into Crime, Law & Rehabilitation (Section 3)",
+      "title": "Cam 19 (2024) Test 2 Part 3: Crime, Law & Rehabilitation (Form & Notes Completion)",
       "topic": "crime",
       "topicName": "Crime, Law & Rehabilitation",
       "questionType": "form_completion",
@@ -8477,8 +8477,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_18",
-      "camBadge": "Cam 18 (2023)",
+      "camSeries": "cam_19",
+      "camBadge": "Cambridge 19",
       "questionGroups": [
         {
           "from": 1,
@@ -8492,10 +8492,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_23",
       "skill": "listening",
       "testNum": 23,
-      "title": "Cam 18 (2023) Test 6 Part 3: Comprehensive Inquiry into Media, Information & Advertising (Section 4)",
+      "title": "Cam 19 (2024) Test 2 Part 4: Media, Information & Advertising (Map / Plan Labelling)",
       "topic": "media",
       "topicName": "Media, Information & Advertising",
-      "questionType": "table_completion",
+      "questionType": "map_labelling",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam18_18_section1_part3.mp3",
@@ -8850,8 +8850,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_18",
-      "camBadge": "Cam 18 (2023)",
+      "camSeries": "cam_19",
+      "camBadge": "Cambridge 19",
       "questionGroups": [
         {
           "from": 1,
@@ -8865,10 +8865,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_24",
       "skill": "listening",
       "testNum": 24,
-      "title": "Cam 18 (2023) Test 7 Part 4: Comprehensive Inquiry into Work, Career & Automation (Section 1)",
+      "title": "Cam 19 (2024) Test 3 Part 1: Work, Career & Automation (Multiple Choice (A, B, C))",
       "topic": "work",
       "topicName": "Work, Career & Automation",
-      "questionType": "map_labelling",
+      "questionType": "multiple_choice",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam18_18_section1_part1.mp3",
@@ -9313,8 +9313,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_18",
-      "camBadge": "Cam 18 (2023)",
+      "camSeries": "cam_19",
+      "camBadge": "Cambridge 19",
       "questionGroups": [
         {
           "from": 1,
@@ -9328,7 +9328,7 @@ const IELTS_BANK_100 = {
       "id": "lis_test_25",
       "skill": "listening",
       "testNum": 25,
-      "title": "Cam 17 (2022) Test 7 Part 1: Comprehensive Inquiry into Education & Academic Growth (Section 2)",
+      "title": "Cam 19 (2024) Test 3 Part 2: Education & Academic Growth (Matching Features / Opinions)",
       "topic": "education",
       "topicName": "Education & Academic Growth",
       "questionType": "matching",
@@ -9756,8 +9756,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_17",
-      "camBadge": "Cam 17 (2022)",
+      "camSeries": "cam_19",
+      "camBadge": "Cambridge 19",
       "questionGroups": [
         {
           "from": 1,
@@ -9779,10 +9779,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_26",
       "skill": "listening",
       "testNum": 26,
-      "title": "Cam 17 (2022) Test 7 Part 2: Comprehensive Inquiry into Environment & Climate Resilience (Section 3)",
+      "title": "Cam 18 (2023) Test 1 Part 1: Environment & Climate Resilience (Form & Notes Completion)",
       "topic": "environment",
       "topicName": "Environment & Climate Resilience",
-      "questionType": "choose_two",
+      "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t1_audio2.mp3",
@@ -10207,8 +10207,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_17",
-      "camBadge": "Cam 17 (2022)",
+      "camSeries": "cam_18",
+      "camBadge": "Cambridge 18",
       "questionGroups": [
         {
           "from": 1,
@@ -10222,10 +10222,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_27",
       "skill": "listening",
       "testNum": 27,
-      "title": "Cam 17 (2022) Test 7 Part 3: Comprehensive Inquiry into Technology & Artificial Intelligence (Section 4)",
+      "title": "Cam 18 (2023) Test 1 Part 2: Technology & Artificial Intelligence (Map / Plan Labelling)",
       "topic": "technology",
       "topicName": "Technology & Artificial Intelligence",
-      "questionType": "multiple_choice",
+      "questionType": "map_labelling",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t1_audio3.mp3",
@@ -10620,8 +10620,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_17",
-      "camBadge": "Cam 17 (2022)",
+      "camSeries": "cam_18",
+      "camBadge": "Cambridge 18",
       "questionGroups": [
         {
           "from": 1,
@@ -10635,10 +10635,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_28",
       "skill": "listening",
       "testNum": 28,
-      "title": "Cam 17 (2022) Test 8 Part 4: Comprehensive Inquiry into Health, Medicine & Well-being (Section 1)",
+      "title": "Cam 18 (2023) Test 1 Part 3: Health, Medicine & Well-being (Multiple Choice (Choose TWO))",
       "topic": "health",
       "topicName": "Health, Medicine & Well-being",
-      "questionType": "form_completion",
+      "questionType": "choose_two",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t1_audio1.mp3",
@@ -10993,8 +10993,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_17",
-      "camBadge": "Cam 17 (2022)",
+      "camSeries": "cam_18",
+      "camBadge": "Cambridge 18",
       "questionGroups": [
         {
           "from": 1,
@@ -11008,10 +11008,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_29",
       "skill": "listening",
       "testNum": 29,
-      "title": "Cam 17 (2022) Test 8 Part 1: Comprehensive Inquiry into Society, Urbanization & Demographics (Section 2)",
+      "title": "Cam 18 (2023) Test 1 Part 4: Society, Urbanization & Demographics (Multiple Choice (A, B, C))",
       "topic": "society",
       "topicName": "Society, Urbanization & Demographics",
-      "questionType": "table_completion",
+      "questionType": "multiple_choice",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t1_audio1.mp3",
@@ -11366,8 +11366,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_17",
-      "camBadge": "Cam 17 (2022)",
+      "camSeries": "cam_18",
+      "camBadge": "Cambridge 18",
       "questionGroups": [
         {
           "from": 1,
@@ -11381,10 +11381,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_30",
       "skill": "listening",
       "testNum": 30,
-      "title": "Cam 17 (2022) Test 8 Part 2: Comprehensive Inquiry into Economy, Business & Globalization (Section 3)",
+      "title": "Cam 18 (2023) Test 2 Part 1: Economy, Business & Globalization (Matching Features / Opinions)",
       "topic": "economy",
       "topicName": "Economy, Business & Globalization",
-      "questionType": "map_labelling",
+      "questionType": "matching",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t1_audio2.mp3",
@@ -11829,8 +11829,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_17",
-      "camBadge": "Cam 17 (2022)",
+      "camSeries": "cam_18",
+      "camBadge": "Cambridge 18",
       "questionGroups": [
         {
           "from": 1,
@@ -11844,10 +11844,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_31",
       "skill": "listening",
       "testNum": 31,
-      "title": "Cam 17 (2022) Test 8 Part 3: Comprehensive Inquiry into Culture, Heritage & Tourism (Section 4)",
+      "title": "Cam 18 (2023) Test 2 Part 2: Culture, Heritage & Tourism (Table / Flowchart Completion)",
       "topic": "culture",
       "topicName": "Culture, Heritage & Tourism",
-      "questionType": "matching",
+      "questionType": "table_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t1_audio3.mp3",
@@ -12272,8 +12272,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_17",
-      "camBadge": "Cam 17 (2022)",
+      "camSeries": "cam_18",
+      "camBadge": "Cambridge 18",
       "questionGroups": [
         {
           "from": 1,
@@ -12295,10 +12295,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_32",
       "skill": "listening",
       "testNum": 32,
-      "title": "Cam 17 (2022) Test 9 Part 4: Comprehensive Inquiry into History & Archaeology (Section 1)",
+      "title": "Cam 18 (2023) Test 2 Part 3: History & Archaeology (Form & Notes Completion)",
       "topic": "history",
       "topicName": "History & Archaeology",
-      "questionType": "choose_two",
+      "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t1_audio1.mp3",
@@ -12723,8 +12723,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_17",
-      "camBadge": "Cam 17 (2022)",
+      "camSeries": "cam_18",
+      "camBadge": "Cambridge 18",
       "questionGroups": [
         {
           "from": 1,
@@ -12738,10 +12738,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_33",
       "skill": "listening",
       "testNum": 33,
-      "title": "Cam 17 (2022) Test 9 Part 1: Comprehensive Inquiry into Science & Space Exploration (Section 2)",
+      "title": "Cam 18 (2023) Test 2 Part 4: Science & Space Exploration (Map / Plan Labelling)",
       "topic": "science",
       "topicName": "Science & Space Exploration",
-      "questionType": "multiple_choice",
+      "questionType": "map_labelling",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t1_audio1.mp3",
@@ -13136,8 +13136,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_17",
-      "camBadge": "Cam 17 (2022)",
+      "camSeries": "cam_18",
+      "camBadge": "Cambridge 18",
       "questionGroups": [
         {
           "from": 1,
@@ -13151,10 +13151,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_34",
       "skill": "listening",
       "testNum": 34,
-      "title": "Cam 17 (2022) Test 9 Part 2: Comprehensive Inquiry into Crime, Law & Rehabilitation (Section 3)",
+      "title": "Cam 18 (2023) Test 3 Part 1: Crime, Law & Rehabilitation (Multiple Choice (A, B, C))",
       "topic": "crime",
       "topicName": "Crime, Law & Rehabilitation",
-      "questionType": "form_completion",
+      "questionType": "multiple_choice",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t1_audio2.mp3",
@@ -13509,8 +13509,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_17",
-      "camBadge": "Cam 17 (2022)",
+      "camSeries": "cam_18",
+      "camBadge": "Cambridge 18",
       "questionGroups": [
         {
           "from": 1,
@@ -13524,10 +13524,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_35",
       "skill": "listening",
       "testNum": 35,
-      "title": "Cam 16 (2021) Test 9 Part 3: Comprehensive Inquiry into Media, Information & Advertising (Section 4)",
+      "title": "Cam 18 (2023) Test 3 Part 2: Media, Information & Advertising (Matching Features / Opinions)",
       "topic": "media",
       "topicName": "Media, Information & Advertising",
-      "questionType": "table_completion",
+      "questionType": "matching",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t1_audio3.mp3",
@@ -13882,8 +13882,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_16",
-      "camBadge": "Cam 16 (2021)",
+      "camSeries": "cam_18",
+      "camBadge": "Cambridge 18",
       "questionGroups": [
         {
           "from": 1,
@@ -13897,10 +13897,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_36",
       "skill": "listening",
       "testNum": 36,
-      "title": "Cam 16 (2021) Test 10 Part 4: Comprehensive Inquiry into Work, Career & Automation (Section 1)",
+      "title": "Cam 17 (2022) Test 1 Part 1: Work, Career & Automation (Form & Notes Completion)",
       "topic": "work",
       "topicName": "Work, Career & Automation",
-      "questionType": "map_labelling",
+      "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam16_Test_1_Part_1.wav",
@@ -14345,8 +14345,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_16",
-      "camBadge": "Cam 16 (2021)",
+      "camSeries": "cam_17",
+      "camBadge": "Cambridge 17",
       "questionGroups": [
         {
           "from": 1,
@@ -14360,10 +14360,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_37",
       "skill": "listening",
       "testNum": 37,
-      "title": "Cam 16 (2021) Test 10 Part 1: Comprehensive Inquiry into Education & Academic Growth (Section 2)",
+      "title": "Cam 17 (2022) Test 1 Part 2: Education & Academic Growth (Map / Plan Labelling)",
       "topic": "education",
       "topicName": "Education & Academic Growth",
-      "questionType": "matching",
+      "questionType": "map_labelling",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam16_Test_1_Part_1.wav",
@@ -14788,8 +14788,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_16",
-      "camBadge": "Cam 16 (2021)",
+      "camSeries": "cam_17",
+      "camBadge": "Cambridge 17",
       "questionGroups": [
         {
           "from": 1,
@@ -14811,7 +14811,7 @@ const IELTS_BANK_100 = {
       "id": "lis_test_38",
       "skill": "listening",
       "testNum": 38,
-      "title": "Cam 16 (2021) Test 10 Part 2: Comprehensive Inquiry into Environment & Climate Resilience (Section 3)",
+      "title": "Cam 17 (2022) Test 1 Part 3: Environment & Climate Resilience (Multiple Choice (Choose TWO))",
       "topic": "environment",
       "topicName": "Environment & Climate Resilience",
       "questionType": "choose_two",
@@ -15239,8 +15239,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_16",
-      "camBadge": "Cam 16 (2021)",
+      "camSeries": "cam_17",
+      "camBadge": "Cambridge 17",
       "questionGroups": [
         {
           "from": 1,
@@ -15254,7 +15254,7 @@ const IELTS_BANK_100 = {
       "id": "lis_test_39",
       "skill": "listening",
       "testNum": 39,
-      "title": "Cam 16 (2021) Test 10 Part 3: Comprehensive Inquiry into Technology & Artificial Intelligence (Section 4)",
+      "title": "Cam 17 (2022) Test 1 Part 4: Technology & Artificial Intelligence (Multiple Choice (A, B, C))",
       "topic": "technology",
       "topicName": "Technology & Artificial Intelligence",
       "questionType": "multiple_choice",
@@ -15652,8 +15652,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_16",
-      "camBadge": "Cam 16 (2021)",
+      "camSeries": "cam_17",
+      "camBadge": "Cambridge 17",
       "questionGroups": [
         {
           "from": 1,
@@ -15667,10 +15667,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_40",
       "skill": "listening",
       "testNum": 40,
-      "title": "Cam 16 (2021) Test 11 Part 4: Comprehensive Inquiry into Health, Medicine & Well-being (Section 1)",
+      "title": "Cam 17 (2022) Test 2 Part 1: Health, Medicine & Well-being (Matching Features / Opinions)",
       "topic": "health",
       "topicName": "Health, Medicine & Well-being",
-      "questionType": "form_completion",
+      "questionType": "matching",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam16_Test_1_Part_1.wav",
@@ -16025,8 +16025,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_16",
-      "camBadge": "Cam 16 (2021)",
+      "camSeries": "cam_17",
+      "camBadge": "Cambridge 17",
       "questionGroups": [
         {
           "from": 1,
@@ -16040,10 +16040,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_41",
       "skill": "listening",
       "testNum": 41,
-      "title": "Cam 16 (2021) Test 11 Part 1: Comprehensive Inquiry into Society, Urbanization & Demographics (Section 2)",
+      "title": "Cam 16 (2021) Test 1 Part 1: Society, Urbanization & Demographics (Form & Notes Completion)",
       "topic": "society",
       "topicName": "Society, Urbanization & Demographics",
-      "questionType": "table_completion",
+      "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam16_Test_1_Part_1.wav",
@@ -16399,7 +16399,7 @@ const IELTS_BANK_100 = {
         ]
       },
       "camSeries": "cam_16",
-      "camBadge": "Cam 16 (2021)",
+      "camBadge": "Cambridge 16",
       "questionGroups": [
         {
           "from": 1,
@@ -16413,7 +16413,7 @@ const IELTS_BANK_100 = {
       "id": "lis_test_42",
       "skill": "listening",
       "testNum": 42,
-      "title": "Cam 16 (2021) Test 11 Part 2: Comprehensive Inquiry into Economy, Business & Globalization (Section 3)",
+      "title": "Cam 16 (2021) Test 1 Part 2: Economy, Business & Globalization (Map / Plan Labelling)",
       "topic": "economy",
       "topicName": "Economy, Business & Globalization",
       "questionType": "map_labelling",
@@ -16862,7 +16862,7 @@ const IELTS_BANK_100 = {
         ]
       },
       "camSeries": "cam_16",
-      "camBadge": "Cam 16 (2021)",
+      "camBadge": "Cambridge 16",
       "questionGroups": [
         {
           "from": 1,
@@ -16876,10 +16876,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_43",
       "skill": "listening",
       "testNum": 43,
-      "title": "Cam 15 (2020) Test 11 Part 3: Comprehensive Inquiry into Culture, Heritage & Tourism (Section 4)",
+      "title": "Cam 16 (2021) Test 1 Part 3: Culture, Heritage & Tourism (Multiple Choice (Choose TWO))",
       "topic": "culture",
       "topicName": "Culture, Heritage & Tourism",
-      "questionType": "matching",
+      "questionType": "choose_two",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam16_Test_1_Part_3.wav",
@@ -17304,8 +17304,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_15",
-      "camBadge": "Cam 15 (2020)",
+      "camSeries": "cam_16",
+      "camBadge": "Cambridge 16",
       "questionGroups": [
         {
           "from": 1,
@@ -17327,10 +17327,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_44",
       "skill": "listening",
       "testNum": 44,
-      "title": "Cam 15 (2020) Test 12 Part 4: Comprehensive Inquiry into History & Archaeology (Section 1)",
+      "title": "Cam 16 (2021) Test 1 Part 4: History & Archaeology (Multiple Choice (A, B, C))",
       "topic": "history",
       "topicName": "History & Archaeology",
-      "questionType": "choose_two",
+      "questionType": "multiple_choice",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam15_IELTS15_test1_audio1.mp3",
@@ -17755,8 +17755,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_15",
-      "camBadge": "Cam 15 (2020)",
+      "camSeries": "cam_16",
+      "camBadge": "Cambridge 16",
       "questionGroups": [
         {
           "from": 1,
@@ -17770,10 +17770,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_45",
       "skill": "listening",
       "testNum": 45,
-      "title": "Cam 15 (2020) Test 12 Part 1: Comprehensive Inquiry into Science & Space Exploration (Section 2)",
+      "title": "Cam 16 (2021) Test 2 Part 1: Science & Space Exploration (Matching Features / Opinions)",
       "topic": "science",
       "topicName": "Science & Space Exploration",
-      "questionType": "multiple_choice",
+      "questionType": "matching",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam15_IELTS15_test1_audio1.mp3",
@@ -18168,8 +18168,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_15",
-      "camBadge": "Cam 15 (2020)",
+      "camSeries": "cam_16",
+      "camBadge": "Cambridge 16",
       "questionGroups": [
         {
           "from": 1,
@@ -18183,10 +18183,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_46",
       "skill": "listening",
       "testNum": 46,
-      "title": "Cam 15 (2020) Test 12 Part 2: Comprehensive Inquiry into Crime, Law & Rehabilitation (Section 3)",
+      "title": "Cam 16 (2021) Test 2 Part 2: Crime, Law & Rehabilitation (Table / Flowchart Completion)",
       "topic": "crime",
       "topicName": "Crime, Law & Rehabilitation",
-      "questionType": "form_completion",
+      "questionType": "table_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam15_IELTS15_test1_audio2.mp3",
@@ -18541,8 +18541,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_15",
-      "camBadge": "Cam 15 (2020)",
+      "camSeries": "cam_16",
+      "camBadge": "Cambridge 16",
       "questionGroups": [
         {
           "from": 1,
@@ -18556,10 +18556,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_47",
       "skill": "listening",
       "testNum": 47,
-      "title": "Cam 15 (2020) Test 12 Part 3: Comprehensive Inquiry into Media, Information & Advertising (Section 4)",
+      "title": "Cam 16 (2021) Test 2 Part 3: Media, Information & Advertising (Form & Notes Completion)",
       "topic": "media",
       "topicName": "Media, Information & Advertising",
-      "questionType": "table_completion",
+      "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam15_IELTS15_test1_audio3.mp3",
@@ -18974,8 +18974,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_15",
-      "camBadge": "Cam 15 (2020)",
+      "camSeries": "cam_16",
+      "camBadge": "Cambridge 16",
       "questionGroups": [
         {
           "from": 1,
@@ -18989,7 +18989,7 @@ const IELTS_BANK_100 = {
       "id": "lis_test_48",
       "skill": "listening",
       "testNum": 48,
-      "title": "Cam 15 (2020) Test 13 Part 4: Comprehensive Inquiry into Work, Career & Automation (Section 1)",
+      "title": "Cam 16 (2021) Test 2 Part 4: Work, Career & Automation (Map / Plan Labelling)",
       "topic": "work",
       "topicName": "Work, Career & Automation",
       "questionType": "map_labelling",
@@ -19437,8 +19437,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_15",
-      "camBadge": "Cam 15 (2020)",
+      "camSeries": "cam_16",
+      "camBadge": "Cambridge 16",
       "questionGroups": [
         {
           "from": 1,
@@ -19452,10 +19452,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_49",
       "skill": "listening",
       "testNum": 49,
-      "title": "Cam 15 (2020) Test 13 Part 1: Comprehensive Inquiry into Education & Academic Growth (Section 2)",
+      "title": "Cam 16 (2021) Test 3 Part 1: Education & Academic Growth (Multiple Choice (A, B, C))",
       "topic": "education",
       "topicName": "Education & Academic Growth",
-      "questionType": "matching",
+      "questionType": "multiple_choice",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam15_IELTS15_test1_audio1.mp3",
@@ -19880,8 +19880,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_15",
-      "camBadge": "Cam 15 (2020)",
+      "camSeries": "cam_16",
+      "camBadge": "Cambridge 16",
       "questionGroups": [
         {
           "from": 1,
@@ -19903,10 +19903,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_50",
       "skill": "listening",
       "testNum": 50,
-      "title": "Cam 15 (2020) Test 13 Part 2: Comprehensive Inquiry into Environment & Climate Resilience (Section 3)",
+      "title": "Cam 16 (2021) Test 3 Part 2: Environment & Climate Resilience (Matching Features / Opinions)",
       "topic": "environment",
       "topicName": "Environment & Climate Resilience",
-      "questionType": "choose_two",
+      "questionType": "matching",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam15_IELTS15_test1_audio2.mp3",
@@ -20331,8 +20331,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_15",
-      "camBadge": "Cam 15 (2020)",
+      "camSeries": "cam_16",
+      "camBadge": "Cambridge 16",
       "questionGroups": [
         {
           "from": 1,
@@ -20346,10 +20346,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_51",
       "skill": "listening",
       "testNum": 51,
-      "title": "Cam 13 (2018) Test 13 Part 3: Comprehensive Inquiry into Technology & Artificial Intelligence (Section 4)",
+      "title": "Cam 15 (2020) Test 1 Part 1: Technology & Artificial Intelligence (Form & Notes Completion)",
       "topic": "technology",
       "topicName": "Technology & Artificial Intelligence",
-      "questionType": "multiple_choice",
+      "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam15_IELTS15_test1_audio3.mp3",
@@ -20744,8 +20744,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_13",
-      "camBadge": "Cam 13 (2018)",
+      "camSeries": "cam_15",
+      "camBadge": "Cambridge 15",
       "questionGroups": [
         {
           "from": 1,
@@ -20759,10 +20759,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_52",
       "skill": "listening",
       "testNum": 52,
-      "title": "Cam 13 (2018) Test 14 Part 4: Comprehensive Inquiry into Health, Medicine & Well-being (Section 1)",
+      "title": "Cam 15 (2020) Test 1 Part 2: Health, Medicine & Well-being (Map / Plan Labelling)",
       "topic": "health",
       "topicName": "Health, Medicine & Well-being",
-      "questionType": "form_completion",
+      "questionType": "map_labelling",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam13_IELTS13_Tests1_4CD1Track_01.mp3",
@@ -21177,8 +21177,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_13",
-      "camBadge": "Cam 13 (2018)",
+      "camSeries": "cam_15",
+      "camBadge": "Cambridge 15",
       "questionGroups": [
         {
           "from": 1,
@@ -21192,10 +21192,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_53",
       "skill": "listening",
       "testNum": 53,
-      "title": "Cam 13 (2018) Test 14 Part 1: Comprehensive Inquiry into Society, Urbanization & Demographics (Section 2)",
+      "title": "Cam 15 (2020) Test 1 Part 3: Society, Urbanization & Demographics (Multiple Choice (Choose TWO))",
       "topic": "society",
       "topicName": "Society, Urbanization & Demographics",
-      "questionType": "table_completion",
+      "questionType": "choose_two",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam13_IELTS13_Tests1_4CD1Track_01.mp3",
@@ -21550,8 +21550,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_13",
-      "camBadge": "Cam 13 (2018)",
+      "camSeries": "cam_15",
+      "camBadge": "Cambridge 15",
       "questionGroups": [
         {
           "from": 1,
@@ -21565,10 +21565,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_54",
       "skill": "listening",
       "testNum": 54,
-      "title": "Cam 13 (2018) Test 14 Part 2: Comprehensive Inquiry into Economy, Business & Globalization (Section 3)",
+      "title": "Cam 15 (2020) Test 1 Part 4: Economy, Business & Globalization (Multiple Choice (A, B, C))",
       "topic": "economy",
       "topicName": "Economy, Business & Globalization",
-      "questionType": "map_labelling",
+      "questionType": "multiple_choice",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam13_IELTS13_Tests1_4CD1Track_02.mp3",
@@ -22013,8 +22013,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_13",
-      "camBadge": "Cam 13 (2018)",
+      "camSeries": "cam_15",
+      "camBadge": "Cambridge 15",
       "questionGroups": [
         {
           "from": 1,
@@ -22028,7 +22028,7 @@ const IELTS_BANK_100 = {
       "id": "lis_test_55",
       "skill": "listening",
       "testNum": 55,
-      "title": "Cam 13 (2018) Test 14 Part 3: Comprehensive Inquiry into Culture, Heritage & Tourism (Section 4)",
+      "title": "Cam 15 (2020) Test 2 Part 1: Culture, Heritage & Tourism (Matching Features / Opinions)",
       "topic": "culture",
       "topicName": "Culture, Heritage & Tourism",
       "questionType": "matching",
@@ -22456,8 +22456,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_13",
-      "camBadge": "Cam 13 (2018)",
+      "camSeries": "cam_15",
+      "camBadge": "Cambridge 15",
       "questionGroups": [
         {
           "from": 1,
@@ -22479,10 +22479,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_56",
       "skill": "listening",
       "testNum": 56,
-      "title": "Cam 13 (2018) Test 15 Part 4: Comprehensive Inquiry into History & Archaeology (Section 1)",
+      "title": "Cam 15 (2020) Test 2 Part 2: History & Archaeology (Table / Flowchart Completion)",
       "topic": "history",
       "topicName": "History & Archaeology",
-      "questionType": "choose_two",
+      "questionType": "table_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam13_IELTS13_Tests1_4CD1Track_01.mp3",
@@ -22907,8 +22907,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_13",
-      "camBadge": "Cam 13 (2018)",
+      "camSeries": "cam_15",
+      "camBadge": "Cambridge 15",
       "questionGroups": [
         {
           "from": 1,
@@ -22922,10 +22922,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_57",
       "skill": "listening",
       "testNum": 57,
-      "title": "Cam 13 (2018) Test 15 Part 1: Comprehensive Inquiry into Science & Space Exploration (Section 2)",
+      "title": "Cam 15 (2020) Test 2 Part 3: Science & Space Exploration (Form & Notes Completion)",
       "topic": "science",
       "topicName": "Science & Space Exploration",
-      "questionType": "multiple_choice",
+      "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam13_IELTS13_Tests1_4CD1Track_01.mp3",
@@ -23320,8 +23320,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_13",
-      "camBadge": "Cam 13 (2018)",
+      "camSeries": "cam_15",
+      "camBadge": "Cambridge 15",
       "questionGroups": [
         {
           "from": 1,
@@ -23335,10 +23335,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_58",
       "skill": "listening",
       "testNum": 58,
-      "title": "Cam 13 (2018) Test 15 Part 2: Comprehensive Inquiry into Crime, Law & Rehabilitation (Section 3)",
+      "title": "Cam 15 (2020) Test 2 Part 4: Crime, Law & Rehabilitation (Map / Plan Labelling)",
       "topic": "crime",
       "topicName": "Crime, Law & Rehabilitation",
-      "questionType": "form_completion",
+      "questionType": "map_labelling",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam13_IELTS13_Tests1_4CD1Track_02.mp3",
@@ -23693,8 +23693,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_13",
-      "camBadge": "Cam 13 (2018)",
+      "camSeries": "cam_15",
+      "camBadge": "Cambridge 15",
       "questionGroups": [
         {
           "from": 1,
@@ -23708,10 +23708,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_59",
       "skill": "listening",
       "testNum": 59,
-      "title": "Cam 12 (2017) Test 15 Part 3: Comprehensive Inquiry into Media, Information & Advertising (Section 4)",
+      "title": "Cam 15 (2020) Test 3 Part 1: Media, Information & Advertising (Multiple Choice (A, B, C))",
       "topic": "media",
       "topicName": "Media, Information & Advertising",
-      "questionType": "table_completion",
+      "questionType": "multiple_choice",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam13_IELTS13_Tests1_4CD1Track_03.mp3",
@@ -24066,8 +24066,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_12",
-      "camBadge": "Cam 12 (2017)",
+      "camSeries": "cam_15",
+      "camBadge": "Cambridge 15",
       "questionGroups": [
         {
           "from": 1,
@@ -24081,10 +24081,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_60",
       "skill": "listening",
       "testNum": 60,
-      "title": "Cam 12 (2017) Test 16 Part 4: Comprehensive Inquiry into Work, Career & Automation (Section 1)",
+      "title": "Cam 15 (2020) Test 3 Part 2: Work, Career & Automation (Matching Features / Opinions)",
       "topic": "work",
       "topicName": "Work, Career & Automation",
-      "questionType": "map_labelling",
+      "questionType": "matching",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam12_Test_7_Section_1.mp3",
@@ -24529,8 +24529,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_12",
-      "camBadge": "Cam 12 (2017)",
+      "camSeries": "cam_15",
+      "camBadge": "Cambridge 15",
       "questionGroups": [
         {
           "from": 1,
@@ -24544,10 +24544,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_61",
       "skill": "listening",
       "testNum": 61,
-      "title": "Cam 12 (2017) Test 16 Part 1: Comprehensive Inquiry into Education & Academic Growth (Section 2)",
+      "title": "Cam 13 (2018) Test 1 Part 1: Education & Academic Growth (Form & Notes Completion)",
       "topic": "education",
       "topicName": "Education & Academic Growth",
-      "questionType": "matching",
+      "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam12_Test_7_Section_1.mp3",
@@ -24972,8 +24972,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_12",
-      "camBadge": "Cam 12 (2017)",
+      "camSeries": "cam_13",
+      "camBadge": "Cambridge 13",
       "questionGroups": [
         {
           "from": 1,
@@ -24995,10 +24995,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_62",
       "skill": "listening",
       "testNum": 62,
-      "title": "Cam 12 (2017) Test 16 Part 2: Comprehensive Inquiry into Environment & Climate Resilience (Section 3)",
+      "title": "Cam 13 (2018) Test 1 Part 2: Environment & Climate Resilience (Map / Plan Labelling)",
       "topic": "environment",
       "topicName": "Environment & Climate Resilience",
-      "questionType": "choose_two",
+      "questionType": "map_labelling",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam12_Test_7_Section_2.mp3",
@@ -25423,8 +25423,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_12",
-      "camBadge": "Cam 12 (2017)",
+      "camSeries": "cam_13",
+      "camBadge": "Cambridge 13",
       "questionGroups": [
         {
           "from": 1,
@@ -25438,10 +25438,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_63",
       "skill": "listening",
       "testNum": 63,
-      "title": "Cam 12 (2017) Test 16 Part 3: Comprehensive Inquiry into Technology & Artificial Intelligence (Section 4)",
+      "title": "Cam 13 (2018) Test 1 Part 3: Technology & Artificial Intelligence (Multiple Choice (Choose TWO))",
       "topic": "technology",
       "topicName": "Technology & Artificial Intelligence",
-      "questionType": "multiple_choice",
+      "questionType": "choose_two",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam12_Test_7_Section_3.mp3",
@@ -25836,8 +25836,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_12",
-      "camBadge": "Cam 12 (2017)",
+      "camSeries": "cam_13",
+      "camBadge": "Cambridge 13",
       "questionGroups": [
         {
           "from": 1,
@@ -25851,10 +25851,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_64",
       "skill": "listening",
       "testNum": 64,
-      "title": "Cam 12 (2017) Test 17 Part 4: Comprehensive Inquiry into Health, Medicine & Well-being (Section 1)",
+      "title": "Cam 13 (2018) Test 1 Part 4: Health, Medicine & Well-being (Multiple Choice (A, B, C))",
       "topic": "health",
       "topicName": "Health, Medicine & Well-being",
-      "questionType": "form_completion",
+      "questionType": "multiple_choice",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam12_Test_7_Section_1.mp3",
@@ -26209,8 +26209,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_12",
-      "camBadge": "Cam 12 (2017)",
+      "camSeries": "cam_13",
+      "camBadge": "Cambridge 13",
       "questionGroups": [
         {
           "from": 1,
@@ -26224,10 +26224,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_65",
       "skill": "listening",
       "testNum": 65,
-      "title": "Cam 12 (2017) Test 17 Part 1: Comprehensive Inquiry into Society, Urbanization & Demographics (Section 2)",
+      "title": "Cam 13 (2018) Test 2 Part 1: Society, Urbanization & Demographics (Matching Features / Opinions)",
       "topic": "society",
       "topicName": "Society, Urbanization & Demographics",
-      "questionType": "table_completion",
+      "questionType": "matching",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam12_Test_7_Section_1.mp3",
@@ -26582,8 +26582,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_12",
-      "camBadge": "Cam 12 (2017)",
+      "camSeries": "cam_13",
+      "camBadge": "Cambridge 13",
       "questionGroups": [
         {
           "from": 1,
@@ -26597,10 +26597,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_66",
       "skill": "listening",
       "testNum": 66,
-      "title": "Cam 12 (2017) Test 17 Part 2: Comprehensive Inquiry into Economy, Business & Globalization (Section 3)",
+      "title": "Cam 13 (2018) Test 2 Part 2: Economy, Business & Globalization (Table / Flowchart Completion)",
       "topic": "economy",
       "topicName": "Economy, Business & Globalization",
-      "questionType": "map_labelling",
+      "questionType": "table_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam12_Test_7_Section_2.mp3",
@@ -27045,8 +27045,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_12",
-      "camBadge": "Cam 12 (2017)",
+      "camSeries": "cam_13",
+      "camBadge": "Cambridge 13",
       "questionGroups": [
         {
           "from": 1,
@@ -27060,10 +27060,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_67",
       "skill": "listening",
       "testNum": 67,
-      "title": "Cam 11 (2016) Test 17 Part 3: Comprehensive Inquiry into Culture, Heritage & Tourism (Section 4)",
+      "title": "Cam 13 (2018) Test 2 Part 3: Culture, Heritage & Tourism (Form & Notes Completion)",
       "topic": "culture",
       "topicName": "Culture, Heritage & Tourism",
-      "questionType": "matching",
+      "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam12_Test_7_Section_3.mp3",
@@ -27488,8 +27488,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_11",
-      "camBadge": "Cam 11 (2016)",
+      "camSeries": "cam_13",
+      "camBadge": "Cambridge 13",
       "questionGroups": [
         {
           "from": 1,
@@ -27511,10 +27511,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_68",
       "skill": "listening",
       "testNum": 68,
-      "title": "Cam 11 (2016) Test 18 Part 4: Comprehensive Inquiry into History & Archaeology (Section 1)",
+      "title": "Cam 13 (2018) Test 2 Part 4: History & Archaeology (Map / Plan Labelling)",
       "topic": "history",
       "topicName": "History & Archaeology",
-      "questionType": "choose_two",
+      "questionType": "map_labelling",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam11_IELTS11_Test1_Section1.mp3",
@@ -27939,8 +27939,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_11",
-      "camBadge": "Cam 11 (2016)",
+      "camSeries": "cam_13",
+      "camBadge": "Cambridge 13",
       "questionGroups": [
         {
           "from": 1,
@@ -27954,7 +27954,7 @@ const IELTS_BANK_100 = {
       "id": "lis_test_69",
       "skill": "listening",
       "testNum": 69,
-      "title": "Cam 11 (2016) Test 18 Part 1: Comprehensive Inquiry into Science & Space Exploration (Section 2)",
+      "title": "Cam 13 (2018) Test 3 Part 1: Science & Space Exploration (Multiple Choice (A, B, C))",
       "topic": "science",
       "topicName": "Science & Space Exploration",
       "questionType": "multiple_choice",
@@ -28352,8 +28352,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_11",
-      "camBadge": "Cam 11 (2016)",
+      "camSeries": "cam_13",
+      "camBadge": "Cambridge 13",
       "questionGroups": [
         {
           "from": 1,
@@ -28367,10 +28367,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_70",
       "skill": "listening",
       "testNum": 70,
-      "title": "Cam 11 (2016) Test 18 Part 2: Comprehensive Inquiry into Crime, Law & Rehabilitation (Section 3)",
+      "title": "Cam 13 (2018) Test 3 Part 2: Crime, Law & Rehabilitation (Matching Features / Opinions)",
       "topic": "crime",
       "topicName": "Crime, Law & Rehabilitation",
-      "questionType": "form_completion",
+      "questionType": "matching",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam11_IELTS11_Test1_Section1.mp3",
@@ -28725,8 +28725,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_11",
-      "camBadge": "Cam 11 (2016)",
+      "camSeries": "cam_13",
+      "camBadge": "Cambridge 13",
       "questionGroups": [
         {
           "from": 1,
@@ -28740,10 +28740,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_71",
       "skill": "listening",
       "testNum": 71,
-      "title": "Cam 11 (2016) Test 18 Part 3: Comprehensive Inquiry into Media, Information & Advertising (Section 4)",
+      "title": "Cam 12 (2017) Test 1 Part 1: Media, Information & Advertising (Form & Notes Completion)",
       "topic": "media",
       "topicName": "Media, Information & Advertising",
-      "questionType": "table_completion",
+      "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam11_IELTS11_Test1_Section1.mp3",
@@ -29098,8 +29098,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_11",
-      "camBadge": "Cam 11 (2016)",
+      "camSeries": "cam_12",
+      "camBadge": "Cambridge 12",
       "questionGroups": [
         {
           "from": 1,
@@ -29113,7 +29113,7 @@ const IELTS_BANK_100 = {
       "id": "lis_test_72",
       "skill": "listening",
       "testNum": 72,
-      "title": "Cam 11 (2016) Test 19 Part 4: Comprehensive Inquiry into Work, Career & Automation (Section 1)",
+      "title": "Cam 12 (2017) Test 1 Part 2: Work, Career & Automation (Map / Plan Labelling)",
       "topic": "work",
       "topicName": "Work, Career & Automation",
       "questionType": "map_labelling",
@@ -29561,8 +29561,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_11",
-      "camBadge": "Cam 11 (2016)",
+      "camSeries": "cam_12",
+      "camBadge": "Cambridge 12",
       "questionGroups": [
         {
           "from": 1,
@@ -29576,10 +29576,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_73",
       "skill": "listening",
       "testNum": 73,
-      "title": "Cam 11 (2016) Test 19 Part 1: Comprehensive Inquiry into Education & Academic Growth (Section 2)",
+      "title": "Cam 12 (2017) Test 1 Part 3: Education & Academic Growth (Multiple Choice (Choose TWO))",
       "topic": "education",
       "topicName": "Education & Academic Growth",
-      "questionType": "matching",
+      "questionType": "choose_two",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam11_IELTS11_Test1_Section1.mp3",
@@ -30004,8 +30004,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_11",
-      "camBadge": "Cam 11 (2016)",
+      "camSeries": "cam_12",
+      "camBadge": "Cambridge 12",
       "questionGroups": [
         {
           "from": 1,
@@ -30027,10 +30027,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_74",
       "skill": "listening",
       "testNum": 74,
-      "title": "Cam 11 (2016) Test 19 Part 2: Comprehensive Inquiry into Environment & Climate Resilience (Section 3)",
+      "title": "Cam 12 (2017) Test 1 Part 4: Environment & Climate Resilience (Multiple Choice (A, B, C))",
       "topic": "environment",
       "topicName": "Environment & Climate Resilience",
-      "questionType": "choose_two",
+      "questionType": "multiple_choice",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam11_IELTS11_Test1_Section1.mp3",
@@ -30455,8 +30455,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_11",
-      "camBadge": "Cam 11 (2016)",
+      "camSeries": "cam_12",
+      "camBadge": "Cambridge 12",
       "questionGroups": [
         {
           "from": 1,
@@ -30470,10 +30470,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_75",
       "skill": "listening",
       "testNum": 75,
-      "title": "Cam 10 (2015) Test 19 Part 3: Comprehensive Inquiry into Technology & Artificial Intelligence (Section 4)",
+      "title": "Cam 12 (2017) Test 2 Part 1: Technology & Artificial Intelligence (Matching Features / Opinions)",
       "topic": "technology",
       "topicName": "Technology & Artificial Intelligence",
-      "questionType": "multiple_choice",
+      "questionType": "matching",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam11_IELTS11_Test1_Section1.mp3",
@@ -30868,8 +30868,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_10",
-      "camBadge": "Cam 10 (2015)",
+      "camSeries": "cam_12",
+      "camBadge": "Cambridge 12",
       "questionGroups": [
         {
           "from": 1,
@@ -30883,10 +30883,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_76",
       "skill": "listening",
       "testNum": 76,
-      "title": "Cam 10 (2015) Test 20 Part 4: Comprehensive Inquiry into Health, Medicine & Well-being (Section 1)",
+      "title": "Cam 12 (2017) Test 2 Part 2: Health, Medicine & Well-being (Table / Flowchart Completion)",
       "topic": "health",
       "topicName": "Health, Medicine & Well-being",
-      "questionType": "form_completion",
+      "questionType": "table_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam10_Track01.mp3",
@@ -31241,8 +31241,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_10",
-      "camBadge": "Cam 10 (2015)",
+      "camSeries": "cam_12",
+      "camBadge": "Cambridge 12",
       "questionGroups": [
         {
           "from": 1,
@@ -31256,10 +31256,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_77",
       "skill": "listening",
       "testNum": 77,
-      "title": "Cam 10 (2015) Test 20 Part 1: Comprehensive Inquiry into Society, Urbanization & Demographics (Section 2)",
+      "title": "Cam 12 (2017) Test 2 Part 3: Society, Urbanization & Demographics (Form & Notes Completion)",
       "topic": "society",
       "topicName": "Society, Urbanization & Demographics",
-      "questionType": "table_completion",
+      "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam10_Track01.mp3",
@@ -31674,8 +31674,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_10",
-      "camBadge": "Cam 10 (2015)",
+      "camSeries": "cam_12",
+      "camBadge": "Cambridge 12",
       "questionGroups": [
         {
           "from": 1,
@@ -31689,7 +31689,7 @@ const IELTS_BANK_100 = {
       "id": "lis_test_78",
       "skill": "listening",
       "testNum": 78,
-      "title": "Cam 10 (2015) Test 20 Part 2: Comprehensive Inquiry into Economy, Business & Globalization (Section 3)",
+      "title": "Cam 12 (2017) Test 2 Part 4: Economy, Business & Globalization (Map / Plan Labelling)",
       "topic": "economy",
       "topicName": "Economy, Business & Globalization",
       "questionType": "map_labelling",
@@ -32137,8 +32137,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_10",
-      "camBadge": "Cam 10 (2015)",
+      "camSeries": "cam_12",
+      "camBadge": "Cambridge 12",
       "questionGroups": [
         {
           "from": 1,
@@ -32152,10 +32152,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_79",
       "skill": "listening",
       "testNum": 79,
-      "title": "Cam 10 (2015) Test 20 Part 3: Comprehensive Inquiry into Culture, Heritage & Tourism (Section 4)",
+      "title": "Cam 12 (2017) Test 3 Part 1: Culture, Heritage & Tourism (Multiple Choice (A, B, C))",
       "topic": "culture",
       "topicName": "Culture, Heritage & Tourism",
-      "questionType": "matching",
+      "questionType": "multiple_choice",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam10_Track03.mp3",
@@ -32580,8 +32580,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_10",
-      "camBadge": "Cam 10 (2015)",
+      "camSeries": "cam_12",
+      "camBadge": "Cambridge 12",
       "questionGroups": [
         {
           "from": 1,
@@ -32603,10 +32603,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_80",
       "skill": "listening",
       "testNum": 80,
-      "title": "Cam 10 (2015) Test 21 Part 4: Comprehensive Inquiry into History & Archaeology (Section 1)",
+      "title": "Cam 12 (2017) Test 3 Part 2: History & Archaeology (Matching Features / Opinions)",
       "topic": "history",
       "topicName": "History & Archaeology",
-      "questionType": "choose_two",
+      "questionType": "matching",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam10_Track01.mp3",
@@ -33031,8 +33031,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_10",
-      "camBadge": "Cam 10 (2015)",
+      "camSeries": "cam_12",
+      "camBadge": "Cambridge 12",
       "questionGroups": [
         {
           "from": 1,
@@ -33046,10 +33046,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_81",
       "skill": "listening",
       "testNum": 81,
-      "title": "Cam 10 (2015) Test 21 Part 1: Comprehensive Inquiry into Science & Space Exploration (Section 2)",
+      "title": "Cam 11 (2016) Test 1 Part 1: Science & Space Exploration (Form & Notes Completion)",
       "topic": "science",
       "topicName": "Science & Space Exploration",
-      "questionType": "multiple_choice",
+      "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam10_Track01.mp3",
@@ -33444,8 +33444,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_10",
-      "camBadge": "Cam 10 (2015)",
+      "camSeries": "cam_11",
+      "camBadge": "Cambridge 11",
       "questionGroups": [
         {
           "from": 1,
@@ -33459,10 +33459,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_82",
       "skill": "listening",
       "testNum": 82,
-      "title": "Cam 10 (2015) Test 21 Part 2: Comprehensive Inquiry into Crime, Law & Rehabilitation (Section 3)",
+      "title": "Cam 11 (2016) Test 1 Part 2: Crime, Law & Rehabilitation (Map / Plan Labelling)",
       "topic": "crime",
       "topicName": "Crime, Law & Rehabilitation",
-      "questionType": "form_completion",
+      "questionType": "map_labelling",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam10_Track02.mp3",
@@ -33877,8 +33877,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_10",
-      "camBadge": "Cam 10 (2015)",
+      "camSeries": "cam_11",
+      "camBadge": "Cambridge 11",
       "questionGroups": [
         {
           "from": 1,
@@ -33892,10 +33892,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_83",
       "skill": "listening",
       "testNum": 83,
-      "title": "Cam 1 (Classic) Test 21 Part 3: Comprehensive Inquiry into Media, Information & Advertising (Section 4)",
+      "title": "Cam 11 (2016) Test 1 Part 3: Media, Information & Advertising (Multiple Choice (Choose TWO))",
       "topic": "media",
       "topicName": "Media, Information & Advertising",
-      "questionType": "table_completion",
+      "questionType": "choose_two",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam10_Track03.mp3",
@@ -34250,8 +34250,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_1",
-      "camBadge": "Cam 1 (Classic)",
+      "camSeries": "cam_11",
+      "camBadge": "Cambridge 11",
       "questionGroups": [
         {
           "from": 1,
@@ -34265,10 +34265,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_84",
       "skill": "listening",
       "testNum": 84,
-      "title": "Cam 2 (Classic) Test 22 Part 4: Comprehensive Inquiry into Work, Career & Automation (Section 1)",
+      "title": "Cam 11 (2016) Test 1 Part 4: Work, Career & Automation (Multiple Choice (A, B, C))",
       "topic": "work",
       "topicName": "Work, Career & Automation",
-      "questionType": "map_labelling",
+      "questionType": "multiple_choice",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam1_ielts11.mp3",
@@ -34713,8 +34713,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_2",
-      "camBadge": "Cam 2 (Classic)",
+      "camSeries": "cam_11",
+      "camBadge": "Cambridge 11",
       "questionGroups": [
         {
           "from": 1,
@@ -34728,7 +34728,7 @@ const IELTS_BANK_100 = {
       "id": "lis_test_85",
       "skill": "listening",
       "testNum": 85,
-      "title": "Cam 3 (Classic) Test 22 Part 1: Comprehensive Inquiry into Education & Academic Growth (Section 2)",
+      "title": "Cam 11 (2016) Test 2 Part 1: Education & Academic Growth (Matching Features / Opinions)",
       "topic": "education",
       "topicName": "Education & Academic Growth",
       "questionType": "matching",
@@ -35156,8 +35156,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_3",
-      "camBadge": "Cam 3 (Classic)",
+      "camSeries": "cam_11",
+      "camBadge": "Cambridge 11",
       "questionGroups": [
         {
           "from": 1,
@@ -35179,10 +35179,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_86",
       "skill": "listening",
       "testNum": 86,
-      "title": "Cam 4 (Classic) Test 22 Part 2: Comprehensive Inquiry into Environment & Climate Resilience (Section 3)",
+      "title": "Cam 11 (2016) Test 2 Part 2: Environment & Climate Resilience (Table / Flowchart Completion)",
       "topic": "environment",
       "topicName": "Environment & Climate Resilience",
-      "questionType": "choose_two",
+      "questionType": "table_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam3_practics1.mp3",
@@ -35607,8 +35607,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_4",
-      "camBadge": "Cam 4 (Classic)",
+      "camSeries": "cam_11",
+      "camBadge": "Cambridge 11",
       "questionGroups": [
         {
           "from": 1,
@@ -35622,10 +35622,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_87",
       "skill": "listening",
       "testNum": 87,
-      "title": "Cam 5 (Classic) Test 22 Part 3: Comprehensive Inquiry into Technology & Artificial Intelligence (Section 4)",
+      "title": "Cam 11 (2016) Test 2 Part 3: Technology & Artificial Intelligence (Form & Notes Completion)",
       "topic": "technology",
       "topicName": "Technology & Artificial Intelligence",
-      "questionType": "multiple_choice",
+      "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam4_test1_section1.mp3",
@@ -36020,8 +36020,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_5",
-      "camBadge": "Cam 5 (Classic)",
+      "camSeries": "cam_11",
+      "camBadge": "Cambridge 11",
       "questionGroups": [
         {
           "from": 1,
@@ -36035,10 +36035,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_88",
       "skill": "listening",
       "testNum": 88,
-      "title": "Cam 6 (Classic) Test 23 Part 4: Comprehensive Inquiry into Health, Medicine & Well-being (Section 1)",
+      "title": "Cam 11 (2016) Test 2 Part 4: Health, Medicine & Well-being (Map / Plan Labelling)",
       "topic": "health",
       "topicName": "Health, Medicine & Well-being",
-      "questionType": "form_completion",
+      "questionType": "map_labelling",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam5_Test1.Section1.mp3",
@@ -36393,8 +36393,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_6",
-      "camBadge": "Cam 6 (Classic)",
+      "camSeries": "cam_11",
+      "camBadge": "Cambridge 11",
       "questionGroups": [
         {
           "from": 1,
@@ -36408,10 +36408,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_89",
       "skill": "listening",
       "testNum": 89,
-      "title": "Cam 7 (Classic) Test 23 Part 1: Comprehensive Inquiry into Society, Urbanization & Demographics (Section 2)",
+      "title": "Cam 11 (2016) Test 3 Part 1: Society, Urbanization & Demographics (Multiple Choice (A, B, C))",
       "topic": "society",
       "topicName": "Society, Urbanization & Demographics",
-      "questionType": "table_completion",
+      "questionType": "multiple_choice",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam6_Test1_s1[www.TopSage.com].mp3",
@@ -36766,8 +36766,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_7",
-      "camBadge": "Cam 7 (Classic)",
+      "camSeries": "cam_11",
+      "camBadge": "Cambridge 11",
       "questionGroups": [
         {
           "from": 1,
@@ -36781,10 +36781,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_90",
       "skill": "listening",
       "testNum": 90,
-      "title": "Cam 8 (Classic) Test 23 Part 2: Comprehensive Inquiry into Economy, Business & Globalization (Section 3)",
+      "title": "Cam 11 (2016) Test 3 Part 2: Economy, Business & Globalization (Matching Features / Opinions)",
       "topic": "economy",
       "topicName": "Economy, Business & Globalization",
-      "questionType": "map_labelling",
+      "questionType": "matching",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam7_02_AudioTrack_02.mp3",
@@ -37229,8 +37229,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_8",
-      "camBadge": "Cam 8 (Classic)",
+      "camSeries": "cam_11",
+      "camBadge": "Cambridge 11",
       "questionGroups": [
         {
           "from": 1,
@@ -37244,10 +37244,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_91",
       "skill": "listening",
       "testNum": 91,
-      "title": "Cam 9 (Classic) Test 23 Part 3: Comprehensive Inquiry into Culture, Heritage & Tourism (Section 4)",
+      "title": "Cam 10 (2015) Test 1 Part 1: Culture, Heritage & Tourism (Form & Notes Completion)",
       "topic": "culture",
       "topicName": "Culture, Heritage & Tourism",
-      "questionType": "matching",
+      "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam8_曲目_1.mp3",
@@ -37672,8 +37672,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_9",
-      "camBadge": "Cam 9 (Classic)",
+      "camSeries": "cam_10",
+      "camBadge": "Cambridge 10",
       "questionGroups": [
         {
           "from": 1,
@@ -37695,10 +37695,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_92",
       "skill": "listening",
       "testNum": 92,
-      "title": "Cam 1 (Classic) Test 24 Part 4: Comprehensive Inquiry into History & Archaeology (Section 1)",
+      "title": "Cam 10 (2015) Test 1 Part 2: History & Archaeology (Map / Plan Labelling)",
       "topic": "history",
       "topicName": "History & Archaeology",
-      "questionType": "choose_two",
+      "questionType": "map_labelling",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam9_01.mp3",
@@ -38123,8 +38123,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_1",
-      "camBadge": "Cam 1 (Classic)",
+      "camSeries": "cam_10",
+      "camBadge": "Cambridge 10",
       "questionGroups": [
         {
           "from": 1,
@@ -38138,10 +38138,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_93",
       "skill": "listening",
       "testNum": 93,
-      "title": "Cam 2 (Classic) Test 24 Part 1: Comprehensive Inquiry into Science & Space Exploration (Section 2)",
+      "title": "Cam 10 (2015) Test 1 Part 3: Science & Space Exploration (Multiple Choice (Choose TWO))",
       "topic": "science",
       "topicName": "Science & Space Exploration",
-      "questionType": "multiple_choice",
+      "questionType": "choose_two",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam1_ielts11.mp3",
@@ -38536,8 +38536,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_2",
-      "camBadge": "Cam 2 (Classic)",
+      "camSeries": "cam_10",
+      "camBadge": "Cambridge 10",
       "questionGroups": [
         {
           "from": 1,
@@ -38551,10 +38551,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_94",
       "skill": "listening",
       "testNum": 94,
-      "title": "Cam 3 (Classic) Test 24 Part 2: Comprehensive Inquiry into Crime, Law & Rehabilitation (Section 3)",
+      "title": "Cam 10 (2015) Test 1 Part 4: Crime, Law & Rehabilitation (Multiple Choice (A, B, C))",
       "topic": "crime",
       "topicName": "Crime, Law & Rehabilitation",
-      "questionType": "form_completion",
+      "questionType": "multiple_choice",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam2_01.mp3",
@@ -38909,8 +38909,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_3",
-      "camBadge": "Cam 3 (Classic)",
+      "camSeries": "cam_10",
+      "camBadge": "Cambridge 10",
       "questionGroups": [
         {
           "from": 1,
@@ -38924,10 +38924,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_95",
       "skill": "listening",
       "testNum": 95,
-      "title": "Cam 4 (Classic) Test 24 Part 3: Comprehensive Inquiry into Media, Information & Advertising (Section 4)",
+      "title": "Cam 10 (2015) Test 2 Part 1: Media, Information & Advertising (Matching Features / Opinions)",
       "topic": "media",
       "topicName": "Media, Information & Advertising",
-      "questionType": "table_completion",
+      "questionType": "matching",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam3_practics1.mp3",
@@ -39282,8 +39282,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_4",
-      "camBadge": "Cam 4 (Classic)",
+      "camSeries": "cam_10",
+      "camBadge": "Cambridge 10",
       "questionGroups": [
         {
           "from": 1,
@@ -39297,10 +39297,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_96",
       "skill": "listening",
       "testNum": 96,
-      "title": "Cam 5 (Classic) Test 25 Part 4: Comprehensive Inquiry into Work, Career & Automation (Section 1)",
+      "title": "Cam 10 (2015) Test 2 Part 2: Work, Career & Automation (Table / Flowchart Completion)",
       "topic": "work",
       "topicName": "Work, Career & Automation",
-      "questionType": "map_labelling",
+      "questionType": "table_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam4_test1_section1.mp3",
@@ -39745,8 +39745,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_5",
-      "camBadge": "Cam 5 (Classic)",
+      "camSeries": "cam_10",
+      "camBadge": "Cambridge 10",
       "questionGroups": [
         {
           "from": 1,
@@ -39760,10 +39760,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_97",
       "skill": "listening",
       "testNum": 97,
-      "title": "Cam 6 (Classic) Test 25 Part 1: Comprehensive Inquiry into Education & Academic Growth (Section 2)",
+      "title": "Cam 10 (2015) Test 2 Part 3: Education & Academic Growth (Form & Notes Completion)",
       "topic": "education",
       "topicName": "Education & Academic Growth",
-      "questionType": "matching",
+      "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam5_Test1.Section1.mp3",
@@ -40188,8 +40188,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_6",
-      "camBadge": "Cam 6 (Classic)",
+      "camSeries": "cam_10",
+      "camBadge": "Cambridge 10",
       "questionGroups": [
         {
           "from": 1,
@@ -40211,10 +40211,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_98",
       "skill": "listening",
       "testNum": 98,
-      "title": "Cam 7 (Classic) Test 25 Part 2: Comprehensive Inquiry into Environment & Climate Resilience (Section 3)",
+      "title": "Cam 10 (2015) Test 2 Part 4: Environment & Climate Resilience (Map / Plan Labelling)",
       "topic": "environment",
       "topicName": "Environment & Climate Resilience",
-      "questionType": "choose_two",
+      "questionType": "map_labelling",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam6_Test1_s2[www.TopSage.com].mp3",
@@ -40639,8 +40639,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_7",
-      "camBadge": "Cam 7 (Classic)",
+      "camSeries": "cam_10",
+      "camBadge": "Cambridge 10",
       "questionGroups": [
         {
           "from": 1,
@@ -40654,7 +40654,7 @@ const IELTS_BANK_100 = {
       "id": "lis_test_99",
       "skill": "listening",
       "testNum": 99,
-      "title": "Cam 8 (Classic) Test 25 Part 3: Comprehensive Inquiry into Technology & Artificial Intelligence (Section 4)",
+      "title": "Cam 10 (2015) Test 3 Part 1: Technology & Artificial Intelligence (Multiple Choice (A, B, C))",
       "topic": "technology",
       "topicName": "Technology & Artificial Intelligence",
       "questionType": "multiple_choice",
@@ -41052,8 +41052,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_8",
-      "camBadge": "Cam 8 (Classic)",
+      "camSeries": "cam_10",
+      "camBadge": "Cambridge 10",
       "questionGroups": [
         {
           "from": 1,
@@ -41067,10 +41067,10 @@ const IELTS_BANK_100 = {
       "id": "lis_test_100",
       "skill": "listening",
       "testNum": 100,
-      "title": "Cam 9 (Classic) Test 26 Part 4: Comprehensive Inquiry into Health, Medicine & Well-being (Section 1)",
+      "title": "Cam 10 (2015) Test 3 Part 2: Health, Medicine & Well-being (Matching Features / Opinions)",
       "topic": "health",
       "topicName": "Health, Medicine & Well-being",
-      "questionType": "form_completion",
+      "questionType": "matching",
       "level": "Band 6.5 - 8.0",
       "duration": "12 phút",
       "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam8_曲目_1.mp3",
@@ -41425,8 +41425,8 @@ const IELTS_BANK_100 = {
           }
         ]
       },
-      "camSeries": "cam_9",
-      "camBadge": "Cam 9 (Classic)",
+      "camSeries": "cam_10",
+      "camBadge": "Cambridge 10",
       "questionGroups": [
         {
           "from": 1,

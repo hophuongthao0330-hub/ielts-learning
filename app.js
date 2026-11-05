@@ -4314,6 +4314,27 @@ function renderSkillZoneD(skill) {
   });
 
   html += '</div>';
+
+  if (filtered.length === 0) {
+    html = `
+      <div class="p-8 sm:p-12 text-center rounded-3xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 space-y-4 my-4">
+        <div class="w-16 h-16 mx-auto rounded-2xl bg-amber-100 dark:bg-amber-950/60 text-amber-600 flex items-center justify-center">
+          <i data-lucide="filter-x" class="w-8 h-8"></i>
+        </div>
+        <div class="space-y-1">
+          <h4 class="text-base font-bold text-slate-900 dark:text-white">Không tìm thấy bài test nào khớp với bộ lọc này!</h4>
+          <p class="text-xs text-slate-500 max-w-md mx-auto">
+            Bạn đang chọn nhiều tiêu chí lọc cùng lúc. Hãy chọn dạng bài khác hoặc bấm nút bên dưới để xem lại tất cả 100 bài test.
+          </p>
+        </div>
+        <button onclick="resetSkillTestFilters('${skill}')" class="px-5 py-2.5 rounded-xl bg-brand-600 hover:bg-brand-700 text-white font-bold text-xs shadow-md transition inline-flex items-center gap-2">
+          <i data-lucide="rotate-ccw" class="w-4 h-4"></i>
+          <span>Hiển Thị Lại Tất Cả 100 Bài Test</span>
+        </button>
+      </div>
+    `;
+  }
+
   container.innerHTML = html;
   if (window.lucide) window.lucide.createIcons();
 }
@@ -4321,6 +4342,12 @@ function renderSkillZoneD(skill) {
 function setSkillTestFilter(skill, filterKey, val) {
   activeSkillFilters[skill][filterKey] = val;
   renderSkillZoneD(skill);
+}
+
+function resetSkillTestFilters(skill) {
+  activeSkillFilters[skill] = { cam: 'all', topic: 'all', type: 'all', status: 'all', search: '' };
+  renderSkillZoneD(skill);
+  showToast('Đã hiển thị lại đầy đủ 100 bài test!');
 }
 
 // =========================================================================
