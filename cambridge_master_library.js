@@ -1,7 +1,7 @@
 // cambridge_master_library.js - Thư Viện Khảo Thí & Kho Dữ Liệu Cambridge IELTS Toàn Tập (Cam 1 - 21)
 // Tích Hợp Toàn Bộ Sách PDF Gốc & Toàn Bộ Audio Gốc Sẵn Có Trong Thư Mục
 
-const CAMBRIDGE_MASTER_CATALOG = [
+var CAMBRIDGE_MASTER_CATALOG = [
   {
     "id": "cam_21",
     "bookNum": 21,
@@ -939,3 +939,10 @@ const CAMBRIDGE_MASTER_CATALOG = [
     ]
   }
 ];
+
+if (typeof window !== 'undefined') {
+  window.CAMBRIDGE_MASTER_CATALOG = CAMBRIDGE_MASTER_CATALOG;
+}
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = { CAMBRIDGE_MASTER_CATALOG };
+}

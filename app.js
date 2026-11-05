@@ -4097,6 +4097,12 @@ function selectSkillQuizChoice(skill, qzId, chosenIdx, correctIdx, explanation) 
   }
 }
 
+function getIeltsBank() {
+  if (typeof window !== 'undefined' && window.IELTS_BANK_100) return window.IELTS_BANK_100;
+  if (typeof IELTS_BANK_100 !== 'undefined') return IELTS_BANK_100;
+  return null;
+}
+
 // =========================================================================
 // PHÂN KHU D: NGÂN HÀNG 100 BÀI TEST & BỘ LỌC
 // =========================================================================
@@ -4104,7 +4110,8 @@ function renderSkillZoneD(skill) {
   const container = document.getElementById(`zoneContainer_${skill}_zone_d`);
   if (!container) return;
 
-  const allTests = (window.IELTS_BANK_100 && window.IELTS_BANK_100[skill]) ? window.IELTS_BANK_100[skill] : [];
+  const bank = getIeltsBank();
+  const allTests = (bank && bank[skill]) ? bank[skill] : [];
   const filters = activeSkillFilters[skill];
 
   // Filter logic
@@ -4354,7 +4361,8 @@ function resetSkillTestFilters(skill) {
 // 4. SPLIT-SCREEN EXAM ARENA (INTERACTIVE TEST PLAYER)
 // =========================================================================
 function openTestArena(skill, testId) {
-  const allTests = (window.IELTS_BANK_100 && window.IELTS_BANK_100[skill]) ? window.IELTS_BANK_100[skill] : [];
+  const bank = getIeltsBank();
+  const allTests = (bank && bank[skill]) ? bank[skill] : [];
   const test = allTests.find(t => t.id === testId);
   if (!test) {
     showToast('Không tìm thấy bài test này!');
@@ -5733,7 +5741,8 @@ let currentPreTest = {
 };
 
 function openPreTestVocab(skill, testId) {
-  const allTests = (window.IELTS_BANK_100 && window.IELTS_BANK_100[skill]) ? window.IELTS_BANK_100[skill] : [];
+  const bank = getIeltsBank();
+  const allTests = (bank && bank[skill]) ? bank[skill] : [];
   const test = allTests.find(t => t.id === testId);
   if (!test) {
     showToast('Không tìm thấy bài test này!');

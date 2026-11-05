@@ -1,5 +1,5 @@
 // ielts_bank_100.js - Ngân Hàng 400 Bài Test Đầy Đủ 100% Kèm Bộ Từ Vựng & Luyện Tập Từng Test (Trọn Bộ Cam 1 Đến Cam 21)
-const IELTS_BANK_100 = {
+var IELTS_BANK_100 = {
   "listening": [
     {
       "id": "lis_test_1",
@@ -135141,3 +135141,11 @@ const IELTS_BANK_100 = {
     }
   ]
 };
+
+
+if (typeof window !== 'undefined') {
+  window.IELTS_BANK_100 = IELTS_BANK_100;
+}
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = { IELTS_BANK_100 };
+}
