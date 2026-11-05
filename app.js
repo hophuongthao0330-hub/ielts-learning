@@ -2849,6 +2849,16 @@ function initCamMasterLibrary() {
   if (camMasterAudio) {
     camMasterAudio.addEventListener('timeupdate', updateCamAudioProgressUI);
     camMasterAudio.addEventListener('ended', onCamAudioTrackEnded);
+    camMasterAudio.addEventListener('error', () => {
+      const book = CAMBRIDGE_MASTER_CATALOG.find(b => b.id === activeCamBookId);
+      const track = book?.audios[activeCamTrackIndex];
+      if (track && track.archiveUrl && camMasterAudio.src !== track.archiveUrl) {
+        camMasterAudio.src = track.archiveUrl;
+        camMasterAudio.play().catch(e => console.warn(e));
+        return;
+      }
+      showToast("💡 Đang kết nối máy chủ âm thanh Cambridge...", 3000);
+    });
   }
 
   renderCamBookshelf('all');
@@ -3018,7 +3028,8 @@ function loadCamAudioTrack(bookId, trackIdx, autoPlay = true) {
   }
 
   if (camMasterAudio) {
-    camMasterAudio.src = track.path;
+    const isOnline = window.location.protocol === 'https:' || window.location.hostname.includes('github.io') || window.location.hostname.includes('blogspot.com');
+    camMasterAudio.src = (isOnline && track.archiveUrl) ? track.archiveUrl : (track.archiveUrl || track.path);
     if (autoPlay) {
       camMasterAudio.play().then(() => {
         updateCamMasterPlayUI(true);
@@ -3148,13 +3159,14 @@ let appTestSubmissions = JSON.parse(localStorage.getItem('ielts_test_submissions
 let appSavedVocab = JSON.parse(localStorage.getItem('ielts_saved_vocab') || '[]');
 
 const activeSkillZones = { listening: 'zone_a', reading: 'zone_a', writing: 'zone_a', speaking: 'zone_a' };
-const activeSkillTopics = { listening: 'education', reading: 'education', writing: 'education', speaking: 'education' };
+const activeVocabType = { listening: 'skill', reading: 'skill', writing: 'skill', speaking: 'skill' };
+const activeSkillTopics = { listening: 'l_distractors', reading: 'r_signposts', writing: 'w_link', speaking: 's_fillers' };
 const activePracticeModes = { listening: 'flashcards', reading: 'flashcards', writing: 'flashcards', speaking: 'flashcards' };
 const activeSkillFilters = {
-  listening: { topic: 'all', type: 'all', status: 'all', search: '' },
-  reading: { topic: 'all', type: 'all', status: 'all', search: '' },
-  writing: { topic: 'all', type: 'all', status: 'all', search: '' },
-  speaking: { topic: 'all', type: 'all', status: 'all', search: '' }
+  listening: { cam: 'all', topic: 'all', type: 'all', status: 'all', search: '' },
+  reading: { cam: 'all', topic: 'all', type: 'all', status: 'all', search: '' },
+  writing: { cam: 'all', topic: 'all', type: 'all', status: 'all', search: '' },
+  speaking: { cam: 'all', topic: 'all', type: 'all', status: 'all', search: '' }
 };
 
 // Flashcard & Matching game runtime states
@@ -3401,9 +3413,9 @@ function switchSkillZone(skill, zoneId) {
 
     if (btn) {
       if (z === zoneId) {
-        btn.className = "skill-zone-btn px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2 bg-brand-600 text-white shadow-sm flex-shrink-0";
+        btn.className = "skill-zone-card group relative p-4 rounded-xl sm:rounded-2xl text-left transition-all duration-200 border flex flex-col justify-between bg-white dark:bg-slate-800 border-brand-500 shadow-md ring-2 ring-brand-500/30 scale-[1.01]";
       } else {
-        btn.className = "skill-zone-btn px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 flex-shrink-0";
+        btn.className = "skill-zone-card group relative p-4 rounded-xl sm:rounded-2xl text-left transition-all duration-200 border flex flex-col justify-between bg-white/60 dark:bg-slate-800/40 border-transparent hover:border-slate-300 dark:hover:border-slate-700 hover:bg-white dark:hover:bg-slate-800";
       }
     }
 
@@ -3526,88 +3538,167 @@ function renderSkillZoneA(skill) {
 // =========================================================================
 // PHÂN KHU B: TỪ VỰNG & COLLOCATIONS THEO CHỦ ĐỀ
 // =========================================================================
+// =========================================================================
+// HELPER: LẤY DỮ LIỆU TỪ VỰNG HOẠT ĐỘNG (10 BỘ CÔNG CỤ HOẶC 12 THEMES)
+// =========================================================================
+function getActiveVocabData(skill) {
+  const vType = activeVocabType[skill] || 'skill';
+  const skillSets = (window.IELTS_SKILL_VOCAB_SYSTEM && window.IELTS_SKILL_VOCAB_SYSTEM[skill]) ? window.IELTS_SKILL_VOCAB_SYSTEM[skill] : [];
+  const thematicSets = window.IELTS_VOCAB_TOPICS || [];
+  const currentSets = (vType === 'thematic') ? thematicSets : (skillSets.length > 0 ? skillSets : thematicSets);
+
+  let curId = activeSkillTopics[skill];
+  let activeSet = currentSets.find(s => s.id === curId);
+  if (!activeSet && currentSets.length > 0) {
+    activeSet = currentSets[0];
+    activeSkillTopics[skill] = activeSet.id;
+  }
+  return {
+    vType,
+    skillSets,
+    thematicSets,
+    currentSets,
+    activeSet: activeSet || { id: 'empty', name: 'Đang cập nhật', vnName: '', words: [], flashcards: [], matching: [], quiz: [], gapFill: [] }
+  };
+}
+
+function setSkillVocabType(skill, vType) {
+  activeVocabType[skill] = vType;
+  const data = getActiveVocabData(skill);
+  if (data.currentSets.length > 0) {
+    activeSkillTopics[skill] = data.currentSets[0].id;
+  }
+  activeFlashcardIndices[skill] = 0;
+  matchingGameStates[skill] = { selectedLeft: null, matches: {} };
+  renderSkillZoneB(skill);
+}
+
+function setSkillVocabTopic(skill, topicId) {
+  activeSkillTopics[skill] = topicId;
+  activeFlashcardIndices[skill] = 0;
+  matchingGameStates[skill] = { selectedLeft: null, matches: {} };
+  renderSkillZoneB(skill);
+}
+
+// =========================================================================
+// PHÂN KHU B: TỪ VỰNG & COLLOCATIONS THEO CHỦ ĐỀ & KỸ NĂNG CHUYÊN SÂU
+// =========================================================================
 function renderSkillZoneB(skill) {
   const container = document.getElementById(`zoneContainer_${skill}_zone_b`);
   if (!container) return;
 
-  const topics = window.IELTS_VOCAB_TOPICS || [];
-  const currentTopicId = activeSkillTopics[skill] || (topics[0] ? topics[0].id : 'education');
-  const activeTopic = topics.find(t => t.id === currentTopicId) || topics[0];
+  const data = getActiveVocabData(skill);
+  const currentSets = data.currentSets;
+  const activeSet = data.activeSet;
+  const currentTopicId = activeSet.id;
+  const isSkillType = data.vType === 'skill';
 
   let html = `
-    <!-- Topic Selection Tabs -->
-    <div class="p-4 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm space-y-3">
-      <div class="flex items-center justify-between">
-        <h4 class="text-xs font-bold text-slate-700 dark:text-slate-300 uppercase tracking-wider flex items-center gap-2">
-          <i data-lucide="tag" class="w-4 h-4 text-purple-500"></i> Chọn Chủ Đề Học Thuật (12 Themes Chuẩn Cambridge)
-        </h4>
-        <span class="text-[11px] text-slate-500">Đã lưu: <strong>${appSavedVocab.length}</strong> từ</span>
+    <!-- Category Switcher Bar (Skill Toolkits vs Cambridge Thematic) -->
+    <div class="p-4 sm:p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm space-y-4">
+      <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+        <div>
+          <h4 class="text-xs font-bold text-slate-500 uppercase tracking-wider">Hệ Thống Kho Từ Vựng Học Thuật</h4>
+          <h3 class="text-base font-extrabold text-slate-900 dark:text-white flex items-center gap-2 mt-0.5">
+            <i data-lucide="layers" class="w-5 h-5 text-purple-600"></i> Phân Loại Kho Từ Vựng IELTS
+          </h3>
+        </div>
+        <div class="flex items-center gap-2">
+          <span class="text-xs font-semibold px-3 py-1 rounded-xl bg-purple-50 text-purple-700 dark:bg-purple-950/60 dark:text-purple-300 border border-purple-200 dark:border-purple-800 flex items-center gap-1.5">
+            <i data-lucide="bookmark" class="w-3.5 h-3.5"></i> Sổ từ đã lưu: <strong>${appSavedVocab.length}</strong> từ
+          </span>
+        </div>
       </div>
-      <div class="flex items-center gap-2 overflow-x-auto pb-1">
+
+      <!-- 2 Main Category Tabs -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-2 p-1.5 rounded-xl bg-slate-100 dark:bg-slate-800/80 text-xs">
+        <button onclick="setSkillVocabType('${skill}', 'skill')" class="py-2.5 px-3 rounded-lg font-bold flex items-center justify-center gap-2 transition ${isSkillType ? 'bg-purple-600 text-white shadow-sm' : 'text-slate-600 dark:text-slate-300 hover:bg-white/60 dark:hover:bg-slate-700'}">
+          <i data-lucide="zap" class="w-4 h-4"></i> 10 Bộ Công Cụ Chuyên Sâu Theo Skill (${skill.toUpperCase()})
+        </button>
+        <button onclick="setSkillVocabType('${skill}', 'thematic')" class="py-2.5 px-3 rounded-lg font-bold flex items-center justify-center gap-2 transition ${!isSkillType ? 'bg-purple-600 text-white shadow-sm' : 'text-slate-600 dark:text-slate-300 hover:bg-white/60 dark:hover:bg-slate-700'}">
+          <i data-lucide="globe" class="w-4 h-4"></i> 12 Chủ Đề Học Thuật Cambridge (Themes)
+        </button>
+      </div>
+
+      <!-- Sub-sets selector Pills -->
+      <div class="space-y-1.5">
+        <div class="text-[11px] font-bold text-slate-500 uppercase tracking-wider">
+          ${isSkillType ? 'Danh sách 10 bộ từ vựng nhỏ chuyên biệt cho kỹ năng này:' : 'Danh sách 12 chủ đề học thuật Cambridge:'}
+        </div>
+        <div class="flex items-center gap-2 overflow-x-auto pb-1.5 pt-0.5">
   `;
 
-  topics.forEach(t => {
+  currentSets.forEach((t, idx) => {
     const isAct = t.id === currentTopicId;
     const btnCls = isAct
-      ? "px-3.5 py-1.5 rounded-xl text-xs font-bold bg-purple-600 text-white shadow-sm flex items-center gap-1.5 flex-shrink-0"
-      : "px-3.5 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700 flex items-center gap-1.5 flex-shrink-0";
+      ? "px-3.5 py-2 rounded-xl text-xs font-bold bg-purple-600 text-white shadow-md shadow-purple-600/20 flex items-center gap-2 flex-shrink-0"
+      : "px-3.5 py-2 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700 flex items-center gap-2 flex-shrink-0";
     html += `
       <button onclick="setSkillVocabTopic('${skill}', '${t.id}')" class="${btnCls}">
-        <i data-lucide="${t.icon || 'book'}" class="w-3.5 h-3.5"></i> ${t.name.split('&')[0].trim()}
+        <span class="w-4 h-4 rounded-full bg-white/20 flex items-center justify-center text-[10px] font-mono">${idx + 1}</span>
+        <i data-lucide="${t.icon || 'book'}" class="w-3.5 h-3.5"></i>
+        <span>${t.name.split('-')[0].trim()}</span>
+        <span class="text-[10px] opacity-75">(${t.words.length} từ)</span>
       </button>
     `;
   });
 
   html += `
+        </div>
       </div>
     </div>
 
     <!-- Active Topic Vocab Table/List -->
     <div class="p-6 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm space-y-6">
-      <div class="flex flex-col sm:flex-row sm:items-center justify-between pb-4 border-b border-slate-200 dark:border-slate-800 gap-2">
+      <div class="flex flex-col sm:flex-row sm:items-center justify-between pb-4 border-b border-slate-200 dark:border-slate-800 gap-3">
         <div>
-          <span class="text-xs font-bold text-purple-600 dark:text-purple-400 uppercase tracking-wider">Từ Vựng Học Thuật C1/C2</span>
-          <h3 class="text-xl font-bold text-slate-900 dark:text-white flex items-center gap-2 mt-0.5">
-            ${activeTopic.name} (${activeTopic.vnName})
+          <span class="text-xs font-bold text-purple-600 dark:text-purple-400 uppercase tracking-wider flex items-center gap-1.5">
+            <i data-lucide="sparkles" class="w-3.5 h-3.5"></i> ${isSkillType ? 'Bộ Công Cụ Chuyên Sâu Kỹ Năng' : 'Chủ Đề Học Thuật Cambridge'} • Band 7.0 - 9.0+
+          </span>
+          <h3 class="text-xl font-black text-slate-900 dark:text-white flex items-center gap-2 mt-1">
+            ${activeSet.name}
           </h3>
+          <p class="text-xs font-semibold text-slate-600 dark:text-slate-400 mt-0.5">
+            ${activeSet.vnName} (${activeSet.words.length} từ vựng then chốt)
+          </p>
         </div>
-        <button onclick="switchSkillZone('${skill}', 'zone_c')" class="px-4 py-2 rounded-xl bg-purple-50 hover:bg-purple-100 dark:bg-purple-950/50 dark:hover:bg-purple-900/60 text-purple-700 dark:text-purple-300 font-bold text-xs border border-purple-200 dark:border-purple-800 flex items-center gap-2 transition self-start sm:self-auto">
-          <i data-lucide="play" class="w-4 h-4"></i> Luyện Tập Ngay Bộ Từ Này
+        <button onclick="switchSkillZone('${skill}', 'zone_c')" class="px-5 py-2.5 rounded-xl bg-purple-600 hover:bg-purple-700 text-white font-bold text-xs shadow-md shadow-purple-600/20 flex items-center gap-2 transition self-start sm:self-auto flex-shrink-0">
+          <i data-lucide="play" class="w-4 h-4"></i> Luyện Tập Ngay Bộ Này ➔
         </button>
       </div>
 
       <div class="grid grid-cols-1 gap-4">
   `;
 
-  activeTopic.words.forEach(w => {
+  activeSet.words.forEach(w => {
     const isBookmarked = appSavedVocab.includes(w.id);
     const starBtnCls = isBookmarked
       ? "p-2 rounded-xl bg-amber-500 text-white shadow-sm"
       : "p-2 rounded-xl bg-slate-100 dark:bg-slate-800 text-slate-400 hover:text-amber-500";
 
     html += `
-      <div class="p-5 rounded-xl border border-slate-200 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-900/60 space-y-3 transition hover:border-purple-300">
+      <div class="p-5 rounded-2xl border border-slate-200 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-900/60 space-y-3 transition hover:border-purple-300">
         <div class="flex items-start justify-between gap-3">
           <div>
-            <div class="flex flex-wrap items-center gap-2">
-              <h4 class="text-base font-extrabold text-slate-900 dark:text-white">${w.term}</h4>
+            <div class="flex flex-wrap items-center gap-2.5">
+              <h4 class="text-lg font-black text-slate-900 dark:text-white">${w.term}</h4>
               <span class="text-xs text-slate-500 font-mono">${w.ipa}</span>
-              <span class="text-[10px] font-bold uppercase px-2 py-0.5 rounded bg-purple-100 dark:bg-purple-950 text-purple-700 dark:text-purple-300">
+              <span class="text-[10px] font-bold uppercase px-2 py-0.5 rounded-md bg-purple-100 dark:bg-purple-950 text-purple-700 dark:text-purple-300">
                 ${w.type}
               </span>
             </div>
-            <p class="text-xs font-semibold text-slate-800 dark:text-slate-200 mt-1">${w.meaning}</p>
+            <p class="text-xs font-bold text-slate-800 dark:text-slate-200 mt-1">${w.meaning}</p>
           </div>
           <button onclick="toggleBookmarkVocab('${w.id}')" class="${starBtnCls}" title="${isBookmarked ? 'Đã lưu trong Sổ từ vựng' : 'Lưu vào Sổ từ cần ôn lại'}">
             <i data-lucide="bookmark" class="w-4 h-4 ${isBookmarked ? 'fill-current' : ''}"></i>
           </button>
         </div>
 
-        <div class="p-3 rounded-lg bg-white dark:bg-slate-950 border border-slate-200/60 dark:border-slate-800 text-xs text-slate-600 dark:text-slate-300 italic">
+        <div class="p-3.5 rounded-xl bg-white dark:bg-slate-950 border border-slate-200/60 dark:border-slate-800 text-xs text-slate-700 dark:text-slate-300 italic leading-relaxed">
           "${w.example}"
         </div>
 
-        <div class="flex flex-wrap items-center gap-4 text-xs">
+        <div class="flex flex-wrap items-center gap-4 text-xs pt-0.5">
           <div class="flex items-center gap-1.5 text-purple-700 dark:text-purple-300 font-medium">
             <i data-lucide="refresh-cw" class="w-3.5 h-3.5"></i>
             <span>Paraphrase: <strong>${w.paraphrase}</strong></span>
@@ -3630,13 +3721,6 @@ function renderSkillZoneB(skill) {
 
   container.innerHTML = html;
   if (window.lucide) window.lucide.createIcons();
-}
-
-function setSkillVocabTopic(skill, topicId) {
-  activeSkillTopics[skill] = topicId;
-  activeFlashcardIndices[skill] = 0;
-  matchingGameStates[skill] = { selectedLeft: null, matches: {} };
-  renderSkillZoneB(skill);
 }
 
 function toggleBookmarkVocab(wordId) {
@@ -3664,31 +3748,55 @@ function renderSkillZoneC(skill) {
   const container = document.getElementById(`zoneContainer_${skill}_zone_c`);
   if (!container) return;
 
-  const topics = window.IELTS_VOCAB_TOPICS || [];
-  const currentTopicId = activeSkillTopics[skill] || (topics[0] ? topics[0].id : 'education');
-  const activeTopic = topics.find(t => t.id === currentTopicId) || topics[0];
+  const data = getActiveVocabData(skill);
+  const activeSet = data.activeSet;
+  const currentSets = data.currentSets;
   const mode = activePracticeModes[skill] || 'flashcards';
 
   let html = `
     <!-- Practice Mode Switcher Tabs -->
-    <div class="p-4 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm flex flex-col sm:flex-row sm:items-center justify-between gap-3">
-      <div>
-        <span class="text-[11px] font-bold text-emerald-600 dark:text-emerald-400 uppercase tracking-wider">Chủ đề: ${activeTopic.name}</span>
-        <h3 class="text-base font-extrabold text-slate-900 dark:text-white">4 Chế Độ Luyện Tập Từ Vựng Tương Tác</h3>
+    <div class="p-4 sm:p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm space-y-4">
+      <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+        <div>
+          <span class="text-[11px] font-bold text-emerald-600 dark:text-emerald-400 uppercase tracking-wider">
+            Đang luyện tập: ${activeSet.name} (${activeSet.vnName})
+          </span>
+          <h3 class="text-base font-extrabold text-slate-900 dark:text-white">4 Chế Độ Luyện Tập Từ Vựng Tương Tác</h3>
+        </div>
+        <div class="flex items-center gap-1.5 bg-slate-100 dark:bg-slate-800 p-1 rounded-xl overflow-x-auto text-xs">
+          <button onclick="setSkillPracticeMode('${skill}', 'flashcards')" class="px-3 py-1.5 rounded-lg font-bold transition ${mode === 'flashcards' ? 'bg-white dark:bg-slate-700 text-emerald-600 dark:text-emerald-400 shadow-sm' : 'text-slate-600 dark:text-slate-400'}">
+            1. Flashcards Lật Thẻ
+          </button>
+          <button onclick="setSkillPracticeMode('${skill}', 'matching')" class="px-3 py-1.5 rounded-lg font-bold transition ${mode === 'matching' ? 'bg-white dark:bg-slate-700 text-emerald-600 dark:text-emerald-400 shadow-sm' : 'text-slate-600 dark:text-slate-400'}">
+            2. Nối Từ (Matching)
+          </button>
+          <button onclick="setSkillPracticeMode('${skill}', 'gapfill')" class="px-3 py-1.5 rounded-lg font-bold transition ${mode === 'gapfill' ? 'bg-white dark:bg-slate-700 text-emerald-600 dark:text-emerald-400 shadow-sm' : 'text-slate-600 dark:text-slate-400'}">
+            3. Điền Khuyết (Gap-fill)
+          </button>
+          <button onclick="setSkillPracticeMode('${skill}', 'quiz')" class="px-3 py-1.5 rounded-lg font-bold transition ${mode === 'quiz' ? 'bg-white dark:bg-slate-700 text-emerald-600 dark:text-emerald-400 shadow-sm' : 'text-slate-600 dark:text-slate-400'}">
+            4. Trắc Nghiệm Nhanh
+          </button>
+        </div>
       </div>
-      <div class="flex items-center gap-1.5 bg-slate-100 dark:bg-slate-800 p-1 rounded-xl overflow-x-auto text-xs">
-        <button onclick="setSkillPracticeMode('${skill}', 'flashcards')" class="px-3 py-1.5 rounded-lg font-bold transition ${mode === 'flashcards' ? 'bg-white dark:bg-slate-700 text-emerald-600 dark:text-emerald-400 shadow-sm' : 'text-slate-600 dark:text-slate-400'}">
-          1. Flashcards Lật Thẻ
-        </button>
-        <button onclick="setSkillPracticeMode('${skill}', 'matching')" class="px-3 py-1.5 rounded-lg font-bold transition ${mode === 'matching' ? 'bg-white dark:bg-slate-700 text-emerald-600 dark:text-emerald-400 shadow-sm' : 'text-slate-600 dark:text-slate-400'}">
-          2. Nối Từ (Matching)
-        </button>
-        <button onclick="setSkillPracticeMode('${skill}', 'gapfill')" class="px-3 py-1.5 rounded-lg font-bold transition ${mode === 'gapfill' ? 'bg-white dark:bg-slate-700 text-emerald-600 dark:text-emerald-400 shadow-sm' : 'text-slate-600 dark:text-slate-400'}">
-          3. Điền Khuyết (Gap-fill)
-        </button>
-        <button onclick="setSkillPracticeMode('${skill}', 'quiz')" class="px-3 py-1.5 rounded-lg font-bold transition ${mode === 'quiz' ? 'bg-white dark:bg-slate-700 text-emerald-600 dark:text-emerald-400 shadow-sm' : 'text-slate-600 dark:text-slate-400'}">
-          4. Trắc Nghiệm Nhanh
-        </button>
+
+      <!-- Quick Sub-set Switcher Bar in Zone C -->
+      <div class="flex items-center gap-2 overflow-x-auto pt-1 pb-1 border-t border-slate-100 dark:border-slate-800 text-xs">
+        <span class="text-[11px] font-bold text-slate-400 uppercase tracking-wider flex-shrink-0">Đổi bộ:</span>
+  `;
+
+  currentSets.forEach((s, sIdx) => {
+    const isAct = s.id === activeSet.id;
+    const sBtnCls = isAct
+      ? "px-2.5 py-1 rounded-lg font-bold bg-emerald-600 text-white flex-shrink-0 text-xs shadow-sm"
+      : "px-2.5 py-1 rounded-lg font-medium bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700 flex-shrink-0 text-xs";
+    html += `
+      <button onclick="setSkillVocabTopic('${skill}', '${s.id}'); renderSkillZoneC('${skill}');" class="${sBtnCls}">
+        ${sIdx + 1}. ${s.name.split('-')[0].trim()}
+      </button>
+    `;
+  });
+
+  html += `
       </div>
     </div>
 
@@ -3697,7 +3805,7 @@ function renderSkillZoneC(skill) {
   `;
 
   if (mode === 'flashcards') {
-    const cards = activeTopic.flashcards || [];
+    const cards = activeSet.flashcards || [];
     const idx = activeFlashcardIndices[skill] % Math.max(1, cards.length);
     const card = cards[idx] || { front: "Chưa có flashcard", back: "Chưa có nội dung" };
 
@@ -3734,13 +3842,13 @@ function renderSkillZoneC(skill) {
       </div>
     `;
   } else if (mode === 'matching') {
-    const pairs = activeTopic.matching || [];
+    const pairs = activeSet.matching || [];
     const state = matchingGameStates[skill];
 
     html += `
       <div class="max-w-2xl mx-auto space-y-6">
         <div class="text-center space-y-1">
-          <h4 class="text-base font-bold text-slate-900 dark:text-white">Trò Chơi Nối Từ & Nghĩa Học Thuật</h4>
+          <h4 class="text-base font-bold text-slate-900 dark:text-white">Trò Chơi Nối Từ & Nghĩa Học Thuật (${pairs.length} Cặp)</h4>
           <p class="text-xs text-slate-500">Bấm 1 từ bên trái rồi bấm nghĩa tương ứng bên phải để ghép cặp chuẩn.</p>
         </div>
 
@@ -3787,7 +3895,7 @@ function renderSkillZoneC(skill) {
       </div>
     `;
   } else if (mode === 'gapfill') {
-    const gapFills = activeTopic.gapFill || [];
+    const gapFills = activeSet.gapFill || [];
     html += `
       <div class="max-w-2xl mx-auto space-y-6">
         <div class="text-center space-y-1">
@@ -3826,7 +3934,7 @@ function renderSkillZoneC(skill) {
       </div>
     `;
   } else if (mode === 'quiz') {
-    const quizzes = activeTopic.quiz || [];
+    const quizzes = activeSet.quiz || [];
     html += `
       <div class="max-w-2xl mx-auto space-y-6">
         <div class="text-center space-y-1">
@@ -3865,12 +3973,10 @@ function setSkillPracticeMode(skill, mode) {
 }
 
 function flipSkillFlashcard(skill) {
-  const topics = window.IELTS_VOCAB_TOPICS || [];
-  const currentTopicId = activeSkillTopics[skill] || topics[0].id;
-  const activeTopic = topics.find(t => t.id === currentTopicId) || topics[0];
-  const cards = activeTopic.flashcards || [];
+  const data = getActiveVocabData(skill);
+  const cards = data.activeSet.flashcards || [];
   const idx = activeFlashcardIndices[skill] % Math.max(1, cards.length);
-  const card = cards[idx];
+  const card = cards[idx] || { front: '', back: '' };
 
   const faceLabel = document.getElementById(`cardFaceLabel_${skill}`);
   const cardText = document.getElementById(`cardText_${skill}`);
@@ -4003,6 +4109,14 @@ function renderSkillZoneD(skill) {
 
   // Filter logic
   let filtered = allTests.filter(t => {
+    if (filters.cam && filters.cam !== 'all') {
+      if (filters.cam === 'cam_classic') {
+        const modern = ['cam_21', 'cam_19', 'cam_18', 'cam_17', 'cam_16', 'cam_15', 'cam_13', 'cam_12', 'cam_11', 'cam_10'];
+        if (modern.includes(t.camSeries)) return false;
+      } else if (t.camSeries !== filters.cam) {
+        return false;
+      }
+    }
     if (filters.topic !== 'all' && t.topic !== filters.topic) return false;
     if (filters.type !== 'all' && t.questionType !== filters.type) return false;
     if (filters.search) {
@@ -4029,18 +4143,37 @@ function renderSkillZoneD(skill) {
     <div class="p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm space-y-4">
       <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
         <div>
-          <span class="text-xs font-bold text-amber-600 dark:text-amber-400 uppercase tracking-wider">Ngân Hàng 100 Bài Test Đầy Đủ</span>
+          <span class="text-xs font-bold text-amber-600 dark:text-amber-400 uppercase tracking-wider">Trọn Bộ Đề Khảo Thí Cambridge IELTS 1 - 21</span>
           <h3 class="text-lg font-bold text-slate-900 dark:text-white flex items-center gap-2 mt-0.5">
             Luyện Thi Chuyên Sâu ${skill.toUpperCase()} (Hiển thị: ${filtered.length}/100 bài)
           </h3>
         </div>
         <div class="flex items-center gap-2">
-          <input type="text" id="testSearchInput_${skill}" value="${filters.search}" oninput="setSkillTestFilter('${skill}', 'search', this.value)" placeholder="Tìm kiếm theo chủ đề, tên bài..." class="px-3.5 py-2 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs text-slate-800 dark:text-slate-200 w-56 focus:outline-none focus:ring-2 focus:ring-brand-500">
+          <input type="text" id="testSearchInput_${skill}" value="${filters.search}" oninput="setSkillTestFilter('${skill}', 'search', this.value)" placeholder="Tìm theo Cam, chủ đề, tên bài..." class="px-3.5 py-2 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs text-slate-800 dark:text-slate-200 w-56 focus:outline-none focus:ring-2 focus:ring-brand-500">
         </div>
       </div>
 
-      <!-- Filter Controls Grid -->
-      <div class="grid grid-cols-1 sm:grid-cols-3 gap-3 text-xs">
+      <!-- Filter Controls Grid (4 Columns) -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 text-xs">
+        <!-- Cambridge Book Series Filter -->
+        <div>
+          <label class="block text-[11px] font-bold text-slate-400 mb-1">Bộ Sách Cambridge (Cam 1 - 21):</label>
+          <select onchange="setSkillTestFilter('${skill}', 'cam', this.value)" class="w-full px-3 py-2 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs text-slate-800 dark:text-slate-200 font-bold text-indigo-600 dark:text-indigo-400">
+            <option value="all" ${filters.cam === 'all' ? 'selected' : ''}>Tất cả các bộ (Cam 1 - 21)</option>
+            <option value="cam_21" ${filters.cam === 'cam_21' ? 'selected' : ''}>Cambridge 21 (Mới Nhất 2026)</option>
+            <option value="cam_19" ${filters.cam === 'cam_19' ? 'selected' : ''}>Cambridge 19 (Hot 2024)</option>
+            <option value="cam_18" ${filters.cam === 'cam_18' ? 'selected' : ''}>Cambridge 18 (2023)</option>
+            <option value="cam_17" ${filters.cam === 'cam_17' ? 'selected' : ''}>Cambridge 17 (2022)</option>
+            <option value="cam_16" ${filters.cam === 'cam_16' ? 'selected' : ''}>Cambridge 16 (2021)</option>
+            <option value="cam_15" ${filters.cam === 'cam_15' ? 'selected' : ''}>Cambridge 15 (2020)</option>
+            <option value="cam_13" ${filters.cam === 'cam_13' ? 'selected' : ''}>Cambridge 13 (2018)</option>
+            <option value="cam_12" ${filters.cam === 'cam_12' ? 'selected' : ''}>Cambridge 12 (2017)</option>
+            <option value="cam_11" ${filters.cam === 'cam_11' ? 'selected' : ''}>Cambridge 11 (2016)</option>
+            <option value="cam_10" ${filters.cam === 'cam_10' ? 'selected' : ''}>Cambridge 10 (2015)</option>
+            <option value="cam_classic" ${filters.cam === 'cam_classic' ? 'selected' : ''}>Cambridge 1 – 9 (Nền Tảng Cổ Điển)</option>
+          </select>
+        </div>
+
         <!-- Topic Filter -->
         <div>
           <label class="block text-[11px] font-bold text-slate-400 mb-1">Chủ đề (Topic):</label>
@@ -4095,9 +4228,14 @@ function renderSkillZoneD(skill) {
       <div class="p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm flex flex-col justify-between space-y-4 hover:border-brand-400 hover:shadow-md transition">
         <div class="space-y-2.5">
           <div class="flex items-center justify-between">
-            <span class="text-[10px] font-black px-2 py-0.5 rounded bg-brand-50 dark:bg-brand-950/60 text-brand-700 dark:text-brand-300">
-              #${t.testNum}
-            </span>
+            <div class="flex items-center gap-1.5">
+              <span class="text-[10px] font-black px-2 py-0.5 rounded bg-brand-50 dark:bg-brand-950/60 text-brand-700 dark:text-brand-300">
+                #${t.testNum}
+              </span>
+              <span class="text-[10px] font-bold px-2 py-0.5 rounded bg-indigo-50 dark:bg-indigo-950/60 border border-indigo-200 dark:border-indigo-800 text-indigo-700 dark:text-indigo-300">
+                ${t.camBadge || 'Cambridge IELTS'}
+              </span>
+            </div>
             ${statusBadge}
           </div>
 
@@ -4180,41 +4318,121 @@ function openTestArena(skill, testId) {
   if (skill === 'listening') {
     leftPane.innerHTML = `
       <div class="space-y-6">
-        <!-- Audio Player Card -->
-        <div class="p-6 rounded-2xl bg-gradient-to-br from-slate-900 to-indigo-950 text-white border border-slate-800 shadow-xl space-y-4">
-          <div class="flex items-center justify-between">
-            <span class="text-xs font-bold text-blue-400 uppercase tracking-wider">Cambridge Audio Official</span>
-            <span class="text-xs text-slate-400">100% Khớp Đề Thi</span>
-          </div>
-          <audio id="arenaAudioPlayer" src="${test.audioUrl}" preload="auto" controls class="w-full"></audio>
-          <div class="flex items-center justify-between text-xs pt-1">
+        <!-- Dual-Engine Audio Player Card -->
+        <div class="p-6 rounded-2xl bg-gradient-to-br from-slate-900 via-indigo-950 to-slate-900 text-white border border-slate-800 shadow-2xl space-y-4">
+          <div class="flex items-center justify-between border-b border-slate-800/80 pb-3">
             <div class="flex items-center gap-2">
-              <button onclick="setArenaAudioSpeed(0.8)" class="px-2 py-1 rounded bg-slate-800 hover:bg-slate-700 text-[10px]">0.8x</button>
-              <button onclick="setArenaAudioSpeed(1.0)" class="px-2 py-1 rounded bg-blue-600 text-white text-[10px] font-bold">1.0x Chuẩn</button>
-              <button onclick="setArenaAudioSpeed(1.2)" class="px-2 py-1 rounded bg-slate-800 hover:bg-slate-700 text-[10px]">1.2x Tốc độ</button>
+              <span class="w-2.5 h-2.5 rounded-full bg-emerald-400 animate-pulse"></span>
+              <span class="text-xs font-bold text-white uppercase tracking-wider">Cambridge Audio Player</span>
             </div>
-            <button onclick="toggleArenaTranscript()" class="text-xs text-blue-400 hover:underline flex items-center gap-1">
-              <i data-lucide="file-text" class="w-3.5 h-3.5"></i> Ẩn/Hiện Audio Script
-            </button>
+            <!-- Audio Engine Mode Switcher -->
+            <div class="flex items-center bg-slate-950/80 rounded-xl p-0.5 border border-slate-800 text-[11px]">
+              <button id="arenaModeMp3Btn" onclick="setArenaAudioSourceMode('mp3')" class="px-2.5 py-1 rounded-lg font-bold bg-blue-600 text-white transition flex items-center gap-1">
+                <i data-lucide="music" class="w-3 h-3"></i> File MP3
+              </button>
+              <button id="arenaModeTtsBtn" onclick="setArenaAudioSourceMode('tts')" class="px-2.5 py-1 rounded-lg font-semibold text-slate-400 hover:text-white transition flex items-center gap-1">
+                <i data-lucide="bot" class="w-3 h-3"></i> Giọng Đọc AI (TTS)
+              </button>
+            </div>
+          </div>
+
+          <!-- Mode 1: HTML5 Native MP3 Audio Player -->
+          <div id="arenaMp3PlayerContainer" class="space-y-3">
+            <audio id="arenaAudioPlayer" src="${test.audioUrl}" preload="auto" controls class="w-full" onerror="handleArenaAudioError()"></audio>
+
+            <!-- Audio 404/Error Notice -->
+            <div id="arenaAudioErrorNotice" class="hidden p-3.5 rounded-xl bg-amber-950/60 border border-amber-800/80 text-xs text-amber-200 space-y-1.5">
+              <div class="flex items-center gap-2 font-bold text-amber-400">
+                <i data-lucide="alert-triangle" class="w-4 h-4 text-amber-400"></i> File MP3 gốc chưa được tải lên máy chủ
+              </div>
+              <p class="text-[11px] text-amber-300/90 leading-relaxed">
+                Hệ thống đã tự động chuyển sang <strong>Giọng Đọc Bản Ngữ AI (Native British Voice)</strong> bên dưới để bạn tiếp tục luyện nghe ngay lập tức với 100% nội dung đề thi!
+              </p>
+            </div>
+
+            <!-- Quick Audio Controls (Speed, Skip) -->
+            <div class="flex items-center justify-between text-xs pt-1 flex-wrap gap-2">
+              <div class="flex items-center gap-1.5">
+                <span class="text-[10px] text-slate-400">Tốc độ:</span>
+                <button onclick="setArenaAudioSpeed(0.8)" id="spdBtn_08" class="px-2 py-0.5 rounded bg-slate-800 hover:bg-slate-700 text-[10px]">0.8x</button>
+                <button onclick="setArenaAudioSpeed(1.0)" id="spdBtn_10" class="px-2 py-0.5 rounded bg-blue-600 text-white text-[10px] font-bold">1.0x</button>
+                <button onclick="setArenaAudioSpeed(1.2)" id="spdBtn_12" class="px-2 py-0.5 rounded bg-slate-800 hover:bg-slate-700 text-[10px]">1.2x</button>
+                <button onclick="seekArenaAudio(-10)" class="px-2 py-0.5 rounded bg-slate-800 hover:bg-slate-700 text-[10px] text-slate-300">-10s</button>
+                <button onclick="seekArenaAudio(10)" class="px-2 py-0.5 rounded bg-slate-800 hover:bg-slate-700 text-[10px] text-slate-300">+10s</button>
+              </div>
+              <button onclick="toggleArenaTranscript()" class="text-xs text-blue-400 hover:text-blue-300 font-semibold flex items-center gap-1">
+                <i data-lucide="file-text" class="w-3.5 h-3.5"></i> Ẩn/Hiện Script
+              </button>
+            </div>
+          </div>
+
+          <!-- Mode 2: Web Speech Synthesis AI Player (Native British/American Audio) -->
+          <div id="arenaTtsPlayerContainer" class="hidden space-y-3 p-4 rounded-xl bg-slate-950/80 border border-slate-800">
+            <div class="flex items-center justify-between">
+              <div class="flex items-center gap-2">
+                <span class="px-2 py-0.5 rounded bg-indigo-900/80 text-indigo-300 font-black text-[10px] uppercase">AI Speech Engine</span>
+                <span class="text-xs font-bold text-white">Giọng Đọc Chuẩn Bản Ngữ IELTS</span>
+              </div>
+              <span id="arenaTtsStatusBadge" class="text-[10px] text-slate-400">Sẵn sàng phát</span>
+            </div>
+
+            <!-- TTS Action Buttons -->
+            <div class="flex items-center gap-2">
+              <button id="arenaTtsPlayBtn" onclick="toggleArenaTTS()" class="flex-1 py-2.5 rounded-xl bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-bold text-xs flex items-center justify-center gap-2 shadow-lg transition">
+                <i data-lucide="play" class="w-4 h-4"></i> <span>Bắt Đầu Nghe AI Voice</span>
+              </button>
+              <button onclick="restartArenaTTS()" class="p-2.5 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-300 text-xs transition" title="Nghe lại từ đầu">
+                <i data-lucide="rotate-ccw" class="w-4 h-4"></i>
+              </button>
+            </div>
+
+            <!-- Progress Bar -->
+            <div class="w-full bg-slate-800 rounded-full h-1.5 overflow-hidden">
+              <div id="arenaTtsProgressBar" class="bg-indigo-500 h-1.5 rounded-full transition-all duration-300" style="width: 0%"></div>
+            </div>
+
+            <!-- TTS Speed Controls -->
+            <div class="flex items-center justify-between text-xs pt-1">
+              <div class="flex items-center gap-1.5">
+                <span class="text-[10px] text-slate-400">Tốc độ:</span>
+                <button onclick="setArenaTTSSpeed(0.8)" id="ttsSpd_08" class="px-2 py-0.5 rounded bg-slate-800 text-[10px] text-slate-400">0.8x</button>
+                <button onclick="setArenaTTSSpeed(1.0)" id="ttsSpd_10" class="px-2 py-0.5 rounded bg-indigo-600 text-white text-[10px] font-bold">1.0x</button>
+                <button onclick="setArenaTTSSpeed(1.2)" id="ttsSpd_12" class="px-2 py-0.5 rounded bg-slate-800 text-[10px] text-slate-400">1.2x</button>
+              </div>
+              <button onclick="toggleArenaTranscript()" class="text-xs text-indigo-400 hover:text-indigo-300 font-semibold flex items-center gap-1">
+                <i data-lucide="file-text" class="w-3.5 h-3.5"></i> Ẩn/Hiện Script
+              </button>
+            </div>
           </div>
         </div>
 
-        <!-- Collapsible Audio Transcript -->
-        <div id="arenaTranscriptBox" class="hidden p-5 rounded-2xl bg-slate-900/90 border border-slate-800 text-slate-300 text-xs leading-relaxed space-y-2 font-sans">
-          <div class="font-bold text-white uppercase text-[11px] pb-1 border-b border-slate-800">Transcript Bài Nghe (Gợi ý đối chiếu):</div>
-          <p class="whitespace-pre-line">${test.transcript}</p>
+        <!-- Collapsible Audio Transcript with Real-time Sentence Tracking -->
+        <div id="arenaTranscriptBox" class="hidden p-5 rounded-2xl bg-slate-900/90 border border-slate-800 text-slate-300 text-xs leading-relaxed space-y-2 font-sans max-h-96 overflow-y-auto">
+          <div class="flex items-center justify-between font-bold text-white uppercase text-[11px] pb-2 border-b border-slate-800">
+            <span>Transcript Bài Nghe (Theo Dõi Thời Gian Thực):</span>
+            <span class="text-[10px] text-slate-400 font-normal">Bấm vào câu bất kỳ để nghe đoạn đó</span>
+          </div>
+          <div id="arenaTranscriptSentences" class="space-y-1.5 pt-1">
+            <!-- Injected dynamically sentence by sentence -->
+          </div>
         </div>
 
         <div class="p-4 rounded-xl bg-blue-950/30 border border-blue-900/40 text-xs text-blue-200">
-          💡 <strong>Hướng dẫn:</strong> Bấm nút Play trên thanh Audio để bắt đầu nghe. Bạn có thể nghe và điền ngay các câu trả lời tương ứng vào ô bên phải.
+          💡 <strong>Hướng dẫn:</strong> Bấm <strong>Play</strong> trên thanh Audio hoặc <strong>Bắt Đầu Nghe AI Voice</strong> để nghe. Bạn có thể chọn/gõ đáp án tương ứng vào ô bên phải. Hệ thống tự động lưu bài làm của bạn!
         </div>
       </div>
     `;
+
+    // Initialize TTS transcript sentences
+    setTimeout(() => {
+      initArenaTTS(test.transcript || '');
+    }, 50);
+
   } else if (skill === 'reading') {
     leftPane.innerHTML = `
       <div class="space-y-4 select-text">
         <div class="flex items-center justify-between pb-2 border-b border-slate-800 text-xs text-slate-400">
-          <span>Đoạn văn đọc học thuật (${test.wordCount || 800} từ)</span>
+          <span>Đoạn văn đọc học thuật (${test.wordCount || 850} từ)</span>
           <span class="text-emerald-400 font-semibold">Bôi đen chữ để Highlight</span>
         </div>
         <div id="arenaPassageContent" class="text-slate-200 text-sm leading-relaxed space-y-4 font-serif">
@@ -4277,40 +4495,48 @@ function openTestArena(skill, testId) {
 
   // Render Right Pane (Interactive Questions / Input)
   if (skill === 'listening' || skill === 'reading') {
+    let questionsHtml = '';
+    const qGroups = test.questionGroups || [];
+
+    // If test has questionGroups, render with authentic group headers
+    if (qGroups.length > 0) {
+      qGroups.forEach(group => {
+        questionsHtml += `
+          <div class="p-4 rounded-2xl bg-gradient-to-r from-slate-900 via-indigo-950/60 to-slate-900 border border-slate-700/80 mb-3 space-y-1.5 shadow-md">
+            <div class="flex items-center gap-2">
+              <span class="text-[10px] font-black px-2.5 py-0.5 rounded-full bg-amber-400 text-slate-950 uppercase tracking-wider">Questions ${group.from}–${group.to}</span>
+              <span class="text-xs font-bold text-white">${group.typeLabel}</span>
+            </div>
+            <p class="text-xs text-slate-300 italic">${group.instruction}</p>
+          </div>
+        `;
+        const groupQuestions = (test.questions || []).filter(q => q.qNum >= group.from && q.qNum <= group.to);
+        questionsHtml += groupQuestions.map((q, idx) => `
+          <div id="arenaQContainer_${q.qNum}" class="mb-3">
+            ${renderArenaQuestionItem(q, test, skill, q.qNum - 1)}
+          </div>
+        `).join('');
+      });
+    } else {
+      questionsHtml = (test.questions || []).map((q, idx) => `
+        <div id="arenaQContainer_${q.qNum}" class="mb-3">
+          ${renderArenaQuestionItem(q, test, skill, idx)}
+        </div>
+      `).join('');
+    }
+
     rightPane.innerHTML = `
-      <div class="space-y-6">
+      <div class="space-y-4">
         <div class="flex items-center justify-between pb-2 border-b border-slate-800 text-xs">
-          <span class="font-bold text-slate-300 uppercase tracking-wider">Phiếu Trả Lời Câu Hỏi (${(test.questions || []).length} câu)</span>
-          <span class="text-slate-500">Tự động lưu khi gõ</span>
+          <span class="font-bold text-slate-300 uppercase tracking-wider flex items-center gap-2">
+            <i data-lucide="list-checks" class="w-4 h-4 text-emerald-400"></i>
+            Phiếu Trả Lời (${(test.questions || []).length} câu hỏi chuẩn Cambridge)
+          </span>
+          <span class="text-[11px] text-slate-500">Tự động lưu khi chọn</span>
         </div>
 
-        <div class="space-y-4">
-          ${(test.questions || []).map(q => {
-            if (q.type === 'fill') {
-              return `
-                <div class="p-4 rounded-2xl bg-slate-950/80 border border-slate-800 space-y-2">
-                  <span class="text-[10px] font-black px-2 py-0.5 rounded bg-blue-900/60 text-blue-300">CÂU #${q.qNum}</span>
-                  <p class="text-xs text-slate-200 font-medium leading-relaxed">${q.text}</p>
-                  <input type="text" id="arenaAns_${q.qNum}" oninput="activeArenaState.userAnswers[${q.qNum}] = this.value" placeholder="Gõ câu trả lời của bạn..." class="w-full px-3.5 py-2 rounded-xl bg-slate-900 border border-slate-700 text-xs text-white focus:outline-none focus:border-brand-500">
-                </div>
-              `;
-            } else {
-              return `
-                <div class="p-4 rounded-2xl bg-slate-950/80 border border-slate-800 space-y-2">
-                  <span class="text-[10px] font-black px-2 py-0.5 rounded bg-purple-900/60 text-purple-300">CÂU #${q.qNum}</span>
-                  <p class="text-xs text-slate-200 font-medium leading-relaxed">${q.text}</p>
-                  <div class="grid grid-cols-1 gap-1.5 pt-1">
-                    ${(q.options || []).map(opt => `
-                      <label class="flex items-center gap-2 p-2.5 rounded-xl border border-slate-800 bg-slate-900 hover:border-brand-500 cursor-pointer text-xs text-slate-300 transition">
-                        <input type="radio" name="arenaRadio_${q.qNum}" value="${opt.split('.')[0].trim()}" onchange="activeArenaState.userAnswers[${q.qNum}] = this.value" class="text-brand-600 focus:ring-0">
-                        <span>${opt}</span>
-                      </label>
-                    `).join('')}
-                  </div>
-                </div>
-              `;
-            }
-          }).join('')}
+        <div class="space-y-1">
+          ${questionsHtml}
         </div>
       </div>
     `;
@@ -4357,8 +4583,501 @@ function openTestArena(skill, testId) {
 
 function closeTestArena() {
   if (activeArenaState.timerInterval) clearInterval(activeArenaState.timerInterval);
+  const audio = document.getElementById('arenaAudioPlayer');
+  if (audio) {
+    audio.pause();
+    audio.currentTime = 0;
+  }
+  stopArenaTTS();
   const modal = document.getElementById('testArenaModal');
   if (modal) modal.classList.add('hidden');
+}
+
+// =========================================================================
+// INTERACTIVE QUESTION ITEM RENDERER (ALL IELTS QUESTION TYPES)
+// =========================================================================
+function renderArenaQuestionItem(q, test, skill, index) {
+  const qNum = q.qNum || (index + 1);
+  const qType = q.type || test.questionType || 'fill';
+  const savedVal = (activeArenaState.userAnswers[qNum] || '').toString();
+
+  // 1. TRUE / FALSE / NOT GIVEN
+  if (qType === 'tfng') {
+    return `
+      <div class="p-4 rounded-2xl bg-slate-950/80 border border-slate-800 space-y-3 transition hover:border-slate-700">
+        <div class="flex items-center justify-between">
+          <span class="text-[10px] font-black px-2.5 py-0.5 rounded-full bg-emerald-950 border border-emerald-800 text-emerald-300">CÂU #${qNum} • TRUE / FALSE / NOT GIVEN</span>
+          <span class="text-[11px] text-slate-500">Chọn 1 trong 3 đáp án</span>
+        </div>
+        <p class="text-xs text-slate-200 font-medium leading-relaxed">${q.text}</p>
+        <div class="grid grid-cols-3 gap-2 pt-1">
+          ${['TRUE', 'FALSE', 'NOT GIVEN'].map(opt => {
+            const isSelected = savedVal.toUpperCase() === opt;
+            const activeClass = isSelected
+              ? 'bg-emerald-600 text-white font-bold ring-2 ring-emerald-400 shadow-md shadow-emerald-600/30'
+              : 'bg-slate-900 text-slate-300 border border-slate-800 hover:border-slate-700 hover:text-white';
+            return `
+              <button type="button" onclick="selectArenaOption(${qNum}, '${opt}')" id="btnAns_${qNum}_${opt.replace(/\s+/g, '_')}" class="py-2.5 px-2 rounded-xl text-xs font-semibold text-center transition flex items-center justify-center gap-1.5 ${activeClass}">
+                ${isSelected ? '✓ ' : ''}${opt}
+              </button>
+            `;
+          }).join('')}
+        </div>
+      </div>
+    `;
+  }
+
+  // 2. YES / NO / NOT GIVEN
+  if (qType === 'ynng') {
+    return `
+      <div class="p-4 rounded-2xl bg-slate-950/80 border border-slate-800 space-y-3 transition hover:border-slate-700">
+        <div class="flex items-center justify-between">
+          <span class="text-[10px] font-black px-2.5 py-0.5 rounded-full bg-cyan-950 border border-cyan-800 text-cyan-300">CÂU #${qNum} • YES / NO / NOT GIVEN</span>
+          <span class="text-[11px] text-slate-500">Chọn 1 trong 3 đáp án</span>
+        </div>
+        <p class="text-xs text-slate-200 font-medium leading-relaxed">${q.text}</p>
+        <div class="grid grid-cols-3 gap-2 pt-1">
+          ${['YES', 'NO', 'NOT GIVEN'].map(opt => {
+            const isSelected = savedVal.toUpperCase() === opt;
+            const activeClass = isSelected
+              ? 'bg-cyan-600 text-white font-bold ring-2 ring-cyan-400 shadow-md shadow-cyan-600/30'
+              : 'bg-slate-900 text-slate-300 border border-slate-800 hover:border-slate-700 hover:text-white';
+            return `
+              <button type="button" onclick="selectArenaOption(${qNum}, '${opt}')" id="btnAns_${qNum}_${opt.replace(/\s+/g, '_')}" class="py-2.5 px-2 rounded-xl text-xs font-semibold text-center transition flex items-center justify-center gap-1.5 ${activeClass}">
+                ${isSelected ? '✓ ' : ''}${opt}
+              </button>
+            `;
+          }).join('')}
+        </div>
+      </div>
+    `;
+  }
+
+  // 3. MULTIPLE CHOICE (Single: A, B, C, D or A, B, C)
+  if (qType === 'multiple_choice' || qType === 'mc') {
+    const options = q.options || [];
+    return `
+      <div class="p-4 rounded-2xl bg-slate-950/80 border border-slate-800 space-y-3 transition hover:border-slate-700">
+        <div class="flex items-center justify-between">
+          <span class="text-[10px] font-black px-2.5 py-0.5 rounded-full bg-purple-950 border border-purple-800 text-purple-300">CÂU #${qNum} • MULTIPLE CHOICE</span>
+          <span class="text-[11px] text-slate-500">Chọn 1 đáp án chính xác</span>
+        </div>
+        <p class="text-xs text-slate-200 font-semibold leading-relaxed">${q.text}</p>
+        <div class="grid grid-cols-1 gap-2 pt-1">
+          ${options.map(opt => {
+            const letter = (opt.match(/^([A-D])[\.\:\s]/) || [null, opt.charAt(0)])[1] || opt.charAt(0);
+            const isSelected = savedVal.toUpperCase() === letter.toUpperCase();
+            const activeClass = isSelected
+              ? 'border-purple-500 bg-purple-950/40 text-white ring-1 ring-purple-500'
+              : 'border-slate-800 bg-slate-900/90 text-slate-300 hover:border-slate-700 hover:text-white';
+            return `
+              <div onclick="selectArenaOption(${qNum}, '${letter}')" class="p-3 rounded-xl border ${activeClass} cursor-pointer text-xs flex items-center gap-3 transition">
+                <span class="w-6 h-6 rounded-full flex items-center justify-center text-[11px] font-black ${isSelected ? 'bg-purple-600 text-white' : 'bg-slate-800 text-slate-400'}">${letter}</span>
+                <span class="flex-1">${opt.replace(/^[A-D][\.\:\s]\s*/, '')}</span>
+                ${isSelected ? '<span class="text-purple-400 font-bold text-xs">✓ Đã chọn</span>' : ''}
+              </div>
+            `;
+          }).join('')}
+        </div>
+      </div>
+    `;
+  }
+
+  // 4. MULTIPLE CHOICE (Multi: Choose TWO / THREE letters)
+  if (qType === 'multiple_choice_multi' || qType === 'choose_two') {
+    const options = q.options || [];
+    const maxSel = q.maxSelections || 2;
+    const selectedList = savedVal ? savedVal.split(/[,;\s]+/).map(s => s.trim().toUpperCase()).filter(Boolean) : [];
+    return `
+      <div class="p-4 rounded-2xl bg-slate-950/80 border border-slate-800 space-y-3 transition hover:border-slate-700">
+        <div class="flex items-center justify-between">
+          <span class="text-[10px] font-black px-2.5 py-0.5 rounded-full bg-pink-950 border border-pink-800 text-pink-300">CÂU #${qNum} • CHOOSE ${maxSel} LETTERS</span>
+          <span class="text-[11px] text-pink-400 font-semibold" id="multiCount_${qNum}">Đã chọn: ${selectedList.length}/${maxSel}</span>
+        </div>
+        <p class="text-xs text-slate-200 font-semibold leading-relaxed">${q.text}</p>
+        <div class="grid grid-cols-1 gap-2 pt-1">
+          ${options.map(opt => {
+            const letter = (opt.match(/^([A-E])[\.\:\s]/) || [null, opt.charAt(0)])[1] || opt.charAt(0);
+            const isSelected = selectedList.includes(letter.toUpperCase());
+            const activeClass = isSelected
+              ? 'border-pink-500 bg-pink-950/40 text-white ring-1 ring-pink-500'
+              : 'border-slate-800 bg-slate-900/90 text-slate-300 hover:border-slate-700 hover:text-white';
+            return `
+              <div onclick="toggleArenaMultiOption(${qNum}, '${letter}', ${maxSel})" class="p-3 rounded-xl border ${activeClass} cursor-pointer text-xs flex items-center gap-3 transition">
+                <span class="w-6 h-6 rounded-lg flex items-center justify-center text-[11px] font-black ${isSelected ? 'bg-pink-600 text-white' : 'bg-slate-800 text-slate-400'}">${letter}</span>
+                <span class="flex-1">${opt.replace(/^[A-E][\.\:\s]\s*/, '')}</span>
+                ${isSelected ? '<span class="text-pink-400 font-bold text-xs">✓ Đã chọn</span>' : ''}
+              </div>
+            `;
+          }).join('')}
+        </div>
+      </div>
+    `;
+  }
+
+  // 5. MATCHING HEADINGS
+  if (qType === 'matching_headings') {
+    const headings = test.headings || q.headings || [];
+    return `
+      <div class="p-4 rounded-2xl bg-slate-950/80 border border-slate-800 space-y-3 transition hover:border-slate-700">
+        <div class="flex items-center justify-between">
+          <span class="text-[10px] font-black px-2.5 py-0.5 rounded-full bg-amber-950 border border-amber-800 text-amber-300">CÂU #${qNum} • MATCHING HEADING</span>
+          <span class="text-[11px] text-slate-500">Chọn tiêu đề La Mã (i, ii, iii...)</span>
+        </div>
+        <p class="text-xs text-slate-200 font-bold leading-relaxed">${q.text}</p>
+        <div class="pt-1">
+          <select onchange="selectArenaOption(${qNum}, this.value)" class="w-full px-3.5 py-2.5 rounded-xl bg-slate-900 border border-slate-700 text-xs text-white focus:outline-none focus:border-amber-500 font-sans">
+            <option value="">-- Bấm vào đây để chọn Heading phù hợp --</option>
+            ${headings.map(h => {
+              const val = (h.match(/^([ivxlcdm]+)[\.\:\s]/i) || [null, h.split('.')[0]])[1] || h.split(' ')[0];
+              const isSelected = savedVal.toLowerCase() === val.toLowerCase();
+              return `<option value="${val}" ${isSelected ? 'selected' : ''}>${h}</option>`;
+            }).join('')}
+          </select>
+        </div>
+      </div>
+    `;
+  }
+
+  // 6. MATCHING FEATURES / MATCHING INFORMATION / MATCHING OPINIONS
+  if (qType === 'matching_features' || qType === 'matching_info' || qType === 'matching') {
+    const options = q.options || test.matchingOptions || ['A', 'B', 'C', 'D', 'E', 'F', 'G'];
+    return `
+      <div class="p-4 rounded-2xl bg-slate-950/80 border border-slate-800 space-y-3 transition hover:border-slate-700">
+        <div class="flex items-center justify-between">
+          <span class="text-[10px] font-black px-2.5 py-0.5 rounded-full bg-indigo-950 border border-indigo-800 text-indigo-300">CÂU #${qNum} • MATCHING</span>
+          <span class="text-[11px] text-slate-500">Chọn chữ cái phù hợp</span>
+        </div>
+        <p class="text-xs text-slate-200 font-medium leading-relaxed">${q.text}</p>
+        <div class="flex flex-wrap gap-2 pt-1">
+          ${options.map(opt => {
+            const letter = typeof opt === 'string' && opt.length > 2 ? opt.charAt(0) : opt;
+            const isSelected = savedVal.toUpperCase() === letter.toUpperCase();
+            const activeClass = isSelected
+              ? 'bg-indigo-600 text-white font-bold ring-2 ring-indigo-400 shadow-md shadow-indigo-600/30'
+              : 'bg-slate-900 text-slate-300 border border-slate-800 hover:border-slate-700 hover:text-white';
+            return `
+              <button type="button" onclick="selectArenaOption(${qNum}, '${letter}')" class="w-10 h-10 rounded-xl text-xs font-black text-center transition flex items-center justify-center ${activeClass}" title="${opt}">
+                ${letter}
+              </button>
+            `;
+          }).join('')}
+        </div>
+      </div>
+    `;
+  }
+
+  // 7. SUMMARY WORD BANK
+  if (qType === 'summary_word_bank') {
+    const bank = test.wordBank || q.wordBank || [];
+    return `
+      <div class="p-4 rounded-2xl bg-slate-950/80 border border-slate-800 space-y-3 transition hover:border-slate-700">
+        <div class="flex items-center justify-between">
+          <span class="text-[10px] font-black px-2.5 py-0.5 rounded-full bg-teal-950 border border-teal-800 text-teal-300">CÂU #${qNum} • SUMMARY (WORD BANK)</span>
+          <span class="text-[11px] text-slate-500">Chọn từ trong Word Bank</span>
+        </div>
+        <p class="text-xs text-slate-200 font-medium leading-relaxed">${q.text}</p>
+        <div class="pt-1">
+          <select onchange="selectArenaOption(${qNum}, this.value)" class="w-full px-3.5 py-2.5 rounded-xl bg-slate-900 border border-slate-700 text-xs text-white focus:outline-none focus:border-teal-500 font-sans">
+            <option value="">-- Chọn chữ cái / từ trong danh sách --</option>
+            ${bank.map(item => {
+              const letter = item.split(/[\.\:\s]/)[0];
+              const isSelected = savedVal.toUpperCase() === letter.toUpperCase();
+              return `<option value="${letter}" ${isSelected ? 'selected' : ''}>${item}</option>`;
+            }).join('')}
+          </select>
+        </div>
+      </div>
+    `;
+  }
+
+  // 8. MAP / DIAGRAM LABELLING
+  if (qType === 'map_labelling' || qType === 'diagram_labelling') {
+    const letters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H'];
+    return `
+      <div class="p-4 rounded-2xl bg-slate-950/80 border border-slate-800 space-y-3 transition hover:border-slate-700">
+        <div class="flex items-center justify-between">
+          <span class="text-[10px] font-black px-2.5 py-0.5 rounded-full bg-violet-950 border border-violet-800 text-violet-300">CÂU #${qNum} • MAP LABELLING</span>
+          <span class="text-[11px] text-slate-500">Chọn vị trí A–H trên bản đồ</span>
+        </div>
+        <p class="text-xs text-slate-200 font-bold leading-relaxed">${q.text}</p>
+        <div class="flex flex-wrap gap-2 pt-1">
+          ${letters.map(letter => {
+            const isSelected = savedVal.toUpperCase() === letter;
+            const activeClass = isSelected
+              ? 'bg-violet-600 text-white font-bold ring-2 ring-violet-400 shadow-md shadow-violet-600/30'
+              : 'bg-slate-900 text-slate-300 border border-slate-800 hover:border-slate-700 hover:text-white';
+            return `
+              <button type="button" onclick="selectArenaOption(${qNum}, '${letter}')" class="w-10 h-10 rounded-xl text-xs font-black text-center transition flex items-center justify-center ${activeClass}">
+                ${letter}
+              </button>
+            `;
+          }).join('')}
+        </div>
+      </div>
+    `;
+  }
+
+  // 9. DEFAULT: FILL IN THE BLANK / NOTES / FORM COMPLETION
+  return `
+    <div class="p-4 rounded-2xl bg-slate-950/80 border border-slate-800 space-y-2.5 transition hover:border-slate-700">
+      <div class="flex items-center justify-between">
+        <span class="text-[10px] font-black px-2.5 py-0.5 rounded-full bg-blue-950 border border-blue-800 text-blue-300">CÂU #${qNum} • COMPLETION</span>
+        <span class="text-[10px] font-semibold text-amber-400/90">${q.wordLimit || 'ONE WORD ONLY'}</span>
+      </div>
+      <p class="text-xs text-slate-200 font-medium leading-relaxed">${q.text}</p>
+      <input type="text" id="arenaAns_${qNum}" value="${savedVal}" oninput="activeArenaState.userAnswers[${qNum}] = this.value" placeholder="Gõ câu trả lời của bạn vào đây..." class="w-full px-3.5 py-2.5 rounded-xl bg-slate-900 border border-slate-700 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-blue-500 font-medium">
+    </div>
+  `;
+}
+
+function selectArenaOption(qNum, value) {
+  activeArenaState.userAnswers[qNum] = value;
+  const q = (activeArenaState.test.questions || []).find(item => item.qNum === qNum);
+  if (q) {
+    const el = document.getElementById(`arenaQContainer_${qNum}`);
+    if (el) {
+      el.innerHTML = renderArenaQuestionItem(q, activeArenaState.test, activeArenaState.skill, qNum - 1);
+      if (window.lucide) window.lucide.createIcons();
+    }
+  }
+}
+
+function toggleArenaMultiOption(qNum, letter, maxSel) {
+  let current = activeArenaState.userAnswers[qNum] || '';
+  let arr = current ? current.split(/[,;\s]+/).map(s => s.trim().toUpperCase()).filter(Boolean) : [];
+  const idx = arr.indexOf(letter.toUpperCase());
+  if (idx >= 0) {
+    arr.splice(idx, 1);
+  } else {
+    if (arr.length >= maxSel) {
+      arr.shift();
+    }
+    arr.push(letter.toUpperCase());
+  }
+  arr.sort();
+  activeArenaState.userAnswers[qNum] = arr.join(', ');
+
+  const q = (activeArenaState.test.questions || []).find(item => item.qNum === qNum);
+  if (q) {
+    const el = document.getElementById(`arenaQContainer_${qNum}`);
+    if (el) {
+      el.innerHTML = renderArenaQuestionItem(q, activeArenaState.test, activeArenaState.skill, qNum - 1);
+      if (window.lucide) window.lucide.createIcons();
+    }
+  }
+}
+
+// =========================================================================
+// NATIVE WEB SPEECH API (AI VOICE SYNTHESIS ENGINE)
+// =========================================================================
+let arenaTtsUtterance = null;
+let arenaTtsSentences = [];
+let arenaTtsCurrentSentenceIdx = 0;
+let arenaTtsRate = 1.0;
+let arenaTtsIsPlaying = false;
+
+function initArenaTTS(transcript) {
+  stopArenaTTS();
+  arenaTtsCurrentSentenceIdx = 0;
+  arenaTtsIsPlaying = false;
+
+  if (!transcript) return;
+
+  // Split transcript into clean sentences for synchronous speech & highlighting
+  arenaTtsSentences = transcript
+    .split(/(?<=[.?!])\s+/)
+    .map(s => s.trim())
+    .filter(s => s.length > 0);
+
+  const container = document.getElementById('arenaTranscriptSentences');
+  if (container) {
+    container.innerHTML = arenaTtsSentences.map((sent, idx) => `
+      <p id="ttsSent_${idx}" class="py-1 px-2 rounded-lg transition text-slate-300 text-xs cursor-pointer hover:bg-slate-800" onclick="jumpToArenaTtsSentence(${idx})">
+        ${sent}
+      </p>
+    `).join('');
+  }
+}
+
+function toggleArenaTTS() {
+  if (arenaTtsIsPlaying) {
+    pauseArenaTTS();
+  } else {
+    playArenaTTS();
+  }
+}
+
+function playArenaTTS() {
+  if (!('speechSynthesis' in window)) {
+    showToast('Trình duyệt của bạn chưa hỗ trợ Web Speech Synthesis.');
+    return;
+  }
+  window.speechSynthesis.cancel();
+  arenaTtsIsPlaying = true;
+  updateArenaTtsControlsUI();
+  speakArenaSentence(arenaTtsCurrentSentenceIdx);
+}
+
+function speakArenaSentence(idx) {
+  if (idx >= arenaTtsSentences.length) {
+    arenaTtsIsPlaying = false;
+    arenaTtsCurrentSentenceIdx = 0;
+    updateArenaTtsControlsUI();
+    showToast('Đã phát xong toàn bộ bài nghe AI!');
+    return;
+  }
+
+  arenaTtsCurrentSentenceIdx = idx;
+  highlightArenaTtsSentence(idx);
+
+  const textToSpeak = arenaTtsSentences[idx];
+  arenaTtsUtterance = new SpeechSynthesisUtterance(textToSpeak);
+  arenaTtsUtterance.rate = arenaTtsRate;
+
+  // Prefer authentic British English accent for IELTS
+  const voices = window.speechSynthesis.getVoices();
+  const gbVoice = voices.find(v => v.lang.includes('en-GB') || v.name.includes('UK') || v.name.includes('British') || v.name.includes('Daniel'));
+  const enVoice = voices.find(v => v.lang.startsWith('en'));
+  if (gbVoice) {
+    arenaTtsUtterance.voice = gbVoice;
+  } else if (enVoice) {
+    arenaTtsUtterance.voice = enVoice;
+  }
+
+  arenaTtsUtterance.onend = () => {
+    if (arenaTtsIsPlaying) {
+      speakArenaSentence(idx + 1);
+    }
+  };
+
+  arenaTtsUtterance.onerror = (e) => {
+    console.warn('TTS playback note:', e);
+  };
+
+  window.speechSynthesis.speak(arenaTtsUtterance);
+}
+
+function pauseArenaTTS() {
+  arenaTtsIsPlaying = false;
+  if ('speechSynthesis' in window) {
+    window.speechSynthesis.cancel();
+  }
+  updateArenaTtsControlsUI();
+}
+
+function stopArenaTTS() {
+  arenaTtsIsPlaying = false;
+  if ('speechSynthesis' in window) {
+    window.speechSynthesis.cancel();
+  }
+  updateArenaTtsControlsUI();
+}
+
+function restartArenaTTS() {
+  arenaTtsCurrentSentenceIdx = 0;
+  playArenaTTS();
+}
+
+function jumpToArenaTtsSentence(idx) {
+  stopArenaTTS();
+  arenaTtsCurrentSentenceIdx = idx;
+  playArenaTTS();
+}
+
+function setArenaTTSSpeed(spd) {
+  arenaTtsRate = spd;
+  [0.8, 1.0, 1.2].forEach(s => {
+    const btn = document.getElementById(`ttsSpd_${String(s).replace('.', '')}`);
+    if (btn) {
+      if (s === spd) {
+        btn.className = "px-2 py-0.5 rounded bg-indigo-600 text-white text-[10px] font-bold";
+      } else {
+        btn.className = "px-2 py-0.5 rounded bg-slate-800 text-[10px] text-slate-400";
+      }
+    }
+  });
+  if (arenaTtsIsPlaying) {
+    playArenaTTS();
+  }
+  showToast(`Tốc độ đọc AI: ${spd}x`);
+}
+
+function highlightArenaTtsSentence(idx) {
+  arenaTtsSentences.forEach((_, i) => {
+    const el = document.getElementById(`ttsSent_${i}`);
+    if (el) {
+      if (i === idx) {
+        el.className = "py-1.5 px-3 rounded-lg bg-amber-500/20 text-amber-200 border-l-4 border-amber-400 font-medium text-xs shadow-inner";
+        el.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      } else {
+        el.className = "py-1 px-2 rounded-lg text-slate-400 text-xs hover:bg-slate-800";
+      }
+    }
+  });
+
+  const prog = document.getElementById('arenaTtsProgressBar');
+  if (prog && arenaTtsSentences.length > 0) {
+    const pct = Math.round(((idx + 1) / arenaTtsSentences.length) * 100);
+    prog.style.width = `${pct}%`;
+  }
+  const badge = document.getElementById('arenaTtsStatusBadge');
+  if (badge) {
+    badge.textContent = `Đoạn ${idx + 1} / ${arenaTtsSentences.length}`;
+  }
+}
+
+function updateArenaTtsControlsUI() {
+  const playBtn = document.getElementById('arenaTtsPlayBtn');
+  if (playBtn) {
+    if (arenaTtsIsPlaying) {
+      playBtn.innerHTML = '<i data-lucide="pause" class="w-4 h-4"></i> <span>Tạm Dừng Giọng Đọc</span>';
+      playBtn.className = "flex-1 py-2.5 rounded-xl bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs flex items-center justify-center gap-2 shadow-lg transition";
+    } else {
+      playBtn.innerHTML = '<i data-lucide="play" class="w-4 h-4"></i> <span>Bắt Đầu Nghe AI Voice</span>';
+      playBtn.className = "flex-1 py-2.5 rounded-xl bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-bold text-xs flex items-center justify-center gap-2 shadow-lg transition";
+    }
+    if (window.lucide) window.lucide.createIcons();
+  }
+}
+
+function handleArenaAudioError() {
+  const errBox = document.getElementById('arenaAudioErrorNotice');
+  if (errBox) errBox.classList.remove('hidden');
+  setArenaAudioSourceMode('tts');
+  showToast('⚠️ Không tìm thấy file MP3. Đã tự động kích hoạt Giọng Đọc Bản Ngữ AI!');
+}
+
+function setArenaAudioSourceMode(mode) {
+  const mp3Box = document.getElementById('arenaMp3PlayerContainer');
+  const ttsBox = document.getElementById('arenaTtsPlayerContainer');
+  const mp3Btn = document.getElementById('arenaModeMp3Btn');
+  const ttsBtn = document.getElementById('arenaModeTtsBtn');
+  const audio = document.getElementById('arenaAudioPlayer');
+
+  if (mode === 'tts') {
+    if (audio) audio.pause();
+    if (mp3Box) mp3Box.classList.add('hidden');
+    if (ttsBox) ttsBox.classList.remove('hidden');
+    if (mp3Btn) mp3Btn.className = "px-2.5 py-1 rounded-lg font-semibold text-slate-400 hover:text-white transition flex items-center gap-1";
+    if (ttsBtn) ttsBtn.className = "px-2.5 py-1 rounded-lg font-bold bg-indigo-600 text-white transition flex items-center gap-1";
+    showToast('Chuyển sang Giọng Đọc Bản Ngữ AI');
+  } else {
+    stopArenaTTS();
+    if (mp3Box) mp3Box.classList.remove('hidden');
+    if (ttsBox) ttsBox.classList.add('hidden');
+    if (mp3Btn) mp3Btn.className = "px-2.5 py-1 rounded-lg font-bold bg-blue-600 text-white transition flex items-center gap-1";
+    if (ttsBtn) ttsBtn.className = "px-2.5 py-1 rounded-lg font-semibold text-slate-400 hover:text-white transition flex items-center gap-1";
+    showToast('Chuyển sang File MP3 Gốc');
+  }
+  if (window.lucide) window.lucide.createIcons();
+}
+
+function seekArenaAudio(seconds) {
+  const audio = document.getElementById('arenaAudioPlayer');
+  if (audio && !isNaN(audio.duration)) {
+    audio.currentTime = Math.max(0, Math.min(audio.duration, audio.currentTime + seconds));
+  }
 }
 
 function updateArenaTimerTick() {
@@ -4395,6 +5114,16 @@ function setArenaAudioSpeed(spd) {
     audio.playbackRate = spd;
     showToast(`Tốc độ nghe: ${spd}x`);
   }
+  [0.8, 1.0, 1.2].forEach(s => {
+    const btn = document.getElementById(`spdBtn_${String(s).replace('.', '')}`);
+    if (btn) {
+      if (s === spd) {
+        btn.className = "px-2 py-0.5 rounded bg-blue-600 text-white text-[10px] font-bold";
+      } else {
+        btn.className = "px-2 py-0.5 rounded bg-slate-800 hover:bg-slate-700 text-[10px]";
+      }
+    }
+  });
 }
 
 function toggleArenaTranscript() {
@@ -4481,6 +5210,57 @@ function toggleArenaSpeechMic() {
 }
 
 // =========================================================================
+// MULTI-TYPE ANSWER MATCHING & NORMALIZATION ENGINE
+// =========================================================================
+function normalizeAnswerString(str) {
+  if (!str) return '';
+  return str.toString()
+    .trim()
+    .toLowerCase()
+    .replace(/^the\s+/, '')
+    .replace(/^a\s+/, '')
+    .replace(/^an\s+/, '')
+    .replace(/[.,/#!$%^&*;:{}=\-_`~()]/g, '')
+    .replace(/\s+/g, ' ');
+}
+
+function isAnswerMatch(userAns, expectedAns, qType) {
+  if (!userAns || !expectedAns) return false;
+  const u = userAns.toString().trim().toUpperCase();
+  const expList = expectedAns.toString().split(/\s*[\/\|]\s*/).map(s => s.trim().toUpperCase());
+
+  // Multiple Choice Multi (e.g. Choose TWO letters)
+  if (qType === 'multiple_choice_multi' || qType === 'choose_two') {
+    const userTokens = u.split(/[,;\s]+/).map(s => s.trim()).filter(Boolean).sort().join(',');
+    return expList.some(exp => {
+      const expTokens = exp.split(/[,;\s]+/).map(s => s.trim()).filter(Boolean).sort().join(',');
+      return userTokens === expTokens;
+    });
+  }
+
+  // True / False / Not Given
+  if (qType === 'tfng') {
+    if (u === 'TRUE' || u === 'T') return expList.includes('TRUE') || expList.includes('T');
+    if (u === 'FALSE' || u === 'F') return expList.includes('FALSE') || expList.includes('F');
+    if (u === 'NOT GIVEN' || u === 'NG') return expList.includes('NOT GIVEN') || expList.includes('NG');
+  }
+
+  // Yes / No / Not Given
+  if (qType === 'ynng') {
+    if (u === 'YES' || u === 'Y') return expList.includes('YES') || expList.includes('Y');
+    if (u === 'NO' || u === 'N') return expList.includes('NO') || expList.includes('N');
+    if (u === 'NOT GIVEN' || u === 'NG') return expList.includes('NOT GIVEN') || expList.includes('NG');
+  }
+
+  // Exact letter match for MC, Matching Headings, etc.
+  if (expList.includes(u)) return true;
+
+  // Normalized string comparison for text completion
+  const uNorm = normalizeAnswerString(userAns);
+  return expList.some(exp => normalizeAnswerString(exp) === uNorm);
+}
+
+// =========================================================================
 // 5. INSTANT GRADING & DETAILED FEEDBACK ENGINE
 // =========================================================================
 function submitActiveTestArena() {
@@ -4499,11 +5279,10 @@ function submitActiveTestArena() {
     totalQuestions = questions.length;
 
     questions.forEach(q => {
-      const userAns = (activeArenaState.userAnswers[q.qNum] || '').trim();
-      const expected = (q.correctAnswer || '').trim();
+      const userAns = (activeArenaState.userAnswers[q.qNum] || '').toString().trim();
+      const expected = (q.correctAnswer || '').toString().trim();
 
-      // Normalize match
-      const isMatch = userAns.toLowerCase() === expected.toLowerCase();
+      const isMatch = isAnswerMatch(userAns, expected, q.type || test.questionType);
       if (isMatch) correctCount++;
 
       detailedReview.push({
@@ -4512,21 +5291,38 @@ function submitActiveTestArena() {
         userAnswer: userAns || '(Bỏ trống)',
         correctAnswer: expected,
         isCorrect: isMatch,
-        quote: q.quote,
-        paraphrase: q.paraphrase,
-        explanation: q.explanation
+        quote: q.quote || 'Đối chiếu văn bản bài thi gốc.',
+        paraphrase: q.paraphrase || `${q.qNum} <-> Official Key`,
+        explanation: q.explanation || 'Đối chiếu đáp án chuẩn khảo thí Cambridge.'
       });
     });
 
     // Band Conversion table
     const ratio = totalQuestions > 0 ? (correctCount / totalQuestions) : 0;
-    if (ratio >= 0.9) band = 9.0;
-    else if (ratio >= 0.8) band = 8.0;
-    else if (ratio >= 0.7) band = 7.5;
-    else if (ratio >= 0.6) band = 6.5;
-    else if (ratio >= 0.5) band = 6.0;
-    else if (ratio >= 0.4) band = 5.5;
-    else band = 4.5;
+    if (totalQuestions === 40) {
+      if (correctCount >= 39) band = 9.0;
+      else if (correctCount >= 37) band = 8.5;
+      else if (correctCount >= 35) band = 8.0;
+      else if (correctCount >= 32) band = 7.5;
+      else if (correctCount >= 30) band = 7.0;
+      else if (correctCount >= 26) band = 6.5;
+      else if (correctCount >= 23) band = 6.0;
+      else if (correctCount >= 18) band = 5.5;
+      else if (correctCount >= 15) band = 5.0;
+      else if (correctCount >= 12) band = 4.5;
+      else band = 4.0;
+    } else {
+      if (ratio >= 0.9) band = 9.0;
+      else if (ratio >= 0.84) band = 8.5;
+      else if (ratio >= 0.77) band = 8.0;
+      else if (ratio >= 0.70) band = 7.5;
+      else if (ratio >= 0.62) band = 7.0;
+      else if (ratio >= 0.54) band = 6.5;
+      else if (ratio >= 0.46) band = 6.0;
+      else if (ratio >= 0.38) band = 5.5;
+      else if (ratio >= 0.30) band = 5.0;
+      else band = 4.5;
+    }
   } else if (skill === 'writing') {
     const inputEl = document.getElementById('arenaWritingInput');
     const userText = inputEl ? inputEl.value.trim() : '';
@@ -4774,6 +5570,13 @@ function renderVocabVault() {
   topics.forEach(t => {
     (t.words || []).forEach(w => allWords.push(w));
   });
+  if (window.IELTS_SKILL_VOCAB_SYSTEM) {
+    Object.values(window.IELTS_SKILL_VOCAB_SYSTEM).forEach(skillToolkits => {
+      skillToolkits.forEach(tk => {
+        (tk.words || []).forEach(w => allWords.push(w));
+      });
+    });
+  }
 
   const savedWords = allWords.filter(w => appSavedVocab.includes(w.id));
 

@@ -143,7 +143,7 @@
         <div class="pt-2 border-t border-slate-200 dark:border-slate-800 mt-2 space-y-1">
           <button data-tab="camlibrary" class="nav-btn w-full flex items-center gap-3 px-3 py-2 rounded-xl text-xs font-semibold text-purple-700 dark:text-purple-300 hover:bg-purple-50 dark:hover:bg-purple-950/40 transition">
             <i data-lucide="library" class="w-4 h-4 flex-shrink-0 text-purple-500"></i>
-            <span class="hidden md:inline">Kho Sách & Audio Cam (10-21)</span>
+            <span class="hidden md:inline">Kho Sách & Audio Cam (1 - 21)</span>
           </button>
           <button data-tab="vocabvault" class="nav-btn w-full flex items-center gap-3 px-3 py-2 rounded-xl text-xs font-semibold text-teal-700 dark:text-teal-300 hover:bg-teal-50 dark:hover:bg-teal-950/40 transition">
             <i data-lucide="bookmark-check" class="w-4 h-4 flex-shrink-0 text-teal-500"></i>
@@ -1052,19 +1052,70 @@
           </div>
         </div>
 
-        <!-- 4-Zone Sub-Navigation Bar -->
-        <div class="flex items-center gap-2 p-1.5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm overflow-x-auto">
-          <button onclick="switchSkillZone('listening', 'zone_a')" id="navZoneBtn_listening_zone_a" class="skill-zone-btn px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2 bg-brand-600 text-white shadow-sm flex-shrink-0">
-            <i data-lucide="book-open-check" class="w-4 h-4"></i> Phân Khu A: Lý Thuyết & Chiến Thuật
+        <!-- 4-Zone Sub-Navigation Bar (Large Intuitive Interactive Cards) -->
+        <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4 p-2.5 sm:p-3.5 rounded-2xl sm:rounded-3xl bg-slate-100/90 dark:bg-slate-900/90 border border-slate-200/80 dark:border-slate-800 shadow-inner">
+          <!-- Card A -->
+          <button onclick="switchSkillZone('listening', 'zone_a')" id="navZoneBtn_listening_zone_a" class="skill-zone-card group relative p-4 rounded-xl sm:rounded-2xl text-left transition-all duration-200 border flex flex-col justify-between bg-white dark:bg-slate-800 border-brand-500 shadow-md ring-2 ring-brand-500/30">
+            <div class="flex items-center justify-between mb-2.5">
+              <div class="w-10 h-10 rounded-xl flex items-center justify-center bg-blue-100 dark:bg-blue-950/80 text-blue-600 dark:text-blue-400 group-hover:scale-105 transition">
+                <i data-lucide="book-open-check" class="w-5 h-5"></i>
+              </div>
+              <span class="text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded-md bg-blue-50 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 border border-blue-200/60 dark:border-blue-800">
+                Phân Khu A
+              </span>
+            </div>
+            <div>
+              <div class="text-sm font-extrabold text-slate-900 dark:text-white">Lý Thuyết & Chiến Thuật</div>
+              <div class="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">Quy trình giải đề & mẹo bẫy Band 7.0+</div>
+            </div>
           </button>
-          <button onclick="switchSkillZone('listening', 'zone_b')" id="navZoneBtn_listening_zone_b" class="skill-zone-btn px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 flex-shrink-0">
-            <i data-lucide="sparkles" class="w-4 h-4 text-purple-500"></i> Phân Khu B: Từ Vựng & Collocations
+
+          <!-- Card B -->
+          <button onclick="switchSkillZone('listening', 'zone_b')" id="navZoneBtn_listening_zone_b" class="skill-zone-card group relative p-4 rounded-xl sm:rounded-2xl text-left transition-all duration-200 border flex flex-col justify-between bg-white/60 dark:bg-slate-800/40 border-transparent hover:border-slate-300 dark:hover:border-slate-700 hover:bg-white dark:hover:bg-slate-800">
+            <div class="flex items-center justify-between mb-2.5">
+              <div class="w-10 h-10 rounded-xl flex items-center justify-center bg-purple-100 dark:bg-purple-950/80 text-purple-600 dark:text-purple-400 group-hover:scale-105 transition">
+                <i data-lucide="sparkles" class="w-5 h-5"></i>
+              </div>
+              <span class="text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded-md bg-purple-50 dark:bg-purple-900/50 text-purple-700 dark:text-purple-300 border border-purple-200/60 dark:border-purple-800">
+                Phân Khu B
+              </span>
+            </div>
+            <div>
+              <div class="text-sm font-extrabold text-slate-900 dark:text-white">Từ Vựng & Collocations</div>
+              <div class="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">10 bộ công cụ nhỏ & 12 chủ đề C1/C2</div>
+            </div>
           </button>
-          <button onclick="switchSkillZone('listening', 'zone_c')" id="navZoneBtn_listening_zone_c" class="skill-zone-btn px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 flex-shrink-0">
-            <i data-lucide="gamepad-2" class="w-4 h-4 text-emerald-500"></i> Phân Khu C: Luyện Tập Từ Vựng
+
+          <!-- Card C -->
+          <button onclick="switchSkillZone('listening', 'zone_c')" id="navZoneBtn_listening_zone_c" class="skill-zone-card group relative p-4 rounded-xl sm:rounded-2xl text-left transition-all duration-200 border flex flex-col justify-between bg-white/60 dark:bg-slate-800/40 border-transparent hover:border-slate-300 dark:hover:border-slate-700 hover:bg-white dark:hover:bg-slate-800">
+            <div class="flex items-center justify-between mb-2.5">
+              <div class="w-10 h-10 rounded-xl flex items-center justify-center bg-emerald-100 dark:bg-emerald-950/80 text-emerald-600 dark:text-emerald-400 group-hover:scale-105 transition">
+                <i data-lucide="gamepad-2" class="w-5 h-5"></i>
+              </div>
+              <span class="text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded-md bg-emerald-50 dark:bg-emerald-900/50 text-emerald-700 dark:text-emerald-300 border border-emerald-200/60 dark:border-emerald-800">
+                Phân Khu C
+              </span>
+            </div>
+            <div>
+              <div class="text-sm font-extrabold text-slate-900 dark:text-white">Luyện Tập Tương Tác</div>
+              <div class="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">Flashcards, Nối từ, Điền khuyết, Quiz</div>
+            </div>
           </button>
-          <button onclick="switchSkillZone('listening', 'zone_d')" id="navZoneBtn_listening_zone_d" class="skill-zone-btn px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 flex-shrink-0">
-            <i data-lucide="clipboard-list" class="w-4 h-4 text-amber-500"></i> Phân Khu D: Ngân Hàng 100 Bài Test
+
+          <!-- Card D -->
+          <button onclick="switchSkillZone('listening', 'zone_d')" id="navZoneBtn_listening_zone_d" class="skill-zone-card group relative p-4 rounded-xl sm:rounded-2xl text-left transition-all duration-200 border flex flex-col justify-between bg-white/60 dark:bg-slate-800/40 border-transparent hover:border-slate-300 dark:hover:border-slate-700 hover:bg-white dark:hover:bg-slate-800">
+            <div class="flex items-center justify-between mb-2.5">
+              <div class="w-10 h-10 rounded-xl flex items-center justify-center bg-amber-100 dark:bg-amber-950/80 text-amber-600 dark:text-amber-400 group-hover:scale-105 transition">
+                <i data-lucide="clipboard-list" class="w-5 h-5"></i>
+              </div>
+              <span class="text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded-md bg-amber-50 dark:bg-amber-900/50 text-amber-700 dark:text-amber-300 border border-amber-200/60 dark:border-amber-800">
+                Phân Khu D
+              </span>
+            </div>
+            <div>
+              <div class="text-sm font-extrabold text-slate-900 dark:text-white">Ngân Hàng 100 Đề Test</div>
+              <div class="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">Đề thi bấm giờ, chấm điểm tự động</div>
+            </div>
           </button>
         </div>
 
@@ -1106,19 +1157,70 @@
           </div>
         </div>
 
-        <!-- 4-Zone Sub-Navigation Bar -->
-        <div class="flex items-center gap-2 p-1.5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm overflow-x-auto">
-          <button onclick="switchSkillZone('reading', 'zone_a')" id="navZoneBtn_reading_zone_a" class="skill-zone-btn px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2 bg-brand-600 text-white shadow-sm flex-shrink-0">
-            <i data-lucide="book-open-check" class="w-4 h-4"></i> Phân Khu A: Lý Thuyết & Chiến Thuật
+        <!-- 4-Zone Sub-Navigation Bar (Large Intuitive Interactive Cards) -->
+        <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4 p-2.5 sm:p-3.5 rounded-2xl sm:rounded-3xl bg-slate-100/90 dark:bg-slate-900/90 border border-slate-200/80 dark:border-slate-800 shadow-inner">
+          <!-- Card A -->
+          <button onclick="switchSkillZone('reading', 'zone_a')" id="navZoneBtn_reading_zone_a" class="skill-zone-card group relative p-4 rounded-xl sm:rounded-2xl text-left transition-all duration-200 border flex flex-col justify-between bg-white dark:bg-slate-800 border-brand-500 shadow-md ring-2 ring-brand-500/30">
+            <div class="flex items-center justify-between mb-2.5">
+              <div class="w-10 h-10 rounded-xl flex items-center justify-center bg-blue-100 dark:bg-blue-950/80 text-blue-600 dark:text-blue-400 group-hover:scale-105 transition">
+                <i data-lucide="book-open-check" class="w-5 h-5"></i>
+              </div>
+              <span class="text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded-md bg-blue-50 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 border border-blue-200/60 dark:border-blue-800">
+                Phân Khu A
+              </span>
+            </div>
+            <div>
+              <div class="text-sm font-extrabold text-slate-900 dark:text-white">Lý Thuyết & Chiến Thuật</div>
+              <div class="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">Quy trình giải đề & mẹo bẫy Band 7.0+</div>
+            </div>
           </button>
-          <button onclick="switchSkillZone('reading', 'zone_b')" id="navZoneBtn_reading_zone_b" class="skill-zone-btn px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 flex-shrink-0">
-            <i data-lucide="sparkles" class="w-4 h-4 text-purple-500"></i> Phân Khu B: Từ Vựng & Collocations
+
+          <!-- Card B -->
+          <button onclick="switchSkillZone('reading', 'zone_b')" id="navZoneBtn_reading_zone_b" class="skill-zone-card group relative p-4 rounded-xl sm:rounded-2xl text-left transition-all duration-200 border flex flex-col justify-between bg-white/60 dark:bg-slate-800/40 border-transparent hover:border-slate-300 dark:hover:border-slate-700 hover:bg-white dark:hover:bg-slate-800">
+            <div class="flex items-center justify-between mb-2.5">
+              <div class="w-10 h-10 rounded-xl flex items-center justify-center bg-purple-100 dark:bg-purple-950/80 text-purple-600 dark:text-purple-400 group-hover:scale-105 transition">
+                <i data-lucide="sparkles" class="w-5 h-5"></i>
+              </div>
+              <span class="text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded-md bg-purple-50 dark:bg-purple-900/50 text-purple-700 dark:text-purple-300 border border-purple-200/60 dark:border-purple-800">
+                Phân Khu B
+              </span>
+            </div>
+            <div>
+              <div class="text-sm font-extrabold text-slate-900 dark:text-white">Từ Vựng & Collocations</div>
+              <div class="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">10 bộ công cụ nhỏ & 12 chủ đề C1/C2</div>
+            </div>
           </button>
-          <button onclick="switchSkillZone('reading', 'zone_c')" id="navZoneBtn_reading_zone_c" class="skill-zone-btn px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 flex-shrink-0">
-            <i data-lucide="gamepad-2" class="w-4 h-4 text-emerald-500"></i> Phân Khu C: Luyện Tập Từ Vựng
+
+          <!-- Card C -->
+          <button onclick="switchSkillZone('reading', 'zone_c')" id="navZoneBtn_reading_zone_c" class="skill-zone-card group relative p-4 rounded-xl sm:rounded-2xl text-left transition-all duration-200 border flex flex-col justify-between bg-white/60 dark:bg-slate-800/40 border-transparent hover:border-slate-300 dark:hover:border-slate-700 hover:bg-white dark:hover:bg-slate-800">
+            <div class="flex items-center justify-between mb-2.5">
+              <div class="w-10 h-10 rounded-xl flex items-center justify-center bg-emerald-100 dark:bg-emerald-950/80 text-emerald-600 dark:text-emerald-400 group-hover:scale-105 transition">
+                <i data-lucide="gamepad-2" class="w-5 h-5"></i>
+              </div>
+              <span class="text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded-md bg-emerald-50 dark:bg-emerald-900/50 text-emerald-700 dark:text-emerald-300 border border-emerald-200/60 dark:border-emerald-800">
+                Phân Khu C
+              </span>
+            </div>
+            <div>
+              <div class="text-sm font-extrabold text-slate-900 dark:text-white">Luyện Tập Tương Tác</div>
+              <div class="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">Flashcards, Nối từ, Điền khuyết, Quiz</div>
+            </div>
           </button>
-          <button onclick="switchSkillZone('reading', 'zone_d')" id="navZoneBtn_reading_zone_d" class="skill-zone-btn px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 flex-shrink-0">
-            <i data-lucide="clipboard-list" class="w-4 h-4 text-amber-500"></i> Phân Khu D: Ngân Hàng 100 Bài Test
+
+          <!-- Card D -->
+          <button onclick="switchSkillZone('reading', 'zone_d')" id="navZoneBtn_reading_zone_d" class="skill-zone-card group relative p-4 rounded-xl sm:rounded-2xl text-left transition-all duration-200 border flex flex-col justify-between bg-white/60 dark:bg-slate-800/40 border-transparent hover:border-slate-300 dark:hover:border-slate-700 hover:bg-white dark:hover:bg-slate-800">
+            <div class="flex items-center justify-between mb-2.5">
+              <div class="w-10 h-10 rounded-xl flex items-center justify-center bg-amber-100 dark:bg-amber-950/80 text-amber-600 dark:text-amber-400 group-hover:scale-105 transition">
+                <i data-lucide="clipboard-list" class="w-5 h-5"></i>
+              </div>
+              <span class="text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded-md bg-amber-50 dark:bg-amber-900/50 text-amber-700 dark:text-amber-300 border border-amber-200/60 dark:border-amber-800">
+                Phân Khu D
+              </span>
+            </div>
+            <div>
+              <div class="text-sm font-extrabold text-slate-900 dark:text-white">Ngân Hàng 100 Đề Test</div>
+              <div class="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">Đề thi bấm giờ, chấm điểm tự động</div>
+            </div>
           </button>
         </div>
 
@@ -1160,19 +1262,70 @@
           </div>
         </div>
 
-        <!-- 4-Zone Sub-Navigation Bar -->
-        <div class="flex items-center gap-2 p-1.5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm overflow-x-auto">
-          <button onclick="switchSkillZone('writing', 'zone_a')" id="navZoneBtn_writing_zone_a" class="skill-zone-btn px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2 bg-brand-600 text-white shadow-sm flex-shrink-0">
-            <i data-lucide="book-open-check" class="w-4 h-4"></i> Phân Khu A: Lý Thuyết & Chiến Thuật
+        <!-- 4-Zone Sub-Navigation Bar (Large Intuitive Interactive Cards) -->
+        <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4 p-2.5 sm:p-3.5 rounded-2xl sm:rounded-3xl bg-slate-100/90 dark:bg-slate-900/90 border border-slate-200/80 dark:border-slate-800 shadow-inner">
+          <!-- Card A -->
+          <button onclick="switchSkillZone('writing', 'zone_a')" id="navZoneBtn_writing_zone_a" class="skill-zone-card group relative p-4 rounded-xl sm:rounded-2xl text-left transition-all duration-200 border flex flex-col justify-between bg-white dark:bg-slate-800 border-brand-500 shadow-md ring-2 ring-brand-500/30">
+            <div class="flex items-center justify-between mb-2.5">
+              <div class="w-10 h-10 rounded-xl flex items-center justify-center bg-blue-100 dark:bg-blue-950/80 text-blue-600 dark:text-blue-400 group-hover:scale-105 transition">
+                <i data-lucide="book-open-check" class="w-5 h-5"></i>
+              </div>
+              <span class="text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded-md bg-blue-50 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 border border-blue-200/60 dark:border-blue-800">
+                Phân Khu A
+              </span>
+            </div>
+            <div>
+              <div class="text-sm font-extrabold text-slate-900 dark:text-white">Lý Thuyết & Chiến Thuật</div>
+              <div class="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">Quy trình giải đề & mẹo bẫy Band 7.0+</div>
+            </div>
           </button>
-          <button onclick="switchSkillZone('writing', 'zone_b')" id="navZoneBtn_writing_zone_b" class="skill-zone-btn px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 flex-shrink-0">
-            <i data-lucide="sparkles" class="w-4 h-4 text-purple-500"></i> Phân Khu B: Từ Vựng & Collocations
+
+          <!-- Card B -->
+          <button onclick="switchSkillZone('writing', 'zone_b')" id="navZoneBtn_writing_zone_b" class="skill-zone-card group relative p-4 rounded-xl sm:rounded-2xl text-left transition-all duration-200 border flex flex-col justify-between bg-white/60 dark:bg-slate-800/40 border-transparent hover:border-slate-300 dark:hover:border-slate-700 hover:bg-white dark:hover:bg-slate-800">
+            <div class="flex items-center justify-between mb-2.5">
+              <div class="w-10 h-10 rounded-xl flex items-center justify-center bg-purple-100 dark:bg-purple-950/80 text-purple-600 dark:text-purple-400 group-hover:scale-105 transition">
+                <i data-lucide="sparkles" class="w-5 h-5"></i>
+              </div>
+              <span class="text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded-md bg-purple-50 dark:bg-purple-900/50 text-purple-700 dark:text-purple-300 border border-purple-200/60 dark:border-purple-800">
+                Phân Khu B
+              </span>
+            </div>
+            <div>
+              <div class="text-sm font-extrabold text-slate-900 dark:text-white">Từ Vựng & Collocations</div>
+              <div class="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">10 bộ công cụ nhỏ & 12 chủ đề C1/C2</div>
+            </div>
           </button>
-          <button onclick="switchSkillZone('writing', 'zone_c')" id="navZoneBtn_writing_zone_c" class="skill-zone-btn px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 flex-shrink-0">
-            <i data-lucide="gamepad-2" class="w-4 h-4 text-emerald-500"></i> Phân Khu C: Luyện Tập Từ Vựng
+
+          <!-- Card C -->
+          <button onclick="switchSkillZone('writing', 'zone_c')" id="navZoneBtn_writing_zone_c" class="skill-zone-card group relative p-4 rounded-xl sm:rounded-2xl text-left transition-all duration-200 border flex flex-col justify-between bg-white/60 dark:bg-slate-800/40 border-transparent hover:border-slate-300 dark:hover:border-slate-700 hover:bg-white dark:hover:bg-slate-800">
+            <div class="flex items-center justify-between mb-2.5">
+              <div class="w-10 h-10 rounded-xl flex items-center justify-center bg-emerald-100 dark:bg-emerald-950/80 text-emerald-600 dark:text-emerald-400 group-hover:scale-105 transition">
+                <i data-lucide="gamepad-2" class="w-5 h-5"></i>
+              </div>
+              <span class="text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded-md bg-emerald-50 dark:bg-emerald-900/50 text-emerald-700 dark:text-emerald-300 border border-emerald-200/60 dark:border-emerald-800">
+                Phân Khu C
+              </span>
+            </div>
+            <div>
+              <div class="text-sm font-extrabold text-slate-900 dark:text-white">Luyện Tập Tương Tác</div>
+              <div class="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">Flashcards, Nối từ, Điền khuyết, Quiz</div>
+            </div>
           </button>
-          <button onclick="switchSkillZone('writing', 'zone_d')" id="navZoneBtn_writing_zone_d" class="skill-zone-btn px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 flex-shrink-0">
-            <i data-lucide="clipboard-list" class="w-4 h-4 text-amber-500"></i> Phân Khu D: Ngân Hàng 100 Bài Test
+
+          <!-- Card D -->
+          <button onclick="switchSkillZone('writing', 'zone_d')" id="navZoneBtn_writing_zone_d" class="skill-zone-card group relative p-4 rounded-xl sm:rounded-2xl text-left transition-all duration-200 border flex flex-col justify-between bg-white/60 dark:bg-slate-800/40 border-transparent hover:border-slate-300 dark:hover:border-slate-700 hover:bg-white dark:hover:bg-slate-800">
+            <div class="flex items-center justify-between mb-2.5">
+              <div class="w-10 h-10 rounded-xl flex items-center justify-center bg-amber-100 dark:bg-amber-950/80 text-amber-600 dark:text-amber-400 group-hover:scale-105 transition">
+                <i data-lucide="clipboard-list" class="w-5 h-5"></i>
+              </div>
+              <span class="text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded-md bg-amber-50 dark:bg-amber-900/50 text-amber-700 dark:text-amber-300 border border-amber-200/60 dark:border-amber-800">
+                Phân Khu D
+              </span>
+            </div>
+            <div>
+              <div class="text-sm font-extrabold text-slate-900 dark:text-white">Ngân Hàng 100 Đề Test</div>
+              <div class="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">Đề thi bấm giờ, chấm điểm tự động</div>
+            </div>
           </button>
         </div>
 
@@ -1214,19 +1367,70 @@
           </div>
         </div>
 
-        <!-- 4-Zone Sub-Navigation Bar -->
-        <div class="flex items-center gap-2 p-1.5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm overflow-x-auto">
-          <button onclick="switchSkillZone('speaking', 'zone_a')" id="navZoneBtn_speaking_zone_a" class="skill-zone-btn px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2 bg-brand-600 text-white shadow-sm flex-shrink-0">
-            <i data-lucide="book-open-check" class="w-4 h-4"></i> Phân Khu A: Lý Thuyết & Chiến Thuật
+        <!-- 4-Zone Sub-Navigation Bar (Large Intuitive Interactive Cards) -->
+        <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4 p-2.5 sm:p-3.5 rounded-2xl sm:rounded-3xl bg-slate-100/90 dark:bg-slate-900/90 border border-slate-200/80 dark:border-slate-800 shadow-inner">
+          <!-- Card A -->
+          <button onclick="switchSkillZone('speaking', 'zone_a')" id="navZoneBtn_speaking_zone_a" class="skill-zone-card group relative p-4 rounded-xl sm:rounded-2xl text-left transition-all duration-200 border flex flex-col justify-between bg-white dark:bg-slate-800 border-brand-500 shadow-md ring-2 ring-brand-500/30">
+            <div class="flex items-center justify-between mb-2.5">
+              <div class="w-10 h-10 rounded-xl flex items-center justify-center bg-blue-100 dark:bg-blue-950/80 text-blue-600 dark:text-blue-400 group-hover:scale-105 transition">
+                <i data-lucide="book-open-check" class="w-5 h-5"></i>
+              </div>
+              <span class="text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded-md bg-blue-50 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 border border-blue-200/60 dark:border-blue-800">
+                Phân Khu A
+              </span>
+            </div>
+            <div>
+              <div class="text-sm font-extrabold text-slate-900 dark:text-white">Lý Thuyết & Chiến Thuật</div>
+              <div class="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">Quy trình giải đề & mẹo bẫy Band 7.0+</div>
+            </div>
           </button>
-          <button onclick="switchSkillZone('speaking', 'zone_b')" id="navZoneBtn_speaking_zone_b" class="skill-zone-btn px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 flex-shrink-0">
-            <i data-lucide="sparkles" class="w-4 h-4 text-purple-500"></i> Phân Khu B: Từ Vựng & Collocations
+
+          <!-- Card B -->
+          <button onclick="switchSkillZone('speaking', 'zone_b')" id="navZoneBtn_speaking_zone_b" class="skill-zone-card group relative p-4 rounded-xl sm:rounded-2xl text-left transition-all duration-200 border flex flex-col justify-between bg-white/60 dark:bg-slate-800/40 border-transparent hover:border-slate-300 dark:hover:border-slate-700 hover:bg-white dark:hover:bg-slate-800">
+            <div class="flex items-center justify-between mb-2.5">
+              <div class="w-10 h-10 rounded-xl flex items-center justify-center bg-purple-100 dark:bg-purple-950/80 text-purple-600 dark:text-purple-400 group-hover:scale-105 transition">
+                <i data-lucide="sparkles" class="w-5 h-5"></i>
+              </div>
+              <span class="text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded-md bg-purple-50 dark:bg-purple-900/50 text-purple-700 dark:text-purple-300 border border-purple-200/60 dark:border-purple-800">
+                Phân Khu B
+              </span>
+            </div>
+            <div>
+              <div class="text-sm font-extrabold text-slate-900 dark:text-white">Từ Vựng & Collocations</div>
+              <div class="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">10 bộ công cụ nhỏ & 12 chủ đề C1/C2</div>
+            </div>
           </button>
-          <button onclick="switchSkillZone('speaking', 'zone_c')" id="navZoneBtn_speaking_zone_c" class="skill-zone-btn px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 flex-shrink-0">
-            <i data-lucide="gamepad-2" class="w-4 h-4 text-emerald-500"></i> Phân Khu C: Luyện Tập Từ Vựng
+
+          <!-- Card C -->
+          <button onclick="switchSkillZone('speaking', 'zone_c')" id="navZoneBtn_speaking_zone_c" class="skill-zone-card group relative p-4 rounded-xl sm:rounded-2xl text-left transition-all duration-200 border flex flex-col justify-between bg-white/60 dark:bg-slate-800/40 border-transparent hover:border-slate-300 dark:hover:border-slate-700 hover:bg-white dark:hover:bg-slate-800">
+            <div class="flex items-center justify-between mb-2.5">
+              <div class="w-10 h-10 rounded-xl flex items-center justify-center bg-emerald-100 dark:bg-emerald-950/80 text-emerald-600 dark:text-emerald-400 group-hover:scale-105 transition">
+                <i data-lucide="gamepad-2" class="w-5 h-5"></i>
+              </div>
+              <span class="text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded-md bg-emerald-50 dark:bg-emerald-900/50 text-emerald-700 dark:text-emerald-300 border border-emerald-200/60 dark:border-emerald-800">
+                Phân Khu C
+              </span>
+            </div>
+            <div>
+              <div class="text-sm font-extrabold text-slate-900 dark:text-white">Luyện Tập Tương Tác</div>
+              <div class="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">Flashcards, Nối từ, Điền khuyết, Quiz</div>
+            </div>
           </button>
-          <button onclick="switchSkillZone('speaking', 'zone_d')" id="navZoneBtn_speaking_zone_d" class="skill-zone-btn px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 flex-shrink-0">
-            <i data-lucide="clipboard-list" class="w-4 h-4 text-amber-500"></i> Phân Khu D: Ngân Hàng 100 Bài Test
+
+          <!-- Card D -->
+          <button onclick="switchSkillZone('speaking', 'zone_d')" id="navZoneBtn_speaking_zone_d" class="skill-zone-card group relative p-4 rounded-xl sm:rounded-2xl text-left transition-all duration-200 border flex flex-col justify-between bg-white/60 dark:bg-slate-800/40 border-transparent hover:border-slate-300 dark:hover:border-slate-700 hover:bg-white dark:hover:bg-slate-800">
+            <div class="flex items-center justify-between mb-2.5">
+              <div class="w-10 h-10 rounded-xl flex items-center justify-center bg-amber-100 dark:bg-amber-950/80 text-amber-600 dark:text-amber-400 group-hover:scale-105 transition">
+                <i data-lucide="clipboard-list" class="w-5 h-5"></i>
+              </div>
+              <span class="text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded-md bg-amber-50 dark:bg-amber-900/50 text-amber-700 dark:text-amber-300 border border-amber-200/60 dark:border-amber-800">
+                Phân Khu D
+              </span>
+            </div>
+            <div>
+              <div class="text-sm font-extrabold text-slate-900 dark:text-white">Ngân Hàng 100 Đề Test</div>
+              <div class="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">Đề thi bấm giờ, chấm điểm tự động</div>
+            </div>
           </button>
         </div>
 
@@ -1536,30 +1740,39 @@
               <span class="text-xs text-slate-400 font-semibold">• Sách PDF & Audio Cambridge</span>
             </div>
             <h2 class="text-xl font-bold text-slate-900 dark:text-white mt-1 flex items-center gap-2">
-              <i data-lucide="book-marked" class="w-6 h-6 text-rose-500"></i> Kho Sách & Audio Khảo Thí Cambridge Gốc Toàn Tập (Cam 10 - 21)
+              <i data-lucide="book-marked" class="w-6 h-6 text-rose-500"></i> Kho Sách & Audio Khảo Thí Cambridge Gốc Toàn Tập (Cam 1 - 21)
             </h2>
-            <p class="text-xs text-slate-500 dark:text-slate-400">Tích hợp đầy đủ sách PDF gốc, 85+ file Audio bản xứ chất lượng cao từ thư mục máy của bạn. Vừa mở đề thi PDF vừa nghe Audio song hành!</p>
+            <p class="text-xs text-slate-500 dark:text-slate-400">Tích hợp trọn bộ 19 cuốn sách PDF gốc (Cam 1 đến Cam 21), 180+ file Audio bản xứ từ thư mục máy của bạn. Vừa mở đề thi PDF vừa nghe Audio song hành!</p>
           </div>
           <div class="flex items-center gap-2">
             <span class="text-xs font-bold px-3 py-1.5 rounded-xl bg-rose-50 dark:bg-rose-950/60 text-rose-700 dark:text-rose-300 border border-rose-200 dark:border-rose-800">
-              10 Cuốn Sách • 85+ Audio Tracks
+              19 Cuốn Sách (Cam 1 - 21) • 180+ Audio Tracks
             </span>
           </div>
         </div>
 
         <!-- Book Filter Chips -->
         <div class="flex items-center gap-2 overflow-x-auto pb-1" id="camBookFilterGroup">
-          <button onclick="filterCamLibraryBook('all')" class="cam-book-pill px-3.5 py-1.5 rounded-xl text-xs font-semibold bg-rose-600 text-white shadow-sm" data-book="all">Tất Cả (10 Cuốn)</button>
+          <button onclick="filterCamLibraryBook('all')" class="cam-book-pill px-3.5 py-1.5 rounded-xl text-xs font-semibold bg-rose-600 text-white shadow-sm" data-book="all">Tất Cả (19 Cuốn)</button>
           <button onclick="filterCamLibraryBook('cam_21')" class="cam-book-pill px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200" data-book="cam_21">Cam 21 (Mới 2026)</button>
           <button onclick="filterCamLibraryBook('cam_19')" class="cam-book-pill px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200" data-book="cam_19">Cam 19 (2024)</button>
           <button onclick="filterCamLibraryBook('cam_18')" class="cam-book-pill px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200" data-book="cam_18">Cam 18</button>
           <button onclick="filterCamLibraryBook('cam_17')" class="cam-book-pill px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200" data-book="cam_17">Cam 17</button>
-          <button onclick="filterCamLibraryBook('cam_16')" class="cam-book-pill px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200" data-book="cam_16">Cam 16 (Studio WAV)</button>
+          <button onclick="filterCamLibraryBook('cam_16')" class="cam-book-pill px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200" data-book="cam_16">Cam 16</button>
           <button onclick="filterCamLibraryBook('cam_15')" class="cam-book-pill px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200" data-book="cam_15">Cam 15</button>
           <button onclick="filterCamLibraryBook('cam_13')" class="cam-book-pill px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200" data-book="cam_13">Cam 13</button>
           <button onclick="filterCamLibraryBook('cam_12')" class="cam-book-pill px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200" data-book="cam_12">Cam 12</button>
           <button onclick="filterCamLibraryBook('cam_11')" class="cam-book-pill px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200" data-book="cam_11">Cam 11</button>
           <button onclick="filterCamLibraryBook('cam_10')" class="cam-book-pill px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200" data-book="cam_10">Cam 10</button>
+          <button onclick="filterCamLibraryBook('cam_9')" class="cam-book-pill px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200" data-book="cam_9">Cam 9</button>
+          <button onclick="filterCamLibraryBook('cam_8')" class="cam-book-pill px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200" data-book="cam_8">Cam 8</button>
+          <button onclick="filterCamLibraryBook('cam_7')" class="cam-book-pill px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200" data-book="cam_7">Cam 7</button>
+          <button onclick="filterCamLibraryBook('cam_6')" class="cam-book-pill px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200" data-book="cam_6">Cam 6</button>
+          <button onclick="filterCamLibraryBook('cam_5')" class="cam-book-pill px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200" data-book="cam_5">Cam 5</button>
+          <button onclick="filterCamLibraryBook('cam_4')" class="cam-book-pill px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200" data-book="cam_4">Cam 4</button>
+          <button onclick="filterCamLibraryBook('cam_3')" class="cam-book-pill px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200" data-book="cam_3">Cam 3</button>
+          <button onclick="filterCamLibraryBook('cam_2')" class="cam-book-pill px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200" data-book="cam_2">Cam 2</button>
+          <button onclick="filterCamLibraryBook('cam_1')" class="cam-book-pill px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200" data-book="cam_1">Cam 1</button>
         </div>
 
         <!-- Master Split-Screen Studio: In-App PDF Reader & Audio Player -->
