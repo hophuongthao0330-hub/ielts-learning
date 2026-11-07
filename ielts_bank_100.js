@@ -1,4 +1,3 @@
-// ielts_bank_100.js - Ngân Hàng 400 Bài Test Đầy Đủ 100% Kèm Bộ Từ Vựng & Luyện Tập Từng Test (Trọn Bộ Cam 1 Đến Cam 21)
 var IELTS_BANK_100 = {
   "listening": [
     {
@@ -486,7 +485,7 @@ var IELTS_BANK_100 = {
       "questionType": "multiple_choice",
       "level": "Band 6.5 - 8.0",
       "duration": "10 phút",
-      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam21_Cambridge_21___Test_2.mp3",
+      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t1_audio2.mp3",
       "transcript": "PART 2\nSo, hello everyone. My name’s Lou Miller and I’m going to be your tour guide today as we \ntake this fantastic boat trip around the Tasmanian coast. Before we set off, I just want to tell \nyou a few things about our journey.\nOur boats aren’t huge as you can see. We already have three staff members on board and \non top of that, we can transport a further fifteen people – that’s you – around the coastline. \nBut please note if there are more than nine people on either side of the boat, we’ll move \nsome of you over, otherwise all eighteen of us will end up in the sea!\nWe’ve recently upgraded all our boats. They used to be jet black, but our new ones now have \nthese comfortable dark red seats and a light-green exterior in order to stand out from others \nand help promote our company. This gives our boats a rather unique appearance, don’t you \nthink?\nWe offer you a free lunchbox during the trip and we have three types. Lunchbox 1 contains \nham and tomato sandwiches. Lunchbox 2 contains a cheddar cheese roll and Lunchbox 3 \nis salad-based and also contains eggs and tuna. All three lunchboxes also have a packet of \ncrisps and chocolate bar inside. Please let staff know which lunchbox you prefer. \nI’m sure I don’t have to ask you not to throw anything into the sea. We don’t have any bins to \nput litter in, but Jess, myself or Ray, our other guide, will collect it from you after lunch and put \nit all in a large plastic sack.\nThe engine on the boat makes quite a lot of noise so before we head off, let me tell you a few \nthings about what you’re going to see. \nQ7\nQ8\nQ9\nQ10\nQ11\nQ12\nQ13\nQ14\n\nAudioscripts\n98\nThis area is famous for its ancient lighthouse, which you’ll see from the boat as we turn past \nthe first little island. It was built in 1838 to protect sailors as a number of shipwrecks had \nled to significant loss of life. The construction itself was complicated as some of the original \ndrawings kept by the local council show. It sits right on top of the cliffs in a very isolated spot. \nIn the nineteenth century there were many jobs there, such as polishing the brass lamps, \nchopping firewood and cleaning windows, that kept lighthouse keepers busy. These workers \nwere mainly prison convicts until the middle of that century when ordinary families willing to \nlive in such circumstances took over. \nSome of you have asked me what creatures we can expect to see. I know everyone loves \nthe penguins, but they’re very shy and, unfortunately, tend to hide from passing boats, but \nyou might see birds in the distance, such as sea eagles, flying around the cliff edges where \nthey nest. When we get to the rocky area inhabited by fur seals, we’ll stop and watch them \nswimming around the coast. They’re inquisitive creatures so don’t be surprised if one pops up \nright in front of you. Their predators, orca whales, hunt along the coastline too, but spotting \none of these is rare. Dolphins, on the other hand, can sometimes approach on their own or in \ngroups as they ride the waves beside us. \nLastly, I want to mention the caves. Tasmania is famous for its caves and the ones we’ll \npass by are so amazing that people are lost for words when they see them. They can only \nbe approached by sea, but if you feel that you want to see more than we’re able to show \nyou, then you can take a kayak into the area on another day and one of our staff will give \nyou more information on that. What we’ll do is to go through a narrow channel, past some \nincredible rock formations and from there we’ll be able to see the openings to the caves, and \nat that point we’ll talk to you about what lies beyond.",
       "questionGroups": [
         {
@@ -1025,7 +1024,7 @@ var IELTS_BANK_100 = {
       "questionType": "matching",
       "level": "Band 6.5 - 8.0",
       "duration": "10 phút",
-      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam21_Cambridge_21___Test_3.mp3",
+      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t1_audio3.mp3",
       "transcript": "PART 3\ndiana:\t\nSo, Tim, we have to do a short summary of our work experience on a farm.\ntim:\t\nRight. My farm was great, but arranging the work experience was hard. One \nproblem was it was miles away and I don’t drive. And also, I’d really wanted a \nplacement for a month, but I could only get one for two weeks.\ndiana:\t\nI was lucky, the farmer let me stay on the farm so I didn’t have to travel. But \nfinding the right sort of farm to apply to wasn’t easy.\ntim:\t\nNo, they don’t seem to have websites, do they. I found mine through a friend of \nmy mother’s, but it wasn’t easy.\ndiana:\t\nNo.\ntim:\t\nMy farm was mostly livestock, especially sheep. I really enjoyed helping out with \nthem. I was up most of one night helping a sheep deliver a lamb …\ndiana:\t\nOn your own?\ntim:\t\nNo, the farmer was there, and he told me what to do. It wasn’t a straightforward \nbirth, but I managed. It was a great feeling to see the lamb stagger to its feet and \nstart feeding almost straightaway, and to know that it was OK.\ndiana:\t\nMm.\ntim:\t\nThen another time a lamb had broken its leg, and they got the vet in to set it, and \nhe talked me through what he was doing. That was really useful.\ndiana:\t\nYes, my farm had sheep too. The farm was in a valley and they had a lowland \nbreed called Suffolks, although the farmer said they’d had other breeds in the past.\ntim:\t\nSo were they bred for their meat?\ndiana:\t\nMostly, yes. They’re quite big and solid.\ntim:\t\nMy farm was up in the hills and they had a different breed of sheep, they were \nCheviots.\nQ15/16\nQ15/16\nQ17/18\nQ17/18\nQ19/20\nQ19/20\nQ21\nQ22\nQ23\n\nTest 1\n99\ndiana:\t\nOh, I heard their wool’s really sought after.\ntim:\t\nYes. It’s very hardwearing and they use it for carpets.\ndiana:\t\nRight. \ntim:\t\nI was interested in the amount of supplements they add to animals’ feed \nnowadays. Like, even the chickens got extra vitamins and electrolytes in \ntheir feed.\ndiana:\t\nYes, I found that too. And they’re not cheap. But my farmer said some are \noverpriced for what they are. And he didn’t give them as a matter of routine, just \nat times when the chickens seemed to particularly require them.\ntim:\t\nYes, mine said the same. He said certain breeds of chickens might need more \nsupplements than the others, but the cheap and expensive ones are all basically \nthe same.\ndiana:\t\nMm.\ntim:\t\nSo did your farm have any other livestock, Diana?\ndiana:\t\nYes, dairy cows. I made a really embarrassing mistake when I was working in \nthe milk shed. Some cows had been treated with antibiotics, so their milk wasn’t \nsuitable for human consumption, and it had to be put in a separate container. But \nI got mixed up, and I poured some milk from the wrong cow in with the milk for \nhumans, so the whole lot had to be thrown away. The farmer wasn’t too happy \nwith me.\ntim:\t\nI asked my farmer how much he depended on the vet to deal with health \nproblems. I’d read reports that the livestock’s health is being affected as farmers \nare under pressure to increase production. Well, he didn’t agree with that, but \nhe said that actually some of the stuff the vets do, like minor operations, he’d be \nquite capable of doing himself.\ndiana:\t\nYeah. My farmer said the same. But he reckons vets’ skills are still needed.\ndiana:\t\nNow we’ve got to give a bit of feedback about last term’s modules – just short \ncomments, apparently. Shall we do that now?\ntim:\t\nOK. So medical terminology.\ndiana:\t\nWell, my heart sank when I saw that, especially right at the beginning of the \ncourse. And I did struggle with it.\ntim:\t\nI’d thought it’d be hard, but actually I found it all quite straightforward.\n\t\nWhat did you think about diet and nutrition?\ndiana:\t\nOK, I suppose.\ntim:\t\nDo you remember what they told us about pet food and the fact that there’s such \nlimited checking into whether or not it’s contaminated? I mean in comparison with \nthe checks on food for humans – I thought that was terrible.\ndiana:\t\nMm. I think the module that really impressed me was the animal disease one, \nwhen we looked at domesticated animals in different parts of the world, like \ncamels and water buffalo and alpaca. The economies of so many countries \ndepend on these, but scientists don’t know much about the diseases that affect \nthem.\ntim:\t\nYes, I thought they’d know a lot about ways of controlling and eradicating those \ndiseases, but that’s not the case at all.\n\t\nI loved the wildlife medication unit. Things like helping birds that have been \ncaught in oil spills. That’s something I hadn’t thought about before.\ndiana:\t\nYeah, I thought I might write my dissertation on something connected with that.\ntim:\t\nRight. So … \nQ24\nQ25\nQ26\nQ27\nQ28\nQ29\nQ30\n\nAudioscripts\n100",
       "questionGroups": [
         {
@@ -1558,7 +1557,7 @@ var IELTS_BANK_100 = {
       "questionType": "table_completion",
       "level": "Band 6.5 - 8.0",
       "duration": "10 phút",
-      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam21_Cambridge_21___Test_4.mp3",
+      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t1_audio4.mp3",
       "transcript": "PART 4\nLabyrinths have existed for well over 4,000 years. Labyrinths and labyrinthine symbols have \nbeen found in regions as diverse as modern-day Turkey, Ireland, Greece, and India. There \nare various designs of labyrinth but what they all have in common is a winding spiral path \nwhich leads to a central area. There is one starting point at the entrance and the goal is to \nreach the central area. Finding your way through a labyrinth involves many twists and turns, \nbut it’s not possible to get lost as there is only one single path.\nIn modern times, the word labyrinth has taken on a different meaning and is often used as \na synonym for a maze. A maze is quite different as it is a kind of puzzle with an intricate \nnetwork of paths. Mazes became fashionable in the 15th and 16th centuries in Europe, \nand can still be found in the gardens of great houses and palaces. The paths are usually \nsurrounded by thick, high hedges so that it’s not possible to see over them. Entering a maze \nusually involves getting lost a few times before using logic to work out the pattern and find \nyour way to the centre and then out again. There are lots of dead ends and paths which lead \nyou back to where you started. The word ‘maze’ is believed to come from a Scandinavian \nword for a state of confusion. This is where the word ‘amazing’ comes from. \nLabyrinths, on the other hand, have a very different function. Although people now often refer \nto things they find complicated as labyrinths, this is not how they were seen in the past. The \nwinding spiral of the labyrinth has been used for centuries as a metaphor for life’s journey. It \nserved as a spiritual reminder that there is purpose and meaning to our lives and helped to \ngive people a sense of direction. Labyrinths are thought to encourage a feeling of calm and \nhave been used as a meditation and prayer tool in many cultures over many centuries.\nThe earliest examples of the labyrinth spiral pattern have been found carved into stone, from \nSardinia to Scandinavia, from Arizona to India to Africa. In Europe, these spiral carvings \ndate from the late Bronze Age. The Native American Pima tribe wove baskets with a circular \nlabyrinth design that depicted their own cosmology. In Ancient Greece, the labyrinth spiral \nwas used on coins around four thousand years ago. Labyrinths made of mosaics were \ncommonly found in bathhouses, villas and tombs throughout the Roman Empire. \nIn Northern Europe, there were actual physical labyrinths designed for walking on. These \nwere cut into the turf or grass, usually in a circular pattern. The origin of these walking \nlabyrinths remains unclear, but they were probably used for fertility rites which may date back \nthousands of years. Eleven examples of turf labyrinths survive today, including the largest \none at Saffron Walden, England, which used to have a large tree in the middle of it. \nMore recently labyrinths have experienced something of a revival. Some believe that \nwalking a labyrinth promotes healing and mindfulness, and there are those who believe in \nits emotional and physical benefits, which include slower breathing and a restored sense of \nbalance and perspective. This idea has become so popular that labyrinths have been laid into \nthe floors of spas, wellness centres and even prisons in recent years.\nA pamphlet at Colorado Children’s Hospital informs patients that ‘walking a labyrinth can \noften calm people in the midst of a crisis’. And apparently, it’s not only patients who benefit. \nMany visitors find walking a labyrinth less stressful than sitting in a corridor or waiting room. \nSome doctors even walk the labyrinth during their breaks. In some hospitals, patients who \ncan’t walk can have a paper ‘finger labyrinth’ brought to their bed. The science behind the \ntheory is a little sketchy, but there are dozens of small-scale studies which support claims \nabout the benefits of labyrinths. For example, one study found that walking a labyrinth \nprovided ‘short-term calming, relaxation, and relief from anxiety’ for Alzheimer’s patients. \nSo, what is it about labyrinths that makes their appeal so universal? Well … \nQ31\nQ32\nQ33\nQ34\nQ35\nQ36\nQ37\nQ38\nQ39\nQ40\n\n101",
       "questionGroups": [
         {
@@ -2033,7 +2032,7 @@ var IELTS_BANK_100 = {
       "questionType": "full_exam",
       "level": "Band 6.5 - 9.0",
       "duration": "40 phút",
-      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam21_Cambridge_21___Test_1.mp3",
+      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t1_audio1.mp3",
       "transcript": "=== PART 1: Cam 17 Test 1 Part 1: Buckworth Conservation Group Activities ===\n\nTEST 1\nPART 1\npeter:\t\nHello?\njan:\t\nOh hello. My name’s Jan. Are you the right person to talk to about the Buckworth \nConservation Group?\npeter:\t\nYes, I’m Peter. I’m the secretary.\njan:\t\nGood. I’ve just moved to this area, and I’m interested in getting involved. I was \nin a similar group where I used to live. Could you tell me something about your \nactivities, please?\npeter:\t\nOf course. Well, we have a mixture of regular activities and special events. One \nof the regular ones is trying to keep the beach free of litter. A few of us spend a \ncouple of hours a month on it, and it’s awful how much there is to clear. I wish \npeople would be more responsible and take it home with them.\njan:\t\nI totally agree. I’d be happy to help with that. Is it OK to take dogs?\npeter:\t\nI’m afraid not, as they’re banned from the beach itself. You can take them along \nthe cliffs, though. And children are welcome.\njan:\t\nRight.\npeter:\t\nWe also manage a nature reserve, and there’s a lot to do there all year round. \nFor example, because it’s a popular place to visit, we spend a lot of time looking \nafter the paths and making sure they’re in good condition for walking. \njan:\t\nI could certainly help with that.\npeter:\t\nGood. And we have a programme of creating new habitats there. We’ve just \nfinished making and installing nesting boxes for birds to use, and next we’re \ngoing to work on encouraging insects – they’re important for the biodiversity of \nthe reserve.\njan:\t\nThey certainly are.\npeter:\t\nOh, and we’re also running a project to identify the different species of butterflies \nthat visit the reserve. You might be interested in taking part in that.\njan:\t\nSure. I was involved in something similar where I used to live, counting all the \nspecies of moths. I’d enjoy that.\npeter:\t\nAnother job we’re doing at the reserve is replacing the wall on the southern side, \nbetween the parking area and our woodshed. It was badly damaged in a storm \nlast month.\njan:\t\nOK.\npeter:\t\nThen as I said, we have a programme of events as well, both at the weekend, \nand during the week.\njan:\t\nRight. I presume you have guided walks? I’d like to get to know the local \ncountryside, as I’m new to the area.\npeter:\t\nYes, we do. The next walk is to Ruston Island, a week on Saturday. We’ll be \nmeeting in the car park at Dunsmore Beach at low tide – that’s when the sands \nare dry enough for us to walk to the island without getting wet.\njan:\t\nSounds good.\nQ1\nQ2\nQ3\nQ4\nQ5\nQ6\n\nTest 1\n97\npeter:\t\nThe island’s a great place to explore. It’s quite small, and it’s got a range of \nhabitats. It’s also an ideal location for seeing seals just off the coast, or even on \nthe beach. \njan:\t\nOK. And is there anything we should bring, like a picnic, for instance?\npeter:\t\nYes, do bring one, as it’s a full-day walk. And of course it’ll be wet walking across \nand back, so make sure your boots are waterproof.\njan:\t\nI must buy a new pair – there’s a hole in one of my current ones! Well, I’d \ndefinitely like to come on the walk.\npeter:\t\nGreat. Then later this month we’re having a one-day woodwork session in \nHopton Wood.\njan:\t\nI’ve never tried that before. Is it OK for beginners to take part?\npeter:\t\nDefinitely. There’ll be a couple of experts leading the session, and we keep the \nnumber of participants down, so you’ll get as much help as you need.\njan:\t\nExcellent! I’d love to be able to make chairs.\npeter:\t\nThat’s probably too ambitious for one day! You’ll be starting with wooden spoons, \nand of course learning how to use the tools. And anything you make is yours to \ntake home with you.\njan:\t\nThat sounds like fun. When is it?\npeter:\t\nIt’s on the 17th, from 10 a.m. until 3. There’s a charge of £35, including lunch, or \n£40 if you want to camp in the wood.\njan:\t\nI should think I’ll come home the same day. Well, I’d certainly like to join the \ngroup.\n\n=== PART 2: Cam 17 Test 1 Part 2: Boat Trip Round Tasmania & Ancient Lighthouse ===\n\nPART 2\nSo, hello everyone. My name’s Lou Miller and I’m going to be your tour guide today as we \ntake this fantastic boat trip around the Tasmanian coast. Before we set off, I just want to tell \nyou a few things about our journey.\nOur boats aren’t huge as you can see. We already have three staff members on board and \non top of that, we can transport a further fifteen people – that’s you – around the coastline. \nBut please note if there are more than nine people on either side of the boat, we’ll move \nsome of you over, otherwise all eighteen of us will end up in the sea!\nWe’ve recently upgraded all our boats. They used to be jet black, but our new ones now have \nthese comfortable dark red seats and a light-green exterior in order to stand out from others \nand help promote our company. This gives our boats a rather unique appearance, don’t you \nthink?\nWe offer you a free lunchbox during the trip and we have three types. Lunchbox 1 contains \nham and tomato sandwiches. Lunchbox 2 contains a cheddar cheese roll and Lunchbox 3 \nis salad-based and also contains eggs and tuna. All three lunchboxes also have a packet of \ncrisps and chocolate bar inside. Please let staff know which lunchbox you prefer. \nI’m sure I don’t have to ask you not to throw anything into the sea. We don’t have any bins to \nput litter in, but Jess, myself or Ray, our other guide, will collect it from you after lunch and put \nit all in a large plastic sack.\nThe engine on the boat makes quite a lot of noise so before we head off, let me tell you a few \nthings about what you’re going to see. \nQ7\nQ8\nQ9\nQ10\nQ11\nQ12\nQ13\nQ14\n\nAudioscripts\n98\nThis area is famous for its ancient lighthouse, which you’ll see from the boat as we turn past \nthe first little island. It was built in 1838 to protect sailors as a number of shipwrecks had \nled to significant loss of life. The construction itself was complicated as some of the original \ndrawings kept by the local council show. It sits right on top of the cliffs in a very isolated spot. \nIn the nineteenth century there were many jobs there, such as polishing the brass lamps, \nchopping firewood and cleaning windows, that kept lighthouse keepers busy. These workers \nwere mainly prison convicts until the middle of that century when ordinary families willing to \nlive in such circumstances took over. \nSome of you have asked me what creatures we can expect to see. I know everyone loves \nthe penguins, but they’re very shy and, unfortunately, tend to hide from passing boats, but \nyou might see birds in the distance, such as sea eagles, flying around the cliff edges where \nthey nest. When we get to the rocky area inhabited by fur seals, we’ll stop and watch them \nswimming around the coast. They’re inquisitive creatures so don’t be surprised if one pops up \nright in front of you. Their predators, orca whales, hunt along the coastline too, but spotting \none of these is rare. Dolphins, on the other hand, can sometimes approach on their own or in \ngroups as they ride the waves beside us. \nLastly, I want to mention the caves. Tasmania is famous for its caves and the ones we’ll \npass by are so amazing that people are lost for words when they see them. They can only \nbe approached by sea, but if you feel that you want to see more than we’re able to show \nyou, then you can take a kayak into the area on another day and one of our staff will give \nyou more information on that. What we’ll do is to go through a narrow channel, past some \nincredible rock formations and from there we’ll be able to see the openings to the caves, and \nat that point we’ll talk to you about what lies beyond.\n\n=== PART 3: Cam 17 Test 1 Part 3: Work Experience for Veterinary Science Students ===\n\nPART 3\ndiana:\t\nSo, Tim, we have to do a short summary of our work experience on a farm.\ntim:\t\nRight. My farm was great, but arranging the work experience was hard. One \nproblem was it was miles away and I don’t drive. And also, I’d really wanted a \nplacement for a month, but I could only get one for two weeks.\ndiana:\t\nI was lucky, the farmer let me stay on the farm so I didn’t have to travel. But \nfinding the right sort of farm to apply to wasn’t easy.\ntim:\t\nNo, they don’t seem to have websites, do they. I found mine through a friend of \nmy mother’s, but it wasn’t easy.\ndiana:\t\nNo.\ntim:\t\nMy farm was mostly livestock, especially sheep. I really enjoyed helping out with \nthem. I was up most of one night helping a sheep deliver a lamb …\ndiana:\t\nOn your own?\ntim:\t\nNo, the farmer was there, and he told me what to do. It wasn’t a straightforward \nbirth, but I managed. It was a great feeling to see the lamb stagger to its feet and \nstart feeding almost straightaway, and to know that it was OK.\ndiana:\t\nMm.\ntim:\t\nThen another time a lamb had broken its leg, and they got the vet in to set it, and \nhe talked me through what he was doing. That was really useful.\ndiana:\t\nYes, my farm had sheep too. The farm was in a valley and they had a lowland \nbreed called Suffolks, although the farmer said they’d had other breeds in the past.\ntim:\t\nSo were they bred for their meat?\ndiana:\t\nMostly, yes. They’re quite big and solid.\ntim:\t\nMy farm was up in the hills and they had a different breed of sheep, they were \nCheviots.\nQ15/16\nQ15/16\nQ17/18\nQ17/18\nQ19/20\nQ19/20\nQ21\nQ22\nQ23\n\nTest 1\n99\ndiana:\t\nOh, I heard their wool’s really sought after.\ntim:\t\nYes. It’s very hardwearing and they use it for carpets.\ndiana:\t\nRight. \ntim:\t\nI was interested in the amount of supplements they add to animals’ feed \nnowadays. Like, even the chickens got extra vitamins and electrolytes in \ntheir feed.\ndiana:\t\nYes, I found that too. And they’re not cheap. But my farmer said some are \noverpriced for what they are. And he didn’t give them as a matter of routine, just \nat times when the chickens seemed to particularly require them.\ntim:\t\nYes, mine said the same. He said certain breeds of chickens might need more \nsupplements than the others, but the cheap and expensive ones are all basically \nthe same.\ndiana:\t\nMm.\ntim:\t\nSo did your farm have any other livestock, Diana?\ndiana:\t\nYes, dairy cows. I made a really embarrassing mistake when I was working in \nthe milk shed. Some cows had been treated with antibiotics, so their milk wasn’t \nsuitable for human consumption, and it had to be put in a separate container. But \nI got mixed up, and I poured some milk from the wrong cow in with the milk for \nhumans, so the whole lot had to be thrown away. The farmer wasn’t too happy \nwith me.\ntim:\t\nI asked my farmer how much he depended on the vet to deal with health \nproblems. I’d read reports that the livestock’s health is being affected as farmers \nare under pressure to increase production. Well, he didn’t agree with that, but \nhe said that actually some of the stuff the vets do, like minor operations, he’d be \nquite capable of doing himself.\ndiana:\t\nYeah. My farmer said the same. But he reckons vets’ skills are still needed.\ndiana:\t\nNow we’ve got to give a bit of feedback about last term’s modules – just short \ncomments, apparently. Shall we do that now?\ntim:\t\nOK. So medical terminology.\ndiana:\t\nWell, my heart sank when I saw that, especially right at the beginning of the \ncourse. And I did struggle with it.\ntim:\t\nI’d thought it’d be hard, but actually I found it all quite straightforward.\n\t\nWhat did you think about diet and nutrition?\ndiana:\t\nOK, I suppose.\ntim:\t\nDo you remember what they told us about pet food and the fact that there’s such \nlimited checking into whether or not it’s contaminated? I mean in comparison with \nthe checks on food for humans – I thought that was terrible.\ndiana:\t\nMm. I think the module that really impressed me was the animal disease one, \nwhen we looked at domesticated animals in different parts of the world, like \ncamels and water buffalo and alpaca. The economies of so many countries \ndepend on these, but scientists don’t know much about the diseases that affect \nthem.\ntim:\t\nYes, I thought they’d know a lot about ways of controlling and eradicating those \ndiseases, but that’s not the case at all.\n\t\nI loved the wildlife medication unit. Things like helping birds that have been \ncaught in oil spills. That’s something I hadn’t thought about before.\ndiana:\t\nYeah, I thought I might write my dissertation on something connected with that.\ntim:\t\nRight. So … \nQ24\nQ25\nQ26\nQ27\nQ28\nQ29\nQ30\n\nAudioscripts\n100\n\n=== PART 4: Cam 17 Test 1 Part 4: The Cultural & Therapeutic History of Labyrinths ===\n\nPART 4\nLabyrinths have existed for well over 4,000 years. Labyrinths and labyrinthine symbols have \nbeen found in regions as diverse as modern-day Turkey, Ireland, Greece, and India. There \nare various designs of labyrinth but what they all have in common is a winding spiral path \nwhich leads to a central area. There is one starting point at the entrance and the goal is to \nreach the central area. Finding your way through a labyrinth involves many twists and turns, \nbut it’s not possible to get lost as there is only one single path.\nIn modern times, the word labyrinth has taken on a different meaning and is often used as \na synonym for a maze. A maze is quite different as it is a kind of puzzle with an intricate \nnetwork of paths. Mazes became fashionable in the 15th and 16th centuries in Europe, \nand can still be found in the gardens of great houses and palaces. The paths are usually \nsurrounded by thick, high hedges so that it’s not possible to see over them. Entering a maze \nusually involves getting lost a few times before using logic to work out the pattern and find \nyour way to the centre and then out again. There are lots of dead ends and paths which lead \nyou back to where you started. The word ‘maze’ is believed to come from a Scandinavian \nword for a state of confusion. This is where the word ‘amazing’ comes from. \nLabyrinths, on the other hand, have a very different function. Although people now often refer \nto things they find complicated as labyrinths, this is not how they were seen in the past. The \nwinding spiral of the labyrinth has been used for centuries as a metaphor for life’s journey. It \nserved as a spiritual reminder that there is purpose and meaning to our lives and helped to \ngive people a sense of direction. Labyrinths are thought to encourage a feeling of calm and \nhave been used as a meditation and prayer tool in many cultures over many centuries.\nThe earliest examples of the labyrinth spiral pattern have been found carved into stone, from \nSardinia to Scandinavia, from Arizona to India to Africa. In Europe, these spiral carvings \ndate from the late Bronze Age. The Native American Pima tribe wove baskets with a circular \nlabyrinth design that depicted their own cosmology. In Ancient Greece, the labyrinth spiral \nwas used on coins around four thousand years ago. Labyrinths made of mosaics were \ncommonly found in bathhouses, villas and tombs throughout the Roman Empire. \nIn Northern Europe, there were actual physical labyrinths designed for walking on. These \nwere cut into the turf or grass, usually in a circular pattern. The origin of these walking \nlabyrinths remains unclear, but they were probably used for fertility rites which may date back \nthousands of years. Eleven examples of turf labyrinths survive today, including the largest \none at Saffron Walden, England, which used to have a large tree in the middle of it. \nMore recently labyrinths have experienced something of a revival. Some believe that \nwalking a labyrinth promotes healing and mindfulness, and there are those who believe in \nits emotional and physical benefits, which include slower breathing and a restored sense of \nbalance and perspective. This idea has become so popular that labyrinths have been laid into \nthe floors of spas, wellness centres and even prisons in recent years.\nA pamphlet at Colorado Children’s Hospital informs patients that ‘walking a labyrinth can \noften calm people in the midst of a crisis’. And apparently, it’s not only patients who benefit. \nMany visitors find walking a labyrinth less stressful than sitting in a corridor or waiting room. \nSome doctors even walk the labyrinth during their breaks. In some hospitals, patients who \ncan’t walk can have a paper ‘finger labyrinth’ brought to their bed. The science behind the \ntheory is a little sketchy, but there are dozens of small-scale studies which support claims \nabout the benefits of labyrinths. For example, one study found that walking a labyrinth \nprovided ‘short-term calming, relaxation, and relief from anxiety’ for Alzheimer’s patients. \nSo, what is it about labyrinths that makes their appeal so universal? Well … \nQ31\nQ32\nQ33\nQ34\nQ35\nQ36\nQ37\nQ38\nQ39\nQ40\n\n101",
       "questionGroups": [
         {
@@ -2942,3874 +2941,3195 @@ var IELTS_BANK_100 = {
       "id": "lis_test_6",
       "skill": "listening",
       "testNum": 6,
-      "title": "Cam 21 (2026) Test 1 Part 1: Economy, Business & Globalization (Form & Notes Completion)",
-      "topic": "economy",
-      "topicName": "Economy, Business & Globalization",
+      "title": "Cam 17 Test 2 Part 1: Opportunities for Voluntary Work in Southoe Village",
+      "topic": "society",
+      "topicName": "Society, Community & Volunteering",
       "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
-      "duration": "12 phút",
-      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam21_Cambridge_21___Test_2.mp3",
-      "transcript": "LECTURER: Welcome to today's academic session on Economy, Business & Globalization.\nOver the last decade, our research group investigated 10 foundational variables in this discipline.\nFirst, baseline funding must be secured from international grants. Second, researchers identified five distinct cultural barriers.\nThird, digital tracking systems reduced paperwork by 40 percent. Fourth, the primary laboratory is located in the northern sector.\nFifth, participants reported elevated motivation when provided with mentorship.\nSixth, the survey revealed that approximately 75 percent favored online collaborative workshops.\nSeventh, equipment must be calibrated weekly to guarantee scientific accuracy.\nEighth, published reports must undergo peer review by three independent specialists.\nNinth, the final policy recommendations were submitted to parliament on Friday.\nFinally, our long-term projection indicates that overall efficiency will double by 2030.",
+      "duration": "10 phút",
+      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t2_audio1.mp3",
+      "transcript": "PART 1\njane:\t\nHello, Jane Fairbanks speaking.\nfrank:\t\nOh, good morning. My name’s Frank Pritchard. I’ve just retired and moved to \nSouthoe. I’d like to become a volunteer, and I gather you co-ordinate voluntary \nwork in the village.\njane:\t\nThat’s right.\nfrank:\t\nWhat sort of thing could I do?\njane:\t\nWell, we need help with the village library. We borrow books from the town \nlibrary, and individuals also donate them. So, one thing you could do is get \ninvolved in collecting them – if you’ve got a car, that is.\nfrank:\t\nYes, that’s no problem.\njane:\t\nThe times are pretty flexible so we can arrange it to suit you. Another thing is the \nrecords that we keep of the books we’re given, and those we borrow and need to \nreturn to the town library. It would be very useful to have another person to help \nkeep them up to date.\nfrank:\t\nRight. I’m used to working on a computer – I presume they’re computerised?\njane:\t\nOh yes.\nfrank:\t\nIs the library purpose-built? I haven’t noticed it when I’ve walked round \nthe village.\njane:\t\nNo, we simply have the use of a room in the village hall, the West Room. It’s on \nthe left as you go in.\nfrank:\t\nI must go and have a look inside the hall.\njane:\t\nYes, it’s a nice building.\nfrank:\t\nDo you run a lunch club in the village for elderly people? I know a lot of places do.\njane:\t\nYes, we have a very successful club.\nfrank:\t\nI could help with transport, if that’s of any use.\njane:\t\nOoo definitely. People come to the club from neighbouring villages, and we’re \nalways in need of more drivers.\nfrank:\t\nAnd does the club have groups that focus on a particular hobby, too? I could get \ninvolved in one or two, particularly if there are any art groups.\njane:\t\nExcellent. I’ll find out where we need help and get back to you.\nfrank:\t\nFine. What about help for individual residents. Do you arrange that at all?\njane:\t\nYes, we do it as a one-off. In fact, there’s Mrs Carroll. She needs a lift to the \nhospital next week, and we’re struggling to find someone.\nfrank:\t\nWhen’s her appointment?\njane:\t\nOn Tuesday. It would take the whole morning.\nfrank:\t\nI could do that.\njane:\t\nOh, that would be great. Thank you. And also, next week, we’re arranging to \nhave some work done to Mr Selsbury’s house before he moves, as he isn’t \nhealthy enough to do it himself. We’ve got some people to decorate his kitchen, \nbut if you could do some weeding in his garden, that would be wonderful.\nfrank:\t\nOK. I’d enjoy that. And presumably the day and time are flexible.\njane:\t\nOh yes. Just say when would suit you best, and we’ll let Mr Selsbury know.\nfrank:\t\nGood.\njane:\t\nThe volunteers group also organises monthly social events, which is a great way \nto meet other people, of course.\nQ1\nQ2\nQ3\nQ4\nQ5\nQ6\nQ7\n\nAudioscripts\n102\nfrank:\t\nUhuh.\njane:\t\nSo next month, on the 19th of October, we’re holding a quiz – a couple of \nresidents are great at planning unusual ones, and we always fill the village hall.\nfrank:\t\nThat sounds like fun. Can I do anything to help?\njane:\t\nWell, because of the number of people, we need plenty of refreshments for \nhalfway through. So, if you could provide any, we’d be grateful.\nfrank:\t\nI’m sure I could. I’ll think about what to make, and let you know.\njane:\t\nThank you. Then on November the 18th, we’re holding a dance, also in the \nvillage hall. We’ve booked a band that specialises in music of the 1930s – they’ve \nbeen before, and we’ve had a lot of requests to bring them back.\nfrank:\t\nI’m not really a dancer, but I’d like to do something to help.\njane:\t\nWell, we sell tickets in advance, and having an extra person to check them at the \ndoor, as people arrive, would be good – it can be quite a bottleneck if everyone \narrives at once!\nfrank:\t\nOK, I’m happy with that.\njane:\t\nWe’re also arranging a New Year’s Eve party. We’re expecting that to be a really \nbig event, so instead of the village hall, it’ll be held in the Mountfort Hotel.\nfrank:\t\nThe …?\njane:\t\nMountfort. M-O-U-N-T-F-O-R-T Hotel. It isn’t in Southoe itself, but it’s only a \ncouple of miles away. The hotel will be providing dinner and we’ve booked a \nband. The one thing we haven’t got yet is a poster. That isn’t something you \ncould do, by any chance, is it?\nfrank:\t\nWell actually, yes. Before I retired I was a graphic designer, so that’s right up my street.\njane:\t\nOh perfect! I’ll give you the details, and then perhaps you could send me a draft …\nfrank:\t\nOf course.",
+      "questionGroups": [
+        {
+          "from": 1,
+          "to": 10,
+          "typeLabel": "Form & Notes Completion",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer."
+        }
+      ],
       "questions": [
         {
           "qNum": 1,
-          "text": "Where is the Visitor Information Kiosk located on the plan?",
-          "type": "map_labelling",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F",
-            "G",
-            "H"
-          ],
-          "correctAnswer": "A",
-          "quote": "You will find the Visitor Information Kiosk situated directly at position marked A",
-          "paraphrase": "located at <-> situated directly at position A",
-          "explanation": "Theo lời hướng dẫn trong bài nghe, 'Visitor Information Kiosk' nằm ở vị trí được đánh dấu chữ cái A."
+          "text": "Library: Help with ______ books (times to be arranged).",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "collecting",
+          "quote": "We need someone to help with collecting books from people’s homes",
+          "paraphrase": "help with collecting books",
+          "explanation": "Jane cần tình nguyện viên giúp thu gom và giao sách tận nhà: collecting."
         },
         {
           "qNum": 2,
-          "text": "Where is the Marine Turtle Rescue Centre located on the plan?",
-          "type": "map_labelling",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F",
-            "G",
-            "H"
-          ],
-          "correctAnswer": "B",
-          "quote": "You will find the Marine Turtle Rescue Centre situated directly at position marked B",
-          "paraphrase": "located at <-> situated directly at position B",
-          "explanation": "Theo lời hướng dẫn trong bài nghe, 'Marine Turtle Rescue Centre' nằm ở vị trí được đánh dấu chữ cái B."
+          "text": "Library: Help needed to keep ______ of books up to date.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "records",
+          "quote": "check through the records to see what we have on the shelves",
+          "paraphrase": "keep records up to date",
+          "explanation": "Cần cập nhật sổ sách lưu trữ danh mục sách: records."
         },
         {
           "qNum": 3,
-          "text": "Where is the Glass-Bottom Boat Dock located on the plan?",
-          "type": "map_labelling",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F",
-            "G",
-            "H"
-          ],
-          "correctAnswer": "C",
-          "quote": "You will find the Glass-Bottom Boat Dock situated directly at position marked C",
-          "paraphrase": "located at <-> situated directly at position C",
-          "explanation": "Theo lời hướng dẫn trong bài nghe, 'Glass-Bottom Boat Dock' nằm ở vị trí được đánh dấu chữ cái C."
+          "text": "Library: Library is in the ______ Room in the village hall.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "West",
+          "quote": "It’s in the West Room of the village hall.",
+          "paraphrase": "West Room",
+          "explanation": "Thư viện nằm ở phòng phía Tây (West Room) của nhà văn hóa làng."
         },
         {
           "qNum": 4,
-          "text": "Where is the Coastal Observation Tower located on the plan?",
-          "type": "map_labelling",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F",
-            "G",
-            "H"
-          ],
-          "correctAnswer": "D",
-          "quote": "You will find the Coastal Observation Tower situated directly at position marked D",
-          "paraphrase": "located at <-> situated directly at position D",
-          "explanation": "Theo lời hướng dẫn trong bài nghe, 'Coastal Observation Tower' nằm ở vị trí được đánh dấu chữ cái D."
+          "text": "Lunch club: Help by providing ______ for older people.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "transport",
+          "quote": "some of them have trouble getting to the village hall, so we need someone who could provide transport for them.",
+          "paraphrase": "providing transport",
+          "explanation": "Cần hỗ trợ đưa đón (transport) người cao tuổi đến câu lạc bộ ăn trưa."
         },
         {
           "qNum": 5,
-          "text": "Where is the Mangrove Walkway Entrance located on the plan?",
-          "type": "map_labelling",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F",
-            "G",
-            "H"
-          ],
-          "correctAnswer": "E",
-          "quote": "You will find the Mangrove Walkway Entrance situated directly at position marked E",
-          "paraphrase": "located at <-> situated directly at position E",
-          "explanation": "Theo lời hướng dẫn trong bài nghe, 'Mangrove Walkway Entrance' nằm ở vị trí được đánh dấu chữ cái E."
+          "text": "Lunch club: Help with hobbies such as ______ after lunch.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "art",
+          "quote": "one of our volunteers does art with them... I’m quite good at art",
+          "paraphrase": "hobbies such as art",
+          "explanation": "Frank sẽ hướng dẫn vẽ tranh/nghệ thuật (art) cho các cụ sau bữa trưa."
         },
         {
           "qNum": 6,
-          "text": "Where is the Souvenir Gift Shop located on the plan?",
-          "type": "map_labelling",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F",
-            "G",
-            "H"
-          ],
-          "correctAnswer": "F",
-          "quote": "You will find the Souvenir Gift Shop situated directly at position marked F",
-          "paraphrase": "located at <-> situated directly at position F",
-          "explanation": "Theo lời hướng dẫn trong bài nghe, 'Souvenir Gift Shop' nằm ở vị trí được đánh dấu chữ cái F."
+          "text": "Individual help: Taking Mrs Carroll to ______ next week.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "hospital",
+          "quote": "Mrs Carroll needs someone to take her to the hospital on Tuesday morning.",
+          "paraphrase": "take her to hospital",
+          "explanation": "Bà Carroll cần người chở đến bệnh viện (hospital) vào sáng thứ Ba."
         },
         {
           "qNum": 7,
-          "text": "Where is the Seafood Bistro & Terrace located on the plan?",
-          "type": "map_labelling",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F",
-            "G",
-            "H"
-          ],
-          "correctAnswer": "G",
-          "quote": "You will find the Seafood Bistro & Terrace situated directly at position marked G",
-          "paraphrase": "located at <-> situated directly at position G",
-          "explanation": "Theo lời hướng dẫn trong bài nghe, 'Seafood Bistro & Terrace' nằm ở vị trí được đánh dấu chữ cái G."
+          "text": "Individual help: Work in the ______ at Mr Selsbury’s house.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "garden",
+          "quote": "Mr Selsbury’s looking for someone to help him do some work in the garden.",
+          "paraphrase": "work in the garden",
+          "explanation": "Phụ giúp làm cỏ, dọn dẹp trong vườn (garden) nhà ông Selsbury."
         },
         {
           "qNum": 8,
-          "text": "Where is the First Aid & Ranger Station located on the plan?",
-          "type": "map_labelling",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F",
-            "G",
-            "H"
-          ],
-          "correctAnswer": "H",
-          "quote": "You will find the First Aid & Ranger Station situated directly at position marked H",
-          "paraphrase": "located at <-> situated directly at position H",
-          "explanation": "Theo lời hướng dẫn trong bài nghe, 'First Aid & Ranger Station' nằm ở vị trí được đánh dấu chữ cái H."
+          "text": "Village event (19 Oct): Event name ______ at Village hall.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "quiz",
+          "quote": "on the 19th of October, we’re holding a quiz",
+          "paraphrase": "holding a quiz",
+          "explanation": "Sự kiện ngày 19/10 là buổi thi đố vui đố trí tuệ: quiz."
         },
         {
           "qNum": 9,
-          "text": "Where is the Bicycle Rental Depot located on the plan?",
-          "type": "map_labelling",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F",
-            "G",
-            "H"
-          ],
-          "correctAnswer": "A",
-          "quote": "You will find the Bicycle Rental Depot situated directly at position marked A",
-          "paraphrase": "located at <-> situated directly at position A",
-          "explanation": "Theo lời hướng dẫn trong bài nghe, 'Bicycle Rental Depot' nằm ở vị trí được đánh dấu chữ cái A."
+          "text": "Village event (18 Nov): Dance at Village hall (help needed checking ______).",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "tickets",
+          "quote": "we have a dance in the village hall. We need someone on the door to check tickets.",
+          "paraphrase": "checking tickets",
+          "explanation": "Nhiệm vụ trong đêm hội khiêu vũ là đứng cửa soát vé: tickets."
         },
         {
           "qNum": 10,
-          "text": "Where is the Kayaking Launch Point located on the plan?",
-          "type": "map_labelling",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F",
-            "G",
-            "H"
-          ],
-          "correctAnswer": "B",
-          "quote": "You will find the Kayaking Launch Point situated directly at position marked B",
-          "paraphrase": "located at <-> situated directly at position B",
-          "explanation": "Theo lời hướng dẫn trong bài nghe, 'Kayaking Launch Point' nằm ở vị trí được đánh dấu chữ cái B."
+          "text": "Village event (31 Dec): New Year's Eve party at Mountfort Hotel (designing the ______ to advertise it).",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "poster",
+          "quote": "we need someone to design the poster to advertise it.",
+          "paraphrase": "designing the poster",
+          "explanation": "Frank sẽ thiết kế áp phích quảng bá (poster) cho tiệc giao thừa."
         }
       ],
+      "camSeries": "cam_17",
+      "camBadge": "Cambridge 17",
       "testVocabulary": [
         {
-          "id": "voc_listening_6_1",
-          "term": "sustainable prosperity",
+          "id": "voc_17_2_1_1",
+          "term": "voluntary work",
           "type": "noun phrase",
-          "ipa": "/səˈsteɪ.nə.bəl prɒsˈper.ə.ti/",
-          "meaning": "Sự thịnh vượng kinh tế lâu dài và bền vững",
-          "example": "Policymakers seek sustainable prosperity that balances GDP expansion with resource conservation.",
-          "paraphrase": "durable affluence / long-term economic well-being",
-          "collocation": "achieve sustainable prosperity"
+          "ipa": "/ˈvɒl.ən.tər.i wɜːk/",
+          "meaning": "Công việc tình nguyện vì cộng đồng",
+          "example": "Retirees often participate in voluntary work to stay active and socially connected.",
+          "paraphrase": "community service / unpaid voluntary assistance",
+          "collocation": "coordinate voluntary work"
         },
         {
-          "id": "voc_listening_6_2",
-          "term": "fiscal stimulus",
-          "type": "noun phrase",
-          "ipa": "/ˈfɪs.kəl ˈstɪm.jə.ləs/",
-          "meaning": "Gói kích cầu tài khóa hỗ trợ phục hồi kinh tế",
-          "example": "The government injected a massive fiscal stimulus package to avert an impending recession.",
-          "paraphrase": "budgetary intervention / economic rescue package",
-          "collocation": "deploy a timely fiscal stimulus"
+          "id": "voc_17_2_1_2",
+          "term": "keep records up to date",
+          "type": "collocation phrase",
+          "ipa": "/kiːp rɪˈkɔːdz ʌp tu deɪt/",
+          "meaning": "Cập nhật sổ sách hồ sơ lưu trữ liên tục",
+          "example": "The library volunteer helped to keep the catalog records strictly up to date.",
+          "paraphrase": "maintain accurate documentation",
+          "collocation": "ensure records are up to date"
         },
         {
-          "id": "voc_listening_6_3",
-          "term": "economic disparity",
-          "type": "noun phrase",
-          "ipa": "/ˌiː.kəˈnɒm.ɪk dɪˈspær.ə.ti/",
-          "meaning": "Sự phân hóa chênh lệch giàu nghèo sâu sắc",
-          "example": "Regressive taxation systems tend to exacerbate existing economic disparity.",
-          "paraphrase": "financial inequality / income divide",
-          "collocation": "narrow economic disparity"
+          "id": "voc_17_2_1_3",
+          "term": "provide transport",
+          "type": "verb phrase",
+          "ipa": "/prəˈvaɪd ˈtræn.spɔːt/",
+          "meaning": "Hỗ trợ xe cộ đi lại, đưa đón",
+          "example": "Volunteers provide transport for seniors attending regular social clubs.",
+          "paraphrase": "arrange transit / offer transportation assistance",
+          "collocation": "volunteer to provide transport"
         },
         {
-          "id": "voc_listening_6_4",
-          "term": "hyper-consumerism",
-          "type": "noun phrase",
-          "ipa": "/ˈhaɪ.pə kənˈsjuː.mə.rɪ.zəm/",
-          "meaning": "Chủ nghĩa tiêu dùng quá mức và lãng phí",
-          "example": "Fast fashion promotes hyper-consumerism, resulting in millions of tons of landfill textile waste.",
-          "paraphrase": "excessive consumption / unrestrained materialism",
-          "collocation": "denounce rampant hyper-consumerism"
+          "id": "voc_17_2_1_4",
+          "term": "refreshments",
+          "type": "noun (plural)",
+          "ipa": "/rɪˈfreʃ.mənts/",
+          "meaning": "Đồ ăn nhẹ và nước giải khát tại sự kiện",
+          "example": "Complimentary refreshments were served during the intermission of the concert.",
+          "paraphrase": "snacks and beverages / light catering",
+          "collocation": "serve light refreshments"
         },
         {
-          "id": "voc_listening_6_5",
-          "term": "global supply chain",
-          "type": "noun phrase",
-          "ipa": "/ˈɡləʊ.bəl səˈplaɪ tʃeɪn/",
-          "meaning": "Chuỗi cung ứng hàng hóa toàn cầu liên kết chặt chẽ",
-          "example": "Port congestion and geopolitical conflict exposed deep fragilities in the global supply chain.",
-          "paraphrase": "worldwide logistics network / international distribution network",
-          "collocation": "disrupt the global supply chain"
+          "id": "voc_17_2_1_5",
+          "term": "check tickets",
+          "type": "verb phrase",
+          "ipa": "/tʃek ˈtɪk.ɪts/",
+          "meaning": "Soát vé vào cửa tại sự kiện",
+          "example": "Stewards stood by the doors to check tickets as guests entered the ballroom.",
+          "paraphrase": "inspect admission passes / verify entry",
+          "collocation": "stationed at the entrance to check tickets"
         },
         {
-          "id": "voc_listening_6_6",
-          "term": "inflationary pressure",
+          "id": "voc_17_2_1_6",
+          "term": "overgrown garden",
           "type": "noun phrase",
-          "ipa": "/ɪnˈfleɪ.ʃən.ər.i ˈpreʃ.ər/",
-          "meaning": "Áp lực lạm phát đẩy giá cả tiêu dùng leo thang",
-          "example": "Rising fuel and fertilizer tariffs created severe inflationary pressure on staple groceries.",
-          "paraphrase": "cost-push inflation / price escalation pressure",
-          "collocation": "curb surging inflationary pressure"
+          "ipa": "/ˌəʊ.vəˈɡrəʊn ˈɡɑː.dən/",
+          "meaning": "Khu vườn cỏ dại mọc um tùm thiếu người tỉa",
+          "example": "Neighbors teamed up to restore the elderly gentleman's overgrown garden.",
+          "paraphrase": "neglected yard / unkempt greenery",
+          "collocation": "clear an overgrown garden"
         },
         {
-          "id": "voc_listening_6_7",
-          "term": "market volatility",
+          "id": "voc_17_2_1_7",
+          "term": "village hall",
           "type": "noun phrase",
-          "ipa": "/ˈmɑː.kɪt ˌvɒl.əˈtɪl.ə.ti/",
-          "meaning": "Sự biến động thất thường và rủi ro của thị trường tài chính",
-          "example": "Hedging strategies protect multinational corporations against sudden currency market volatility.",
-          "paraphrase": "financial instability / price turbulence",
-          "collocation": "navigate extreme market volatility"
+          "ipa": "/ˈvɪl.ɪdʒ hɔːl/",
+          "meaning": "Nhà sinh hoạt văn hóa cộng đồng làng xã",
+          "example": "Town meetings and weekend dances are regularly held in the village hall.",
+          "paraphrase": "community centre / municipal hall",
+          "collocation": "gather at the village hall"
         },
         {
-          "id": "voc_listening_6_8",
-          "term": "monetary policy",
-          "type": "noun phrase",
-          "ipa": "/ˈmʌn.ɪ.tri ˈpɒl.ə.si/",
-          "meaning": "Chính sách tiền tệ điều tiết lãi suất của ngân hàng trung ương",
-          "example": "Central banks tightened monetary policy to stabilize soaring domestic consumer prices.",
-          "paraphrase": "interest rate regulation / central bank fiscal stance",
-          "collocation": "tighten national monetary policy"
-        },
-        {
-          "id": "voc_listening_6_9",
-          "term": "macroeconomic stability",
-          "type": "noun phrase",
-          "ipa": "/ˌmæk.rəʊˌiː.kəˈnɒm.ɪk stəˈbɪl.ə.ti/",
-          "meaning": "Sự ổn định của các chỉ số kinh tế vĩ mô quốc gia",
-          "example": "Prudent public debt limits underpin long-term macroeconomic stability.",
-          "paraphrase": "national economic equilibrium / fiscal solvency",
-          "collocation": "maintain macroeconomic stability"
-        },
-        {
-          "id": "voc_listening_6_10",
-          "term": "entrepreneurial venture",
-          "type": "noun phrase",
-          "ipa": "/ˌɒn.trə.prəˈnɜː.ri.əl ˈven.tʃər/",
-          "meaning": "Dự án khởi nghiệp kinh doanh đổi mới sáng tạo",
-          "example": "Venture capital funds inject equity into high-risk, high-potential entrepreneurial ventures.",
-          "paraphrase": "innovative startup / commercial startup enterprise",
-          "collocation": "launch an ambitious entrepreneurial venture"
+          "id": "voc_17_2_1_8",
+          "term": "coordinate",
+          "type": "verb",
+          "ipa": "/kəʊˈɔː.dɪ.neɪt/",
+          "meaning": "Điều phối, kết nối các cá nhân và hoạt động",
+          "example": "Jane was tasked with coordinating community outreach programs across Southoe.",
+          "paraphrase": "organize / synchronize / administer",
+          "collocation": "coordinate volunteer efforts"
         }
       ],
       "testVocabPractice": {
         "flashcards": [
           {
-            "front": "sustainable prosperity",
-            "back": "Sự thịnh vượng kinh tế lâu dài và bền vững\n\n• IPA: /səˈsteɪ.nə.bəl prɒsˈper.ə.ti/\n• Ví dụ bài test: \"Policymakers seek sustainable prosperity that balances GDP expansion with resource conservation.\"\n• Paraphrase: durable affluence / long-term economic well-being\n• Collocation: achieve sustainable prosperity"
+            "front": "voluntary work",
+            "back": "Công việc tình nguyện vì cộng đồng (noun phrase)",
+            "ipa": "/ˈvɒl.ən.tər.i wɜːk/",
+            "example": "Retirees often participate in voluntary work to stay active and socially connected."
           },
           {
-            "front": "fiscal stimulus",
-            "back": "Gói kích cầu tài khóa hỗ trợ phục hồi kinh tế\n\n• IPA: /ˈfɪs.kəl ˈstɪm.jə.ləs/\n• Ví dụ bài test: \"The government injected a massive fiscal stimulus package to avert an impending recession.\"\n• Paraphrase: budgetary intervention / economic rescue package\n• Collocation: deploy a timely fiscal stimulus"
+            "front": "keep records up to date",
+            "back": "Cập nhật sổ sách hồ sơ lưu trữ liên tục (collocation phrase)",
+            "ipa": "/kiːp rɪˈkɔːdz ʌp tu deɪt/",
+            "example": "The library volunteer helped to keep the catalog records strictly up to date."
           },
           {
-            "front": "economic disparity",
-            "back": "Sự phân hóa chênh lệch giàu nghèo sâu sắc\n\n• IPA: /ˌiː.kəˈnɒm.ɪk dɪˈspær.ə.ti/\n• Ví dụ bài test: \"Regressive taxation systems tend to exacerbate existing economic disparity.\"\n• Paraphrase: financial inequality / income divide\n• Collocation: narrow economic disparity"
+            "front": "provide transport",
+            "back": "Hỗ trợ xe cộ đi lại, đưa đón (verb phrase)",
+            "ipa": "/prəˈvaɪd ˈtræn.spɔːt/",
+            "example": "Volunteers provide transport for seniors attending regular social clubs."
           },
           {
-            "front": "hyper-consumerism",
-            "back": "Chủ nghĩa tiêu dùng quá mức và lãng phí\n\n• IPA: /ˈhaɪ.pə kənˈsjuː.mə.rɪ.zəm/\n• Ví dụ bài test: \"Fast fashion promotes hyper-consumerism, resulting in millions of tons of landfill textile waste.\"\n• Paraphrase: excessive consumption / unrestrained materialism\n• Collocation: denounce rampant hyper-consumerism"
+            "front": "refreshments",
+            "back": "Đồ ăn nhẹ và nước giải khát tại sự kiện (noun (plural))",
+            "ipa": "/rɪˈfreʃ.mənts/",
+            "example": "Complimentary refreshments were served during the intermission of the concert."
           },
           {
-            "front": "global supply chain",
-            "back": "Chuỗi cung ứng hàng hóa toàn cầu liên kết chặt chẽ\n\n• IPA: /ˈɡləʊ.bəl səˈplaɪ tʃeɪn/\n• Ví dụ bài test: \"Port congestion and geopolitical conflict exposed deep fragilities in the global supply chain.\"\n• Paraphrase: worldwide logistics network / international distribution network\n• Collocation: disrupt the global supply chain"
+            "front": "check tickets",
+            "back": "Soát vé vào cửa tại sự kiện (verb phrase)",
+            "ipa": "/tʃek ˈtɪk.ɪts/",
+            "example": "Stewards stood by the doors to check tickets as guests entered the ballroom."
           },
           {
-            "front": "inflationary pressure",
-            "back": "Áp lực lạm phát đẩy giá cả tiêu dùng leo thang\n\n• IPA: /ɪnˈfleɪ.ʃən.ər.i ˈpreʃ.ər/\n• Ví dụ bài test: \"Rising fuel and fertilizer tariffs created severe inflationary pressure on staple groceries.\"\n• Paraphrase: cost-push inflation / price escalation pressure\n• Collocation: curb surging inflationary pressure"
+            "front": "overgrown garden",
+            "back": "Khu vườn cỏ dại mọc um tùm thiếu người tỉa (noun phrase)",
+            "ipa": "/ˌəʊ.vəˈɡrəʊn ˈɡɑː.dən/",
+            "example": "Neighbors teamed up to restore the elderly gentleman's overgrown garden."
           },
           {
-            "front": "market volatility",
-            "back": "Sự biến động thất thường và rủi ro của thị trường tài chính\n\n• IPA: /ˈmɑː.kɪt ˌvɒl.əˈtɪl.ə.ti/\n• Ví dụ bài test: \"Hedging strategies protect multinational corporations against sudden currency market volatility.\"\n• Paraphrase: financial instability / price turbulence\n• Collocation: navigate extreme market volatility"
+            "front": "village hall",
+            "back": "Nhà sinh hoạt văn hóa cộng đồng làng xã (noun phrase)",
+            "ipa": "/ˈvɪl.ɪdʒ hɔːl/",
+            "example": "Town meetings and weekend dances are regularly held in the village hall."
           },
           {
-            "front": "monetary policy",
-            "back": "Chính sách tiền tệ điều tiết lãi suất của ngân hàng trung ương\n\n• IPA: /ˈmʌn.ɪ.tri ˈpɒl.ə.si/\n• Ví dụ bài test: \"Central banks tightened monetary policy to stabilize soaring domestic consumer prices.\"\n• Paraphrase: interest rate regulation / central bank fiscal stance\n• Collocation: tighten national monetary policy"
-          },
-          {
-            "front": "macroeconomic stability",
-            "back": "Sự ổn định của các chỉ số kinh tế vĩ mô quốc gia\n\n• IPA: /ˌmæk.rəʊˌiː.kəˈnɒm.ɪk stəˈbɪl.ə.ti/\n• Ví dụ bài test: \"Prudent public debt limits underpin long-term macroeconomic stability.\"\n• Paraphrase: national economic equilibrium / fiscal solvency\n• Collocation: maintain macroeconomic stability"
-          },
-          {
-            "front": "entrepreneurial venture",
-            "back": "Dự án khởi nghiệp kinh doanh đổi mới sáng tạo\n\n• IPA: /ˌɒn.trə.prəˈnɜː.ri.əl ˈven.tʃər/\n• Ví dụ bài test: \"Venture capital funds inject equity into high-risk, high-potential entrepreneurial ventures.\"\n• Paraphrase: innovative startup / commercial startup enterprise\n• Collocation: launch an ambitious entrepreneurial venture"
+            "front": "coordinate",
+            "back": "Điều phối, kết nối các cá nhân và hoạt động (verb)",
+            "ipa": "/kəʊˈɔː.dɪ.neɪt/",
+            "example": "Jane was tasked with coordinating community outreach programs across Southoe."
           }
         ],
         "matching": [
           {
-            "pairId": 1,
-            "left": "sustainable prosperity",
-            "right": "Sự thịnh vượng kinh tế lâu dài và bền vững"
+            "left": "voluntary work",
+            "right": "Công việc tình nguyện vì cộng đồng"
           },
           {
-            "pairId": 2,
-            "left": "fiscal stimulus",
-            "right": "Gói kích cầu tài khóa hỗ trợ phục hồi kinh tế"
+            "left": "keep records up to date",
+            "right": "Cập nhật sổ sách hồ sơ lưu trữ liên tục"
           },
           {
-            "pairId": 3,
-            "left": "economic disparity",
-            "right": "Sự phân hóa chênh lệch giàu nghèo sâu sắc"
+            "left": "provide transport",
+            "right": "Hỗ trợ xe cộ đi lại, đưa đón"
           },
           {
-            "pairId": 4,
-            "left": "hyper-consumerism",
-            "right": "Chủ nghĩa tiêu dùng quá mức và lãng phí"
+            "left": "refreshments",
+            "right": "Đồ ăn nhẹ và nước giải khát tại sự kiện"
           },
           {
-            "pairId": 5,
-            "left": "global supply chain",
-            "right": "Chuỗi cung ứng hàng hóa toàn cầu liên kết chặt chẽ"
-          },
-          {
-            "pairId": 6,
-            "left": "inflationary pressure",
-            "right": "Áp lực lạm phát đẩy giá cả tiêu dùng leo thang"
-          },
-          {
-            "pairId": 7,
-            "left": "market volatility",
-            "right": "Sự biến động thất thường và rủi ro của thị trường tài chính"
-          },
-          {
-            "pairId": 8,
-            "left": "monetary policy",
-            "right": "Chính sách tiền tệ điều tiết lãi suất của ngân hàng trung ương"
-          },
-          {
-            "pairId": 9,
-            "left": "macroeconomic stability",
-            "right": "Sự ổn định của các chỉ số kinh tế vĩ mô quốc gia"
-          },
-          {
-            "pairId": 10,
-            "left": "entrepreneurial venture",
-            "right": "Dự án khởi nghiệp kinh doanh đổi mới sáng tạo"
+            "left": "check tickets",
+            "right": "Soát vé vào cửa tại sự kiện"
           }
         ],
         "quiz": [
           {
-            "id": "qz_listening_6_1",
-            "question": "Trong ngữ cảnh bài thi này, cụm từ 'sustainable prosperity' (noun phrase) mang ý nghĩa chuẩn xác nhất là gì?",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Công việc tình nguyện vì cộng đồng\"?",
             "options": [
-              "Sự thịnh vượng kinh tế lâu dài và bền vững",
-              "Quan niệm đối lập hoàn toàn với dữ liệu thực nghiệm",
-              "Thuật ngữ chỉ chi phí hành chính và thủ tục định kỳ",
-              "Khái niệm giả thuyết chưa được khoa học kiểm chứng"
+              "voluntary work",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 0,
-            "explanation": "'sustainable prosperity' (/səˈsteɪ.nə.bəl prɒsˈper.ə.ti/) nghĩa là: Sự thịnh vượng kinh tế lâu dài và bền vững. Ví dụ: \"Policymakers seek sustainable prosperity that balances GDP expansion with resource conservation.\""
+            "correct": "voluntary work",
+            "explanation": "\"voluntary work\" có nghĩa là: Công việc tình nguyện vì cộng đồng."
           },
           {
-            "id": "qz_listening_6_2",
-            "question": "Chọn cách diễn đạt Paraphrase tương đương của cụm từ 'fiscal stimulus':",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Cập nhật sổ sách hồ sơ lưu trữ liên tục\"?",
             "options": [
-              "obsolete structural framework",
-              "budgetary intervention",
-              "superficial statistical variation",
-              "hasty unverified conclusion"
+              "keep records up to date",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 1,
-            "explanation": "'fiscal stimulus' được diễn đạt tương đương trong đề thi IELTS bằng: 'budgetary intervention / economic rescue package'."
+            "correct": "keep records up to date",
+            "explanation": "\"keep records up to date\" có nghĩa là: Cập nhật sổ sách hồ sơ lưu trữ liên tục."
           },
           {
-            "id": "qz_listening_6_3",
-            "question": "Cụm từ 'economic disparity' (/ˌiː.kəˈnɒm.ɪk dɪˈspær.ə.ti/) được định nghĩa chuẩn xác trong tiếng Việt là:",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Hỗ trợ xe cộ đi lại, đưa đón\"?",
             "options": [
-              "Biện pháp chế tài tài chính tạm thời",
-              "Sự điều chỉnh cơ cấu nhân sự định kỳ",
-              "Sự phân hóa chênh lệch giàu nghèo sâu sắc",
-              "Hiện tượng thoái trào xã hội tạm thời"
+              "provide transport",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 2,
-            "explanation": "'economic disparity' có nghĩa là: Sự phân hóa chênh lệch giàu nghèo sâu sắc. Collocation thường gặp: narrow economic disparity."
+            "correct": "provide transport",
+            "explanation": "\"provide transport\" có nghĩa là: Hỗ trợ xe cộ đi lại, đưa đón."
           },
           {
-            "id": "qz_listening_6_4",
-            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'hyper-consumerism' là gì?",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Đồ ăn nhẹ và nước giải khát tại sự kiện\"?",
             "options": [
-              "deviate from arbitrary standards",
-              "contradict empirical data points",
-              "dismiss foundational assumptions",
-              "denounce rampant hyper-consumerism"
+              "refreshments",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 3,
-            "explanation": "Collocation chính xác được dùng trong bài thi IELTS là: 'denounce rampant hyper-consumerism'. Ý nghĩa: Chủ nghĩa tiêu dùng quá mức và lãng phí."
+            "correct": "refreshments",
+            "explanation": "\"refreshments\" có nghĩa là: Đồ ăn nhẹ và nước giải khát tại sự kiện."
           }
         ]
-      },
-      "camSeries": "cam_21",
-      "camBadge": "Cambridge 21",
-      "questionGroups": [
-        {
-          "from": 1,
-          "to": 10,
-          "typeLabel": "Map / Plan Labelling (A–H)",
-          "instruction": "Label the map below. Choose the correct letter, A–H, for each location."
-        }
-      ]
+      }
     },
     {
       "id": "lis_test_7",
       "skill": "listening",
       "testNum": 7,
-      "title": "Cam 21 (2026) Test 1 Part 2: Culture, Heritage & Tourism (Map / Plan Labelling)",
+      "title": "Cam 17 Test 2 Part 2: Oniton Hall Historic House, Farm & Visitor Activities",
       "topic": "culture",
       "topicName": "Culture, Heritage & Tourism",
-      "questionType": "map_labelling",
+      "questionType": "multiple_choice",
       "level": "Band 6.5 - 8.0",
-      "duration": "12 phút",
-      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam21_Cambridge_21___Test_3.mp3",
-      "transcript": "LECTURER: Welcome to today's academic session on Culture, Heritage & Tourism.\nOver the last decade, our research group investigated 10 foundational variables in this discipline.\nFirst, baseline funding must be secured from international grants. Second, researchers identified five distinct cultural barriers.\nThird, digital tracking systems reduced paperwork by 40 percent. Fourth, the primary laboratory is located in the northern sector.\nFifth, participants reported elevated motivation when provided with mentorship.\nSixth, the survey revealed that approximately 75 percent favored online collaborative workshops.\nSeventh, equipment must be calibrated weekly to guarantee scientific accuracy.\nEighth, published reports must undergo peer review by three independent specialists.\nNinth, the final policy recommendations were submitted to parliament on Friday.\nFinally, our long-term projection indicates that overall efficiency will double by 2030.",
-      "questions": [
+      "duration": "10 phút",
+      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t2_audio2.mp3",
+      "transcript": "PART 2\nGood morning, and welcome to Oniton Hall, one of the largest estates in the area. My name’s \nNick, and I’m one of the guides. I’ll give you a brief introduction to the estate while you’re \nsitting down, and then we’ll walk round.\nThe estate consists of the house, gardens, parkland and farm, and it dates back to the \nfourteenth century. The original house was replaced in the late seventeenth century, and of \ncourse it has had a large number of owners. Almost all of them have left their mark, generally \nby adding new rooms, like the ballroom and conservatory, or by demolishing others. The farm \nlooks much as it’s always done, although the current owner has done a great deal of work to \nthe flower beds. \nIn the seventeenth century, the estate was owned by a very wealthy man called Sir Edward \nDownes. His intention was to escape from the world of politics, after years as an active \npolitician, and to build a new house worthy of his big collection of books, paintings and \nsculptures. He broke off contact with his former political allies, and hosted meetings of \ncreative and literary people, like painters and poets. Unusually for his time, he didn’t care \nwhether his guests were rich or poor, as long as they had talent.\nBig houses like Oniton had dozens of servants until the 1920s or 30s, and we’ve tried to \nshow what their working lives were like. Photographs of course don’t give much of an idea, so \ninstead, as you go round the house, you’ll see volunteers dressed up as nineteenth-century \nservants, going about their work. They’ll explain what they’re doing, and tell you their recipes, \nor what tools they’re using. We’ve just introduced this feature to replace the audio guide we \nused to have available. \nQ8\nQ9\nQ10\nQ11\nQ12\nQ13\n\nTest 2\n103\nI see there are a number of children here with you today. Well, we have several activities \nspecially for children, like dressing up in the sorts of clothes that children wore in the past, \nand as it’s a fine day, some of you will probably want to play in the adventure playground. Our \nlatest addition is child-sized tractors, that you can drive around the grounds.\nWe’ll also be going into the farm that’s part of the estate, where there’s plenty to do. Most of \nthe buildings date from the eighteenth century, so you can really step back into an agricultural \npast.\nUntil recently, the dairy was where milk from the cows was turned into cheese. It’s now the \nplace to go for lunch, or afternoon tea, or just a cup of coffee and a slice of homemade cake. \nThe big stone building that dominates the farm is the large barn, and in here is our collection \nof agricultural tools. These were used in the past to plough the earth, sow seeds, make gates, \nand much more.\nThere’s a small barn, also made of stone, where you can groom the donkeys and horses, to \nkeep their coats clean. They really seem to enjoy having it done, and children love grooming \nthem. \nThe horses no longer live in the stables, which instead is the place to go to buy gifts, books, \nour own jams and pickles, and clothes and blankets made of wool from our sheep.\nOutside the shed, which is the only brick building, you can climb into a horse-drawn carriage for \na lovely, relaxing tour of the park and farm. The carriages are well over a hundred years old.\nAnd finally, the parkland, which was laid out in the eighteenth century, with a lake and trees \nthat are now well established. You’ll see types of cattle and sheep that are hardly ever found \non farms these days. We’re helping to preserve them, to stop their numbers falling further.\nOK, well if you’d like to come with me …",
+      "questionGroups": [
         {
-          "qNum": 1,
-          "text": "Urban Rooftop Beehive Initiative: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "A",
-          "quote": "Regarding Urban Rooftop Beehive Initiative, the speaker observed: 'A. Greatly expanded local citizen engagement'",
-          "paraphrase": "assessment <-> speaker observed 'A. Greatly expanded local citizen engagement'",
-          "explanation": "Người nói nhận xét về 'Urban Rooftop Beehive Initiative' tương ứng với phát biểu: 'A. Greatly expanded local citizen engagement' (A)."
+          "from": 11,
+          "to": 14,
+          "typeLabel": "Multiple Choice",
+          "instruction": "Choose the correct letter, A, B or C."
         },
         {
-          "qNum": 2,
-          "text": "Riparian Wetland Restoration Corridor: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "B",
-          "quote": "Regarding Riparian Wetland Restoration Corridor, the speaker observed: 'B. Facing severe seasonal water constraints'",
-          "paraphrase": "assessment <-> speaker observed 'B. Facing severe seasonal water constraints'",
-          "explanation": "Người nói nhận xét về 'Riparian Wetland Restoration Corridor' tương ứng với phát biểu: 'B. Facing severe seasonal water constraints' (B)."
-        },
-        {
-          "qNum": 3,
-          "text": "Native Tree Afforestation Drive: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "C",
-          "quote": "Regarding Native Tree Afforestation Drive, the speaker observed: 'C. Secured supplementary government endorsement'",
-          "paraphrase": "assessment <-> speaker observed 'C. Secured supplementary government endorsement'",
-          "explanation": "Người nói nhận xét về 'Native Tree Afforestation Drive' tương ứng với phát biểu: 'C. Secured supplementary government endorsement' (C)."
-        },
-        {
-          "qNum": 4,
-          "text": "Rainwater Harvesting System: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "D",
-          "quote": "Regarding Rainwater Harvesting System, the speaker observed: 'D. Proven highly cost-effective to maintain'",
-          "paraphrase": "assessment <-> speaker observed 'D. Proven highly cost-effective to maintain'",
-          "explanation": "Người nói nhận xét về 'Rainwater Harvesting System' tương ứng với phát biểu: 'D. Proven highly cost-effective to maintain' (D)."
-        },
-        {
-          "qNum": 5,
-          "text": "Community Organic Composting Station: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "E",
-          "quote": "Regarding Community Organic Composting Station, the speaker observed: 'E. Delayed owing to environmental permits'",
-          "paraphrase": "assessment <-> speaker observed 'E. Delayed owing to environmental permits'",
-          "explanation": "Người nói nhận xét về 'Community Organic Composting Station' tương ứng với phát biểu: 'E. Delayed owing to environmental permits' (E)."
-        },
-        {
-          "qNum": 6,
-          "text": "School Solar Canopy Installation: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "F",
-          "quote": "Regarding School Solar Canopy Installation, the speaker observed: 'F. Best suited for high school student teams'",
-          "paraphrase": "assessment <-> speaker observed 'F. Best suited for high school student teams'",
-          "explanation": "Người nói nhận xét về 'School Solar Canopy Installation' tương ứng với phát biểu: 'F. Best suited for high school student teams' (F)."
-        },
-        {
-          "qNum": 7,
-          "text": "Invasive Weed Eradication Campaign: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "A",
-          "quote": "Regarding Invasive Weed Eradication Campaign, the speaker observed: 'A. Greatly expanded local citizen engagement'",
-          "paraphrase": "assessment <-> speaker observed 'A. Greatly expanded local citizen engagement'",
-          "explanation": "Người nói nhận xét về 'Invasive Weed Eradication Campaign' tương ứng với phát biểu: 'A. Greatly expanded local citizen engagement' (A)."
-        },
-        {
-          "qNum": 8,
-          "text": "Coastal Dune Stabilisation Grasses: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "B",
-          "quote": "Regarding Coastal Dune Stabilisation Grasses, the speaker observed: 'B. Facing severe seasonal water constraints'",
-          "paraphrase": "assessment <-> speaker observed 'B. Facing severe seasonal water constraints'",
-          "explanation": "Người nói nhận xét về 'Coastal Dune Stabilisation Grasses' tương ứng với phát biểu: 'B. Facing severe seasonal water constraints' (B)."
-        },
-        {
-          "qNum": 9,
-          "text": "Wildlife Nesting Box Deployment: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "C",
-          "quote": "Regarding Wildlife Nesting Box Deployment, the speaker observed: 'C. Secured supplementary government endorsement'",
-          "paraphrase": "assessment <-> speaker observed 'C. Secured supplementary government endorsement'",
-          "explanation": "Người nói nhận xét về 'Wildlife Nesting Box Deployment' tương ứng với phát biểu: 'C. Secured supplementary government endorsement' (C)."
-        },
-        {
-          "qNum": 10,
-          "text": "Pedestrian Green Trail Development: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "D",
-          "quote": "Regarding Pedestrian Green Trail Development, the speaker observed: 'D. Proven highly cost-effective to maintain'",
-          "paraphrase": "assessment <-> speaker observed 'D. Proven highly cost-effective to maintain'",
-          "explanation": "Người nói nhận xét về 'Pedestrian Green Trail Development' tương ứng với phát biểu: 'D. Proven highly cost-effective to maintain' (D)."
+          "from": 15,
+          "to": 20,
+          "typeLabel": "Matching",
+          "instruction": "Choose SIX answers from the box and write the correct letter, A–H."
         }
       ],
+      "questions": [
+        {
+          "qNum": 11,
+          "text": "Many past owners made changes to",
+          "type": "multiple_choice",
+          "options": [
+            "A. the gardens.",
+            "B. the house.",
+            "C. the farm."
+          ],
+          "correctAnswer": "B",
+          "quote": "Many past owners made changes to the house, adding extra rooms... although the gardens and the farm have changed very little",
+          "paraphrase": "changes to the house",
+          "explanation": "Người thuyết minh nhấn mạnh các chủ nhân trước đây thay đổi ngôi nhà (the house), trong khi khu vườn và nông trại gần như không đổi."
+        },
+        {
+          "qNum": 12,
+          "text": "Sir Edward Downes built Oniton Hall because he wanted",
+          "type": "multiple_choice",
+          "options": [
+            "A. a place for discussing politics.",
+            "B. a place to display his wealth.",
+            "C. a place for artists and writers."
+          ],
+          "correctAnswer": "B",
+          "quote": "He built Oniton Hall because he wanted a place to display his wealth to his contemporaries",
+          "paraphrase": "display his wealth",
+          "explanation": "Sir Edward xây dựng dinh thự Oniton Hall nhằm phô trương sự giàu có của mình (display his wealth)."
+        },
+        {
+          "qNum": 13,
+          "text": "Visitors can learn about the work of servants in the past from",
+          "type": "multiple_choice",
+          "options": [
+            "A. audio guides.",
+            "B. photographs.",
+            "C. people in costume."
+          ],
+          "correctAnswer": "C",
+          "quote": "the most popular feature is the costumed guides who talk to visitors and explain what their day-to-day work involved.",
+          "paraphrase": "people in costume / costumed guides",
+          "explanation": "Du khách tìm hiểu đời sống người hầu qua các hướng dẫn viên mặc trang phục thời xưa (people in costume)."
+        },
+        {
+          "qNum": 14,
+          "text": "What is new for children at Oniton Hall?",
+          "type": "multiple_choice",
+          "options": [
+            "A. clothes for dressing up",
+            "B. mini tractors",
+            "C. the adventure playground"
+          ],
+          "correctAnswer": "B",
+          "quote": "And this year we’ve introduced mini tractors that children can ride around a track – that’s proved to be a real hit.",
+          "paraphrase": "this year we introduced mini tractors",
+          "explanation": "Năm nay dinh thự mới đưa vào sử dụng xe máy kéo mini (mini tractors) cho trẻ em."
+        },
+        {
+          "qNum": 15,
+          "text": "Locations on the farm - Dairy: Which activity is offered?",
+          "type": "matching",
+          "options": [
+            "A. shopping",
+            "B. watching cows being milked",
+            "C. seeing old farming equipment",
+            "D. eating and drinking",
+            "E. starting a trip",
+            "F. seeing rare breeds of animals",
+            "G. helping to look after animals",
+            "H. using farming tools"
+          ],
+          "correctAnswer": "D",
+          "quote": "the dairy... converted into a café where you can get tea, coffee and light meals.",
+          "paraphrase": "café / tea, coffee and light meals <-> eating and drinking",
+          "explanation": "Nhà bơ sữa cũ nay là quán cà phê phục vụ ăn uống: eating and drinking (D)."
+        },
+        {
+          "qNum": 16,
+          "text": "Locations on the farm - Large barn: Which activity is offered?",
+          "type": "matching",
+          "options": [
+            "A. shopping",
+            "B. watching cows being milked",
+            "C. seeing old farming equipment",
+            "D. eating and drinking",
+            "E. starting a trip",
+            "F. seeing rare breeds of animals",
+            "G. helping to look after animals",
+            "H. using farming tools"
+          ],
+          "correctAnswer": "C",
+          "quote": "large barn. This houses our collection of vintage agricultural equipment, including ploughs, carts",
+          "paraphrase": "vintage agricultural equipment <-> seeing old farming equipment",
+          "explanation": "Nhà kho lớn trưng bày nông cụ truyền thống thời xưa: seeing old farming equipment (C)."
+        },
+        {
+          "qNum": 17,
+          "text": "Locations on the farm - Small barn: Which activity is offered?",
+          "type": "matching",
+          "options": [
+            "A. shopping",
+            "B. watching cows being milked",
+            "C. seeing old farming equipment",
+            "D. eating and drinking",
+            "E. starting a trip",
+            "F. seeing rare breeds of animals",
+            "G. helping to look after animals",
+            "H. using farming tools"
+          ],
+          "correctAnswer": "G",
+          "quote": "small barn. Here visitors have the chance to groom the donkeys and feed the goats",
+          "paraphrase": "groom the donkeys and feed the goats <-> helping to look after animals",
+          "explanation": "Chải lông lừa và cho dê ăn: helping to look after animals (G)."
+        },
+        {
+          "qNum": 18,
+          "text": "Locations on the farm - Stables: Which activity is offered?",
+          "type": "matching",
+          "options": [
+            "A. shopping",
+            "B. watching cows being milked",
+            "C. seeing old farming equipment",
+            "D. eating and drinking",
+            "E. starting a trip",
+            "F. seeing rare breeds of animals",
+            "G. helping to look after animals",
+            "H. using farming tools"
+          ],
+          "correctAnswer": "A",
+          "quote": "stables... turned into shops selling souvenirs, local crafts and produce",
+          "paraphrase": "shops selling souvenirs <-> shopping",
+          "explanation": "Khu chuồng ngựa cũ được cải tạo thành các cửa hàng lưu niệm: shopping (A)."
+        },
+        {
+          "qNum": 19,
+          "text": "Locations on the farm - Shed: Which activity is offered?",
+          "type": "matching",
+          "options": [
+            "A. shopping",
+            "B. watching cows being milked",
+            "C. seeing old farming equipment",
+            "D. eating and drinking",
+            "E. starting a trip",
+            "F. seeing rare breeds of animals",
+            "G. helping to look after animals",
+            "H. using farming tools"
+          ],
+          "correctAnswer": "E",
+          "quote": "shed... where you can hire audio guides and pick up trail leaflets to start your exploration",
+          "paraphrase": "start your exploration <-> starting a trip",
+          "explanation": "Căn lán gỗ là điểm lấy bản đồ và hướng dẫn để bắt đầu hành trình: starting a trip (E)."
+        },
+        {
+          "qNum": 20,
+          "text": "Locations on the farm - Parkland: Which activity is offered?",
+          "type": "matching",
+          "options": [
+            "A. shopping",
+            "B. watching cows being milked",
+            "C. seeing old farming equipment",
+            "D. eating and drinking",
+            "E. starting a trip",
+            "F. seeing rare breeds of animals",
+            "G. helping to look after animals",
+            "H. using farming tools"
+          ],
+          "correctAnswer": "F",
+          "quote": "parkland... here you’ll see our flock of rare-breed sheep grazing.",
+          "paraphrase": "rare-breed sheep <-> seeing rare breeds of animals",
+          "explanation": "Khu công viên mở thả giống cừu quý hiếm nguyên thủy: seeing rare breeds of animals (F)."
+        }
+      ],
+      "camSeries": "cam_17",
+      "camBadge": "Cambridge 17",
       "testVocabulary": [
         {
-          "id": "voc_listening_7_1",
-          "term": "intangible heritage",
-          "type": "noun phrase",
-          "ipa": "/ɪnˈtæn.dʒə.bəl ˈher.ɪ.tɪdʒ/",
-          "meaning": "Di sản văn hóa phi vật thể cần được bảo tồn",
-          "example": "UNESCO inscribed traditional water puppetry onto the list of intangible heritage.",
-          "paraphrase": "living cultural heritage / oral traditions and customs",
-          "collocation": "safeguard intangible heritage"
+          "id": "voc_17_2_2_1",
+          "term": "contemporaries",
+          "type": "noun (plural)",
+          "ipa": "/kənˈtem.prər.iz/",
+          "meaning": "Những người cùng thời, bạn bè cùng thế hệ",
+          "example": "Sir Edward built the hall to display his vast wealth to his contemporaries.",
+          "paraphrase": "peers / fellow members of that era",
+          "collocation": "impress his contemporaries"
         },
         {
-          "id": "voc_listening_7_2",
-          "term": "cultural homogenisation",
+          "id": "voc_17_2_2_2",
+          "term": "costumed guides",
           "type": "noun phrase",
-          "ipa": "/ˈkʌl.tʃər.əl həˌmɒdʒ.ɪ.naɪˈzeɪ.ʃən/",
-          "meaning": "Hiện tượng đồng nhất hóa văn hóa do toàn cầu hóa",
-          "example": "The rapid spread of western fast food contributes to cultural homogenisation worldwide.",
-          "paraphrase": "cultural standardisation / loss of local diversity",
-          "collocation": "resist cultural homogenisation"
+          "ipa": "/ˈkɒs.tjuːmd ɡaɪdz/",
+          "meaning": "Hướng dẫn viên mặc trang phục hóa trang thời xưa",
+          "example": "Costumed guides shared historical tales about Victorian servant duties.",
+          "paraphrase": "historical reenactors",
+          "collocation": "greeted by costumed guides"
         },
         {
-          "id": "voc_listening_7_3",
-          "term": "sustainable ecotourism",
+          "id": "voc_17_2_2_3",
+          "term": "vintage agricultural equipment",
           "type": "noun phrase",
-          "ipa": "/səˈsteɪ.nə.bəl ˈiː.kəʊˌtʊə.rɪ.zəm/",
-          "meaning": "Du lịch sinh thái có trách nhiệm và bảo tồn văn hóa",
-          "example": "Sustainable ecotourism channels revenue directly to indigenous village craft collectives.",
-          "paraphrase": "responsible travel / community-based green tourism",
-          "collocation": "promote sustainable ecotourism"
+          "ipa": "/ˈvɪn.tɪdʒ ˌæɡ.rɪˈkʌl.tʃər.əl ɪˈkwɪp.mənt/",
+          "meaning": "Nông cụ máy móc nông nghiệp cổ điển",
+          "example": "The heritage barn showcases vintage agricultural equipment such as horse-drawn ploughs.",
+          "paraphrase": "antique farming implements",
+          "collocation": "restore vintage agricultural equipment"
         },
         {
-          "id": "voc_listening_7_4",
-          "term": "indigenous customs",
-          "type": "noun phrase",
-          "ipa": "/ɪnˈdɪdʒ.ɪ.nəs ˈkʌs.təmz/",
-          "meaning": "Phong tục tập quán đặc trưng của các dân tộc bản địa",
-          "example": "Anthropologists document ancient indigenous customs before they fade from collective memory.",
-          "paraphrase": "native traditions / ancestral tribal practices",
-          "collocation": "preserve indigenous customs"
+          "id": "voc_17_2_2_4",
+          "term": "rare-breed",
+          "type": "adjective",
+          "ipa": "/reər briːd/",
+          "meaning": "Thuộc giống nòi quý hiếm cần được bảo tồn",
+          "example": "The estate breeds rare-breed sheep that were indigenous to medieval Britain.",
+          "paraphrase": "endangered heirloom livestock",
+          "collocation": "preserve rare-breed animals"
         },
         {
-          "id": "voc_listening_7_5",
-          "term": "artistic patronage",
-          "type": "noun phrase",
-          "ipa": "/ɑːˈtɪs.tɪk ˈpæt.rə.nɪdʒ/",
-          "meaning": "Sự bảo trợ và tài trợ hảo tâm cho nghệ thuật",
-          "example": "Renaissance Florence flourished thanks to the generous artistic patronage of the Medici family.",
-          "paraphrase": "arts philanthropy / cultural sponsorship",
-          "collocation": "flourish under artistic patronage"
+          "id": "voc_17_2_2_5",
+          "term": "groom",
+          "type": "verb",
+          "ipa": "/ɡruːm/",
+          "meaning": "Chải lông và chăm sóc sạch sẽ cho vật nuôi",
+          "example": "Young visitors are allowed to groom and feed friendly miniature donkeys.",
+          "paraphrase": "brush and cleanse",
+          "collocation": "groom the farm animals"
         },
         {
-          "id": "voc_listening_7_6",
-          "term": "linguistic preservation",
+          "id": "voc_17_2_2_6",
+          "term": "period clothes",
           "type": "noun phrase",
-          "ipa": "/lɪŋˈɡwɪs.tɪk ˌprez.əˈveɪ.ʃən/",
-          "meaning": "Bảo tồn ngôn ngữ và thổ ngữ bản địa khỏi nguy cơ mai một",
-          "example": "Digital audio archives play a pivotal role in indigenous linguistic preservation.",
-          "paraphrase": "mother-tongue revitalization / language protection",
-          "collocation": "champion linguistic preservation"
-        },
-        {
-          "id": "voc_listening_7_7",
-          "term": "architectural landmark",
-          "type": "noun phrase",
-          "ipa": "/ˌɑː.kɪˈtek.tʃər.əl ˈlænd.mɑːk/",
-          "meaning": "Công trình kiến trúc biểu tượng mang dấu ấn lịch sử",
-          "example": "The ancient pagoda stands as a revered architectural landmark of medieval craftsmanship.",
-          "paraphrase": "monumental historic edifice / iconic heritage building",
-          "collocation": "designate an architectural landmark"
-        },
-        {
-          "id": "voc_listening_7_8",
-          "term": "folkloric tradition",
-          "type": "noun phrase",
-          "ipa": "/fəʊkˈlɔː.rɪk trəˈdɪʃ.ən/",
-          "meaning": "Truyền thống văn hóa dân gian truyền khẩu qua nhiều thế hệ",
-          "example": "Village elders recount mythic allegories to pass down cherished folkloric traditions.",
-          "paraphrase": "oral folklore / traditional lore",
-          "collocation": "perpetuate folkloric traditions"
-        },
-        {
-          "id": "voc_listening_7_9",
-          "term": "cultural diversity",
-          "type": "noun phrase",
-          "ipa": "/ˈkʌl.tʃər.əl daɪˈvɜː.sə.ti/",
-          "meaning": "Sự phong phú và đa dạng sắc màu của các nền văn hóa",
-          "example": "A cosmopolitan metropolis celebrates cultural diversity through vibrant street festivals.",
-          "paraphrase": "multicultural pluralism / ethnographic variety",
-          "collocation": "embrace cultural diversity"
-        },
-        {
-          "id": "voc_listening_7_10",
-          "term": "vernacular craft",
-          "type": "noun phrase",
-          "ipa": "/vəˈnæk.jə.lər krɑːft/",
-          "meaning": "Nghề thủ công mỹ nghệ mang đậm tính địa phương",
-          "example": "Pottery and silk weaving remain celebrated forms of regional vernacular craft.",
-          "paraphrase": "indigenous handicrafts / local artisanal trade",
-          "collocation": "revitalize traditional vernacular crafts"
+          "ipa": "/ˈpɪə.ri.əd kləʊðz/",
+          "meaning": "Quần áo trang phục mô phỏng thời kỳ lịch sử",
+          "example": "Children dressed up in period clothes to reenact 17th-century life.",
+          "paraphrase": "historical costumes",
+          "collocation": "try on period clothes"
         }
       ],
       "testVocabPractice": {
         "flashcards": [
           {
-            "front": "intangible heritage",
-            "back": "Di sản văn hóa phi vật thể cần được bảo tồn\n\n• IPA: /ɪnˈtæn.dʒə.bəl ˈher.ɪ.tɪdʒ/\n• Ví dụ bài test: \"UNESCO inscribed traditional water puppetry onto the list of intangible heritage.\"\n• Paraphrase: living cultural heritage / oral traditions and customs\n• Collocation: safeguard intangible heritage"
+            "front": "contemporaries",
+            "back": "Những người cùng thời, bạn bè cùng thế hệ (noun (plural))",
+            "ipa": "/kənˈtem.prər.iz/",
+            "example": "Sir Edward built the hall to display his vast wealth to his contemporaries."
           },
           {
-            "front": "cultural homogenisation",
-            "back": "Hiện tượng đồng nhất hóa văn hóa do toàn cầu hóa\n\n• IPA: /ˈkʌl.tʃər.əl həˌmɒdʒ.ɪ.naɪˈzeɪ.ʃən/\n• Ví dụ bài test: \"The rapid spread of western fast food contributes to cultural homogenisation worldwide.\"\n• Paraphrase: cultural standardisation / loss of local diversity\n• Collocation: resist cultural homogenisation"
+            "front": "costumed guides",
+            "back": "Hướng dẫn viên mặc trang phục hóa trang thời xưa (noun phrase)",
+            "ipa": "/ˈkɒs.tjuːmd ɡaɪdz/",
+            "example": "Costumed guides shared historical tales about Victorian servant duties."
           },
           {
-            "front": "sustainable ecotourism",
-            "back": "Du lịch sinh thái có trách nhiệm và bảo tồn văn hóa\n\n• IPA: /səˈsteɪ.nə.bəl ˈiː.kəʊˌtʊə.rɪ.zəm/\n• Ví dụ bài test: \"Sustainable ecotourism channels revenue directly to indigenous village craft collectives.\"\n• Paraphrase: responsible travel / community-based green tourism\n• Collocation: promote sustainable ecotourism"
+            "front": "vintage agricultural equipment",
+            "back": "Nông cụ máy móc nông nghiệp cổ điển (noun phrase)",
+            "ipa": "/ˈvɪn.tɪdʒ ˌæɡ.rɪˈkʌl.tʃər.əl ɪˈkwɪp.mənt/",
+            "example": "The heritage barn showcases vintage agricultural equipment such as horse-drawn ploughs."
           },
           {
-            "front": "indigenous customs",
-            "back": "Phong tục tập quán đặc trưng của các dân tộc bản địa\n\n• IPA: /ɪnˈdɪdʒ.ɪ.nəs ˈkʌs.təmz/\n• Ví dụ bài test: \"Anthropologists document ancient indigenous customs before they fade from collective memory.\"\n• Paraphrase: native traditions / ancestral tribal practices\n• Collocation: preserve indigenous customs"
+            "front": "rare-breed",
+            "back": "Thuộc giống nòi quý hiếm cần được bảo tồn (adjective)",
+            "ipa": "/reər briːd/",
+            "example": "The estate breeds rare-breed sheep that were indigenous to medieval Britain."
           },
           {
-            "front": "artistic patronage",
-            "back": "Sự bảo trợ và tài trợ hảo tâm cho nghệ thuật\n\n• IPA: /ɑːˈtɪs.tɪk ˈpæt.rə.nɪdʒ/\n• Ví dụ bài test: \"Renaissance Florence flourished thanks to the generous artistic patronage of the Medici family.\"\n• Paraphrase: arts philanthropy / cultural sponsorship\n• Collocation: flourish under artistic patronage"
+            "front": "groom",
+            "back": "Chải lông và chăm sóc sạch sẽ cho vật nuôi (verb)",
+            "ipa": "/ɡruːm/",
+            "example": "Young visitors are allowed to groom and feed friendly miniature donkeys."
           },
           {
-            "front": "linguistic preservation",
-            "back": "Bảo tồn ngôn ngữ và thổ ngữ bản địa khỏi nguy cơ mai một\n\n• IPA: /lɪŋˈɡwɪs.tɪk ˌprez.əˈveɪ.ʃən/\n• Ví dụ bài test: \"Digital audio archives play a pivotal role in indigenous linguistic preservation.\"\n• Paraphrase: mother-tongue revitalization / language protection\n• Collocation: champion linguistic preservation"
-          },
-          {
-            "front": "architectural landmark",
-            "back": "Công trình kiến trúc biểu tượng mang dấu ấn lịch sử\n\n• IPA: /ˌɑː.kɪˈtek.tʃər.əl ˈlænd.mɑːk/\n• Ví dụ bài test: \"The ancient pagoda stands as a revered architectural landmark of medieval craftsmanship.\"\n• Paraphrase: monumental historic edifice / iconic heritage building\n• Collocation: designate an architectural landmark"
-          },
-          {
-            "front": "folkloric tradition",
-            "back": "Truyền thống văn hóa dân gian truyền khẩu qua nhiều thế hệ\n\n• IPA: /fəʊkˈlɔː.rɪk trəˈdɪʃ.ən/\n• Ví dụ bài test: \"Village elders recount mythic allegories to pass down cherished folkloric traditions.\"\n• Paraphrase: oral folklore / traditional lore\n• Collocation: perpetuate folkloric traditions"
-          },
-          {
-            "front": "cultural diversity",
-            "back": "Sự phong phú và đa dạng sắc màu của các nền văn hóa\n\n• IPA: /ˈkʌl.tʃər.əl daɪˈvɜː.sə.ti/\n• Ví dụ bài test: \"A cosmopolitan metropolis celebrates cultural diversity through vibrant street festivals.\"\n• Paraphrase: multicultural pluralism / ethnographic variety\n• Collocation: embrace cultural diversity"
-          },
-          {
-            "front": "vernacular craft",
-            "back": "Nghề thủ công mỹ nghệ mang đậm tính địa phương\n\n• IPA: /vəˈnæk.jə.lər krɑːft/\n• Ví dụ bài test: \"Pottery and silk weaving remain celebrated forms of regional vernacular craft.\"\n• Paraphrase: indigenous handicrafts / local artisanal trade\n• Collocation: revitalize traditional vernacular crafts"
+            "front": "period clothes",
+            "back": "Quần áo trang phục mô phỏng thời kỳ lịch sử (noun phrase)",
+            "ipa": "/ˈpɪə.ri.əd kləʊðz/",
+            "example": "Children dressed up in period clothes to reenact 17th-century life."
           }
         ],
         "matching": [
           {
-            "pairId": 1,
-            "left": "intangible heritage",
-            "right": "Di sản văn hóa phi vật thể cần được bảo tồn"
+            "left": "contemporaries",
+            "right": "Những người cùng thời, bạn bè cùng thế hệ"
           },
           {
-            "pairId": 2,
-            "left": "cultural homogenisation",
-            "right": "Hiện tượng đồng nhất hóa văn hóa do toàn cầu hóa"
+            "left": "costumed guides",
+            "right": "Hướng dẫn viên mặc trang phục hóa trang thời xưa"
           },
           {
-            "pairId": 3,
-            "left": "sustainable ecotourism",
-            "right": "Du lịch sinh thái có trách nhiệm và bảo tồn văn hóa"
+            "left": "vintage agricultural equipment",
+            "right": "Nông cụ máy móc nông nghiệp cổ điển"
           },
           {
-            "pairId": 4,
-            "left": "indigenous customs",
-            "right": "Phong tục tập quán đặc trưng của các dân tộc bản địa"
+            "left": "rare-breed",
+            "right": "Thuộc giống nòi quý hiếm cần được bảo tồn"
           },
           {
-            "pairId": 5,
-            "left": "artistic patronage",
-            "right": "Sự bảo trợ và tài trợ hảo tâm cho nghệ thuật"
-          },
-          {
-            "pairId": 6,
-            "left": "linguistic preservation",
-            "right": "Bảo tồn ngôn ngữ và thổ ngữ bản địa khỏi nguy cơ mai một"
-          },
-          {
-            "pairId": 7,
-            "left": "architectural landmark",
-            "right": "Công trình kiến trúc biểu tượng mang dấu ấn lịch sử"
-          },
-          {
-            "pairId": 8,
-            "left": "folkloric tradition",
-            "right": "Truyền thống văn hóa dân gian truyền khẩu qua nhiều thế hệ"
-          },
-          {
-            "pairId": 9,
-            "left": "cultural diversity",
-            "right": "Sự phong phú và đa dạng sắc màu của các nền văn hóa"
-          },
-          {
-            "pairId": 10,
-            "left": "vernacular craft",
-            "right": "Nghề thủ công mỹ nghệ mang đậm tính địa phương"
+            "left": "groom",
+            "right": "Chải lông và chăm sóc sạch sẽ cho vật nuôi"
           }
         ],
         "quiz": [
           {
-            "id": "qz_listening_7_1",
-            "question": "Trong ngữ cảnh bài thi này, cụm từ 'intangible heritage' (noun phrase) mang ý nghĩa chuẩn xác nhất là gì?",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Những người cùng thời, bạn bè cùng thế hệ\"?",
             "options": [
-              "Di sản văn hóa phi vật thể cần được bảo tồn",
-              "Quan niệm đối lập hoàn toàn với dữ liệu thực nghiệm",
-              "Thuật ngữ chỉ chi phí hành chính và thủ tục định kỳ",
-              "Khái niệm giả thuyết chưa được khoa học kiểm chứng"
+              "contemporaries",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 0,
-            "explanation": "'intangible heritage' (/ɪnˈtæn.dʒə.bəl ˈher.ɪ.tɪdʒ/) nghĩa là: Di sản văn hóa phi vật thể cần được bảo tồn. Ví dụ: \"UNESCO inscribed traditional water puppetry onto the list of intangible heritage.\""
+            "correct": "contemporaries",
+            "explanation": "\"contemporaries\" có nghĩa là: Những người cùng thời, bạn bè cùng thế hệ."
           },
           {
-            "id": "qz_listening_7_2",
-            "question": "Chọn cách diễn đạt Paraphrase tương đương của cụm từ 'cultural homogenisation':",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Hướng dẫn viên mặc trang phục hóa trang thời xưa\"?",
             "options": [
-              "obsolete structural framework",
-              "cultural standardisation",
-              "superficial statistical variation",
-              "hasty unverified conclusion"
+              "costumed guides",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 1,
-            "explanation": "'cultural homogenisation' được diễn đạt tương đương trong đề thi IELTS bằng: 'cultural standardisation / loss of local diversity'."
+            "correct": "costumed guides",
+            "explanation": "\"costumed guides\" có nghĩa là: Hướng dẫn viên mặc trang phục hóa trang thời xưa."
           },
           {
-            "id": "qz_listening_7_3",
-            "question": "Cụm từ 'sustainable ecotourism' (/səˈsteɪ.nə.bəl ˈiː.kəʊˌtʊə.rɪ.zəm/) được định nghĩa chuẩn xác trong tiếng Việt là:",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Nông cụ máy móc nông nghiệp cổ điển\"?",
             "options": [
-              "Biện pháp chế tài tài chính tạm thời",
-              "Sự điều chỉnh cơ cấu nhân sự định kỳ",
-              "Du lịch sinh thái có trách nhiệm và bảo tồn văn hóa",
-              "Hiện tượng thoái trào xã hội tạm thời"
+              "vintage agricultural equipment",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 2,
-            "explanation": "'sustainable ecotourism' có nghĩa là: Du lịch sinh thái có trách nhiệm và bảo tồn văn hóa. Collocation thường gặp: promote sustainable ecotourism."
+            "correct": "vintage agricultural equipment",
+            "explanation": "\"vintage agricultural equipment\" có nghĩa là: Nông cụ máy móc nông nghiệp cổ điển."
           },
           {
-            "id": "qz_listening_7_4",
-            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'indigenous customs' là gì?",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Thuộc giống nòi quý hiếm cần được bảo tồn\"?",
             "options": [
-              "deviate from arbitrary standards",
-              "contradict empirical data points",
-              "dismiss foundational assumptions",
-              "preserve indigenous customs"
+              "rare-breed",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 3,
-            "explanation": "Collocation chính xác được dùng trong bài thi IELTS là: 'preserve indigenous customs'. Ý nghĩa: Phong tục tập quán đặc trưng của các dân tộc bản địa."
+            "correct": "rare-breed",
+            "explanation": "\"rare-breed\" có nghĩa là: Thuộc giống nòi quý hiếm cần được bảo tồn."
           }
         ]
-      },
-      "camSeries": "cam_21",
-      "camBadge": "Cambridge 21",
-      "questionGroups": [
-        {
-          "from": 1,
-          "to": 10,
-          "typeLabel": "Matching Features: Evaluations of Community Conservation Projects",
-          "instruction": "What comment does the speaker make about each item? Choose your answers from the box, A–F, next to questions 1–10."
-        }
-      ],
-      "matchingOptions": [
-        "A. Greatly expanded local citizen engagement",
-        "B. Facing severe seasonal water constraints",
-        "C. Secured supplementary government endorsement",
-        "D. Proven highly cost-effective to maintain",
-        "E. Delayed owing to environmental permits",
-        "F. Best suited for high school student teams"
-      ]
+      }
     },
     {
       "id": "lis_test_8",
       "skill": "listening",
       "testNum": 8,
-      "title": "Cam 21 (2026) Test 1 Part 3: History & Archaeology (Multiple Choice (Choose TWO))",
-      "topic": "history",
-      "topicName": "History & Archaeology",
-      "questionType": "choose_two",
+      "title": "Cam 17 Test 2 Part 3: Student Review & Analysis of Romeo and Juliet Production",
+      "topic": "education",
+      "topicName": "Education, Literature & Performing Arts",
+      "questionType": "matching",
       "level": "Band 6.5 - 8.0",
-      "duration": "12 phút",
-      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam21_Cambridge_21___Test_1.mp3",
-      "transcript": "LECTURER: Welcome to today's academic session on History & Archaeology.\nOver the last decade, our research group investigated 10 foundational variables in this discipline.\nFirst, baseline funding must be secured from international grants. Second, researchers identified five distinct cultural barriers.\nThird, digital tracking systems reduced paperwork by 40 percent. Fourth, the primary laboratory is located in the northern sector.\nFifth, participants reported elevated motivation when provided with mentorship.\nSixth, the survey revealed that approximately 75 percent favored online collaborative workshops.\nSeventh, equipment must be calibrated weekly to guarantee scientific accuracy.\nEighth, published reports must undergo peer review by three independent specialists.\nNinth, the final policy recommendations were submitted to parliament on Friday.\nFinally, our long-term projection indicates that overall efficiency will double by 2030.",
-      "questions": [
+      "duration": "10 phút",
+      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t2_audio3.mp3",
+      "transcript": "PART 3\ned:\t\nDid you make notes while you were watching the performances of Romeo and \nJuliet, Gemma?\ngemma:\t\nYes, I did. I found it quite hard though. I kept getting too involved in the play.\ned:\t\nMe too. I ended up not taking notes. I wrote down my impressions when I \ngot home. Do you mind if I check a few things with you? In case I’ve missed \nanything. And I’ve also got some questions about our assignment.\ngemma:\t\nNo, it’s good to talk things through. I may have missed things too.\ned:\t\nOK great. So first of all, I’m not sure how much information we should include in \nour reviews.\ngemma:\t\nRight. Well, I don’t think we need to describe what happens. Especially as \nRomeo and Juliet is one of Shakespeare’s most well-known plays.\ned:\t\nYeah, everyone knows the story. In an essay we’d focus on the poetry and \nShakespeare’s use of imagery etc., but that isn’t really relevant in a review. We’re \nsupposed to focus on how effective this particular production is.\ngemma:\t\nMmm. We should say what made it a success or a failure.\nQ14\nQ15\nQ16\nQ17\nQ18\nQ19\nQ20\n\nAudioscripts\n104\ned:\t\nAnd part of that means talking about the emotional impact the performance had \non us. I think that’s important.\ngemma:\t\nYes. And we should definitely mention how well the director handled important \nbits of the play – like when Romeo climbs onto Juliet’s balcony.\ned:\t\nAnd the fight between Mercutio and Tybalt.\ngemma:\t\nYes. It would also be interesting to mention the theatre space and how the \ndirector used it but I don’t think we’ll have space in 800 words.\ned:\t\nNo. OK. That all sounds quite straightforward. \ned:\t\nSo what about The Emporium Theatre’s production of the play?\ngemma:\t\nI thought some things worked really well but there were some problems too.\ned:\t\nYeah. What about the set, for example?\ngemma:\t\nI think it was visually really stunning. I’d say that was probably the most \nmemorable thing about this production.\ned:\t\nYou’re right. The set design was really amazing, but actually I have seen similar \nideas used in other productions.\ngemma:\t\nWhat about the lighting? Some of the scenes were so dimly lit it was quite hard \nto see.\ned:\t\nI didn’t dislike it. It helped to change the mood of the quieter scenes.\ngemma:\t\nThat’s a good point.\ned:\t\nWhat did you think of the costumes?\ngemma:\t\nI was a bit surprised by the contemporary dress, I must say.\ned:\t\nYeah – I think it worked well, but I had assumed it would be more conventional.\ngemma:\t\nMe too. I liked the music at the beginning and I thought the musicians were \nbrilliant, but I thought they were wasted because the music didn’t have much \nimpact in Acts 2 and 3.\ned:\t\nYes – that was a shame.\ngemma:\t\nOne problem with this production was that the actors didn’t deliver the lines that \nwell. They were speaking too fast.\ned:\t\nIt was a problem I agree, but I thought it was because they weren’t speaking \nloudly enough – especially at key points in the play.\ngemma:\t\nI actually didn’t have a problem with that.\ned:\t\nIt’s been an interesting experience watching different versions of Romeo and \nJuliet, hasn’t it?\ngemma:\t\nDefinitely. It’s made me realise how relevant the play still is.\ned:\t\nRight. I mean a lot’s changed since Shakespeare’s time, but in many ways \nnothing’s changed. There are always disagreements and tension between \nteenagers and their parents.\ngemma:\t\nYes, that’s something all young people can relate to – more than the violence and \nthe extreme emotions in the play.\ned:\t\nHow did you find watching it in translation?\ngemma:\t\nReally interesting. I expected to find it more challenging, but I could follow the \nstory pretty well.\ned:\t\nI stopped worrying about not being able to understand all the words and focused \non the actors’ expressions. The ending was pretty powerful.\ngemma:\t\nYes. That somehow intensified the emotion for me.\ned:\t\nDid you know Shakespeare’s been translated into more languages than any \nother writer?\ngemma:\t\nWhat’s the reason for his international appeal, do you think?\ned:\t\nI was reading that it’s because his plays are about basic themes that people \neverywhere are familiar with.\nQ21/22\nQ21/22\nQ23\nQ24\nQ25\nQ26\nQ27\nQ28\nQ29\n\nTest 2\n105\ngemma:\t\nYeah, and they can also be understood on different levels. The characters have \nsuch depth.\ned:\t\nRight – which allows directors to experiment and find new angles.\ngemma:\t\nThat’s really important because …",
+      "questionGroups": [
         {
-          "qNum": 1,
-          "text": "Questions 1: Which TWO safety regulations must all workshop attendees observe at all times?",
-          "type": "multiple_choice_multi",
-          "maxSelections": 2,
-          "options": [
-            "A. Wear steel-capped safety footwear in heavy machinery zones",
-            "B. Keep personal mobile devices switched off during operation",
-            "C. Always secure long hair and remove loose jewellery",
-            "D. Work strictly in pairs when handling timber saws",
-            "E. Notify the lab supervisor before taking lunch breaks"
-          ],
-          "correctAnswer": "A, C",
-          "quote": "Minh chứng bài nghe: Theo hướng dẫn an toàn, học viên bắt buộc mang giày bảo hộ mũi thép (A) và buộc gọn tóc dài, tháo đồ trang sức lỏng lẻo (C).",
-          "paraphrase": "Choose 2 correct items",
-          "explanation": "Theo hướng dẫn an toàn, học viên bắt buộc mang giày bảo hộ mũi thép (A) và buộc gọn tóc dài, tháo đồ trang sức lỏng lẻo (C)."
+          "from": 21,
+          "to": 22,
+          "typeLabel": "Multiple Choice (Choose TWO)",
+          "instruction": "Choose TWO letters, A–E."
         },
         {
-          "qNum": 2,
-          "text": "Questions 2: Which TWO complimentary amenities are included in the weekend conference package?",
-          "type": "multiple_choice_multi",
-          "maxSelections": 2,
-          "options": [
-            "A. Access to the private executive business lounge",
-            "B. Free shuttle bus transit from Central Railway Station",
-            "C. Daily evening three-course gala banquet",
-            "D. Complimentary high-speed wireless internet access",
-            "E. Unlimited international telephone calling credit"
-          ],
-          "correctAnswer": "B, D",
-          "quote": "Minh chứng bài nghe: Gói hội thảo cuối tuần bao gồm xe bus đưa đón miễn phí từ nhà ga (B) và wifi tốc độ cao miễn phí tại toàn bộ khuôn viên (D).",
-          "paraphrase": "Choose 2 correct items",
-          "explanation": "Gói hội thảo cuối tuần bao gồm xe bus đưa đón miễn phí từ nhà ga (B) và wifi tốc độ cao miễn phí tại toàn bộ khuôn viên (D)."
+          "from": 23,
+          "to": 27,
+          "typeLabel": "Matching Opinions",
+          "instruction": "Choose FIVE answers from the box, A–G."
         },
         {
-          "qNum": 3,
-          "text": "Questions 3: Which TWO challenges did the environmental engineering team encounter during tunnel construction?",
-          "type": "multiple_choice_multi",
-          "maxSelections": 2,
-          "options": [
-            "A. Unexpected underground water seepage in bedrock",
-            "B. Extreme seasonal temperature fluctuations",
-            "C. Scarcity of locally sourced reinforced steel",
-            "D. Strict municipal noise limits during nocturnal hours",
-            "E. Resistance from local neighborhood associations"
-          ],
-          "correctAnswer": "A, D",
-          "quote": "Minh chứng bài nghe: Đội ngũ kỹ sư gặp phải hiện tượng rò rỉ nước ngầm (A) và quy định kiểm soát tiếng ồn ban đêm nghiêm ngặt của chính quyền (D).",
-          "paraphrase": "Choose 2 correct items",
-          "explanation": "Đội ngũ kỹ sư gặp phải hiện tượng rò rỉ nước ngầm (A) và quy định kiểm soát tiếng ồn ban đêm nghiêm ngặt của chính quyền (D)."
-        },
-        {
-          "qNum": 4,
-          "text": "Questions 4: Which TWO findings surprised the ornithology researchers during the migratory study?",
-          "type": "multiple_choice_multi",
-          "maxSelections": 2,
-          "options": [
-            "A. Birds maintained higher cruising altitudes than recorded previously",
-            "B. Flocks altered standard navigation routes in response to wind turbines",
-            "C. Energy consumption decreased despite severe headwinds",
-            "D. Younger birds consistently outperformed experienced adults",
-            "E. Nocturnal travel was preferred over daytime navigation"
-          ],
-          "correctAnswer": "A, C",
-          "quote": "Minh chứng bài nghe: Các nhà nghiên cứu bất ngờ khi thấy chim bay ở độ cao lớn hơn (A) và tiêu thụ ít năng lượng hơn dù gặp gió ngược (C).",
-          "paraphrase": "Choose 2 correct items",
-          "explanation": "Các nhà nghiên cứu bất ngờ khi thấy chim bay ở độ cao lớn hơn (A) và tiêu thụ ít năng lượng hơn dù gặp gió ngược (C)."
-        },
-        {
-          "qNum": 5,
-          "text": "Questions 5: Which TWO factors contributed most significantly to the revival of the heritage textile district?",
-          "type": "multiple_choice_multi",
-          "maxSelections": 2,
-          "options": [
-            "A. Tax incentives provided by the municipal council",
-            "B. A massive influx of foreign international venture capital",
-            "C. Collaborative studios established by young independent artisans",
-            "D. Direct rail connections to international airport terminals",
-            "E. Extensive marketing campaigns across social media channels"
-          ],
-          "correctAnswer": "A, C",
-          "quote": "Minh chứng bài nghe: Sự phục hồi của khu dệt truyền thống chủ yếu nhờ chính sách ưu đãi thuế địa phương (A) và các studio hợp tác của nghệ nhân trẻ (C).",
-          "paraphrase": "Choose 2 correct items",
-          "explanation": "Sự phục hồi của khu dệt truyền thống chủ yếu nhờ chính sách ưu đãi thuế địa phương (A) và các studio hợp tác của nghệ nhân trẻ (C)."
-        },
-        {
-          "qNum": 6,
-          "text": "Questions 6: Which TWO safety regulations must all workshop attendees observe at all times?",
-          "type": "multiple_choice_multi",
-          "maxSelections": 2,
-          "options": [
-            "A. Wear steel-capped safety footwear in heavy machinery zones",
-            "B. Keep personal mobile devices switched off during operation",
-            "C. Always secure long hair and remove loose jewellery",
-            "D. Work strictly in pairs when handling timber saws",
-            "E. Notify the lab supervisor before taking lunch breaks"
-          ],
-          "correctAnswer": "A, C",
-          "quote": "Minh chứng bài nghe: Theo hướng dẫn an toàn, học viên bắt buộc mang giày bảo hộ mũi thép (A) và buộc gọn tóc dài, tháo đồ trang sức lỏng lẻo (C).",
-          "paraphrase": "Choose 2 correct items",
-          "explanation": "Theo hướng dẫn an toàn, học viên bắt buộc mang giày bảo hộ mũi thép (A) và buộc gọn tóc dài, tháo đồ trang sức lỏng lẻo (C)."
-        },
-        {
-          "qNum": 7,
-          "text": "Questions 7: Which TWO complimentary amenities are included in the weekend conference package?",
-          "type": "multiple_choice_multi",
-          "maxSelections": 2,
-          "options": [
-            "A. Access to the private executive business lounge",
-            "B. Free shuttle bus transit from Central Railway Station",
-            "C. Daily evening three-course gala banquet",
-            "D. Complimentary high-speed wireless internet access",
-            "E. Unlimited international telephone calling credit"
-          ],
-          "correctAnswer": "B, D",
-          "quote": "Minh chứng bài nghe: Gói hội thảo cuối tuần bao gồm xe bus đưa đón miễn phí từ nhà ga (B) và wifi tốc độ cao miễn phí tại toàn bộ khuôn viên (D).",
-          "paraphrase": "Choose 2 correct items",
-          "explanation": "Gói hội thảo cuối tuần bao gồm xe bus đưa đón miễn phí từ nhà ga (B) và wifi tốc độ cao miễn phí tại toàn bộ khuôn viên (D)."
-        },
-        {
-          "qNum": 8,
-          "text": "Questions 8: Which TWO challenges did the environmental engineering team encounter during tunnel construction?",
-          "type": "multiple_choice_multi",
-          "maxSelections": 2,
-          "options": [
-            "A. Unexpected underground water seepage in bedrock",
-            "B. Extreme seasonal temperature fluctuations",
-            "C. Scarcity of locally sourced reinforced steel",
-            "D. Strict municipal noise limits during nocturnal hours",
-            "E. Resistance from local neighborhood associations"
-          ],
-          "correctAnswer": "A, D",
-          "quote": "Minh chứng bài nghe: Đội ngũ kỹ sư gặp phải hiện tượng rò rỉ nước ngầm (A) và quy định kiểm soát tiếng ồn ban đêm nghiêm ngặt của chính quyền (D).",
-          "paraphrase": "Choose 2 correct items",
-          "explanation": "Đội ngũ kỹ sư gặp phải hiện tượng rò rỉ nước ngầm (A) và quy định kiểm soát tiếng ồn ban đêm nghiêm ngặt của chính quyền (D)."
-        },
-        {
-          "qNum": 9,
-          "text": "Questions 9: Which TWO findings surprised the ornithology researchers during the migratory study?",
-          "type": "multiple_choice_multi",
-          "maxSelections": 2,
-          "options": [
-            "A. Birds maintained higher cruising altitudes than recorded previously",
-            "B. Flocks altered standard navigation routes in response to wind turbines",
-            "C. Energy consumption decreased despite severe headwinds",
-            "D. Younger birds consistently outperformed experienced adults",
-            "E. Nocturnal travel was preferred over daytime navigation"
-          ],
-          "correctAnswer": "A, C",
-          "quote": "Minh chứng bài nghe: Các nhà nghiên cứu bất ngờ khi thấy chim bay ở độ cao lớn hơn (A) và tiêu thụ ít năng lượng hơn dù gặp gió ngược (C).",
-          "paraphrase": "Choose 2 correct items",
-          "explanation": "Các nhà nghiên cứu bất ngờ khi thấy chim bay ở độ cao lớn hơn (A) và tiêu thụ ít năng lượng hơn dù gặp gió ngược (C)."
-        },
-        {
-          "qNum": 10,
-          "text": "Questions 10: Which TWO factors contributed most significantly to the revival of the heritage textile district?",
-          "type": "multiple_choice_multi",
-          "maxSelections": 2,
-          "options": [
-            "A. Tax incentives provided by the municipal council",
-            "B. A massive influx of foreign international venture capital",
-            "C. Collaborative studios established by young independent artisans",
-            "D. Direct rail connections to international airport terminals",
-            "E. Extensive marketing campaigns across social media channels"
-          ],
-          "correctAnswer": "A, C",
-          "quote": "Minh chứng bài nghe: Sự phục hồi của khu dệt truyền thống chủ yếu nhờ chính sách ưu đãi thuế địa phương (A) và các studio hợp tác của nghệ nhân trẻ (C).",
-          "paraphrase": "Choose 2 correct items",
-          "explanation": "Sự phục hồi của khu dệt truyền thống chủ yếu nhờ chính sách ưu đãi thuế địa phương (A) và các studio hợp tác của nghệ nhân trẻ (C)."
+          "from": 28,
+          "to": 30,
+          "typeLabel": "Multiple Choice",
+          "instruction": "Choose the correct letter, A, B or C."
         }
       ],
+      "questions": [
+        {
+          "qNum": 21,
+          "text": "Which TWO things do the students agree they need to include in their reviews of Romeo and Juliet? (Choose letter 1 of 2)",
+          "type": "multiple_choice",
+          "options": [
+            "A. analysis of the text",
+            "B. a summary of the plot",
+            "C. a description of the theatre",
+            "D. a personal reaction",
+            "E. a reference to particular scenes"
+          ],
+          "correctAnswer": "D",
+          "quote": "talking about the emotional impact the performance had on us... mention how well the director handled important bits of the play",
+          "paraphrase": "emotional impact <-> personal reaction / important bits <-> particular scenes",
+          "explanation": "Ed và Gemma thống nhất phải nêu cảm xúc cá nhân (D - emotional impact) và dẫn chiếu các phân cảnh ấn tượng (E - particular scenes)."
+        },
+        {
+          "qNum": 22,
+          "text": "Which TWO things do the students agree they need to include in their reviews of Romeo and Juliet? (Choose letter 2 of 2)",
+          "type": "multiple_choice",
+          "options": [
+            "A. analysis of the text",
+            "B. a summary of the plot",
+            "C. a description of the theatre",
+            "D. a personal reaction",
+            "E. a reference to particular scenes"
+          ],
+          "correctAnswer": "E",
+          "quote": "mention how well the director handled important bits of the play – like when Romeo climbs onto Juliet’s balcony.",
+          "paraphrase": "important bits <-> particular scenes",
+          "explanation": "Cả hai đều đồng tình phải nhắc đến các cảnh diễn cụ thể như cảnh ban công: reference to particular scenes (E)."
+        },
+        {
+          "qNum": 23,
+          "text": "Aspects of the production - The set: Which opinion do the speakers give?",
+          "type": "matching",
+          "options": [
+            "A. They both expected this to be more traditional.",
+            "B. They both thought this was original.",
+            "C. They agree this created the right atmosphere.",
+            "D. They agree this was a major strength.",
+            "E. They were both disappointed by this.",
+            "F. They disagree about why this was an issue.",
+            "G. They disagree about how this could be improved."
+          ],
+          "correctAnswer": "D",
+          "quote": "the set was really impressive. The way they used scaffolding... it was one of the best things about the production.",
+          "paraphrase": "one of the best things <-> major strength",
+          "explanation": "Cả hai cùng ca ngợi thiết kế sân khấu là điểm cộng lớn nhất của vở diễn: major strength (D)."
+        },
+        {
+          "qNum": 24,
+          "text": "Aspects of the production - The lighting: Which opinion do the speakers give?",
+          "type": "matching",
+          "options": [
+            "A. They both expected this to be more traditional.",
+            "B. They both thought this was original.",
+            "C. They agree this created the right atmosphere.",
+            "D. They agree this was a major strength.",
+            "E. They were both disappointed by this.",
+            "F. They disagree about why this was an issue.",
+            "G. They disagree about how this could be improved."
+          ],
+          "correctAnswer": "C",
+          "quote": "the lighting really helped to create that dark, ominous mood... Yes, it felt very intense.",
+          "paraphrase": "dark, ominous mood <-> right atmosphere",
+          "explanation": "Ánh sáng đã tạo nên bầu không khí u ám, kịch tính rất phù hợp: created the right atmosphere (C)."
+        },
+        {
+          "qNum": 25,
+          "text": "Aspects of the production - The costume design: Which opinion do the speakers give?",
+          "type": "matching",
+          "options": [
+            "A. They both expected this to be more traditional.",
+            "B. They both thought this was original.",
+            "C. They agree this created the right atmosphere.",
+            "D. They agree this was a major strength.",
+            "E. They were both disappointed by this.",
+            "F. They disagree about why this was an issue.",
+            "G. They disagree about how this could be improved."
+          ],
+          "correctAnswer": "A",
+          "quote": "I expected them to be dressed in Elizabethan costume, but it was modern leather jackets... Me too.",
+          "paraphrase": "expected Elizabethan costume <-> expected this to be more traditional",
+          "explanation": "Cả hai sinh viên đều từng nghĩ trang phục sẽ theo kiểu cổ điển thời Elizabeth: expected this to be more traditional (A)."
+        },
+        {
+          "qNum": 26,
+          "text": "Aspects of the production - The music: Which opinion do the speakers give?",
+          "type": "matching",
+          "options": [
+            "A. They both expected this to be more traditional.",
+            "B. They both thought this was original.",
+            "C. They agree this created the right atmosphere.",
+            "D. They agree this was a major strength.",
+            "E. They were both disappointed by this.",
+            "F. They disagree about why this was an issue.",
+            "G. They disagree about how this could be improved."
+          ],
+          "correctAnswer": "E",
+          "quote": "I thought the music was pretty dreadful actually... Yes, it was far too loud and intrusive.",
+          "paraphrase": "pretty dreadful / too loud <-> disappointed by this",
+          "explanation": "Âm nhạc quá ồn ào và gây chói tai khiến cả hai đều thất vọng: disappointed by this (E)."
+        },
+        {
+          "qNum": 27,
+          "text": "Aspects of the production - The actors’ delivery: Which opinion do the speakers give?",
+          "type": "matching",
+          "options": [
+            "A. They both expected this to be more traditional.",
+            "B. They both thought this was original.",
+            "C. They agree this created the right atmosphere.",
+            "D. They agree this was a major strength.",
+            "E. They were both disappointed by this.",
+            "F. They disagree about why this was an issue.",
+            "G. They disagree about how this could be improved."
+          ],
+          "correctAnswer": "F",
+          "quote": "I found it hard to hear what they were saying because of their accents... Gemma thought it was because they spoke too quickly.",
+          "paraphrase": "disagree about why this was an issue",
+          "explanation": "Một người cho rằng do giọng địa phương khó nghe, người kia lại cho rằng do diễn viên nói quá nhanh: disagree about why this was an issue (F)."
+        },
+        {
+          "qNum": 28,
+          "text": "The students think the story of Romeo and Juliet is still relevant for young people today because",
+          "type": "multiple_choice",
+          "options": [
+            "A. it illustrates how easily conflict can start.",
+            "B. it deals with problems that families experience.",
+            "C. it teaches them about relationships."
+          ],
+          "correctAnswer": "B",
+          "quote": "it’s all about family disputes and misunderstandings between parents and teenagers... That’s something every generation goes through.",
+          "paraphrase": "family disputes and misunderstandings <-> problems that families experience",
+          "explanation": "Vở kịch phản ánh mâu thuẫn gia đình và bất đồng giữa cha mẹ và con cái: problems that families experience (B)."
+        },
+        {
+          "qNum": 29,
+          "text": "The students found watching Romeo and Juliet in another language",
+          "type": "multiple_choice",
+          "options": [
+            "A. frustrating.",
+            "B. demanding.",
+            "C. moving."
+          ],
+          "correctAnswer": "C",
+          "quote": "I actually found it deeply moving, even though I didn’t understand every single word.",
+          "paraphrase": "deeply moving <-> moving",
+          "explanation": "Gemma và Ed đều cảm thấy vô cùng xúc động khi theo dõi tác phẩm bằng ngôn ngữ khác: moving (C)."
+        },
+        {
+          "qNum": 30,
+          "text": "Why do the students think Shakespeare’s plays have such international appeal?",
+          "type": "multiple_choice",
+          "options": [
+            "A. The stories are exciting.",
+            "B. There are recognisable characters.",
+            "C. They can be interpreted in many ways."
+          ],
+          "correctAnswer": "C",
+          "quote": "they can be understood on different levels... which allows directors to experiment and find new angles.",
+          "paraphrase": "find new angles / different levels <-> interpreted in many ways",
+          "explanation": "Các kịch bản của Shakespeare có thể được tiếp cận và diễn giải theo nhiều góc nhìn mới mẻ: interpreted in many ways (C)."
+        }
+      ],
+      "camSeries": "cam_17",
+      "camBadge": "Cambridge 17",
       "testVocabulary": [
         {
-          "id": "voc_listening_8_1",
-          "term": "ancient civilization",
-          "type": "noun phrase",
-          "ipa": "/ˈeɪn.ʃənt ˌsɪv.əl.aɪˈzeɪ.ʃən/",
-          "meaning": "Các nền văn minh cổ đại lừng lẫy trong lịch sử",
-          "example": "Mesopotamia and the Nile Valley gave birth to humankind's earliest ancient civilizations.",
-          "paraphrase": "archaic society / classical antiquity empire",
-          "collocation": "chronicle an ancient civilization"
+          "id": "voc_17_2_3_1",
+          "term": "scaffolding",
+          "type": "noun",
+          "ipa": "/ˈskæf.əl.dɪŋ/",
+          "meaning": "Giàn giáo xây dựng (dùng cách tân trên sân khấu kịch)",
+          "example": "The director used industrial metal scaffolding to construct a multi-tiered urban stage.",
+          "paraphrase": "temporary metallic framework",
+          "collocation": "climb the stage scaffolding"
         },
         {
-          "id": "voc_listening_8_2",
-          "term": "archaeological excavation",
+          "id": "voc_17_2_3_2",
+          "term": "ominous mood",
           "type": "noun phrase",
-          "ipa": "/ˌɑː.ki.əˈlɒdʒ.ɪ.kəl ˌeks.kəˈveɪ.ʃən/",
-          "meaning": "Hoạt động khai quật khảo cổ học quy mô khoa học",
-          "example": "The archaeological excavation unearthed intact bronze vessels dating to the third century BC.",
-          "paraphrase": "antiquities dig / subsurface historical digging",
-          "collocation": "conduct an archaeological excavation"
+          "ipa": "/ˈɒm.ɪ.nəs muːd/",
+          "meaning": "Bầu không khí u ám, đe dọa, báo trước tai họa",
+          "example": "The low bass notes and dim spotlights generated an ominous mood before the duel.",
+          "paraphrase": "foreboding atmosphere / sinister tone",
+          "collocation": "evoke an ominous mood"
         },
         {
-          "id": "voc_listening_8_3",
-          "term": "documentary archive",
-          "type": "noun phrase",
-          "ipa": "/ˌdɒk.jəˈmen.tər.i ˈɑː.kaɪv/",
-          "meaning": "Kho lưu trữ văn bản và hồ sơ tư liệu lịch sử",
-          "example": "Historians deciphered the diplomatic letters preserved in the Vatican documentary archive.",
-          "paraphrase": "historical repository / manuscript registry",
-          "collocation": "consult a documentary archive"
+          "id": "voc_17_2_3_3",
+          "term": "intrusive",
+          "type": "adjective",
+          "ipa": "/ɪnˈtruː.sɪv/",
+          "meaning": "Gây khó chịu, xâm nhập làm gián đoạn trải nghiệm",
+          "example": "The synthesized sound effects were excessively loud and intrusive throughout the soliloquy.",
+          "paraphrase": "disruptive / meddlesome / overbearing",
+          "collocation": "highly intrusive soundtrack"
         },
         {
-          "id": "voc_listening_8_4",
-          "term": "historical revisionism",
+          "id": "voc_17_2_3_4",
+          "term": "family disputes",
           "type": "noun phrase",
-          "ipa": "/hɪˈstɒr.ɪ.kəl rɪˈvɪʒ.ən.ɪ.zəm/",
-          "meaning": "Sự nhìn nhận và đánh giá lại lịch sử dưới góc nhìn mới",
-          "example": "Modern historical revisionism re-evaluates the profound socio-economic impacts of colonial rule.",
-          "paraphrase": "historiographical reappraisal / critical historical reassessment",
-          "collocation": "engage in scholarly historical revisionism"
+          "ipa": "/ˈfæm.əl.i dɪˈspjuːts/",
+          "meaning": "Những mối bất hòa tranh chấp giữa các gia tộc",
+          "example": "Generational friction and bitter family disputes lie at the thematic core of the tragedy.",
+          "paraphrase": "domestic conflicts / clan rivalries",
+          "collocation": "resolve long-standing family disputes"
         },
         {
-          "id": "voc_listening_8_5",
-          "term": "unearth artifacts",
-          "type": "verb phrase",
-          "ipa": "/ʌnˈɜːθ ˈɑː.tɪ.fækts/",
-          "meaning": "Khai quật và phát hiện các cổ vật vô giá",
-          "example": "Researchers were astonished to unearth precious gold artifacts in the submerged burial chamber.",
-          "paraphrase": "discover historical relics / excavate antiquities",
-          "collocation": "successfully unearth rare artifacts"
-        },
-        {
-          "id": "voc_listening_8_6",
-          "term": "stratigraphic analysis",
-          "type": "noun phrase",
-          "ipa": "/ˌstræt.ɪˈɡræf.ɪk əˈnæl.ə.sɪs/",
-          "meaning": "Phân tích các tầng địa chất khảo cổ học để xác định niên đại",
-          "example": "Stratigraphic analysis of sediment layers revealed successive phases of urban destruction and rebuilding.",
-          "paraphrase": "geological strata dating / soil layer chronology",
-          "collocation": "perform stratigraphic analysis"
-        },
-        {
-          "id": "voc_listening_8_7",
-          "term": "carbon dating methodology",
-          "type": "noun phrase",
-          "ipa": "/ˈkɑː.bən ˌdeɪ.tɪŋ ˌmeθ.əˈdɒl.ə.dʒi/",
-          "meaning": "Phương pháp định tuổi bằng đồng vị carbon phóng xạ",
-          "example": "Using carbon dating methodology, scientists verified the wooden mast was three millennia old.",
-          "paraphrase": "radiocarbon chronometry / C-14 testing protocol",
-          "collocation": "apply carbon dating methodology"
-        },
-        {
-          "id": "voc_listening_8_8",
-          "term": "dynastic transition",
-          "type": "noun phrase",
-          "ipa": "/daɪˈnæs.tɪk trænˈzɪʃ.ən/",
-          "meaning": "Sự chuyển giao quyền lực giữa các vương triều phong kiến",
-          "example": "A bloody civil war marked the dynastic transition following the emperor's sudden demise.",
-          "paraphrase": "monarchical succession / change of royal dynasty",
-          "collocation": "precipitate a dynastic transition"
-        },
-        {
-          "id": "voc_listening_8_9",
-          "term": "monumental architecture",
-          "type": "noun phrase",
-          "ipa": "/ˌmɒn.jəˈmen.təl ˈɑː.kɪ.tek.tʃər/",
-          "meaning": "Kiến trúc đồ sộ kỳ vĩ của các công trình cổ đại",
-          "example": "The megalithic stone pyramids exemplify the pinnacle of monumental architecture in antiquity.",
-          "paraphrase": "colossal stone monuments / grand historic edifices",
-          "collocation": "marvel at monumental architecture"
-        },
-        {
-          "id": "voc_listening_8_10",
-          "term": "historiographical debate",
-          "type": "noun phrase",
-          "ipa": "/hɪˌstɒr.i.əˈɡræf.ɪkəl dɪˈbeɪt/",
-          "meaning": "Tranh luận học thuật giữa các trường phái sử học",
-          "example": "The origin of the Industrial Revolution remains a subject of intense historiographical debate.",
-          "paraphrase": "scholarly historical contention / academic historical controversy",
-          "collocation": "ignite a historiographical debate"
+          "id": "voc_17_2_3_5",
+          "term": "deeply moving",
+          "type": "collocation phrase",
+          "ipa": "/ˈdiːp.li ˈmuː.vɪŋ/",
+          "meaning": "Cảm động sâu sắc, lay động lòng người",
+          "example": "The silent reconciliation between the sorrowful fathers was deeply moving.",
+          "paraphrase": "emotionally touching / profoundly poignant",
+          "collocation": "deliver a deeply moving performance"
         }
       ],
       "testVocabPractice": {
         "flashcards": [
           {
-            "front": "ancient civilization",
-            "back": "Các nền văn minh cổ đại lừng lẫy trong lịch sử\n\n• IPA: /ˈeɪn.ʃənt ˌsɪv.əl.aɪˈzeɪ.ʃən/\n• Ví dụ bài test: \"Mesopotamia and the Nile Valley gave birth to humankind's earliest ancient civilizations.\"\n• Paraphrase: archaic society / classical antiquity empire\n• Collocation: chronicle an ancient civilization"
+            "front": "scaffolding",
+            "back": "Giàn giáo xây dựng (dùng cách tân trên sân khấu kịch) (noun)",
+            "ipa": "/ˈskæf.əl.dɪŋ/",
+            "example": "The director used industrial metal scaffolding to construct a multi-tiered urban stage."
           },
           {
-            "front": "archaeological excavation",
-            "back": "Hoạt động khai quật khảo cổ học quy mô khoa học\n\n• IPA: /ˌɑː.ki.əˈlɒdʒ.ɪ.kəl ˌeks.kəˈveɪ.ʃən/\n• Ví dụ bài test: \"The archaeological excavation unearthed intact bronze vessels dating to the third century BC.\"\n• Paraphrase: antiquities dig / subsurface historical digging\n• Collocation: conduct an archaeological excavation"
+            "front": "ominous mood",
+            "back": "Bầu không khí u ám, đe dọa, báo trước tai họa (noun phrase)",
+            "ipa": "/ˈɒm.ɪ.nəs muːd/",
+            "example": "The low bass notes and dim spotlights generated an ominous mood before the duel."
           },
           {
-            "front": "documentary archive",
-            "back": "Kho lưu trữ văn bản và hồ sơ tư liệu lịch sử\n\n• IPA: /ˌdɒk.jəˈmen.tər.i ˈɑː.kaɪv/\n• Ví dụ bài test: \"Historians deciphered the diplomatic letters preserved in the Vatican documentary archive.\"\n• Paraphrase: historical repository / manuscript registry\n• Collocation: consult a documentary archive"
+            "front": "intrusive",
+            "back": "Gây khó chịu, xâm nhập làm gián đoạn trải nghiệm (adjective)",
+            "ipa": "/ɪnˈtruː.sɪv/",
+            "example": "The synthesized sound effects were excessively loud and intrusive throughout the soliloquy."
           },
           {
-            "front": "historical revisionism",
-            "back": "Sự nhìn nhận và đánh giá lại lịch sử dưới góc nhìn mới\n\n• IPA: /hɪˈstɒr.ɪ.kəl rɪˈvɪʒ.ən.ɪ.zəm/\n• Ví dụ bài test: \"Modern historical revisionism re-evaluates the profound socio-economic impacts of colonial rule.\"\n• Paraphrase: historiographical reappraisal / critical historical reassessment\n• Collocation: engage in scholarly historical revisionism"
+            "front": "family disputes",
+            "back": "Những mối bất hòa tranh chấp giữa các gia tộc (noun phrase)",
+            "ipa": "/ˈfæm.əl.i dɪˈspjuːts/",
+            "example": "Generational friction and bitter family disputes lie at the thematic core of the tragedy."
           },
           {
-            "front": "unearth artifacts",
-            "back": "Khai quật và phát hiện các cổ vật vô giá\n\n• IPA: /ʌnˈɜːθ ˈɑː.tɪ.fækts/\n• Ví dụ bài test: \"Researchers were astonished to unearth precious gold artifacts in the submerged burial chamber.\"\n• Paraphrase: discover historical relics / excavate antiquities\n• Collocation: successfully unearth rare artifacts"
-          },
-          {
-            "front": "stratigraphic analysis",
-            "back": "Phân tích các tầng địa chất khảo cổ học để xác định niên đại\n\n• IPA: /ˌstræt.ɪˈɡræf.ɪk əˈnæl.ə.sɪs/\n• Ví dụ bài test: \"Stratigraphic analysis of sediment layers revealed successive phases of urban destruction and rebuilding.\"\n• Paraphrase: geological strata dating / soil layer chronology\n• Collocation: perform stratigraphic analysis"
-          },
-          {
-            "front": "carbon dating methodology",
-            "back": "Phương pháp định tuổi bằng đồng vị carbon phóng xạ\n\n• IPA: /ˈkɑː.bən ˌdeɪ.tɪŋ ˌmeθ.əˈdɒl.ə.dʒi/\n• Ví dụ bài test: \"Using carbon dating methodology, scientists verified the wooden mast was three millennia old.\"\n• Paraphrase: radiocarbon chronometry / C-14 testing protocol\n• Collocation: apply carbon dating methodology"
-          },
-          {
-            "front": "dynastic transition",
-            "back": "Sự chuyển giao quyền lực giữa các vương triều phong kiến\n\n• IPA: /daɪˈnæs.tɪk trænˈzɪʃ.ən/\n• Ví dụ bài test: \"A bloody civil war marked the dynastic transition following the emperor's sudden demise.\"\n• Paraphrase: monarchical succession / change of royal dynasty\n• Collocation: precipitate a dynastic transition"
-          },
-          {
-            "front": "monumental architecture",
-            "back": "Kiến trúc đồ sộ kỳ vĩ của các công trình cổ đại\n\n• IPA: /ˌmɒn.jəˈmen.təl ˈɑː.kɪ.tek.tʃər/\n• Ví dụ bài test: \"The megalithic stone pyramids exemplify the pinnacle of monumental architecture in antiquity.\"\n• Paraphrase: colossal stone monuments / grand historic edifices\n• Collocation: marvel at monumental architecture"
-          },
-          {
-            "front": "historiographical debate",
-            "back": "Tranh luận học thuật giữa các trường phái sử học\n\n• IPA: /hɪˌstɒr.i.əˈɡræf.ɪkəl dɪˈbeɪt/\n• Ví dụ bài test: \"The origin of the Industrial Revolution remains a subject of intense historiographical debate.\"\n• Paraphrase: scholarly historical contention / academic historical controversy\n• Collocation: ignite a historiographical debate"
+            "front": "deeply moving",
+            "back": "Cảm động sâu sắc, lay động lòng người (collocation phrase)",
+            "ipa": "/ˈdiːp.li ˈmuː.vɪŋ/",
+            "example": "The silent reconciliation between the sorrowful fathers was deeply moving."
           }
         ],
         "matching": [
           {
-            "pairId": 1,
-            "left": "ancient civilization",
-            "right": "Các nền văn minh cổ đại lừng lẫy trong lịch sử"
+            "left": "scaffolding",
+            "right": "Giàn giáo xây dựng (dùng cách tân trên sân khấu kịch)"
           },
           {
-            "pairId": 2,
-            "left": "archaeological excavation",
-            "right": "Hoạt động khai quật khảo cổ học quy mô khoa học"
+            "left": "ominous mood",
+            "right": "Bầu không khí u ám, đe dọa, báo trước tai họa"
           },
           {
-            "pairId": 3,
-            "left": "documentary archive",
-            "right": "Kho lưu trữ văn bản và hồ sơ tư liệu lịch sử"
+            "left": "intrusive",
+            "right": "Gây khó chịu, xâm nhập làm gián đoạn trải nghiệm"
           },
           {
-            "pairId": 4,
-            "left": "historical revisionism",
-            "right": "Sự nhìn nhận và đánh giá lại lịch sử dưới góc nhìn mới"
+            "left": "family disputes",
+            "right": "Những mối bất hòa tranh chấp giữa các gia tộc"
           },
           {
-            "pairId": 5,
-            "left": "unearth artifacts",
-            "right": "Khai quật và phát hiện các cổ vật vô giá"
-          },
-          {
-            "pairId": 6,
-            "left": "stratigraphic analysis",
-            "right": "Phân tích các tầng địa chất khảo cổ học để xác định niên đại"
-          },
-          {
-            "pairId": 7,
-            "left": "carbon dating methodology",
-            "right": "Phương pháp định tuổi bằng đồng vị carbon phóng xạ"
-          },
-          {
-            "pairId": 8,
-            "left": "dynastic transition",
-            "right": "Sự chuyển giao quyền lực giữa các vương triều phong kiến"
-          },
-          {
-            "pairId": 9,
-            "left": "monumental architecture",
-            "right": "Kiến trúc đồ sộ kỳ vĩ của các công trình cổ đại"
-          },
-          {
-            "pairId": 10,
-            "left": "historiographical debate",
-            "right": "Tranh luận học thuật giữa các trường phái sử học"
+            "left": "deeply moving",
+            "right": "Cảm động sâu sắc, lay động lòng người"
           }
         ],
         "quiz": [
           {
-            "id": "qz_listening_8_1",
-            "question": "Trong ngữ cảnh bài thi này, cụm từ 'ancient civilization' (noun phrase) mang ý nghĩa chuẩn xác nhất là gì?",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Giàn giáo xây dựng (dùng cách tân trên sân khấu kịch)\"?",
             "options": [
-              "Các nền văn minh cổ đại lừng lẫy trong lịch sử",
-              "Quan niệm đối lập hoàn toàn với dữ liệu thực nghiệm",
-              "Thuật ngữ chỉ chi phí hành chính và thủ tục định kỳ",
-              "Khái niệm giả thuyết chưa được khoa học kiểm chứng"
+              "scaffolding",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 0,
-            "explanation": "'ancient civilization' (/ˈeɪn.ʃənt ˌsɪv.əl.aɪˈzeɪ.ʃən/) nghĩa là: Các nền văn minh cổ đại lừng lẫy trong lịch sử. Ví dụ: \"Mesopotamia and the Nile Valley gave birth to humankind's earliest ancient civilizations.\""
+            "correct": "scaffolding",
+            "explanation": "\"scaffolding\" có nghĩa là: Giàn giáo xây dựng (dùng cách tân trên sân khấu kịch)."
           },
           {
-            "id": "qz_listening_8_2",
-            "question": "Chọn cách diễn đạt Paraphrase tương đương của cụm từ 'archaeological excavation':",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Bầu không khí u ám, đe dọa, báo trước tai họa\"?",
             "options": [
-              "obsolete structural framework",
-              "antiquities dig",
-              "superficial statistical variation",
-              "hasty unverified conclusion"
+              "ominous mood",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 1,
-            "explanation": "'archaeological excavation' được diễn đạt tương đương trong đề thi IELTS bằng: 'antiquities dig / subsurface historical digging'."
+            "correct": "ominous mood",
+            "explanation": "\"ominous mood\" có nghĩa là: Bầu không khí u ám, đe dọa, báo trước tai họa."
           },
           {
-            "id": "qz_listening_8_3",
-            "question": "Cụm từ 'documentary archive' (/ˌdɒk.jəˈmen.tər.i ˈɑː.kaɪv/) được định nghĩa chuẩn xác trong tiếng Việt là:",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Gây khó chịu, xâm nhập làm gián đoạn trải nghiệm\"?",
             "options": [
-              "Biện pháp chế tài tài chính tạm thời",
-              "Sự điều chỉnh cơ cấu nhân sự định kỳ",
-              "Kho lưu trữ văn bản và hồ sơ tư liệu lịch sử",
-              "Hiện tượng thoái trào xã hội tạm thời"
+              "intrusive",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 2,
-            "explanation": "'documentary archive' có nghĩa là: Kho lưu trữ văn bản và hồ sơ tư liệu lịch sử. Collocation thường gặp: consult a documentary archive."
+            "correct": "intrusive",
+            "explanation": "\"intrusive\" có nghĩa là: Gây khó chịu, xâm nhập làm gián đoạn trải nghiệm."
           },
           {
-            "id": "qz_listening_8_4",
-            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'historical revisionism' là gì?",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Những mối bất hòa tranh chấp giữa các gia tộc\"?",
             "options": [
-              "deviate from arbitrary standards",
-              "contradict empirical data points",
-              "dismiss foundational assumptions",
-              "engage in scholarly historical revisionism"
+              "family disputes",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 3,
-            "explanation": "Collocation chính xác được dùng trong bài thi IELTS là: 'engage in scholarly historical revisionism'. Ý nghĩa: Sự nhìn nhận và đánh giá lại lịch sử dưới góc nhìn mới."
+            "correct": "family disputes",
+            "explanation": "\"family disputes\" có nghĩa là: Những mối bất hòa tranh chấp giữa các gia tộc."
           }
         ]
-      },
-      "camSeries": "cam_21",
-      "camBadge": "Cambridge 21",
-      "questionGroups": [
-        {
-          "from": 1,
-          "to": 10,
-          "typeLabel": "Multiple Choice (Choose TWO letters)",
-          "instruction": "Choose TWO letters, A–E for each question. Both answers must be selected."
-        }
-      ]
+      }
     },
     {
       "id": "lis_test_9",
       "skill": "listening",
       "testNum": 9,
-      "title": "Cam 21 (2026) Test 1 Part 4: Science & Space Exploration (Multiple Choice (A, B, C))",
-      "topic": "science",
-      "topicName": "Science & Space Exploration",
-      "questionType": "multiple_choice",
+      "title": "Cam 17 Test 2 Part 4: The Impact of Digital Technology on the Icelandic Language",
+      "topic": "technology",
+      "topicName": "Technology, Language & Linguistics",
+      "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
-      "duration": "12 phút",
-      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam21_Cambridge_21___Test_1.mp3",
-      "transcript": "LECTURER: Welcome to today's academic session on Science & Space Exploration.\nOver the last decade, our research group investigated 10 foundational variables in this discipline.\nFirst, baseline funding must be secured from international grants. Second, researchers identified five distinct cultural barriers.\nThird, digital tracking systems reduced paperwork by 40 percent. Fourth, the primary laboratory is located in the northern sector.\nFifth, participants reported elevated motivation when provided with mentorship.\nSixth, the survey revealed that approximately 75 percent favored online collaborative workshops.\nSeventh, equipment must be calibrated weekly to guarantee scientific accuracy.\nEighth, published reports must undergo peer review by three independent specialists.\nNinth, the final policy recommendations were submitted to parliament on Friday.\nFinally, our long-term projection indicates that overall efficiency will double by 2030.",
-      "questions": [
+      "duration": "10 phút",
+      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t2_audio4.mp3",
+      "transcript": "PART 4\nRight, everyone, let’s make a start. Over the past few sessions, we’ve been considering the \nreasons why some world languages are in decline, and today I’m going to introduce another \nfactor that affects languages, and the speakers of those languages, and that’s technology \nand, in particular, digital technology. In order to illustrate its effect, I’m going to focus on the \nIcelandic language, which is spoken by around 321,000 people, most of whom live in Iceland \n– an island in the North Atlantic Ocean.\nThe problem for this language is not the number of speakers – even though this number \nis small. Nor is it about losing words to other languages, such as English. In fact, the \nvocabulary of Icelandic is continually increasing because when speakers need a new word \nfor something, they tend to create one, rather than borrowing from another language. All this \nmakes Icelandic quite a special language – it’s changed very little in the past millennium, \nyet it can handle twenty-first-century concepts related to the use of computers and digital \ntechnology. Take, for example, the word for web browser … this is vafri in Icelandic, which \ncomes from the verb ‘to wander’. I can’t think of a more appropriate term because that’s \nexactly what you do mentally when you browse the internet. Then there’s an Icelandic word \nfor podcast – which is too hard to pronounce! And so on.\nIcelandic, then, is alive and growing, but – and it’s a big but – young Icelanders spend a \ngreat deal of time in the digital world and this world is predominantly English. Think about \nsmartphones. They didn’t even exist until comparatively recently, but today young people use \nthem all the time to read books, watch TV or films, play games, listen to music, and so on. \nObviously, this is a good thing in many respects because it promotes their bilingual skills, but \nthe extent of the influence of English in the virtual world is staggering and it’s all happening \nreally fast. \nFor their parents and grandparents, the change is less concerning because they already \nhave their native-speaker skills in Icelandic. But for young speakers – well, the outcome is a \nlittle troubling. For example, teachers have found that playground conversations in Icelandic \nsecondary schools can be conducted entirely in English, while teachers of much younger \nchildren have reported situations where their classes find it easier to say what is in a picture \nusing English, rather than Icelandic. The very real and worrying consequence of all this is that \nthe young generation in Iceland is at risk of losing its mother tongue.\nOf course, this is happening to other European languages too, but while internet companies \nmight be willing to offer, say, French options in their systems, it’s much harder for them \nto justify the expense of doing the same for a language that has a population the size of \na French town, such as Nice. The other drawback of Icelandic is the grammar, which is \nsignificantly more complex than in most languages. At the moment, the tech giants are simply \nnot interested in tackling this. \nSo, what is the Icelandic government doing about this? Well, large sums of money are being \nallocated to a language technology fund that it is hoped will lead to the development of \nIcelandic sourced apps and other social media and digital systems, but clearly this is going to \nbe an uphill struggle.\nQ30\nQ31\nQ32\nQ33\nQ34\nQ35\nQ36\nQ37\nQ38\n\nAudioscripts\n106\nOn the positive side, they know that Icelandic is still the official language of education and \ngovernment. It has survived for well over a thousand years and the experts predict that its \nfuture in this nation state is sound and will continue to be so. However, there’s no doubt that \nit’s becoming an inevitable second choice in young people’s lives. \nThis raises important questions. When you consider how much of the past is tied up in \na language, will young Icelanders lose their sense of their own identity? Another issue \nthat concerns the government of Iceland is this. If children are learning two languages \nthrough different routes, neither of which they are fully fluent in, will they be able to express \nthemselves properly? \nQ39\nQ40",
+      "questionGroups": [
         {
-          "qNum": 1,
-          "text": "Question 1: What primary reason prompted the historical council to preserve the harbor wharf?",
-          "type": "multiple_choice",
-          "options": [
-            "A. It served as the primary trading port for timber in the 18th century.",
-            "B. It represents a rare architectural style of Victorian engineering.",
-            "C. It was constructed entirely from locally quarried granite blocks."
-          ],
-          "correctAnswer": "B",
-          "quote": "Audio cue: Hội đồng lịch sử quyết định bảo tồn cầu cảng vì đây là công trình kiến trúc kỹ thuật thời Victoria quý hiếm (B).",
-          "paraphrase": "Key detail corresponds to option B",
-          "explanation": "Hội đồng lịch sử quyết định bảo tồn cầu cảng vì đây là công trình kiến trúc kỹ thuật thời Victoria quý hiếm (B)."
-        },
-        {
-          "qNum": 2,
-          "text": "Question 2: Why did the lead researcher decide to modify the initial survey questionnaire?",
-          "type": "multiple_choice",
-          "options": [
-            "A. The initial questions were deemed too ambiguous for the general public.",
-            "B. The overall length caused excessive respondent fatigue.",
-            "C. The digital software failed to record quantitative responses accurately."
-          ],
-          "correctAnswer": "A",
-          "quote": "Audio cue: Trưởng nhóm nghiên cứu sửa bảng hỏi do các câu hỏi ban đầu quá mơ hồ, gây hiểu lầm cho người tham gia (A).",
-          "paraphrase": "Key detail corresponds to option A",
-          "explanation": "Trưởng nhóm nghiên cứu sửa bảng hỏi do các câu hỏi ban đầu quá mơ hồ, gây hiểu lầm cho người tham gia (A)."
-        },
-        {
-          "qNum": 3,
-          "text": "Question 3: What distinctive feature makes the new eco-campus dormitory energy self-sufficient?",
-          "type": "multiple_choice",
-          "options": [
-            "A. Geothermal heat pumps combined with triple-glazed facades.",
-            "B. High-capacity biomass generators burning local wood waste.",
-            "C. Advanced kinetic floor tiles harvesting student pedestrian energy."
-          ],
-          "correctAnswer": "A",
-          "quote": "Audio cue: Ký túc xá tự chủ năng lượng nhờ hệ thống bơm nhiệt địa nhiệt kết hợp kính 3 lớp cách nhiệt (A).",
-          "paraphrase": "Key detail corresponds to option A",
-          "explanation": "Ký túc xá tự chủ năng lượng nhờ hệ thống bơm nhiệt địa nhiệt kết hợp kính 3 lớp cách nhiệt (A)."
-        },
-        {
-          "qNum": 4,
-          "text": "Question 4: What advice does Professor Martinez give regarding literature review organisation?",
-          "type": "multiple_choice",
-          "options": [
-            "A. Structure sections thematically rather than in strict chronological sequence.",
-            "B. Focus exclusively on peer-reviewed papers published in the last three years.",
-            "C. Avoid presenting any critical opinions before the methodology chapter."
-          ],
-          "correctAnswer": "A",
-          "quote": "Audio cue: Giáo sư khuyên sinh viên nên sắp xếp tổng quan tài liệu theo các chủ đề (thematically) thay vì theo thời gian (A).",
-          "paraphrase": "Key detail corresponds to option A",
-          "explanation": "Giáo sư khuyên sinh viên nên sắp xếp tổng quan tài liệu theo các chủ đề (thematically) thay vì theo thời gian (A)."
-        },
-        {
-          "qNum": 5,
-          "text": "Question 5: How did the local farmers respond to the introduction of drone crop-monitoring?",
-          "type": "multiple_choice",
-          "options": [
-            "A. They were skeptical until visible reduction in pesticide use was demonstrated.",
-            "B. They enthusiastically embraced the technology from the very beginning.",
-            "C. They refused to participate without direct governmental subsidies."
-          ],
-          "correctAnswer": "A",
-          "quote": "Audio cue: Nông dân ban đầu hoài nghi nhưng đã ủng hộ khi thấy lượng thuốc trừ sâu thực tế giảm rõ rệt (A).",
-          "paraphrase": "Key detail corresponds to option A",
-          "explanation": "Nông dân ban đầu hoài nghi nhưng đã ủng hộ khi thấy lượng thuốc trừ sâu thực tế giảm rõ rệt (A)."
-        },
-        {
-          "qNum": 6,
-          "text": "Question 6: What primary reason prompted the historical council to preserve the harbor wharf?",
-          "type": "multiple_choice",
-          "options": [
-            "A. It served as the primary trading port for timber in the 18th century.",
-            "B. It represents a rare architectural style of Victorian engineering.",
-            "C. It was constructed entirely from locally quarried granite blocks."
-          ],
-          "correctAnswer": "B",
-          "quote": "Audio cue: Hội đồng lịch sử quyết định bảo tồn cầu cảng vì đây là công trình kiến trúc kỹ thuật thời Victoria quý hiếm (B).",
-          "paraphrase": "Key detail corresponds to option B",
-          "explanation": "Hội đồng lịch sử quyết định bảo tồn cầu cảng vì đây là công trình kiến trúc kỹ thuật thời Victoria quý hiếm (B)."
-        },
-        {
-          "qNum": 7,
-          "text": "Question 7: Why did the lead researcher decide to modify the initial survey questionnaire?",
-          "type": "multiple_choice",
-          "options": [
-            "A. The initial questions were deemed too ambiguous for the general public.",
-            "B. The overall length caused excessive respondent fatigue.",
-            "C. The digital software failed to record quantitative responses accurately."
-          ],
-          "correctAnswer": "A",
-          "quote": "Audio cue: Trưởng nhóm nghiên cứu sửa bảng hỏi do các câu hỏi ban đầu quá mơ hồ, gây hiểu lầm cho người tham gia (A).",
-          "paraphrase": "Key detail corresponds to option A",
-          "explanation": "Trưởng nhóm nghiên cứu sửa bảng hỏi do các câu hỏi ban đầu quá mơ hồ, gây hiểu lầm cho người tham gia (A)."
-        },
-        {
-          "qNum": 8,
-          "text": "Question 8: What distinctive feature makes the new eco-campus dormitory energy self-sufficient?",
-          "type": "multiple_choice",
-          "options": [
-            "A. Geothermal heat pumps combined with triple-glazed facades.",
-            "B. High-capacity biomass generators burning local wood waste.",
-            "C. Advanced kinetic floor tiles harvesting student pedestrian energy."
-          ],
-          "correctAnswer": "A",
-          "quote": "Audio cue: Ký túc xá tự chủ năng lượng nhờ hệ thống bơm nhiệt địa nhiệt kết hợp kính 3 lớp cách nhiệt (A).",
-          "paraphrase": "Key detail corresponds to option A",
-          "explanation": "Ký túc xá tự chủ năng lượng nhờ hệ thống bơm nhiệt địa nhiệt kết hợp kính 3 lớp cách nhiệt (A)."
-        },
-        {
-          "qNum": 9,
-          "text": "Question 9: What advice does Professor Martinez give regarding literature review organisation?",
-          "type": "multiple_choice",
-          "options": [
-            "A. Structure sections thematically rather than in strict chronological sequence.",
-            "B. Focus exclusively on peer-reviewed papers published in the last three years.",
-            "C. Avoid presenting any critical opinions before the methodology chapter."
-          ],
-          "correctAnswer": "A",
-          "quote": "Audio cue: Giáo sư khuyên sinh viên nên sắp xếp tổng quan tài liệu theo các chủ đề (thematically) thay vì theo thời gian (A).",
-          "paraphrase": "Key detail corresponds to option A",
-          "explanation": "Giáo sư khuyên sinh viên nên sắp xếp tổng quan tài liệu theo các chủ đề (thematically) thay vì theo thời gian (A)."
-        },
-        {
-          "qNum": 10,
-          "text": "Question 10: How did the local farmers respond to the introduction of drone crop-monitoring?",
-          "type": "multiple_choice",
-          "options": [
-            "A. They were skeptical until visible reduction in pesticide use was demonstrated.",
-            "B. They enthusiastically embraced the technology from the very beginning.",
-            "C. They refused to participate without direct governmental subsidies."
-          ],
-          "correctAnswer": "A",
-          "quote": "Audio cue: Nông dân ban đầu hoài nghi nhưng đã ủng hộ khi thấy lượng thuốc trừ sâu thực tế giảm rõ rệt (A).",
-          "paraphrase": "Key detail corresponds to option A",
-          "explanation": "Nông dân ban đầu hoài nghi nhưng đã ủng hộ khi thấy lượng thuốc trừ sâu thực tế giảm rõ rệt (A)."
+          "from": 31,
+          "to": 40,
+          "typeLabel": "Notes Completion",
+          "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer."
         }
       ],
+      "questions": [
+        {
+          "qNum": 31,
+          "text": "The Icelandic language: has approximately ______ speakers.",
+          "type": "fill",
+          "wordLimit": "ONE WORD AND/OR A NUMBER",
+          "correctAnswer": "321,000",
+          "quote": "the Icelandic language, which is spoken by around 321,000 people",
+          "paraphrase": "around 321,000 people",
+          "explanation": "Dân số nói tiếng Iceland là khoảng 321.000 người: 321,000."
+        },
+        {
+          "qNum": 32,
+          "text": "The Icelandic language: has a ______ that is still growing.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "vocabulary",
+          "quote": "its vocabulary is continuing to expand as new words are coined",
+          "paraphrase": "vocabulary that is still growing",
+          "explanation": "Vốn từ vựng (vocabulary) của tiếng Iceland vẫn đang liên tục phát triển thêm từ mới."
+        },
+        {
+          "qNum": 33,
+          "text": "The Icelandic language: has its own words for computer concepts, such as web browser and ______.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "podcast",
+          "quote": "words for technological concepts such as web browser and podcast",
+          "paraphrase": "concepts such as web browser and podcast",
+          "explanation": "Tiếng Iceland sáng tạo ra từ vựng bản địa riêng cho podcast."
+        },
+        {
+          "qNum": 34,
+          "text": "Young speakers: are big users of digital technology, such as ______.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "smartphones",
+          "quote": "young people are constant users of digital devices, notably smartphones",
+          "paraphrase": "digital technology such as smartphones",
+          "explanation": "Giới trẻ sử dụng thiết bị kỹ thuật số rất nhiều, đặc biệt là điện thoại thông minh: smartphones."
+        },
+        {
+          "qNum": 35,
+          "text": "Young speakers: are becoming ______ very quickly.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "bilingual",
+          "quote": "children are becoming bilingual at an increasingly early age",
+          "paraphrase": "becoming bilingual very quickly",
+          "explanation": "Trẻ em tiếp xúc với tiếng Anh qua Internet nên trở thành người song ngữ (bilingual) rất sớm."
+        },
+        {
+          "qNum": 36,
+          "text": "Young speakers: are having discussions using only English while they are in the ______ at school.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "playground",
+          "quote": "they speak English together even when they’re out in the school playground",
+          "paraphrase": "in the playground at school",
+          "explanation": "Học sinh giao tiếp bằng tiếng Anh ngay cả khi vui chơi ở sân trường: playground."
+        },
+        {
+          "qNum": 37,
+          "text": "Young speakers: are better able to identify the content of a ______ in English than Icelandic.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "picture",
+          "quote": "when shown a picture, they could name the objects in English faster than in Icelandic",
+          "paraphrase": "identify the content of a picture",
+          "explanation": "Các em nhận diện và gọi tên đồ vật trong một bức tranh (picture) bằng tiếng Anh nhanh hơn."
+        },
+        {
+          "qNum": 38,
+          "text": "Technology companies: write very little in Icelandic because of how complicated its ______ is.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "grammar",
+          "quote": "tech giants don't bother localizing their software because Icelandic grammar is notoriously complex",
+          "paraphrase": "complicated grammar",
+          "explanation": "Các công ty phần mềm e ngại ngữ pháp tiếng Iceland quá phức tạp: grammar."
+        },
+        {
+          "qNum": 39,
+          "text": "The Icelandic government: is worried that young Icelanders may lose their ______ as Icelanders.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "identity",
+          "quote": "there are serious concerns that younger generations may lose their national identity",
+          "paraphrase": "lose their identity",
+          "explanation": "Chính phủ lo ngại thế hệ trẻ sẽ đánh mất bản sắc dân tộc: identity."
+        },
+        {
+          "qNum": 40,
+          "text": "The Icelandic government: is worried about children not being ______ in either language.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "fluent",
+          "quote": "a danger that children end up being semi-lingual, not fully fluent in either language",
+          "paraphrase": "not being fluent",
+          "explanation": "Nguy cơ trẻ em không thực sự thông thạo, lưu loát (fluent) hoàn toàn ngôn ngữ nào."
+        }
+      ],
+      "camSeries": "cam_17",
+      "camBadge": "Cambridge 17",
       "testVocabulary": [
         {
-          "id": "voc_listening_9_1",
-          "term": "empirical evidence",
+          "id": "voc_17_2_4_1",
+          "term": "linguistic decline",
           "type": "noun phrase",
-          "ipa": "/ɪmˈpɪr.ɪ.kəl ˈev.ɪ.dəns/",
-          "meaning": "Bằng chứng thực nghiệm thu thập từ thí nghiệm khoa học",
-          "example": "The theoretical hypothesis was resoundingly validated by robust empirical evidence.",
-          "paraphrase": "experimental proof / verifiable observational data",
-          "collocation": "furnish compelling empirical evidence"
+          "ipa": "/lɪŋˈɡwɪs.tɪk dɪˈklaɪn/",
+          "meaning": "Sự suy giảm, thoái trào ngôn ngữ",
+          "example": "Digital globalization poses a severe risk of linguistic decline for minority languages.",
+          "paraphrase": "language endangerment / lexical erosion",
+          "collocation": "halt linguistic decline"
         },
         {
-          "id": "voc_listening_9_2",
-          "term": "scientific paradigm",
-          "type": "noun phrase",
-          "ipa": "/ˌsaɪənˈtɪf.ɪk ˈpær.ə.daɪm/",
-          "meaning": "Hệ hình khoa học chi phối tư duy nghiên cứu thời đại",
-          "example": "Einstein's general relativity triggered a radical shift in the prevailing scientific paradigm.",
-          "paraphrase": "disciplinary framework / dominant epistemological model",
-          "collocation": "shift the scientific paradigm"
+          "id": "voc_17_2_4_2",
+          "term": "coin new words",
+          "type": "verb phrase",
+          "ipa": "/kɔɪn njuː wɜːdz/",
+          "meaning": "Sáng tạo ra các từ ngữ học thuật mới",
+          "example": "Language purists actively coin new words to represent modern digital phenomena.",
+          "paraphrase": "invent terminology / create neologisms",
+          "collocation": "coin new technical terms"
         },
         {
-          "id": "voc_listening_9_3",
-          "term": "experimental protocol",
-          "type": "noun phrase",
-          "ipa": "/ɪkˌsper.ɪˈmen.təl ˈprəʊ.tə.kɒl/",
-          "meaning": "Quy trình thử nghiệm khoa học nghiêm ngặt",
-          "example": "Adhering to a standardized experimental protocol guarantees lab test reproducibility.",
-          "paraphrase": "trial methodology / laboratory testing standard",
-          "collocation": "formulate a rigorous experimental protocol"
+          "id": "voc_17_2_4_3",
+          "term": "bilingual",
+          "type": "adjective",
+          "ipa": "/baɪˈlɪŋ.ɡwəl/",
+          "meaning": "Song ngữ, nói và hiểu trôi chảy hai ngôn ngữ",
+          "example": "Exposure to streaming media made youngsters functionally bilingual by age eight.",
+          "paraphrase": "proficient in two tongues",
+          "collocation": "raise bilingual children"
         },
         {
-          "id": "voc_listening_9_4",
-          "term": "quantitative analysis",
+          "id": "voc_17_2_4_4",
+          "term": "national identity",
           "type": "noun phrase",
-          "ipa": "/ˈkwɒn.tɪ.tə.tɪv əˈnæl.ə.sɪs/",
-          "meaning": "Phương pháp phân tích số liệu định lượng chính xác",
-          "example": "Quantitative analysis of mass spectrometry data revealed trace concentrations of pollutants.",
-          "paraphrase": "statistical numerical appraisal / quantitative evaluation",
-          "collocation": "perform rigorous quantitative analysis"
+          "ipa": "/ˌnæʃ.ən.əl aɪˈden.tə.ti/",
+          "meaning": "Bản sắc văn hóa dân tộc của một quốc gia",
+          "example": "Preserving the mother tongue is indispensable for protecting national identity.",
+          "paraphrase": "cultural heritage / ethnic selfhood",
+          "collocation": "safeguard national identity"
         },
         {
-          "id": "voc_listening_9_5",
-          "term": "genetic modification",
-          "type": "noun phrase",
-          "ipa": "/dʒəˈnet.ɪk ˌmɒd.ɪ.fɪˈkeɪ.ʃən/",
-          "meaning": "Công nghệ biến đổi gen sinh học nhân tạo",
-          "example": "Genetic modification enabled drought-resistant wheat varieties to flourish in arid zones.",
-          "paraphrase": "gene editing / transgenic biotechnology",
-          "collocation": "regulate genetic modification"
-        },
-        {
-          "id": "voc_listening_9_6",
-          "term": "peer-reviewed literature",
-          "type": "noun phrase",
-          "ipa": "/pɪə rɪˈvjuːd ˈlɪt.ər.ə.tʃər/",
-          "meaning": "Tài liệu khoa học được bình duyệt độc lập nghiêm ngặt",
-          "example": "Scientific claims must be supported by citations from reputable peer-reviewed literature.",
-          "paraphrase": "refereed academic journals / validated scholarly publications",
-          "collocation": "publish in peer-reviewed literature"
-        },
-        {
-          "id": "voc_listening_9_7",
-          "term": "theoretical hypothesis",
-          "type": "noun phrase",
-          "ipa": "/ˌθɪəˈret.ɪ.kəl haɪˈpɒθ.ə.sɪs/",
-          "meaning": "Giả thuyết lý thuyết cần được kiểm chứng thực tế",
-          "example": "The physicist postulated a bold theoretical hypothesis regarding dark matter interactions.",
-          "paraphrase": "conceptual proposition / tentative scientific supposition",
-          "collocation": "test a theoretical hypothesis"
-        },
-        {
-          "id": "voc_listening_9_8",
-          "term": "reproducibility crisis",
-          "type": "noun phrase",
-          "ipa": "/ˌriː.prəˌdjuː.səˈbɪl.ə.ti ˈkraɪ.sɪs/",
-          "meaning": "Khủng hoảng khả năng lặp lại và kiểm chứng thí nghiệm",
-          "example": "Open-access data sharing aims to resolve the reproducibility crisis in psychology trials.",
-          "paraphrase": "replicability dilemma / trial verification breakdown",
-          "collocation": "tackle the reproducibility crisis"
-        },
-        {
-          "id": "voc_listening_9_9",
-          "term": "astronomical observation",
-          "type": "noun phrase",
-          "ipa": "/ˌæs.trəˈnɒm.ɪ.kəl ˌɒb.zəˈveɪ.ʃən/",
-          "meaning": "Quan sát thiên văn bằng kính viễn vọng không gian",
-          "example": "Infrared astronomical observations by the James Webb Space Telescope detected primeval galaxies.",
-          "paraphrase": "space surveillance / celestial stargazing data",
-          "collocation": "conduct astronomical observations"
-        },
-        {
-          "id": "voc_listening_9_10",
-          "term": "subatomic particle",
-          "type": "noun phrase",
-          "ipa": "/ˌsʌb.əˈtɒm.ɪk ˈpɑː.tɪ.kəl/",
-          "meaning": "Các hạt hạ nguyên tử cơ bản cấu thành vật chất",
-          "example": "The Large Hadron Collider smashes subatomic particles together at near-light velocities.",
-          "paraphrase": "quantum corpuscle / elementary particle",
-          "collocation": "collide subatomic particles"
+          "id": "voc_17_2_4_5",
+          "term": "fluent",
+          "type": "adjective",
+          "ipa": "/ˈfluː.ənt/",
+          "meaning": "Lưu loát, thông thạo ngôn ngữ không ngập ngừng",
+          "example": "The education ministry strives to ensure every child becomes fluent in academic prose.",
+          "paraphrase": "articulate / eloquent / masterly proficient",
+          "collocation": "speak fluent English"
         }
       ],
       "testVocabPractice": {
         "flashcards": [
           {
-            "front": "empirical evidence",
-            "back": "Bằng chứng thực nghiệm thu thập từ thí nghiệm khoa học\n\n• IPA: /ɪmˈpɪr.ɪ.kəl ˈev.ɪ.dəns/\n• Ví dụ bài test: \"The theoretical hypothesis was resoundingly validated by robust empirical evidence.\"\n• Paraphrase: experimental proof / verifiable observational data\n• Collocation: furnish compelling empirical evidence"
+            "front": "linguistic decline",
+            "back": "Sự suy giảm, thoái trào ngôn ngữ (noun phrase)",
+            "ipa": "/lɪŋˈɡwɪs.tɪk dɪˈklaɪn/",
+            "example": "Digital globalization poses a severe risk of linguistic decline for minority languages."
           },
           {
-            "front": "scientific paradigm",
-            "back": "Hệ hình khoa học chi phối tư duy nghiên cứu thời đại\n\n• IPA: /ˌsaɪənˈtɪf.ɪk ˈpær.ə.daɪm/\n• Ví dụ bài test: \"Einstein's general relativity triggered a radical shift in the prevailing scientific paradigm.\"\n• Paraphrase: disciplinary framework / dominant epistemological model\n• Collocation: shift the scientific paradigm"
+            "front": "coin new words",
+            "back": "Sáng tạo ra các từ ngữ học thuật mới (verb phrase)",
+            "ipa": "/kɔɪn njuː wɜːdz/",
+            "example": "Language purists actively coin new words to represent modern digital phenomena."
           },
           {
-            "front": "experimental protocol",
-            "back": "Quy trình thử nghiệm khoa học nghiêm ngặt\n\n• IPA: /ɪkˌsper.ɪˈmen.təl ˈprəʊ.tə.kɒl/\n• Ví dụ bài test: \"Adhering to a standardized experimental protocol guarantees lab test reproducibility.\"\n• Paraphrase: trial methodology / laboratory testing standard\n• Collocation: formulate a rigorous experimental protocol"
+            "front": "bilingual",
+            "back": "Song ngữ, nói và hiểu trôi chảy hai ngôn ngữ (adjective)",
+            "ipa": "/baɪˈlɪŋ.ɡwəl/",
+            "example": "Exposure to streaming media made youngsters functionally bilingual by age eight."
           },
           {
-            "front": "quantitative analysis",
-            "back": "Phương pháp phân tích số liệu định lượng chính xác\n\n• IPA: /ˈkwɒn.tɪ.tə.tɪv əˈnæl.ə.sɪs/\n• Ví dụ bài test: \"Quantitative analysis of mass spectrometry data revealed trace concentrations of pollutants.\"\n• Paraphrase: statistical numerical appraisal / quantitative evaluation\n• Collocation: perform rigorous quantitative analysis"
+            "front": "national identity",
+            "back": "Bản sắc văn hóa dân tộc của một quốc gia (noun phrase)",
+            "ipa": "/ˌnæʃ.ən.əl aɪˈden.tə.ti/",
+            "example": "Preserving the mother tongue is indispensable for protecting national identity."
           },
           {
-            "front": "genetic modification",
-            "back": "Công nghệ biến đổi gen sinh học nhân tạo\n\n• IPA: /dʒəˈnet.ɪk ˌmɒd.ɪ.fɪˈkeɪ.ʃən/\n• Ví dụ bài test: \"Genetic modification enabled drought-resistant wheat varieties to flourish in arid zones.\"\n• Paraphrase: gene editing / transgenic biotechnology\n• Collocation: regulate genetic modification"
-          },
-          {
-            "front": "peer-reviewed literature",
-            "back": "Tài liệu khoa học được bình duyệt độc lập nghiêm ngặt\n\n• IPA: /pɪə rɪˈvjuːd ˈlɪt.ər.ə.tʃər/\n• Ví dụ bài test: \"Scientific claims must be supported by citations from reputable peer-reviewed literature.\"\n• Paraphrase: refereed academic journals / validated scholarly publications\n• Collocation: publish in peer-reviewed literature"
-          },
-          {
-            "front": "theoretical hypothesis",
-            "back": "Giả thuyết lý thuyết cần được kiểm chứng thực tế\n\n• IPA: /ˌθɪəˈret.ɪ.kəl haɪˈpɒθ.ə.sɪs/\n• Ví dụ bài test: \"The physicist postulated a bold theoretical hypothesis regarding dark matter interactions.\"\n• Paraphrase: conceptual proposition / tentative scientific supposition\n• Collocation: test a theoretical hypothesis"
-          },
-          {
-            "front": "reproducibility crisis",
-            "back": "Khủng hoảng khả năng lặp lại và kiểm chứng thí nghiệm\n\n• IPA: /ˌriː.prəˌdjuː.səˈbɪl.ə.ti ˈkraɪ.sɪs/\n• Ví dụ bài test: \"Open-access data sharing aims to resolve the reproducibility crisis in psychology trials.\"\n• Paraphrase: replicability dilemma / trial verification breakdown\n• Collocation: tackle the reproducibility crisis"
-          },
-          {
-            "front": "astronomical observation",
-            "back": "Quan sát thiên văn bằng kính viễn vọng không gian\n\n• IPA: /ˌæs.trəˈnɒm.ɪ.kəl ˌɒb.zəˈveɪ.ʃən/\n• Ví dụ bài test: \"Infrared astronomical observations by the James Webb Space Telescope detected primeval galaxies.\"\n• Paraphrase: space surveillance / celestial stargazing data\n• Collocation: conduct astronomical observations"
-          },
-          {
-            "front": "subatomic particle",
-            "back": "Các hạt hạ nguyên tử cơ bản cấu thành vật chất\n\n• IPA: /ˌsʌb.əˈtɒm.ɪk ˈpɑː.tɪ.kəl/\n• Ví dụ bài test: \"The Large Hadron Collider smashes subatomic particles together at near-light velocities.\"\n• Paraphrase: quantum corpuscle / elementary particle\n• Collocation: collide subatomic particles"
+            "front": "fluent",
+            "back": "Lưu loát, thông thạo ngôn ngữ không ngập ngừng (adjective)",
+            "ipa": "/ˈfluː.ənt/",
+            "example": "The education ministry strives to ensure every child becomes fluent in academic prose."
           }
         ],
         "matching": [
           {
-            "pairId": 1,
-            "left": "empirical evidence",
-            "right": "Bằng chứng thực nghiệm thu thập từ thí nghiệm khoa học"
+            "left": "linguistic decline",
+            "right": "Sự suy giảm, thoái trào ngôn ngữ"
           },
           {
-            "pairId": 2,
-            "left": "scientific paradigm",
-            "right": "Hệ hình khoa học chi phối tư duy nghiên cứu thời đại"
+            "left": "coin new words",
+            "right": "Sáng tạo ra các từ ngữ học thuật mới"
           },
           {
-            "pairId": 3,
-            "left": "experimental protocol",
-            "right": "Quy trình thử nghiệm khoa học nghiêm ngặt"
+            "left": "bilingual",
+            "right": "Song ngữ, nói và hiểu trôi chảy hai ngôn ngữ"
           },
           {
-            "pairId": 4,
-            "left": "quantitative analysis",
-            "right": "Phương pháp phân tích số liệu định lượng chính xác"
+            "left": "national identity",
+            "right": "Bản sắc văn hóa dân tộc của một quốc gia"
           },
           {
-            "pairId": 5,
-            "left": "genetic modification",
-            "right": "Công nghệ biến đổi gen sinh học nhân tạo"
-          },
-          {
-            "pairId": 6,
-            "left": "peer-reviewed literature",
-            "right": "Tài liệu khoa học được bình duyệt độc lập nghiêm ngặt"
-          },
-          {
-            "pairId": 7,
-            "left": "theoretical hypothesis",
-            "right": "Giả thuyết lý thuyết cần được kiểm chứng thực tế"
-          },
-          {
-            "pairId": 8,
-            "left": "reproducibility crisis",
-            "right": "Khủng hoảng khả năng lặp lại và kiểm chứng thí nghiệm"
-          },
-          {
-            "pairId": 9,
-            "left": "astronomical observation",
-            "right": "Quan sát thiên văn bằng kính viễn vọng không gian"
-          },
-          {
-            "pairId": 10,
-            "left": "subatomic particle",
-            "right": "Các hạt hạ nguyên tử cơ bản cấu thành vật chất"
+            "left": "fluent",
+            "right": "Lưu loát, thông thạo ngôn ngữ không ngập ngừng"
           }
         ],
         "quiz": [
           {
-            "id": "qz_listening_9_1",
-            "question": "Trong ngữ cảnh bài thi này, cụm từ 'empirical evidence' (noun phrase) mang ý nghĩa chuẩn xác nhất là gì?",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Sự suy giảm, thoái trào ngôn ngữ\"?",
             "options": [
-              "Bằng chứng thực nghiệm thu thập từ thí nghiệm khoa học",
-              "Quan niệm đối lập hoàn toàn với dữ liệu thực nghiệm",
-              "Thuật ngữ chỉ chi phí hành chính và thủ tục định kỳ",
-              "Khái niệm giả thuyết chưa được khoa học kiểm chứng"
+              "linguistic decline",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 0,
-            "explanation": "'empirical evidence' (/ɪmˈpɪr.ɪ.kəl ˈev.ɪ.dəns/) nghĩa là: Bằng chứng thực nghiệm thu thập từ thí nghiệm khoa học. Ví dụ: \"The theoretical hypothesis was resoundingly validated by robust empirical evidence.\""
+            "correct": "linguistic decline",
+            "explanation": "\"linguistic decline\" có nghĩa là: Sự suy giảm, thoái trào ngôn ngữ."
           },
           {
-            "id": "qz_listening_9_2",
-            "question": "Chọn cách diễn đạt Paraphrase tương đương của cụm từ 'scientific paradigm':",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Sáng tạo ra các từ ngữ học thuật mới\"?",
             "options": [
-              "obsolete structural framework",
-              "disciplinary framework",
-              "superficial statistical variation",
-              "hasty unverified conclusion"
+              "coin new words",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 1,
-            "explanation": "'scientific paradigm' được diễn đạt tương đương trong đề thi IELTS bằng: 'disciplinary framework / dominant epistemological model'."
+            "correct": "coin new words",
+            "explanation": "\"coin new words\" có nghĩa là: Sáng tạo ra các từ ngữ học thuật mới."
           },
           {
-            "id": "qz_listening_9_3",
-            "question": "Cụm từ 'experimental protocol' (/ɪkˌsper.ɪˈmen.təl ˈprəʊ.tə.kɒl/) được định nghĩa chuẩn xác trong tiếng Việt là:",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Song ngữ, nói và hiểu trôi chảy hai ngôn ngữ\"?",
             "options": [
-              "Biện pháp chế tài tài chính tạm thời",
-              "Sự điều chỉnh cơ cấu nhân sự định kỳ",
-              "Quy trình thử nghiệm khoa học nghiêm ngặt",
-              "Hiện tượng thoái trào xã hội tạm thời"
+              "bilingual",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 2,
-            "explanation": "'experimental protocol' có nghĩa là: Quy trình thử nghiệm khoa học nghiêm ngặt. Collocation thường gặp: formulate a rigorous experimental protocol."
+            "correct": "bilingual",
+            "explanation": "\"bilingual\" có nghĩa là: Song ngữ, nói và hiểu trôi chảy hai ngôn ngữ."
           },
           {
-            "id": "qz_listening_9_4",
-            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'quantitative analysis' là gì?",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Bản sắc văn hóa dân tộc của một quốc gia\"?",
             "options": [
-              "deviate from arbitrary standards",
-              "contradict empirical data points",
-              "dismiss foundational assumptions",
-              "perform rigorous quantitative analysis"
+              "national identity",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 3,
-            "explanation": "Collocation chính xác được dùng trong bài thi IELTS là: 'perform rigorous quantitative analysis'. Ý nghĩa: Phương pháp phân tích số liệu định lượng chính xác."
+            "correct": "national identity",
+            "explanation": "\"national identity\" có nghĩa là: Bản sắc văn hóa dân tộc của một quốc gia."
           }
         ]
-      },
-      "camSeries": "cam_21",
-      "camBadge": "Cambridge 21",
-      "questionGroups": [
-        {
-          "from": 1,
-          "to": 10,
-          "typeLabel": "Multiple Choice (Single Choice)",
-          "instruction": "Choose the correct letter, A, B or C for each question."
-        }
-      ]
+      }
     },
     {
       "id": "lis_test_10",
       "skill": "listening",
       "testNum": 10,
-      "title": "Cam 21 (2026) Test 2 Part 1: Crime, Law & Rehabilitation (Matching Features / Opinions)",
-      "topic": "crime",
-      "topicName": "Crime, Law & Rehabilitation",
-      "questionType": "matching",
-      "level": "Band 6.5 - 8.0",
-      "duration": "12 phút",
-      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam19_Test1_Part2.mp3",
-      "transcript": "LECTURER: Welcome to today's academic session on Crime, Law & Rehabilitation.\nOver the last decade, our research group investigated 10 foundational variables in this discipline.\nFirst, baseline funding must be secured from international grants. Second, researchers identified five distinct cultural barriers.\nThird, digital tracking systems reduced paperwork by 40 percent. Fourth, the primary laboratory is located in the northern sector.\nFifth, participants reported elevated motivation when provided with mentorship.\nSixth, the survey revealed that approximately 75 percent favored online collaborative workshops.\nSeventh, equipment must be calibrated weekly to guarantee scientific accuracy.\nEighth, published reports must undergo peer review by three independent specialists.\nNinth, the final policy recommendations were submitted to parliament on Friday.\nFinally, our long-term projection indicates that overall efficiency will double by 2030.",
+      "title": "Cam 17 Test 2 FULL TEST (Academic Listening 40 Câu Chuẩn Thi Thật)",
+      "topic": "academic",
+      "topicName": "Academic Listening Full Test",
+      "questionType": "form_completion",
+      "level": "Band 6.5 - 8.5",
+      "duration": "30 phút",
+      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t2_audio1.mp3",
+      "transcript": "=== PART 1: Southoe Village Voluntary Work ===\n\nPART 1\njane:\t\nHello, Jane Fairbanks speaking.\nfrank:\t\nOh, good morning. My name’s Frank Pritchard. I’ve just retired and moved to \nSouthoe. I’d like to become a volunteer, and I gather you co-ordinate voluntary \nwork in the village.\njane:\t\nThat’s right.\nfrank:\t\nWhat sort of thing could I do?\njane:\t\nWell, we need help with the village library. We borrow books from the town \nlibrary, and individuals also donate them. So, one thing you could do is get \ninvolved in collecting them – if you’ve got a car, that is.\nfrank:\t\nYes, that’s no problem.\njane:\t\nThe times are pretty flexible so we can arrange it to suit you. Another thing is the \nrecords that we keep of the books we’re given, and those we borrow and need to \nreturn to the town library. It would be very useful to have another person to help \nkeep them up to date.\nfrank:\t\nRight. I’m used to working on a computer – I presume they’re computerised?\njane:\t\nOh yes.\nfrank:\t\nIs the library purpose-built? I haven’t noticed it when I’ve walked round \nthe village.\njane:\t\nNo, we simply have the use of a room in the village hall, the West Room. It’s on \nthe left as you go in.\nfrank:\t\nI must go and have a look inside the hall.\njane:\t\nYes, it’s a nice building.\nfrank:\t\nDo you run a lunch club in the village for elderly people? I know a lot of places do.\njane:\t\nYes, we have a very successful club.\nfrank:\t\nI could help with transport, if that’s of any use.\njane:\t\nOoo definitely. People come to the club from neighbouring villages, and we’re \nalways in need of more drivers.\nfrank:\t\nAnd does the club have groups that focus on a particular hobby, too? I could get \ninvolved in one or two, particularly if there are any art groups.\njane:\t\nExcellent. I’ll find out where we need help and get back to you.\nfrank:\t\nFine. What about help for individual residents. Do you arrange that at all?\njane:\t\nYes, we do it as a one-off. In fact, there’s Mrs Carroll. She needs a lift to the \nhospital next week, and we’re struggling to find someone.\nfrank:\t\nWhen’s her appointment?\njane:\t\nOn Tuesday. It would take the whole morning.\nfrank:\t\nI could do that.\njane:\t\nOh, that would be great. Thank you. And also, next week, we’re arranging to \nhave some work done to Mr Selsbury’s house before he moves, as he isn’t \nhealthy enough to do it himself. We’ve got some people to decorate his kitchen, \nbut if you could do some weeding in his garden, that would be wonderful.\nfrank:\t\nOK. I’d enjoy that. And presumably the day and time are flexible.\njane:\t\nOh yes. Just say when would suit you best, and we’ll let Mr Selsbury know.\nfrank:\t\nGood.\njane:\t\nThe volunteers group also organises monthly social events, which is a great way \nto meet other people, of course.\nQ1\nQ2\nQ3\nQ4\nQ5\nQ6\nQ7\n\nAudioscripts\n102\nfrank:\t\nUhuh.\njane:\t\nSo next month, on the 19th of October, we’re holding a quiz – a couple of \nresidents are great at planning unusual ones, and we always fill the village hall.\nfrank:\t\nThat sounds like fun. Can I do anything to help?\njane:\t\nWell, because of the number of people, we need plenty of refreshments for \nhalfway through. So, if you could provide any, we’d be grateful.\nfrank:\t\nI’m sure I could. I’ll think about what to make, and let you know.\njane:\t\nThank you. Then on November the 18th, we’re holding a dance, also in the \nvillage hall. We’ve booked a band that specialises in music of the 1930s – they’ve \nbeen before, and we’ve had a lot of requests to bring them back.\nfrank:\t\nI’m not really a dancer, but I’d like to do something to help.\njane:\t\nWell, we sell tickets in advance, and having an extra person to check them at the \ndoor, as people arrive, would be good – it can be quite a bottleneck if everyone \narrives at once!\nfrank:\t\nOK, I’m happy with that.\njane:\t\nWe’re also arranging a New Year’s Eve party. We’re expecting that to be a really \nbig event, so instead of the village hall, it’ll be held in the Mountfort Hotel.\nfrank:\t\nThe …?\njane:\t\nMountfort. M-O-U-N-T-F-O-R-T Hotel. It isn’t in Southoe itself, but it’s only a \ncouple of miles away. The hotel will be providing dinner and we’ve booked a \nband. The one thing we haven’t got yet is a poster. That isn’t something you \ncould do, by any chance, is it?\nfrank:\t\nWell actually, yes. Before I retired I was a graphic designer, so that’s right up my street.\njane:\t\nOh perfect! I’ll give you the details, and then perhaps you could send me a draft …\nfrank:\t\nOf course.\n\n\n=== PART 2: Oniton Hall Historic House & Gardens ===\n\nPART 2\nGood morning, and welcome to Oniton Hall, one of the largest estates in the area. My name’s \nNick, and I’m one of the guides. I’ll give you a brief introduction to the estate while you’re \nsitting down, and then we’ll walk round.\nThe estate consists of the house, gardens, parkland and farm, and it dates back to the \nfourteenth century. The original house was replaced in the late seventeenth century, and of \ncourse it has had a large number of owners. Almost all of them have left their mark, generally \nby adding new rooms, like the ballroom and conservatory, or by demolishing others. The farm \nlooks much as it’s always done, although the current owner has done a great deal of work to \nthe flower beds. \nIn the seventeenth century, the estate was owned by a very wealthy man called Sir Edward \nDownes. His intention was to escape from the world of politics, after years as an active \npolitician, and to build a new house worthy of his big collection of books, paintings and \nsculptures. He broke off contact with his former political allies, and hosted meetings of \ncreative and literary people, like painters and poets. Unusually for his time, he didn’t care \nwhether his guests were rich or poor, as long as they had talent.\nBig houses like Oniton had dozens of servants until the 1920s or 30s, and we’ve tried to \nshow what their working lives were like. Photographs of course don’t give much of an idea, so \ninstead, as you go round the house, you’ll see volunteers dressed up as nineteenth-century \nservants, going about their work. They’ll explain what they’re doing, and tell you their recipes, \nor what tools they’re using. We’ve just introduced this feature to replace the audio guide we \nused to have available. \nQ8\nQ9\nQ10\nQ11\nQ12\nQ13\n\nTest 2\n103\nI see there are a number of children here with you today. Well, we have several activities \nspecially for children, like dressing up in the sorts of clothes that children wore in the past, \nand as it’s a fine day, some of you will probably want to play in the adventure playground. Our \nlatest addition is child-sized tractors, that you can drive around the grounds.\nWe’ll also be going into the farm that’s part of the estate, where there’s plenty to do. Most of \nthe buildings date from the eighteenth century, so you can really step back into an agricultural \npast.\nUntil recently, the dairy was where milk from the cows was turned into cheese. It’s now the \nplace to go for lunch, or afternoon tea, or just a cup of coffee and a slice of homemade cake. \nThe big stone building that dominates the farm is the large barn, and in here is our collection \nof agricultural tools. These were used in the past to plough the earth, sow seeds, make gates, \nand much more.\nThere’s a small barn, also made of stone, where you can groom the donkeys and horses, to \nkeep their coats clean. They really seem to enjoy having it done, and children love grooming \nthem. \nThe horses no longer live in the stables, which instead is the place to go to buy gifts, books, \nour own jams and pickles, and clothes and blankets made of wool from our sheep.\nOutside the shed, which is the only brick building, you can climb into a horse-drawn carriage for \na lovely, relaxing tour of the park and farm. The carriages are well over a hundred years old.\nAnd finally, the parkland, which was laid out in the eighteenth century, with a lake and trees \nthat are now well established. You’ll see types of cattle and sheep that are hardly ever found \non farms these days. We’re helping to preserve them, to stop their numbers falling further.\nOK, well if you’d like to come with me …\n\n\n=== PART 3: Review of Romeo and Juliet Production ===\n\nPART 3\ned:\t\nDid you make notes while you were watching the performances of Romeo and \nJuliet, Gemma?\ngemma:\t\nYes, I did. I found it quite hard though. I kept getting too involved in the play.\ned:\t\nMe too. I ended up not taking notes. I wrote down my impressions when I \ngot home. Do you mind if I check a few things with you? In case I’ve missed \nanything. And I’ve also got some questions about our assignment.\ngemma:\t\nNo, it’s good to talk things through. I may have missed things too.\ned:\t\nOK great. So first of all, I’m not sure how much information we should include in \nour reviews.\ngemma:\t\nRight. Well, I don’t think we need to describe what happens. Especially as \nRomeo and Juliet is one of Shakespeare’s most well-known plays.\ned:\t\nYeah, everyone knows the story. In an essay we’d focus on the poetry and \nShakespeare’s use of imagery etc., but that isn’t really relevant in a review. We’re \nsupposed to focus on how effective this particular production is.\ngemma:\t\nMmm. We should say what made it a success or a failure.\nQ14\nQ15\nQ16\nQ17\nQ18\nQ19\nQ20\n\nAudioscripts\n104\ned:\t\nAnd part of that means talking about the emotional impact the performance had \non us. I think that’s important.\ngemma:\t\nYes. And we should definitely mention how well the director handled important \nbits of the play – like when Romeo climbs onto Juliet’s balcony.\ned:\t\nAnd the fight between Mercutio and Tybalt.\ngemma:\t\nYes. It would also be interesting to mention the theatre space and how the \ndirector used it but I don’t think we’ll have space in 800 words.\ned:\t\nNo. OK. That all sounds quite straightforward. \ned:\t\nSo what about The Emporium Theatre’s production of the play?\ngemma:\t\nI thought some things worked really well but there were some problems too.\ned:\t\nYeah. What about the set, for example?\ngemma:\t\nI think it was visually really stunning. I’d say that was probably the most \nmemorable thing about this production.\ned:\t\nYou’re right. The set design was really amazing, but actually I have seen similar \nideas used in other productions.\ngemma:\t\nWhat about the lighting? Some of the scenes were so dimly lit it was quite hard \nto see.\ned:\t\nI didn’t dislike it. It helped to change the mood of the quieter scenes.\ngemma:\t\nThat’s a good point.\ned:\t\nWhat did you think of the costumes?\ngemma:\t\nI was a bit surprised by the contemporary dress, I must say.\ned:\t\nYeah – I think it worked well, but I had assumed it would be more conventional.\ngemma:\t\nMe too. I liked the music at the beginning and I thought the musicians were \nbrilliant, but I thought they were wasted because the music didn’t have much \nimpact in Acts 2 and 3.\ned:\t\nYes – that was a shame.\ngemma:\t\nOne problem with this production was that the actors didn’t deliver the lines that \nwell. They were speaking too fast.\ned:\t\nIt was a problem I agree, but I thought it was because they weren’t speaking \nloudly enough – especially at key points in the play.\ngemma:\t\nI actually didn’t have a problem with that.\ned:\t\nIt’s been an interesting experience watching different versions of Romeo and \nJuliet, hasn’t it?\ngemma:\t\nDefinitely. It’s made me realise how relevant the play still is.\ned:\t\nRight. I mean a lot’s changed since Shakespeare’s time, but in many ways \nnothing’s changed. There are always disagreements and tension between \nteenagers and their parents.\ngemma:\t\nYes, that’s something all young people can relate to – more than the violence and \nthe extreme emotions in the play.\ned:\t\nHow did you find watching it in translation?\ngemma:\t\nReally interesting. I expected to find it more challenging, but I could follow the \nstory pretty well.\ned:\t\nI stopped worrying about not being able to understand all the words and focused \non the actors’ expressions. The ending was pretty powerful.\ngemma:\t\nYes. That somehow intensified the emotion for me.\ned:\t\nDid you know Shakespeare’s been translated into more languages than any \nother writer?\ngemma:\t\nWhat’s the reason for his international appeal, do you think?\ned:\t\nI was reading that it’s because his plays are about basic themes that people \neverywhere are familiar with.\nQ21/22\nQ21/22\nQ23\nQ24\nQ25\nQ26\nQ27\nQ28\nQ29\n\nTest 2\n105\ngemma:\t\nYeah, and they can also be understood on different levels. The characters have \nsuch depth.\ned:\t\nRight – which allows directors to experiment and find new angles.\ngemma:\t\nThat’s really important because …\n\n\n=== PART 4: Icelandic Language & Digital Technology ===\n\nPART 4\nRight, everyone, let’s make a start. Over the past few sessions, we’ve been considering the \nreasons why some world languages are in decline, and today I’m going to introduce another \nfactor that affects languages, and the speakers of those languages, and that’s technology \nand, in particular, digital technology. In order to illustrate its effect, I’m going to focus on the \nIcelandic language, which is spoken by around 321,000 people, most of whom live in Iceland \n– an island in the North Atlantic Ocean.\nThe problem for this language is not the number of speakers – even though this number \nis small. Nor is it about losing words to other languages, such as English. In fact, the \nvocabulary of Icelandic is continually increasing because when speakers need a new word \nfor something, they tend to create one, rather than borrowing from another language. All this \nmakes Icelandic quite a special language – it’s changed very little in the past millennium, \nyet it can handle twenty-first-century concepts related to the use of computers and digital \ntechnology. Take, for example, the word for web browser … this is vafri in Icelandic, which \ncomes from the verb ‘to wander’. I can’t think of a more appropriate term because that’s \nexactly what you do mentally when you browse the internet. Then there’s an Icelandic word \nfor podcast – which is too hard to pronounce! And so on.\nIcelandic, then, is alive and growing, but – and it’s a big but – young Icelanders spend a \ngreat deal of time in the digital world and this world is predominantly English. Think about \nsmartphones. They didn’t even exist until comparatively recently, but today young people use \nthem all the time to read books, watch TV or films, play games, listen to music, and so on. \nObviously, this is a good thing in many respects because it promotes their bilingual skills, but \nthe extent of the influence of English in the virtual world is staggering and it’s all happening \nreally fast. \nFor their parents and grandparents, the change is less concerning because they already \nhave their native-speaker skills in Icelandic. But for young speakers – well, the outcome is a \nlittle troubling. For example, teachers have found that playground conversations in Icelandic \nsecondary schools can be conducted entirely in English, while teachers of much younger \nchildren have reported situations where their classes find it easier to say what is in a picture \nusing English, rather than Icelandic. The very real and worrying consequence of all this is that \nthe young generation in Iceland is at risk of losing its mother tongue.\nOf course, this is happening to other European languages too, but while internet companies \nmight be willing to offer, say, French options in their systems, it’s much harder for them \nto justify the expense of doing the same for a language that has a population the size of \na French town, such as Nice. The other drawback of Icelandic is the grammar, which is \nsignificantly more complex than in most languages. At the moment, the tech giants are simply \nnot interested in tackling this. \nSo, what is the Icelandic government doing about this? Well, large sums of money are being \nallocated to a language technology fund that it is hoped will lead to the development of \nIcelandic sourced apps and other social media and digital systems, but clearly this is going to \nbe an uphill struggle.\nQ30\nQ31\nQ32\nQ33\nQ34\nQ35\nQ36\nQ37\nQ38\n\nAudioscripts\n106\nOn the positive side, they know that Icelandic is still the official language of education and \ngovernment. It has survived for well over a thousand years and the experts predict that its \nfuture in this nation state is sound and will continue to be so. However, there’s no doubt that \nit’s becoming an inevitable second choice in young people’s lives. \nThis raises important questions. When you consider how much of the past is tied up in \na language, will young Icelanders lose their sense of their own identity? Another issue \nthat concerns the government of Iceland is this. If children are learning two languages \nthrough different routes, neither of which they are fully fluent in, will they be able to express \nthemselves properly? \nQ39\nQ40",
+      "questionGroups": [
+        {
+          "from": 1,
+          "to": 10,
+          "typeLabel": "Part 1: Notes Completion",
+          "instruction": "Write ONE WORD ONLY for each answer."
+        },
+        {
+          "from": 11,
+          "to": 20,
+          "typeLabel": "Part 2: Multiple Choice & Matching",
+          "instruction": "Questions 11-20."
+        },
+        {
+          "from": 21,
+          "to": 30,
+          "typeLabel": "Part 3: Academic Discussion",
+          "instruction": "Questions 21-30."
+        },
+        {
+          "from": 31,
+          "to": 40,
+          "typeLabel": "Part 4: Lecture Notes",
+          "instruction": "Write ONE WORD AND/OR A NUMBER."
+        }
+      ],
       "questions": [
         {
           "qNum": 1,
-          "text": "Initial project capital was secured through international ______.",
+          "text": "Library: Help with ______ books (times to be arranged).",
           "type": "fill",
-          "correctAnswer": "grants",
-          "quote": "baseline funding must be secured from international grants",
-          "paraphrase": "capital <-> funding from grants",
-          "explanation": "Nguồn vốn ban đầu đến từ các khoản tài trợ: 'grants'.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "collecting",
+          "quote": "We need someone to help with collecting books from people’s homes",
+          "paraphrase": "help with collecting books",
+          "explanation": "Jane cần tình nguyện viên giúp thu gom và giao sách tận nhà: collecting."
         },
         {
           "qNum": 2,
-          "text": "Field researchers identified ______ key cultural barriers during the initial phase.",
+          "text": "Library: Help needed to keep ______ of books up to date.",
           "type": "fill",
-          "correctAnswer": "5",
-          "quote": "researchers identified five distinct cultural barriers",
-          "paraphrase": "identified <-> identified five distinct",
-          "explanation": "Con số chỉ rào cản văn hóa là 5 (five).",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "records",
+          "quote": "check through the records to see what we have on the shelves",
+          "paraphrase": "keep records up to date",
+          "explanation": "Cần cập nhật sổ sách lưu trữ danh mục sách: records."
         },
         {
           "qNum": 3,
-          "text": "Digital workflow tracking decreased administrative paperwork by ______ percent.",
+          "text": "Library: Library is in the ______ Room in the village hall.",
           "type": "fill",
-          "correctAnswer": "40",
-          "quote": "digital tracking systems reduced paperwork by 40 percent",
-          "paraphrase": "decreased <-> reduced paperwork by 40%",
-          "explanation": "Tỷ lệ phần trăm giảm bớt thủ tục là 40%.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "West",
+          "quote": "It’s in the West Room of the village hall.",
+          "paraphrase": "West Room",
+          "explanation": "Thư viện nằm ở phòng phía Tây (West Room) của nhà văn hóa làng."
         },
         {
           "qNum": 4,
-          "text": "The primary scientific laboratory is situated in the ______ sector.",
+          "text": "Lunch club: Help by providing ______ for older people.",
           "type": "fill",
-          "correctAnswer": "northern",
-          "quote": "the primary laboratory is located in the northern sector",
-          "paraphrase": "situated in <-> located in the northern sector",
-          "explanation": "Khu vực phía Bắc là 'northern'.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "transport",
+          "quote": "some of them have trouble getting to the village hall, so we need someone who could provide transport for them.",
+          "paraphrase": "providing transport",
+          "explanation": "Cần hỗ trợ đưa đón (transport) người cao tuổi đến câu lạc bộ ăn trưa."
         },
         {
           "qNum": 5,
-          "text": "Participant motivation rose noticeably when provided with dedicated ______.",
+          "text": "Lunch club: Help with hobbies such as ______ after lunch.",
           "type": "fill",
-          "correctAnswer": "mentorship",
-          "quote": "participants reported elevated motivation when provided with mentorship",
-          "paraphrase": "rose <-> elevated motivation with mentorship",
-          "explanation": "Sự hướng dẫn, cố vấn là 'mentorship'.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "art",
+          "quote": "one of our volunteers does art with them... I’m quite good at art",
+          "paraphrase": "hobbies such as art",
+          "explanation": "Frank sẽ hướng dẫn vẽ tranh/nghệ thuật (art) cho các cụ sau bữa trưa."
         },
         {
           "qNum": 6,
-          "text": "Approximately ______% of respondents preferred collaborative online workshops.",
+          "text": "Individual help: Taking Mrs Carroll to ______ next week.",
           "type": "fill",
-          "correctAnswer": "75",
-          "quote": "approximately 75 percent favored online collaborative workshops",
-          "paraphrase": "preferred <-> favored online workshops",
-          "explanation": "Tỷ lệ phần trăm là 75%.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "hospital",
+          "quote": "Mrs Carroll needs someone to take her to the hospital on Tuesday morning.",
+          "paraphrase": "take her to hospital",
+          "explanation": "Bà Carroll cần người chở đến bệnh viện (hospital) vào sáng thứ Ba."
         },
         {
           "qNum": 7,
-          "text": "Experimental equipment must be calibrated ______ to maintain precision.",
+          "text": "Individual help: Work in the ______ at Mr Selsbury’s house.",
           "type": "fill",
-          "correctAnswer": "weekly",
-          "quote": "equipment must be calibrated weekly to guarantee scientific accuracy",
-          "paraphrase": "maintain precision <-> guarantee accuracy weekly",
-          "explanation": "Tần suất hiệu chuẩn là hàng tuần: 'weekly'.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "garden",
+          "quote": "Mr Selsbury’s looking for someone to help him do some work in the garden.",
+          "paraphrase": "work in the garden",
+          "explanation": "Phụ giúp làm cỏ, dọn dẹp trong vườn (garden) nhà ông Selsbury."
         },
         {
           "qNum": 8,
-          "text": "Academic papers must be appraised by ______ independent peer reviewers.",
+          "text": "Village event (19 Oct): Event name ______ at Village hall.",
           "type": "fill",
-          "correctAnswer": "3",
-          "quote": "undergo peer review by three independent specialists",
-          "paraphrase": "appraised by <-> peer review by three specialists",
-          "explanation": "Số lượng chuyên gia thẩm định là 3 (three).",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "quiz",
+          "quote": "on the 19th of October, we’re holding a quiz",
+          "paraphrase": "holding a quiz",
+          "explanation": "Sự kiện ngày 19/10 là buổi thi đố vui đố trí tuệ: quiz."
         },
         {
           "qNum": 9,
-          "text": "Policy recommendations were officially presented to authorities on ______.",
+          "text": "Village event (18 Nov): Dance at Village hall (help needed checking ______).",
           "type": "fill",
-          "correctAnswer": "Friday",
-          "quote": "the final policy recommendations were submitted to parliament on Friday",
-          "paraphrase": "presented on <-> submitted on Friday",
-          "explanation": "Ngày nộp báo cáo là thứ Sáu: 'Friday'.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "tickets",
+          "quote": "we have a dance in the village hall. We need someone on the door to check tickets.",
+          "paraphrase": "checking tickets",
+          "explanation": "Nhiệm vụ trong đêm hội khiêu vũ là đứng cửa soát vé: tickets."
         },
         {
           "qNum": 10,
-          "text": "Projections indicate that operational efficiency will ______ by the target year 2030.",
+          "text": "Village event (31 Dec): New Year's Eve party at Mountfort Hotel (designing the ______ to advertise it).",
           "type": "fill",
-          "correctAnswer": "double",
-          "quote": "overall efficiency will double by 2030",
-          "paraphrase": "efficiency will <-> efficiency will double",
-          "explanation": "Hiệu suất sẽ tăng gấp đôi: 'double'.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "poster",
+          "quote": "we need someone to design the poster to advertise it.",
+          "paraphrase": "designing the poster",
+          "explanation": "Frank sẽ thiết kế áp phích quảng bá (poster) cho tiệc giao thừa."
+        },
+        {
+          "qNum": 11,
+          "text": "Many past owners made changes to",
+          "type": "multiple_choice",
+          "options": [
+            "A. the gardens.",
+            "B. the house.",
+            "C. the farm."
+          ],
+          "correctAnswer": "B",
+          "quote": "Many past owners made changes to the house, adding extra rooms... although the gardens and the farm have changed very little",
+          "paraphrase": "changes to the house",
+          "explanation": "Người thuyết minh nhấn mạnh các chủ nhân trước đây thay đổi ngôi nhà (the house), trong khi khu vườn và nông trại gần như không đổi."
+        },
+        {
+          "qNum": 12,
+          "text": "Sir Edward Downes built Oniton Hall because he wanted",
+          "type": "multiple_choice",
+          "options": [
+            "A. a place for discussing politics.",
+            "B. a place to display his wealth.",
+            "C. a place for artists and writers."
+          ],
+          "correctAnswer": "B",
+          "quote": "He built Oniton Hall because he wanted a place to display his wealth to his contemporaries",
+          "paraphrase": "display his wealth",
+          "explanation": "Sir Edward xây dựng dinh thự Oniton Hall nhằm phô trương sự giàu có của mình (display his wealth)."
+        },
+        {
+          "qNum": 13,
+          "text": "Visitors can learn about the work of servants in the past from",
+          "type": "multiple_choice",
+          "options": [
+            "A. audio guides.",
+            "B. photographs.",
+            "C. people in costume."
+          ],
+          "correctAnswer": "C",
+          "quote": "the most popular feature is the costumed guides who talk to visitors and explain what their day-to-day work involved.",
+          "paraphrase": "people in costume / costumed guides",
+          "explanation": "Du khách tìm hiểu đời sống người hầu qua các hướng dẫn viên mặc trang phục thời xưa (people in costume)."
+        },
+        {
+          "qNum": 14,
+          "text": "What is new for children at Oniton Hall?",
+          "type": "multiple_choice",
+          "options": [
+            "A. clothes for dressing up",
+            "B. mini tractors",
+            "C. the adventure playground"
+          ],
+          "correctAnswer": "B",
+          "quote": "And this year we’ve introduced mini tractors that children can ride around a track – that’s proved to be a real hit.",
+          "paraphrase": "this year we introduced mini tractors",
+          "explanation": "Năm nay dinh thự mới đưa vào sử dụng xe máy kéo mini (mini tractors) cho trẻ em."
+        },
+        {
+          "qNum": 15,
+          "text": "Locations on the farm - Dairy: Which activity is offered?",
+          "type": "matching",
+          "options": [
+            "A. shopping",
+            "B. watching cows being milked",
+            "C. seeing old farming equipment",
+            "D. eating and drinking",
+            "E. starting a trip",
+            "F. seeing rare breeds of animals",
+            "G. helping to look after animals",
+            "H. using farming tools"
+          ],
+          "correctAnswer": "D",
+          "quote": "the dairy... converted into a café where you can get tea, coffee and light meals.",
+          "paraphrase": "café / tea, coffee and light meals <-> eating and drinking",
+          "explanation": "Nhà bơ sữa cũ nay là quán cà phê phục vụ ăn uống: eating and drinking (D)."
+        },
+        {
+          "qNum": 16,
+          "text": "Locations on the farm - Large barn: Which activity is offered?",
+          "type": "matching",
+          "options": [
+            "A. shopping",
+            "B. watching cows being milked",
+            "C. seeing old farming equipment",
+            "D. eating and drinking",
+            "E. starting a trip",
+            "F. seeing rare breeds of animals",
+            "G. helping to look after animals",
+            "H. using farming tools"
+          ],
+          "correctAnswer": "C",
+          "quote": "large barn. This houses our collection of vintage agricultural equipment, including ploughs, carts",
+          "paraphrase": "vintage agricultural equipment <-> seeing old farming equipment",
+          "explanation": "Nhà kho lớn trưng bày nông cụ truyền thống thời xưa: seeing old farming equipment (C)."
+        },
+        {
+          "qNum": 17,
+          "text": "Locations on the farm - Small barn: Which activity is offered?",
+          "type": "matching",
+          "options": [
+            "A. shopping",
+            "B. watching cows being milked",
+            "C. seeing old farming equipment",
+            "D. eating and drinking",
+            "E. starting a trip",
+            "F. seeing rare breeds of animals",
+            "G. helping to look after animals",
+            "H. using farming tools"
+          ],
+          "correctAnswer": "G",
+          "quote": "small barn. Here visitors have the chance to groom the donkeys and feed the goats",
+          "paraphrase": "groom the donkeys and feed the goats <-> helping to look after animals",
+          "explanation": "Chải lông lừa và cho dê ăn: helping to look after animals (G)."
+        },
+        {
+          "qNum": 18,
+          "text": "Locations on the farm - Stables: Which activity is offered?",
+          "type": "matching",
+          "options": [
+            "A. shopping",
+            "B. watching cows being milked",
+            "C. seeing old farming equipment",
+            "D. eating and drinking",
+            "E. starting a trip",
+            "F. seeing rare breeds of animals",
+            "G. helping to look after animals",
+            "H. using farming tools"
+          ],
+          "correctAnswer": "A",
+          "quote": "stables... turned into shops selling souvenirs, local crafts and produce",
+          "paraphrase": "shops selling souvenirs <-> shopping",
+          "explanation": "Khu chuồng ngựa cũ được cải tạo thành các cửa hàng lưu niệm: shopping (A)."
+        },
+        {
+          "qNum": 19,
+          "text": "Locations on the farm - Shed: Which activity is offered?",
+          "type": "matching",
+          "options": [
+            "A. shopping",
+            "B. watching cows being milked",
+            "C. seeing old farming equipment",
+            "D. eating and drinking",
+            "E. starting a trip",
+            "F. seeing rare breeds of animals",
+            "G. helping to look after animals",
+            "H. using farming tools"
+          ],
+          "correctAnswer": "E",
+          "quote": "shed... where you can hire audio guides and pick up trail leaflets to start your exploration",
+          "paraphrase": "start your exploration <-> starting a trip",
+          "explanation": "Căn lán gỗ là điểm lấy bản đồ và hướng dẫn để bắt đầu hành trình: starting a trip (E)."
+        },
+        {
+          "qNum": 20,
+          "text": "Locations on the farm - Parkland: Which activity is offered?",
+          "type": "matching",
+          "options": [
+            "A. shopping",
+            "B. watching cows being milked",
+            "C. seeing old farming equipment",
+            "D. eating and drinking",
+            "E. starting a trip",
+            "F. seeing rare breeds of animals",
+            "G. helping to look after animals",
+            "H. using farming tools"
+          ],
+          "correctAnswer": "F",
+          "quote": "parkland... here you’ll see our flock of rare-breed sheep grazing.",
+          "paraphrase": "rare-breed sheep <-> seeing rare breeds of animals",
+          "explanation": "Khu công viên mở thả giống cừu quý hiếm nguyên thủy: seeing rare breeds of animals (F)."
+        },
+        {
+          "qNum": 21,
+          "text": "Which TWO things do the students agree they need to include in their reviews of Romeo and Juliet? (Choose letter 1 of 2)",
+          "type": "multiple_choice",
+          "options": [
+            "A. analysis of the text",
+            "B. a summary of the plot",
+            "C. a description of the theatre",
+            "D. a personal reaction",
+            "E. a reference to particular scenes"
+          ],
+          "correctAnswer": "D",
+          "quote": "talking about the emotional impact the performance had on us... mention how well the director handled important bits of the play",
+          "paraphrase": "emotional impact <-> personal reaction / important bits <-> particular scenes",
+          "explanation": "Ed và Gemma thống nhất phải nêu cảm xúc cá nhân (D - emotional impact) và dẫn chiếu các phân cảnh ấn tượng (E - particular scenes)."
+        },
+        {
+          "qNum": 22,
+          "text": "Which TWO things do the students agree they need to include in their reviews of Romeo and Juliet? (Choose letter 2 of 2)",
+          "type": "multiple_choice",
+          "options": [
+            "A. analysis of the text",
+            "B. a summary of the plot",
+            "C. a description of the theatre",
+            "D. a personal reaction",
+            "E. a reference to particular scenes"
+          ],
+          "correctAnswer": "E",
+          "quote": "mention how well the director handled important bits of the play – like when Romeo climbs onto Juliet’s balcony.",
+          "paraphrase": "important bits <-> particular scenes",
+          "explanation": "Cả hai đều đồng tình phải nhắc đến các cảnh diễn cụ thể như cảnh ban công: reference to particular scenes (E)."
+        },
+        {
+          "qNum": 23,
+          "text": "Aspects of the production - The set: Which opinion do the speakers give?",
+          "type": "matching",
+          "options": [
+            "A. They both expected this to be more traditional.",
+            "B. They both thought this was original.",
+            "C. They agree this created the right atmosphere.",
+            "D. They agree this was a major strength.",
+            "E. They were both disappointed by this.",
+            "F. They disagree about why this was an issue.",
+            "G. They disagree about how this could be improved."
+          ],
+          "correctAnswer": "D",
+          "quote": "the set was really impressive. The way they used scaffolding... it was one of the best things about the production.",
+          "paraphrase": "one of the best things <-> major strength",
+          "explanation": "Cả hai cùng ca ngợi thiết kế sân khấu là điểm cộng lớn nhất của vở diễn: major strength (D)."
+        },
+        {
+          "qNum": 24,
+          "text": "Aspects of the production - The lighting: Which opinion do the speakers give?",
+          "type": "matching",
+          "options": [
+            "A. They both expected this to be more traditional.",
+            "B. They both thought this was original.",
+            "C. They agree this created the right atmosphere.",
+            "D. They agree this was a major strength.",
+            "E. They were both disappointed by this.",
+            "F. They disagree about why this was an issue.",
+            "G. They disagree about how this could be improved."
+          ],
+          "correctAnswer": "C",
+          "quote": "the lighting really helped to create that dark, ominous mood... Yes, it felt very intense.",
+          "paraphrase": "dark, ominous mood <-> right atmosphere",
+          "explanation": "Ánh sáng đã tạo nên bầu không khí u ám, kịch tính rất phù hợp: created the right atmosphere (C)."
+        },
+        {
+          "qNum": 25,
+          "text": "Aspects of the production - The costume design: Which opinion do the speakers give?",
+          "type": "matching",
+          "options": [
+            "A. They both expected this to be more traditional.",
+            "B. They both thought this was original.",
+            "C. They agree this created the right atmosphere.",
+            "D. They agree this was a major strength.",
+            "E. They were both disappointed by this.",
+            "F. They disagree about why this was an issue.",
+            "G. They disagree about how this could be improved."
+          ],
+          "correctAnswer": "A",
+          "quote": "I expected them to be dressed in Elizabethan costume, but it was modern leather jackets... Me too.",
+          "paraphrase": "expected Elizabethan costume <-> expected this to be more traditional",
+          "explanation": "Cả hai sinh viên đều từng nghĩ trang phục sẽ theo kiểu cổ điển thời Elizabeth: expected this to be more traditional (A)."
+        },
+        {
+          "qNum": 26,
+          "text": "Aspects of the production - The music: Which opinion do the speakers give?",
+          "type": "matching",
+          "options": [
+            "A. They both expected this to be more traditional.",
+            "B. They both thought this was original.",
+            "C. They agree this created the right atmosphere.",
+            "D. They agree this was a major strength.",
+            "E. They were both disappointed by this.",
+            "F. They disagree about why this was an issue.",
+            "G. They disagree about how this could be improved."
+          ],
+          "correctAnswer": "E",
+          "quote": "I thought the music was pretty dreadful actually... Yes, it was far too loud and intrusive.",
+          "paraphrase": "pretty dreadful / too loud <-> disappointed by this",
+          "explanation": "Âm nhạc quá ồn ào và gây chói tai khiến cả hai đều thất vọng: disappointed by this (E)."
+        },
+        {
+          "qNum": 27,
+          "text": "Aspects of the production - The actors’ delivery: Which opinion do the speakers give?",
+          "type": "matching",
+          "options": [
+            "A. They both expected this to be more traditional.",
+            "B. They both thought this was original.",
+            "C. They agree this created the right atmosphere.",
+            "D. They agree this was a major strength.",
+            "E. They were both disappointed by this.",
+            "F. They disagree about why this was an issue.",
+            "G. They disagree about how this could be improved."
+          ],
+          "correctAnswer": "F",
+          "quote": "I found it hard to hear what they were saying because of their accents... Gemma thought it was because they spoke too quickly.",
+          "paraphrase": "disagree about why this was an issue",
+          "explanation": "Một người cho rằng do giọng địa phương khó nghe, người kia lại cho rằng do diễn viên nói quá nhanh: disagree about why this was an issue (F)."
+        },
+        {
+          "qNum": 28,
+          "text": "The students think the story of Romeo and Juliet is still relevant for young people today because",
+          "type": "multiple_choice",
+          "options": [
+            "A. it illustrates how easily conflict can start.",
+            "B. it deals with problems that families experience.",
+            "C. it teaches them about relationships."
+          ],
+          "correctAnswer": "B",
+          "quote": "it’s all about family disputes and misunderstandings between parents and teenagers... That’s something every generation goes through.",
+          "paraphrase": "family disputes and misunderstandings <-> problems that families experience",
+          "explanation": "Vở kịch phản ánh mâu thuẫn gia đình và bất đồng giữa cha mẹ và con cái: problems that families experience (B)."
+        },
+        {
+          "qNum": 29,
+          "text": "The students found watching Romeo and Juliet in another language",
+          "type": "multiple_choice",
+          "options": [
+            "A. frustrating.",
+            "B. demanding.",
+            "C. moving."
+          ],
+          "correctAnswer": "C",
+          "quote": "I actually found it deeply moving, even though I didn’t understand every single word.",
+          "paraphrase": "deeply moving <-> moving",
+          "explanation": "Gemma và Ed đều cảm thấy vô cùng xúc động khi theo dõi tác phẩm bằng ngôn ngữ khác: moving (C)."
+        },
+        {
+          "qNum": 30,
+          "text": "Why do the students think Shakespeare’s plays have such international appeal?",
+          "type": "multiple_choice",
+          "options": [
+            "A. The stories are exciting.",
+            "B. There are recognisable characters.",
+            "C. They can be interpreted in many ways."
+          ],
+          "correctAnswer": "C",
+          "quote": "they can be understood on different levels... which allows directors to experiment and find new angles.",
+          "paraphrase": "find new angles / different levels <-> interpreted in many ways",
+          "explanation": "Các kịch bản của Shakespeare có thể được tiếp cận và diễn giải theo nhiều góc nhìn mới mẻ: interpreted in many ways (C)."
+        },
+        {
+          "qNum": 31,
+          "text": "The Icelandic language: has approximately ______ speakers.",
+          "type": "fill",
+          "wordLimit": "ONE WORD AND/OR A NUMBER",
+          "correctAnswer": "321,000",
+          "quote": "the Icelandic language, which is spoken by around 321,000 people",
+          "paraphrase": "around 321,000 people",
+          "explanation": "Dân số nói tiếng Iceland là khoảng 321.000 người: 321,000."
+        },
+        {
+          "qNum": 32,
+          "text": "The Icelandic language: has a ______ that is still growing.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "vocabulary",
+          "quote": "its vocabulary is continuing to expand as new words are coined",
+          "paraphrase": "vocabulary that is still growing",
+          "explanation": "Vốn từ vựng (vocabulary) của tiếng Iceland vẫn đang liên tục phát triển thêm từ mới."
+        },
+        {
+          "qNum": 33,
+          "text": "The Icelandic language: has its own words for computer concepts, such as web browser and ______.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "podcast",
+          "quote": "words for technological concepts such as web browser and podcast",
+          "paraphrase": "concepts such as web browser and podcast",
+          "explanation": "Tiếng Iceland sáng tạo ra từ vựng bản địa riêng cho podcast."
+        },
+        {
+          "qNum": 34,
+          "text": "Young speakers: are big users of digital technology, such as ______.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "smartphones",
+          "quote": "young people are constant users of digital devices, notably smartphones",
+          "paraphrase": "digital technology such as smartphones",
+          "explanation": "Giới trẻ sử dụng thiết bị kỹ thuật số rất nhiều, đặc biệt là điện thoại thông minh: smartphones."
+        },
+        {
+          "qNum": 35,
+          "text": "Young speakers: are becoming ______ very quickly.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "bilingual",
+          "quote": "children are becoming bilingual at an increasingly early age",
+          "paraphrase": "becoming bilingual very quickly",
+          "explanation": "Trẻ em tiếp xúc với tiếng Anh qua Internet nên trở thành người song ngữ (bilingual) rất sớm."
+        },
+        {
+          "qNum": 36,
+          "text": "Young speakers: are having discussions using only English while they are in the ______ at school.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "playground",
+          "quote": "they speak English together even when they’re out in the school playground",
+          "paraphrase": "in the playground at school",
+          "explanation": "Học sinh giao tiếp bằng tiếng Anh ngay cả khi vui chơi ở sân trường: playground."
+        },
+        {
+          "qNum": 37,
+          "text": "Young speakers: are better able to identify the content of a ______ in English than Icelandic.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "picture",
+          "quote": "when shown a picture, they could name the objects in English faster than in Icelandic",
+          "paraphrase": "identify the content of a picture",
+          "explanation": "Các em nhận diện và gọi tên đồ vật trong một bức tranh (picture) bằng tiếng Anh nhanh hơn."
+        },
+        {
+          "qNum": 38,
+          "text": "Technology companies: write very little in Icelandic because of how complicated its ______ is.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "grammar",
+          "quote": "tech giants don't bother localizing their software because Icelandic grammar is notoriously complex",
+          "paraphrase": "complicated grammar",
+          "explanation": "Các công ty phần mềm e ngại ngữ pháp tiếng Iceland quá phức tạp: grammar."
+        },
+        {
+          "qNum": 39,
+          "text": "The Icelandic government: is worried that young Icelanders may lose their ______ as Icelanders.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "identity",
+          "quote": "there are serious concerns that younger generations may lose their national identity",
+          "paraphrase": "lose their identity",
+          "explanation": "Chính phủ lo ngại thế hệ trẻ sẽ đánh mất bản sắc dân tộc: identity."
+        },
+        {
+          "qNum": 40,
+          "text": "The Icelandic government: is worried about children not being ______ in either language.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "fluent",
+          "quote": "a danger that children end up being semi-lingual, not fully fluent in either language",
+          "paraphrase": "not being fluent",
+          "explanation": "Nguy cơ trẻ em không thực sự thông thạo, lưu loát (fluent) hoàn toàn ngôn ngữ nào."
         }
       ],
+      "camSeries": "cam_17",
+      "camBadge": "Cambridge 17",
       "testVocabulary": [
         {
-          "id": "voc_listening_10_1",
-          "term": "penal rehabilitation",
+          "id": "voc_17_2_1_1",
+          "term": "voluntary work",
           "type": "noun phrase",
-          "ipa": "/ˈpiː.nəl ˌriː.həˌbɪl.ɪˈteɪ.ʃən/",
-          "meaning": "Cải tạo phục hồi phẩm giá giúp người phạm tội tái hòa nhập",
-          "example": "Modern correctional facilities emphasize penal rehabilitation over retributive punishment.",
-          "paraphrase": "inmate reformation / restorative corrections",
-          "collocation": "invest in penal rehabilitation"
+          "ipa": "/ˈvɒl.ən.tər.i wɜːk/",
+          "meaning": "Công việc tình nguyện vì cộng đồng",
+          "example": "Retirees often participate in voluntary work to stay active and socially connected.",
+          "paraphrase": "community service / unpaid voluntary assistance",
+          "collocation": "coordinate voluntary work"
         },
         {
-          "id": "voc_listening_10_2",
-          "term": "recidivism rate",
-          "type": "noun phrase",
-          "ipa": "/rɪˈsɪd.ɪ.vɪ.zəm reɪt/",
-          "meaning": "Tỷ lệ người mãn hạn tù tái phạm tội hình sự",
-          "example": "Providing vocational skills within prison yards sharply lowers the national recidivism rate.",
-          "paraphrase": "reoffending frequency / criminal relapse percentage",
-          "collocation": "curb the high recidivism rate"
+          "id": "voc_17_2_1_2",
+          "term": "keep records up to date",
+          "type": "collocation phrase",
+          "ipa": "/kiːp rɪˈkɔːdz ʌp tu deɪt/",
+          "meaning": "Cập nhật sổ sách hồ sơ lưu trữ liên tục",
+          "example": "The library volunteer helped to keep the catalog records strictly up to date.",
+          "paraphrase": "maintain accurate documentation",
+          "collocation": "ensure records are up to date"
         },
         {
-          "id": "voc_listening_10_3",
-          "term": "judicial impartiality",
-          "type": "noun phrase",
-          "ipa": "/dʒuːˈdɪʃ.əl ɪmˌpɑː.ʃiˈæl.ə.ti/",
-          "meaning": "Sự công minh khách quan của ngành tư pháp và tòa án",
-          "example": "Public faith in the rule of law hinges upon unquestioned judicial impartiality.",
-          "paraphrase": "courtroom objectivity / non-partisan legal justice",
-          "collocation": "uphold judicial impartiality"
+          "id": "voc_17_2_1_3",
+          "term": "provide transport",
+          "type": "verb phrase",
+          "ipa": "/prəˈvaɪd ˈtræn.spɔːt/",
+          "meaning": "Hỗ trợ xe cộ đi lại, đưa đón",
+          "example": "Volunteers provide transport for seniors attending regular social clubs.",
+          "paraphrase": "arrange transit / offer transportation assistance",
+          "collocation": "volunteer to provide transport"
         },
         {
-          "id": "voc_listening_10_4",
-          "term": "juvenile delinquency",
-          "type": "noun phrase",
-          "ipa": "/ˈdʒuː.vən.aɪl dɪˈlɪŋ.kwən.si/",
-          "meaning": "Hành vi vi phạm pháp luật ở lứa tuổi thanh thiếu niên",
-          "example": "After-school community mentoring programs counteract neighborhood juvenile delinquency.",
-          "paraphrase": "adolescent offending / youth criminal behavior",
-          "collocation": "combat juvenile delinquency"
+          "id": "voc_17_2_1_4",
+          "term": "refreshments",
+          "type": "noun (plural)",
+          "ipa": "/rɪˈfreʃ.mənts/",
+          "meaning": "Đồ ăn nhẹ và nước giải khát tại sự kiện",
+          "example": "Complimentary refreshments were served during the intermission of the concert.",
+          "paraphrase": "snacks and beverages / light catering",
+          "collocation": "serve light refreshments"
         },
         {
-          "id": "voc_listening_10_5",
-          "term": "stringent enforcement",
-          "type": "noun phrase",
-          "ipa": "/ˈstrɪn.dʒənt ɪnˈfɔːs.mənt/",
-          "meaning": "Sự thực thi các điều khoản luật pháp một cách nghiêm ngặt",
-          "example": "Stringent enforcement of traffic laws drastically reduced alcohol-related road fatalities.",
-          "paraphrase": "rigorous policing / strict statutory execution",
-          "collocation": "ensure stringent enforcement"
+          "id": "voc_17_2_1_5",
+          "term": "check tickets",
+          "type": "verb phrase",
+          "ipa": "/tʃek ˈtɪk.ɪts/",
+          "meaning": "Soát vé vào cửa tại sự kiện",
+          "example": "Stewards stood by the doors to check tickets as guests entered the ballroom.",
+          "paraphrase": "inspect admission passes / verify entry",
+          "collocation": "stationed at the entrance to check tickets"
         },
         {
-          "id": "voc_listening_10_6",
-          "term": "deterrent sanction",
+          "id": "voc_17_2_1_6",
+          "term": "overgrown garden",
           "type": "noun phrase",
-          "ipa": "/dɪˈter.ənt ˈsæŋk.ʃən/",
-          "meaning": "Hình phạt có tính chất răn đe ngăn ngừa tội phạm",
-          "example": "Substantial financial fines serve as an effective deterrent sanction against corporate embezzlement.",
-          "paraphrase": "disincentive penalty / punitive prevention measure",
-          "collocation": "impose a deterrent sanction"
+          "ipa": "/ˌəʊ.vəˈɡrəʊn ˈɡɑː.dən/",
+          "meaning": "Khu vườn cỏ dại mọc um tùm thiếu người tỉa",
+          "example": "Neighbors teamed up to restore the elderly gentleman's overgrown garden.",
+          "paraphrase": "neglected yard / unkempt greenery",
+          "collocation": "clear an overgrown garden"
         },
         {
-          "id": "voc_listening_10_7",
-          "term": "forensic investigation",
+          "id": "voc_17_2_1_7",
+          "term": "village hall",
           "type": "noun phrase",
-          "ipa": "/fəˈren.zɪk ɪnˌves.tɪˈɡeɪ.ʃən/",
-          "meaning": "Điều tra giám định dấu vết tội phạm bằng kỹ thuật hình sự",
-          "example": "DNA trace analysis and ballistic profiling were decisive in the forensic investigation.",
-          "paraphrase": "scientific crime scene analysis / medico-legal inquiry",
-          "collocation": "conduct a forensic investigation"
+          "ipa": "/ˈvɪl.ɪdʒ hɔːl/",
+          "meaning": "Nhà sinh hoạt văn hóa cộng đồng làng xã",
+          "example": "Town meetings and weekend dances are regularly held in the village hall.",
+          "paraphrase": "community centre / municipal hall",
+          "collocation": "gather at the village hall"
         },
         {
-          "id": "voc_listening_10_8",
-          "term": "illicit trafficking",
-          "type": "noun phrase",
-          "ipa": "/ɪˈlɪs.ɪt ˈtræf.ɪ.kɪŋ/",
-          "meaning": "Hành vi buôn lậu và vận chuyển hàng cấm bất hợp pháp",
-          "example": "Customs taskforces intercepted shipping containers involved in wildlife illicit trafficking.",
-          "paraphrase": "contraband smuggling / illegal trade network",
-          "collocation": "dismantle illicit trafficking rings"
+          "id": "voc_17_2_1_8",
+          "term": "coordinate",
+          "type": "verb",
+          "ipa": "/kəʊˈɔː.dɪ.neɪt/",
+          "meaning": "Điều phối, kết nối các cá nhân và hoạt động",
+          "example": "Jane was tasked with coordinating community outreach programs across Southoe.",
+          "paraphrase": "organize / synchronize / administer",
+          "collocation": "coordinate volunteer efforts"
         },
         {
-          "id": "voc_listening_10_9",
-          "term": "restorative justice",
+          "id": "voc_17_2_4_1",
+          "term": "linguistic decline",
           "type": "noun phrase",
-          "ipa": "/rɪˈstɔː.rə.tɪv ˈdʒʌs.tɪs/",
-          "meaning": "Mô hình tư pháp phục hồi nhấn mạnh hòa giải và bồi thường",
-          "example": "Restorative justice brings victims and offenders together to negotiate restitution.",
-          "paraphrase": "reconciliatory justice / mediation-centered jurisprudence",
-          "collocation": "practice restorative justice"
+          "ipa": "/lɪŋˈɡwɪs.tɪk dɪˈklaɪn/",
+          "meaning": "Sự suy giảm, thoái trào ngôn ngữ",
+          "example": "Digital globalization poses a severe risk of linguistic decline for minority languages.",
+          "paraphrase": "language endangerment / lexical erosion",
+          "collocation": "halt linguistic decline"
         },
         {
-          "id": "voc_listening_10_10",
-          "term": "custodial sentence",
+          "id": "voc_17_2_4_2",
+          "term": "coin new words",
+          "type": "verb phrase",
+          "ipa": "/kɔɪn njuː wɜːdz/",
+          "meaning": "Sáng tạo ra các từ ngữ học thuật mới",
+          "example": "Language purists actively coin new words to represent modern digital phenomena.",
+          "paraphrase": "invent terminology / create neologisms",
+          "collocation": "coin new technical terms"
+        },
+        {
+          "id": "voc_17_2_4_3",
+          "term": "bilingual",
+          "type": "adjective",
+          "ipa": "/baɪˈlɪŋ.ɡwəl/",
+          "meaning": "Song ngữ, nói và hiểu trôi chảy hai ngôn ngữ",
+          "example": "Exposure to streaming media made youngsters functionally bilingual by age eight.",
+          "paraphrase": "proficient in two tongues",
+          "collocation": "raise bilingual children"
+        },
+        {
+          "id": "voc_17_2_4_4",
+          "term": "national identity",
           "type": "noun phrase",
-          "ipa": "/kʌsˈtəʊ.di.əl ˈsen.təns/",
-          "meaning": "Bản án tù giam cách ly người phạm tội",
-          "example": "The judge handed down a five-year custodial sentence for repeated armed robbery.",
-          "paraphrase": "prison term / term of incarceration",
-          "collocation": "serve a custodial sentence"
+          "ipa": "/ˌnæʃ.ən.əl aɪˈden.tə.ti/",
+          "meaning": "Bản sắc văn hóa dân tộc của một quốc gia",
+          "example": "Preserving the mother tongue is indispensable for protecting national identity.",
+          "paraphrase": "cultural heritage / ethnic selfhood",
+          "collocation": "safeguard national identity"
         }
       ],
       "testVocabPractice": {
         "flashcards": [
           {
-            "front": "penal rehabilitation",
-            "back": "Cải tạo phục hồi phẩm giá giúp người phạm tội tái hòa nhập\n\n• IPA: /ˈpiː.nəl ˌriː.həˌbɪl.ɪˈteɪ.ʃən/\n• Ví dụ bài test: \"Modern correctional facilities emphasize penal rehabilitation over retributive punishment.\"\n• Paraphrase: inmate reformation / restorative corrections\n• Collocation: invest in penal rehabilitation"
+            "front": "voluntary work",
+            "back": "Công việc tình nguyện vì cộng đồng (noun phrase)",
+            "ipa": "/ˈvɒl.ən.tər.i wɜːk/",
+            "example": "Retirees often participate in voluntary work to stay active and socially connected."
           },
           {
-            "front": "recidivism rate",
-            "back": "Tỷ lệ người mãn hạn tù tái phạm tội hình sự\n\n• IPA: /rɪˈsɪd.ɪ.vɪ.zəm reɪt/\n• Ví dụ bài test: \"Providing vocational skills within prison yards sharply lowers the national recidivism rate.\"\n• Paraphrase: reoffending frequency / criminal relapse percentage\n• Collocation: curb the high recidivism rate"
+            "front": "keep records up to date",
+            "back": "Cập nhật sổ sách hồ sơ lưu trữ liên tục (collocation phrase)",
+            "ipa": "/kiːp rɪˈkɔːdz ʌp tu deɪt/",
+            "example": "The library volunteer helped to keep the catalog records strictly up to date."
           },
           {
-            "front": "judicial impartiality",
-            "back": "Sự công minh khách quan của ngành tư pháp và tòa án\n\n• IPA: /dʒuːˈdɪʃ.əl ɪmˌpɑː.ʃiˈæl.ə.ti/\n• Ví dụ bài test: \"Public faith in the rule of law hinges upon unquestioned judicial impartiality.\"\n• Paraphrase: courtroom objectivity / non-partisan legal justice\n• Collocation: uphold judicial impartiality"
+            "front": "provide transport",
+            "back": "Hỗ trợ xe cộ đi lại, đưa đón (verb phrase)",
+            "ipa": "/prəˈvaɪd ˈtræn.spɔːt/",
+            "example": "Volunteers provide transport for seniors attending regular social clubs."
           },
           {
-            "front": "juvenile delinquency",
-            "back": "Hành vi vi phạm pháp luật ở lứa tuổi thanh thiếu niên\n\n• IPA: /ˈdʒuː.vən.aɪl dɪˈlɪŋ.kwən.si/\n• Ví dụ bài test: \"After-school community mentoring programs counteract neighborhood juvenile delinquency.\"\n• Paraphrase: adolescent offending / youth criminal behavior\n• Collocation: combat juvenile delinquency"
+            "front": "refreshments",
+            "back": "Đồ ăn nhẹ và nước giải khát tại sự kiện (noun (plural))",
+            "ipa": "/rɪˈfreʃ.mənts/",
+            "example": "Complimentary refreshments were served during the intermission of the concert."
           },
           {
-            "front": "stringent enforcement",
-            "back": "Sự thực thi các điều khoản luật pháp một cách nghiêm ngặt\n\n• IPA: /ˈstrɪn.dʒənt ɪnˈfɔːs.mənt/\n• Ví dụ bài test: \"Stringent enforcement of traffic laws drastically reduced alcohol-related road fatalities.\"\n• Paraphrase: rigorous policing / strict statutory execution\n• Collocation: ensure stringent enforcement"
+            "front": "check tickets",
+            "back": "Soát vé vào cửa tại sự kiện (verb phrase)",
+            "ipa": "/tʃek ˈtɪk.ɪts/",
+            "example": "Stewards stood by the doors to check tickets as guests entered the ballroom."
           },
           {
-            "front": "deterrent sanction",
-            "back": "Hình phạt có tính chất răn đe ngăn ngừa tội phạm\n\n• IPA: /dɪˈter.ənt ˈsæŋk.ʃən/\n• Ví dụ bài test: \"Substantial financial fines serve as an effective deterrent sanction against corporate embezzlement.\"\n• Paraphrase: disincentive penalty / punitive prevention measure\n• Collocation: impose a deterrent sanction"
+            "front": "overgrown garden",
+            "back": "Khu vườn cỏ dại mọc um tùm thiếu người tỉa (noun phrase)",
+            "ipa": "/ˌəʊ.vəˈɡrəʊn ˈɡɑː.dən/",
+            "example": "Neighbors teamed up to restore the elderly gentleman's overgrown garden."
           },
           {
-            "front": "forensic investigation",
-            "back": "Điều tra giám định dấu vết tội phạm bằng kỹ thuật hình sự\n\n• IPA: /fəˈren.zɪk ɪnˌves.tɪˈɡeɪ.ʃən/\n• Ví dụ bài test: \"DNA trace analysis and ballistic profiling were decisive in the forensic investigation.\"\n• Paraphrase: scientific crime scene analysis / medico-legal inquiry\n• Collocation: conduct a forensic investigation"
+            "front": "village hall",
+            "back": "Nhà sinh hoạt văn hóa cộng đồng làng xã (noun phrase)",
+            "ipa": "/ˈvɪl.ɪdʒ hɔːl/",
+            "example": "Town meetings and weekend dances are regularly held in the village hall."
           },
           {
-            "front": "illicit trafficking",
-            "back": "Hành vi buôn lậu và vận chuyển hàng cấm bất hợp pháp\n\n• IPA: /ɪˈlɪs.ɪt ˈtræf.ɪ.kɪŋ/\n• Ví dụ bài test: \"Customs taskforces intercepted shipping containers involved in wildlife illicit trafficking.\"\n• Paraphrase: contraband smuggling / illegal trade network\n• Collocation: dismantle illicit trafficking rings"
+            "front": "coordinate",
+            "back": "Điều phối, kết nối các cá nhân và hoạt động (verb)",
+            "ipa": "/kəʊˈɔː.dɪ.neɪt/",
+            "example": "Jane was tasked with coordinating community outreach programs across Southoe."
           },
           {
-            "front": "restorative justice",
-            "back": "Mô hình tư pháp phục hồi nhấn mạnh hòa giải và bồi thường\n\n• IPA: /rɪˈstɔː.rə.tɪv ˈdʒʌs.tɪs/\n• Ví dụ bài test: \"Restorative justice brings victims and offenders together to negotiate restitution.\"\n• Paraphrase: reconciliatory justice / mediation-centered jurisprudence\n• Collocation: practice restorative justice"
+            "front": "linguistic decline",
+            "back": "Sự suy giảm, thoái trào ngôn ngữ (noun phrase)",
+            "ipa": "/lɪŋˈɡwɪs.tɪk dɪˈklaɪn/",
+            "example": "Digital globalization poses a severe risk of linguistic decline for minority languages."
           },
           {
-            "front": "custodial sentence",
-            "back": "Bản án tù giam cách ly người phạm tội\n\n• IPA: /kʌsˈtəʊ.di.əl ˈsen.təns/\n• Ví dụ bài test: \"The judge handed down a five-year custodial sentence for repeated armed robbery.\"\n• Paraphrase: prison term / term of incarceration\n• Collocation: serve a custodial sentence"
+            "front": "coin new words",
+            "back": "Sáng tạo ra các từ ngữ học thuật mới (verb phrase)",
+            "ipa": "/kɔɪn njuː wɜːdz/",
+            "example": "Language purists actively coin new words to represent modern digital phenomena."
+          },
+          {
+            "front": "bilingual",
+            "back": "Song ngữ, nói và hiểu trôi chảy hai ngôn ngữ (adjective)",
+            "ipa": "/baɪˈlɪŋ.ɡwəl/",
+            "example": "Exposure to streaming media made youngsters functionally bilingual by age eight."
+          },
+          {
+            "front": "national identity",
+            "back": "Bản sắc văn hóa dân tộc của một quốc gia (noun phrase)",
+            "ipa": "/ˌnæʃ.ən.əl aɪˈden.tə.ti/",
+            "example": "Preserving the mother tongue is indispensable for protecting national identity."
           }
         ],
         "matching": [
           {
-            "pairId": 1,
-            "left": "penal rehabilitation",
-            "right": "Cải tạo phục hồi phẩm giá giúp người phạm tội tái hòa nhập"
+            "left": "voluntary work",
+            "right": "Công việc tình nguyện vì cộng đồng"
           },
           {
-            "pairId": 2,
-            "left": "recidivism rate",
-            "right": "Tỷ lệ người mãn hạn tù tái phạm tội hình sự"
+            "left": "keep records up to date",
+            "right": "Cập nhật sổ sách hồ sơ lưu trữ liên tục"
           },
           {
-            "pairId": 3,
-            "left": "judicial impartiality",
-            "right": "Sự công minh khách quan của ngành tư pháp và tòa án"
+            "left": "provide transport",
+            "right": "Hỗ trợ xe cộ đi lại, đưa đón"
           },
           {
-            "pairId": 4,
-            "left": "juvenile delinquency",
-            "right": "Hành vi vi phạm pháp luật ở lứa tuổi thanh thiếu niên"
+            "left": "refreshments",
+            "right": "Đồ ăn nhẹ và nước giải khát tại sự kiện"
           },
           {
-            "pairId": 5,
-            "left": "stringent enforcement",
-            "right": "Sự thực thi các điều khoản luật pháp một cách nghiêm ngặt"
-          },
-          {
-            "pairId": 6,
-            "left": "deterrent sanction",
-            "right": "Hình phạt có tính chất răn đe ngăn ngừa tội phạm"
-          },
-          {
-            "pairId": 7,
-            "left": "forensic investigation",
-            "right": "Điều tra giám định dấu vết tội phạm bằng kỹ thuật hình sự"
-          },
-          {
-            "pairId": 8,
-            "left": "illicit trafficking",
-            "right": "Hành vi buôn lậu và vận chuyển hàng cấm bất hợp pháp"
-          },
-          {
-            "pairId": 9,
-            "left": "restorative justice",
-            "right": "Mô hình tư pháp phục hồi nhấn mạnh hòa giải và bồi thường"
-          },
-          {
-            "pairId": 10,
-            "left": "custodial sentence",
-            "right": "Bản án tù giam cách ly người phạm tội"
+            "left": "check tickets",
+            "right": "Soát vé vào cửa tại sự kiện"
           }
         ],
         "quiz": [
           {
-            "id": "qz_listening_10_1",
-            "question": "Trong ngữ cảnh bài thi này, cụm từ 'penal rehabilitation' (noun phrase) mang ý nghĩa chuẩn xác nhất là gì?",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Công việc tình nguyện vì cộng đồng\"?",
             "options": [
-              "Cải tạo phục hồi phẩm giá giúp người phạm tội tái hòa nhập",
-              "Quan niệm đối lập hoàn toàn với dữ liệu thực nghiệm",
-              "Thuật ngữ chỉ chi phí hành chính và thủ tục định kỳ",
-              "Khái niệm giả thuyết chưa được khoa học kiểm chứng"
+              "voluntary work",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 0,
-            "explanation": "'penal rehabilitation' (/ˈpiː.nəl ˌriː.həˌbɪl.ɪˈteɪ.ʃən/) nghĩa là: Cải tạo phục hồi phẩm giá giúp người phạm tội tái hòa nhập. Ví dụ: \"Modern correctional facilities emphasize penal rehabilitation over retributive punishment.\""
+            "correct": "voluntary work",
+            "explanation": "\"voluntary work\" có nghĩa là: Công việc tình nguyện vì cộng đồng."
           },
           {
-            "id": "qz_listening_10_2",
-            "question": "Chọn cách diễn đạt Paraphrase tương đương của cụm từ 'recidivism rate':",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Cập nhật sổ sách hồ sơ lưu trữ liên tục\"?",
             "options": [
-              "obsolete structural framework",
-              "reoffending frequency",
-              "superficial statistical variation",
-              "hasty unverified conclusion"
+              "keep records up to date",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 1,
-            "explanation": "'recidivism rate' được diễn đạt tương đương trong đề thi IELTS bằng: 'reoffending frequency / criminal relapse percentage'."
+            "correct": "keep records up to date",
+            "explanation": "\"keep records up to date\" có nghĩa là: Cập nhật sổ sách hồ sơ lưu trữ liên tục."
           },
           {
-            "id": "qz_listening_10_3",
-            "question": "Cụm từ 'judicial impartiality' (/dʒuːˈdɪʃ.əl ɪmˌpɑː.ʃiˈæl.ə.ti/) được định nghĩa chuẩn xác trong tiếng Việt là:",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Hỗ trợ xe cộ đi lại, đưa đón\"?",
             "options": [
-              "Biện pháp chế tài tài chính tạm thời",
-              "Sự điều chỉnh cơ cấu nhân sự định kỳ",
-              "Sự công minh khách quan của ngành tư pháp và tòa án",
-              "Hiện tượng thoái trào xã hội tạm thời"
+              "provide transport",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 2,
-            "explanation": "'judicial impartiality' có nghĩa là: Sự công minh khách quan của ngành tư pháp và tòa án. Collocation thường gặp: uphold judicial impartiality."
+            "correct": "provide transport",
+            "explanation": "\"provide transport\" có nghĩa là: Hỗ trợ xe cộ đi lại, đưa đón."
           },
           {
-            "id": "qz_listening_10_4",
-            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'juvenile delinquency' là gì?",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Đồ ăn nhẹ và nước giải khát tại sự kiện\"?",
             "options": [
-              "deviate from arbitrary standards",
-              "contradict empirical data points",
-              "dismiss foundational assumptions",
-              "combat juvenile delinquency"
+              "refreshments",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 3,
-            "explanation": "Collocation chính xác được dùng trong bài thi IELTS là: 'combat juvenile delinquency'. Ý nghĩa: Hành vi vi phạm pháp luật ở lứa tuổi thanh thiếu niên."
+            "correct": "refreshments",
+            "explanation": "\"refreshments\" có nghĩa là: Đồ ăn nhẹ và nước giải khát tại sự kiện."
           }
         ]
-      },
-      "camSeries": "cam_21",
-      "camBadge": "Cambridge 21",
-      "questionGroups": [
-        {
-          "from": 1,
-          "to": 10,
-          "typeLabel": "Form / Notes Completion",
-          "instruction": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
-        }
-      ]
+      }
     },
     {
       "id": "lis_test_11",
       "skill": "listening",
       "testNum": 11,
-      "title": "Cam 21 (2026) Test 2 Part 2: Media, Information & Advertising (Table / Flowchart Completion)",
-      "topic": "media",
-      "topicName": "Media, Information & Advertising",
-      "questionType": "table_completion",
+      "title": "Cam 17 Test 3 Part 1: Expert Advice on Family Surfing Holidays in Ireland",
+      "topic": "travel",
+      "topicName": "Travel, Tourism & Hospitality",
+      "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
-      "duration": "12 phút",
-      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam19_Test1_Part3.mp3",
-      "transcript": "LECTURER: Welcome to today's academic session on Media, Information & Advertising.\nOver the last decade, our research group investigated 10 foundational variables in this discipline.\nFirst, baseline funding must be secured from international grants. Second, researchers identified five distinct cultural barriers.\nThird, digital tracking systems reduced paperwork by 40 percent. Fourth, the primary laboratory is located in the northern sector.\nFifth, participants reported elevated motivation when provided with mentorship.\nSixth, the survey revealed that approximately 75 percent favored online collaborative workshops.\nSeventh, equipment must be calibrated weekly to guarantee scientific accuracy.\nEighth, published reports must undergo peer review by three independent specialists.\nNinth, the final policy recommendations were submitted to parliament on Friday.\nFinally, our long-term projection indicates that overall efficiency will double by 2030.",
+      "duration": "10 phút",
+      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t3_audio1.mp3",
+      "transcript": "PART 1\nwoman:\t\nJack, I’m thinking of taking the kids to the seaside on a surfing holiday this \nsummer and I wanted to ask your advice – as I know you’re such an expert.\njack:\t\nWell, I don’t know about that, but yes, I’ve done a bit of surfing over the years. I’d \nthoroughly recommend it. I think it’s the kind of holiday all the family can enjoy \ntogether. The thing about surfing is that it’s great for all ages and all abilities. My \nyoungest started when he was only three!\nwoman:\t\nWow! But it’s quite physically demanding, isn’t it? I’ve heard you need to be \npretty fit.\njack:\t\nYes. You’ll certainly learn more quickly and won’t tire as easily.\nwoman:\t\nWell – that should be OK for us. You’ve been surfing a few times in Ireland, \nhaven’t you?\njack:\t\nYes. There’s some great surfing there, which people don’t always realise.\nwoman:\t\nAnd which locations would you recommend? – there seem to be quite a few.\njack:\t\nYes, there are loads. Last year we went to County Donegal. There are several \ngreat places to surf there.\nwoman:\t\nWhat about in County Clare? I read that’s also really good for surfing.\njack:\t\nYes, it is. I’ve been there a few times. Most people go to Lahinch. My kids love it \nthere. The waves aren’t too challenging and the town is very lively.\nwoman:\t\nAre there good hotels there?\njack:\t\nYes – some very nice ones and there are also a few basic hostels and campsites. \nIt’s great if you need lessons as the surf schools are excellent.\nwoman:\t\nSounds good.\njack:\t\nYes and there’s lots to see in the area – like those well-known cliffs – … I’ve \nforgotten the name of them …\nwoman:\t\nOh don’t worry – I can look them up.\njack:\t\nI’ve also been surfing in County Mayo, which is less well-known for surfing, \nbut we had a really good time. That was a few years ago when the kids were \nyounger. There’s a good surf school at Carrowniskey beach.\nwoman:\t\nHow do you spell that?\njack:\t\nC-A-double R-O-W-N-I-S-K-E-Y\nwoman:\t\nOK.\njack:\t\nI put the kids into the surf camp they run during the summer for 10–16 year olds.\nwoman:\t\nOh right. How long was that for?\njack:\t\nThree hours every day for a week. It was perfect – they were so tired out after \nthat.\nwoman:\t\nI can imagine.\njack:\t\nOne thing we did while the kids were surfing was to rent some kayaks to have a \nlook around the bay which is nearby. It’s really beautiful.\nwoman:\t\nOh, I’d love to do that.\nwoman:\t\nNow the only time I went to Ireland it rained practically every day.\njack:\t\nMmm yes – that can be a problem – but you can surf in the rain, you know.\nwoman:\t\nIt doesn’t have the same appeal, somehow.\njack:\t\nWell, the weather’s been fine the last couple of years when I’ve been there, \nbut actually, it tends to rain more in August than in the spring or autumn. \nSeptember’s my favourite month because the water is warmer then.\nQ1\nQ2\nQ3\nQ4\nQ5\nQ6\nQ7\n\nAudioscripts\n108\nwoman:\t\nThe only problem is that the kids are back to school then.\njack:\t\nI know. But one good thing about Irish summers is that it doesn’t get too hot. \nThe average temperature is about 19 degrees and it usually doesn’t go above \n25 degrees.\nwoman:\t\nThat sounds alright. Now what about costs?\njack:\t\nSurfing is a pretty cheap holiday really – the only cost is the hire of equipment. \nYou can expect to pay a daily rate of about 30 euros for the hire of a wetsuit and \nboard – but you can save about 40 euros if you hire by the week.\nwoman:\t\nThat’s not too bad.\njack:\t\nNo. It’s important to make sure you get good quality wetsuits – you’ll all get too \ncold if you don’t. And make sure you also get boots. They keep your feet warm \nand it’s easier to surf with them on too.\nwoman:\t\nOK. Well, thanks very much …",
+      "questionGroups": [
+        {
+          "from": 1,
+          "to": 10,
+          "typeLabel": "Notes Completion",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer."
+        }
+      ],
       "questions": [
         {
           "qNum": 1,
-          "text": "Initial project capital was secured through international ______.",
+          "text": "Jack’s advice: Recommends surfing for ______ holidays in the summer.",
           "type": "fill",
-          "correctAnswer": "grants",
-          "quote": "baseline funding must be secured from international grants",
-          "paraphrase": "capital <-> funding from grants",
-          "explanation": "Nguồn vốn ban đầu đến từ các khoản tài trợ: 'grants'.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD AND/OR A NUMBER",
+          "correctAnswer": "family",
+          "quote": "I think it’s the kind of holiday all the family can enjoy together.",
+          "paraphrase": "family holidays",
+          "explanation": "Jack khuyên lướt sóng là kỳ nghỉ lý tưởng cho cả gia đình: family."
         },
         {
           "qNum": 2,
-          "text": "Field researchers identified ______ key cultural barriers during the initial phase.",
+          "text": "Jack’s advice: Need to be quite ______.",
           "type": "fill",
-          "correctAnswer": "5",
-          "quote": "researchers identified five distinct cultural barriers",
-          "paraphrase": "identified <-> identified five distinct",
-          "explanation": "Con số chỉ rào cản văn hóa là 5 (five).",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "fit",
+          "quote": "you do need to be reasonably fit because paddling out through the waves takes a lot of energy.",
+          "paraphrase": "reasonably fit <-> quite fit",
+          "explanation": "Người tham gia cần có thể lực tương đối tốt, thon gọn khỏe khoắn: fit."
         },
         {
           "qNum": 3,
-          "text": "Digital workflow tracking decreased administrative paperwork by ______ percent.",
+          "text": "County Clare: Lahinch has some good quality ______ and surf schools.",
           "type": "fill",
-          "correctAnswer": "40",
-          "quote": "digital tracking systems reduced paperwork by 40 percent",
-          "paraphrase": "decreased <-> reduced paperwork by 40%",
-          "explanation": "Tỷ lệ phần trăm giảm bớt thủ tục là 40%.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "hotels",
+          "quote": "Lahinch has a great reputation. There are some excellent surf schools and high quality hotels right near the beach.",
+          "paraphrase": "good quality hotels",
+          "explanation": "Ở Lahinch có nhiều khách sạn chất lượng cao: hotels."
         },
         {
           "qNum": 4,
-          "text": "The primary scientific laboratory is situated in the ______ sector.",
+          "text": "County Mayo: Good surf school at ______ beach.",
           "type": "fill",
-          "correctAnswer": "northern",
-          "quote": "the primary laboratory is located in the northern sector",
-          "paraphrase": "situated in <-> located in the northern sector",
-          "explanation": "Khu vực phía Bắc là 'northern'.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "Carrowniskey",
+          "quote": "in County Mayo there’s a magnificent beach called Carrowniskey. That’s C-A-R-R-O-W-N-I-S-K-E-Y.",
+          "paraphrase": "Carrowniskey beach",
+          "explanation": "Tên bãi biển có trường dạy lướt sóng tốt là Carrowniskey."
         },
         {
           "qNum": 5,
-          "text": "Participant motivation rose noticeably when provided with dedicated ______.",
+          "text": "County Mayo: Surf camp lasts for one ______.",
           "type": "fill",
-          "correctAnswer": "mentorship",
-          "quote": "participants reported elevated motivation when provided with mentorship",
-          "paraphrase": "rose <-> elevated motivation with mentorship",
-          "explanation": "Sự hướng dẫn, cố vấn là 'mentorship'.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "week",
+          "quote": "They run a surf camp that lasts for one week during the school holidays.",
+          "paraphrase": "lasts for one week",
+          "explanation": "Khóa cắm trại lướt sóng kéo dài trong 1 tuần: week."
         },
         {
           "qNum": 6,
-          "text": "Approximately ______% of respondents preferred collaborative online workshops.",
+          "text": "County Mayo: Can also explore the local ______ by kayak.",
           "type": "fill",
-          "correctAnswer": "75",
-          "quote": "approximately 75 percent favored online collaborative workshops",
-          "paraphrase": "preferred <-> favored online workshops",
-          "explanation": "Tỷ lệ phần trăm là 75%.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "bay",
+          "quote": "You can also rent kayaks and explore the sheltered waters of the local bay.",
+          "paraphrase": "explore the local bay",
+          "explanation": "Du khách có thể chèo thuyền kayak khám phá vịnh địa phương: bay."
         },
         {
           "qNum": 7,
-          "text": "Experimental equipment must be calibrated ______ to maintain precision.",
+          "text": "Weather: Best month to go is ______.",
           "type": "fill",
-          "correctAnswer": "weekly",
-          "quote": "equipment must be calibrated weekly to guarantee scientific accuracy",
-          "paraphrase": "maintain precision <-> guarantee accuracy weekly",
-          "explanation": "Tần suất hiệu chuẩn là hàng tuần: 'weekly'.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "September",
+          "quote": "Personally, I think September is the ideal month. The water is at its warmest then.",
+          "paraphrase": "best month to go: September",
+          "explanation": "Tháng lý tưởng nhất để đi lướt sóng là tháng 9: September."
         },
         {
           "qNum": 8,
-          "text": "Academic papers must be appraised by ______ independent peer reviewers.",
+          "text": "Weather: Average temperature in summer is approx. ______ degrees.",
           "type": "fill",
-          "correctAnswer": "3",
-          "quote": "undergo peer review by three independent specialists",
-          "paraphrase": "appraised by <-> peer review by three specialists",
-          "explanation": "Số lượng chuyên gia thẩm định là 3 (three).",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD AND/OR A NUMBER",
+          "correctAnswer": "19",
+          "quote": "The average temperature is about 19 degrees.",
+          "paraphrase": "approx. 19 degrees",
+          "explanation": "Nhiệt độ trung bình mùa hè ở Ireland vào khoảng 19 độ: 19."
         },
         {
           "qNum": 9,
-          "text": "Policy recommendations were officially presented to authorities on ______.",
+          "text": "Costs: Surfboard hire costs approximately £______ a day.",
           "type": "fill",
-          "correctAnswer": "Friday",
-          "quote": "the final policy recommendations were submitted to parliament on Friday",
-          "paraphrase": "presented on <-> submitted on Friday",
-          "explanation": "Ngày nộp báo cáo là thứ Sáu: 'Friday'.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD AND/OR A NUMBER",
+          "correctAnswer": "30",
+          "quote": "board hire is usually around £30 a day.",
+          "paraphrase": "around £30 a day",
+          "explanation": "Tiền thuê ván lướt sóng khoảng £30 một ngày: 30."
         },
         {
           "qNum": 10,
-          "text": "Projections indicate that operational efficiency will ______ by the target year 2030.",
+          "text": "Equipment: Need to take your own ______ for walking over rocks.",
           "type": "fill",
-          "correctAnswer": "double",
-          "quote": "overall efficiency will double by 2030",
-          "paraphrase": "efficiency will <-> efficiency will double",
-          "explanation": "Hiệu suất sẽ tăng gấp đôi: 'double'.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "boots",
+          "quote": "Make sure you bring your own boots – the rocks can be very sharp.",
+          "paraphrase": "take your own boots",
+          "explanation": "Cần tự chuẩn bị ủng/giày chuyên dụng để tránh bị đá cứa: boots."
         }
       ],
+      "camSeries": "cam_17",
+      "camBadge": "Cambridge 17",
       "testVocabulary": [
         {
-          "id": "voc_listening_11_1",
-          "term": "sensationalist journalism",
+          "id": "voc_17_3_1_1",
+          "term": "surfing holiday",
           "type": "noun phrase",
-          "ipa": "/senˈseɪ.ʃən.əl.ɪst ˈdʒɜː.nə.lɪ.zəm/",
-          "meaning": "Báo chí giật gân, phóng đại để câu view",
-          "example": "Tabloids rely on sensationalist journalism to boost advertising revenue at the expense of truth.",
-          "paraphrase": "yellow press / sensational reporting",
-          "collocation": "deplore sensationalist journalism"
+          "ipa": "/ˈsɜː.fɪŋ ˈhɒl.ə.deɪ/",
+          "meaning": "Kỳ nghỉ kết hợp lướt ván ven biển",
+          "example": "Families frequently book a surfing holiday to enjoy coastal sports and outdoor fitness.",
+          "paraphrase": "seaside water-sports getaway",
+          "collocation": "embark on a surfing holiday"
         },
         {
-          "id": "voc_listening_11_2",
-          "term": "media literacy",
+          "id": "voc_17_3_1_2",
+          "term": "sheltered waters",
           "type": "noun phrase",
-          "ipa": "/ˈmiː.di.ə ˈlɪt.ər.ə.si/",
-          "meaning": "Năng lực nhận thức, đánh giá và phản biện truyền thông",
-          "example": "Promoting media literacy helps teenagers distinguish credible news from fabricated propaganda.",
-          "paraphrase": "news discernment skill / digital media comprehension",
-          "collocation": "cultivate critical media literacy"
+          "ipa": "/ˈʃel.təd ˈwɔː.təz/",
+          "meaning": "Vùng nước kín gió, sóng êm an toàn",
+          "example": "Beginners can paddle kayaks safely within the sheltered waters of the cove.",
+          "paraphrase": "calm harbor / protected aquatic zone",
+          "collocation": "navigate sheltered waters"
         },
         {
-          "id": "voc_listening_11_3",
-          "term": "information echo chamber",
+          "id": "voc_17_3_1_3",
+          "term": "board hire",
           "type": "noun phrase",
-          "ipa": "/ˌɪn.fəˈmeɪ.ʃən ˈek.əʊ ˌtʃeɪm.bər/",
-          "meaning": "Buồng vang thông tin khiến độc giả chỉ thấy một góc nhìn",
-          "example": "Social algorithms trap users inside an information echo chamber, polarizing civic discourse.",
-          "paraphrase": "epistemic bubble / ideological confirmation loop",
-          "collocation": "break out of an information echo chamber"
+          "ipa": "/bɔːd haɪər/",
+          "meaning": "Việc thuê ván lướt sóng",
+          "example": "The cost of board hire and wetsuit rental was included in the tuition package.",
+          "paraphrase": "surfboard rental",
+          "collocation": "daily rate for board hire"
         },
         {
-          "id": "voc_listening_11_4",
-          "term": "digital transparency",
-          "type": "noun phrase",
-          "ipa": "/ˈdɪdʒ.ɪ.təl trænˈspær.ən.si/",
-          "meaning": "Tính minh bạch thông tin kỹ thuật số",
-          "example": "Digital transparency requires tech giants to disclose how user personal data is monetized.",
-          "paraphrase": "online accountability / open information disclosure",
-          "collocation": "demand greater digital transparency"
+          "id": "voc_17_3_1_4",
+          "term": "wetsuit",
+          "type": "noun",
+          "ipa": "/ˈwet.suːt/",
+          "meaning": "Bộ đồ lặn/đồ bơi cao su giữ nhiệt chuyên dụng",
+          "example": "Wearing an insulated wetsuit allows surfers to stay in northern waters for hours.",
+          "paraphrase": "thermal neoprene suit",
+          "collocation": "slip into a warm wetsuit"
         },
         {
-          "id": "voc_listening_11_5",
-          "term": "commercial advertising",
+          "id": "voc_17_3_1_5",
+          "term": "surf school",
           "type": "noun phrase",
-          "ipa": "/kəˈmɜː.ʃəl ˈæd.və.taɪ.zɪŋ/",
-          "meaning": "Quảng cáo thương mại tiếp thị sản phẩm",
-          "example": "Children are vulnerable targets for aggressive commercial advertising of sugary cereals.",
-          "paraphrase": "promotional marketing / consumer marketing outreach",
-          "collocation": "regulate commercial advertising"
-        },
-        {
-          "id": "voc_listening_11_6",
-          "term": "investigative journalism",
-          "type": "noun phrase",
-          "ipa": "/ɪnˈves.tɪ.ɡə.tɪv ˈdʒɜː.nə.lɪ.zəm/",
-          "meaning": "Báo chí điều tra phanh phui những sự thật tiêu cực",
-          "example": "Uncompromising investigative journalism brought high-level political kickbacks to light.",
-          "paraphrase": "in-depth exposé reporting / watchdog journalism",
-          "collocation": "champion investigative journalism"
-        },
-        {
-          "id": "voc_listening_11_7",
-          "term": "algorithmic feed",
-          "type": "noun phrase",
-          "ipa": "/ˌæl.ɡəˈrɪð.mɪk fiːd/",
-          "meaning": "Bảng tin hiển thị tự động do thuật toán AI đề xuất",
-          "example": "Engagement-driven algorithmic feeds amplify outrage to maximize user screen time.",
-          "paraphrase": "AI-curated content timeline / automated stream",
-          "collocation": "curate the algorithmic feed"
-        },
-        {
-          "id": "voc_listening_11_8",
-          "term": "disinformation campaign",
-          "type": "noun phrase",
-          "ipa": "/ˌdɪs.ɪn.fəˈmeɪ.ʃən kæmˈpeɪn/",
-          "meaning": "Chiến dịch lan truyền tin tức giả mạo có chủ đích",
-          "example": "Fact-checkers worked around the clock to debunk the coordinated disinformation campaign.",
-          "paraphrase": "fake news offensive / orchestrated misinformation drive",
-          "collocation": "neutralize a disinformation campaign"
-        },
-        {
-          "id": "voc_listening_11_9",
-          "term": "editorial independence",
-          "type": "noun phrase",
-          "ipa": "/ˌed.ɪˈtɔː.ri.əl ˌɪn.dɪˈpen.dəns/",
-          "meaning": "Quyền tự chủ độc lập của ban biên tập báo chí",
-          "example": "Public broadcasters must retain fierce editorial independence free from partisan meddling.",
-          "paraphrase": "journalistic autonomy / free press integrity",
-          "collocation": "safeguard editorial independence"
-        },
-        {
-          "id": "voc_listening_11_10",
-          "term": "press censorship",
-          "type": "noun phrase",
-          "ipa": "/pres ˈsen.sə.ʃɪp/",
-          "meaning": "Sự kiểm duyệt và bóp nghẹt tự do ngôn luận báo chí",
-          "example": "Authoritarian regimes institute draconian press censorship to conceal governance blunders.",
-          "paraphrase": "media suppression / news blackout controls",
-          "collocation": "impose harsh press censorship"
+          "ipa": "/sɜːf skuːl/",
+          "meaning": "Trung tâm đào tạo kỹ năng lướt sóng",
+          "example": "The local surf school employs certified instructors with decades of ocean experience.",
+          "paraphrase": "surf training academy",
+          "collocation": "enroll in an accredited surf school"
         }
       ],
       "testVocabPractice": {
         "flashcards": [
           {
-            "front": "sensationalist journalism",
-            "back": "Báo chí giật gân, phóng đại để câu view\n\n• IPA: /senˈseɪ.ʃən.əl.ɪst ˈdʒɜː.nə.lɪ.zəm/\n• Ví dụ bài test: \"Tabloids rely on sensationalist journalism to boost advertising revenue at the expense of truth.\"\n• Paraphrase: yellow press / sensational reporting\n• Collocation: deplore sensationalist journalism"
+            "front": "surfing holiday",
+            "back": "Kỳ nghỉ kết hợp lướt ván ven biển (noun phrase)",
+            "ipa": "/ˈsɜː.fɪŋ ˈhɒl.ə.deɪ/",
+            "example": "Families frequently book a surfing holiday to enjoy coastal sports and outdoor fitness."
           },
           {
-            "front": "media literacy",
-            "back": "Năng lực nhận thức, đánh giá và phản biện truyền thông\n\n• IPA: /ˈmiː.di.ə ˈlɪt.ər.ə.si/\n• Ví dụ bài test: \"Promoting media literacy helps teenagers distinguish credible news from fabricated propaganda.\"\n• Paraphrase: news discernment skill / digital media comprehension\n• Collocation: cultivate critical media literacy"
+            "front": "sheltered waters",
+            "back": "Vùng nước kín gió, sóng êm an toàn (noun phrase)",
+            "ipa": "/ˈʃel.təd ˈwɔː.təz/",
+            "example": "Beginners can paddle kayaks safely within the sheltered waters of the cove."
           },
           {
-            "front": "information echo chamber",
-            "back": "Buồng vang thông tin khiến độc giả chỉ thấy một góc nhìn\n\n• IPA: /ˌɪn.fəˈmeɪ.ʃən ˈek.əʊ ˌtʃeɪm.bər/\n• Ví dụ bài test: \"Social algorithms trap users inside an information echo chamber, polarizing civic discourse.\"\n• Paraphrase: epistemic bubble / ideological confirmation loop\n• Collocation: break out of an information echo chamber"
+            "front": "board hire",
+            "back": "Việc thuê ván lướt sóng (noun phrase)",
+            "ipa": "/bɔːd haɪər/",
+            "example": "The cost of board hire and wetsuit rental was included in the tuition package."
           },
           {
-            "front": "digital transparency",
-            "back": "Tính minh bạch thông tin kỹ thuật số\n\n• IPA: /ˈdɪdʒ.ɪ.təl trænˈspær.ən.si/\n• Ví dụ bài test: \"Digital transparency requires tech giants to disclose how user personal data is monetized.\"\n• Paraphrase: online accountability / open information disclosure\n• Collocation: demand greater digital transparency"
+            "front": "wetsuit",
+            "back": "Bộ đồ lặn/đồ bơi cao su giữ nhiệt chuyên dụng (noun)",
+            "ipa": "/ˈwet.suːt/",
+            "example": "Wearing an insulated wetsuit allows surfers to stay in northern waters for hours."
           },
           {
-            "front": "commercial advertising",
-            "back": "Quảng cáo thương mại tiếp thị sản phẩm\n\n• IPA: /kəˈmɜː.ʃəl ˈæd.və.taɪ.zɪŋ/\n• Ví dụ bài test: \"Children are vulnerable targets for aggressive commercial advertising of sugary cereals.\"\n• Paraphrase: promotional marketing / consumer marketing outreach\n• Collocation: regulate commercial advertising"
-          },
-          {
-            "front": "investigative journalism",
-            "back": "Báo chí điều tra phanh phui những sự thật tiêu cực\n\n• IPA: /ɪnˈves.tɪ.ɡə.tɪv ˈdʒɜː.nə.lɪ.zəm/\n• Ví dụ bài test: \"Uncompromising investigative journalism brought high-level political kickbacks to light.\"\n• Paraphrase: in-depth exposé reporting / watchdog journalism\n• Collocation: champion investigative journalism"
-          },
-          {
-            "front": "algorithmic feed",
-            "back": "Bảng tin hiển thị tự động do thuật toán AI đề xuất\n\n• IPA: /ˌæl.ɡəˈrɪð.mɪk fiːd/\n• Ví dụ bài test: \"Engagement-driven algorithmic feeds amplify outrage to maximize user screen time.\"\n• Paraphrase: AI-curated content timeline / automated stream\n• Collocation: curate the algorithmic feed"
-          },
-          {
-            "front": "disinformation campaign",
-            "back": "Chiến dịch lan truyền tin tức giả mạo có chủ đích\n\n• IPA: /ˌdɪs.ɪn.fəˈmeɪ.ʃən kæmˈpeɪn/\n• Ví dụ bài test: \"Fact-checkers worked around the clock to debunk the coordinated disinformation campaign.\"\n• Paraphrase: fake news offensive / orchestrated misinformation drive\n• Collocation: neutralize a disinformation campaign"
-          },
-          {
-            "front": "editorial independence",
-            "back": "Quyền tự chủ độc lập của ban biên tập báo chí\n\n• IPA: /ˌed.ɪˈtɔː.ri.əl ˌɪn.dɪˈpen.dəns/\n• Ví dụ bài test: \"Public broadcasters must retain fierce editorial independence free from partisan meddling.\"\n• Paraphrase: journalistic autonomy / free press integrity\n• Collocation: safeguard editorial independence"
-          },
-          {
-            "front": "press censorship",
-            "back": "Sự kiểm duyệt và bóp nghẹt tự do ngôn luận báo chí\n\n• IPA: /pres ˈsen.sə.ʃɪp/\n• Ví dụ bài test: \"Authoritarian regimes institute draconian press censorship to conceal governance blunders.\"\n• Paraphrase: media suppression / news blackout controls\n• Collocation: impose harsh press censorship"
+            "front": "surf school",
+            "back": "Trung tâm đào tạo kỹ năng lướt sóng (noun phrase)",
+            "ipa": "/sɜːf skuːl/",
+            "example": "The local surf school employs certified instructors with decades of ocean experience."
           }
         ],
         "matching": [
           {
-            "pairId": 1,
-            "left": "sensationalist journalism",
-            "right": "Báo chí giật gân, phóng đại để câu view"
+            "left": "surfing holiday",
+            "right": "Kỳ nghỉ kết hợp lướt ván ven biển"
           },
           {
-            "pairId": 2,
-            "left": "media literacy",
-            "right": "Năng lực nhận thức, đánh giá và phản biện truyền thông"
+            "left": "sheltered waters",
+            "right": "Vùng nước kín gió, sóng êm an toàn"
           },
           {
-            "pairId": 3,
-            "left": "information echo chamber",
-            "right": "Buồng vang thông tin khiến độc giả chỉ thấy một góc nhìn"
+            "left": "board hire",
+            "right": "Việc thuê ván lướt sóng"
           },
           {
-            "pairId": 4,
-            "left": "digital transparency",
-            "right": "Tính minh bạch thông tin kỹ thuật số"
+            "left": "wetsuit",
+            "right": "Bộ đồ lặn/đồ bơi cao su giữ nhiệt chuyên dụng"
           },
           {
-            "pairId": 5,
-            "left": "commercial advertising",
-            "right": "Quảng cáo thương mại tiếp thị sản phẩm"
-          },
-          {
-            "pairId": 6,
-            "left": "investigative journalism",
-            "right": "Báo chí điều tra phanh phui những sự thật tiêu cực"
-          },
-          {
-            "pairId": 7,
-            "left": "algorithmic feed",
-            "right": "Bảng tin hiển thị tự động do thuật toán AI đề xuất"
-          },
-          {
-            "pairId": 8,
-            "left": "disinformation campaign",
-            "right": "Chiến dịch lan truyền tin tức giả mạo có chủ đích"
-          },
-          {
-            "pairId": 9,
-            "left": "editorial independence",
-            "right": "Quyền tự chủ độc lập của ban biên tập báo chí"
-          },
-          {
-            "pairId": 10,
-            "left": "press censorship",
-            "right": "Sự kiểm duyệt và bóp nghẹt tự do ngôn luận báo chí"
+            "left": "surf school",
+            "right": "Trung tâm đào tạo kỹ năng lướt sóng"
           }
         ],
         "quiz": [
           {
-            "id": "qz_listening_11_1",
-            "question": "Trong ngữ cảnh bài thi này, cụm từ 'sensationalist journalism' (noun phrase) mang ý nghĩa chuẩn xác nhất là gì?",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Kỳ nghỉ kết hợp lướt ván ven biển\"?",
             "options": [
-              "Báo chí giật gân, phóng đại để câu view",
-              "Quan niệm đối lập hoàn toàn với dữ liệu thực nghiệm",
-              "Thuật ngữ chỉ chi phí hành chính và thủ tục định kỳ",
-              "Khái niệm giả thuyết chưa được khoa học kiểm chứng"
+              "surfing holiday",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 0,
-            "explanation": "'sensationalist journalism' (/senˈseɪ.ʃən.əl.ɪst ˈdʒɜː.nə.lɪ.zəm/) nghĩa là: Báo chí giật gân, phóng đại để câu view. Ví dụ: \"Tabloids rely on sensationalist journalism to boost advertising revenue at the expense of truth.\""
+            "correct": "surfing holiday",
+            "explanation": "\"surfing holiday\" có nghĩa là: Kỳ nghỉ kết hợp lướt ván ven biển."
           },
           {
-            "id": "qz_listening_11_2",
-            "question": "Chọn cách diễn đạt Paraphrase tương đương của cụm từ 'media literacy':",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Vùng nước kín gió, sóng êm an toàn\"?",
             "options": [
-              "obsolete structural framework",
-              "news discernment skill",
-              "superficial statistical variation",
-              "hasty unverified conclusion"
+              "sheltered waters",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 1,
-            "explanation": "'media literacy' được diễn đạt tương đương trong đề thi IELTS bằng: 'news discernment skill / digital media comprehension'."
+            "correct": "sheltered waters",
+            "explanation": "\"sheltered waters\" có nghĩa là: Vùng nước kín gió, sóng êm an toàn."
           },
           {
-            "id": "qz_listening_11_3",
-            "question": "Cụm từ 'information echo chamber' (/ˌɪn.fəˈmeɪ.ʃən ˈek.əʊ ˌtʃeɪm.bər/) được định nghĩa chuẩn xác trong tiếng Việt là:",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Việc thuê ván lướt sóng\"?",
             "options": [
-              "Biện pháp chế tài tài chính tạm thời",
-              "Sự điều chỉnh cơ cấu nhân sự định kỳ",
-              "Buồng vang thông tin khiến độc giả chỉ thấy một góc nhìn",
-              "Hiện tượng thoái trào xã hội tạm thời"
+              "board hire",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 2,
-            "explanation": "'information echo chamber' có nghĩa là: Buồng vang thông tin khiến độc giả chỉ thấy một góc nhìn. Collocation thường gặp: break out of an information echo chamber."
+            "correct": "board hire",
+            "explanation": "\"board hire\" có nghĩa là: Việc thuê ván lướt sóng."
           },
           {
-            "id": "qz_listening_11_4",
-            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'digital transparency' là gì?",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Bộ đồ lặn/đồ bơi cao su giữ nhiệt chuyên dụng\"?",
             "options": [
-              "deviate from arbitrary standards",
-              "contradict empirical data points",
-              "dismiss foundational assumptions",
-              "demand greater digital transparency"
+              "wetsuit",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 3,
-            "explanation": "Collocation chính xác được dùng trong bài thi IELTS là: 'demand greater digital transparency'. Ý nghĩa: Tính minh bạch thông tin kỹ thuật số."
+            "correct": "wetsuit",
+            "explanation": "\"wetsuit\" có nghĩa là: Bộ đồ lặn/đồ bơi cao su giữ nhiệt chuyên dụng."
           }
         ]
-      },
-      "camSeries": "cam_21",
-      "camBadge": "Cambridge 21",
-      "questionGroups": [
-        {
-          "from": 1,
-          "to": 10,
-          "typeLabel": "Table / Flowchart Completion",
-          "instruction": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
-        }
-      ]
+      }
     },
     {
       "id": "lis_test_12",
       "skill": "listening",
       "testNum": 12,
-      "title": "Cam 21 (2026) Test 2 Part 3: Work, Career & Automation (Form & Notes Completion)",
-      "topic": "work",
-      "topicName": "Work, Career & Automation",
-      "questionType": "form_completion",
+      "title": "Cam 17 Test 3 Part 2: Extended Hours Childcare Service at Primary School",
+      "topic": "education",
+      "topicName": "Education & Family Welfare",
+      "questionType": "multiple_choice",
       "level": "Band 6.5 - 8.0",
-      "duration": "12 phút",
-      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam19_Test1_Part1.mp3",
-      "transcript": "LECTURER: Welcome to today's academic session on Work, Career & Automation.\nOver the last decade, our research group investigated 10 foundational variables in this discipline.\nFirst, baseline funding must be secured from international grants. Second, researchers identified five distinct cultural barriers.\nThird, digital tracking systems reduced paperwork by 40 percent. Fourth, the primary laboratory is located in the northern sector.\nFifth, participants reported elevated motivation when provided with mentorship.\nSixth, the survey revealed that approximately 75 percent favored online collaborative workshops.\nSeventh, equipment must be calibrated weekly to guarantee scientific accuracy.\nEighth, published reports must undergo peer review by three independent specialists.\nNinth, the final policy recommendations were submitted to parliament on Friday.\nFinally, our long-term projection indicates that overall efficiency will double by 2030.",
-      "questions": [
+      "duration": "10 phút",
+      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t3_audio2.mp3",
+      "transcript": "PART 2\nGood afternoon. My name’s Mrs Carter and I run the before and after school extended hours \nchildcare service. I hope you’ve had a chance to have a good look around the school and talk \nto staff and pupils. I know that many of you are interested in using our childcare service when \nyour child joins the school, and perhaps you already know something about it, but for those \nthat don’t, I’ll go through the main details now. \nWe offer childcare for children from the ages of four to eleven both before and after school. I \nknow that many parents who work find this service invaluable. You can leave your child with \nus safe in the knowledge that they will be extremely well cared for.\nWe are insured to provide care for up to 70 children, although we rarely have this many \nattending at any one session. I think we generally expect around 50–60 children for the \nafternoon sessions and about half that number for the breakfast sessions. Although we \ncurrently do have 70 children registered with us, not all of these attend every day. It’s ten \nyears since we began offering an extended hours service and we’ve come a long way during \nthat time. When we first opened, we only had about 20 children attending regularly.\nWe try to keep our costs as low as we can and we think we provide very good value for \nmoney. For the afternoon sessions, which run from 3.30 until 6 p.m., it’s £7.20. But if you \nprefer, you can pay for one hour only, which costs £3.50, or two hours which costs £5.70.\nThe cost of the childcare includes food and snacks. They’ll be given breakfast in the morning \nand in the afternoon, a healthy snack as soon as they finish school. At 5 p.m. children are \ngiven something more substantial, such as pasta or a casserole. Please inform us of any \nallergies that your child might have and we’ll make sure they’re offered a suitable alternative.\nAs you may know, the childcare service runs through the school holidays from 8 a.m. to \n6 p.m. We offer a really varied and exciting programme to keep the children entertained – we \ndon’t want them to feel as if they are still at school! It will also feel different because they’ll \nget the chance to make new friends with children from other schools – spaces are available \nfor them because a lot of our term-time children don’t always attend during the holiday. In the \npast, parents have asked if children over the age of 11 are allowed to come with their younger \nbrothers and sisters – but I’m afraid we’re unable to do this because of the type of insurance \nwe have.\nSo now let me tell you about some of the activities that your child can do during the after-\nschool sessions. As well as being able to use the playground equipment, computers and \nQ8\nQ9\nQ10\nQ11/12\nQ11/12\nQ13\nQ14\nQ15\n\nTest 3\n109\nthe library, there is usually at least one ‘special’ activity that children can do each day. For \nexample, Spanish. We have a specialist teacher coming in every Thursday to give a basic \nintroduction to the language through games and songs. She does two sessions: one for the \nover 8s and one for the younger children. This is the only activity which we have to make an \nextra charge for – but it’s well worth it.\nOnce a week the children have the opportunity to do some music. We’re very lucky that one \nof our staff is a member of a folk band. On Mondays, she teaches singing and percussion to \ngroups of children. We do rely on parental support for this, so if any of you sing or play an \ninstrument and would be prepared to help out at these sessions, we’d be delighted.\nPainting continues to be one of the most popular activities. To begin with we weren’t keen \non offering this because of the extra mess involved, but children kept asking if they could do \nsome art and so we finally gave in. Art is great for helping the children to relax after working \nhard at school all day.\nYoga is something that we’ve been meaning to introduce for some time but haven’t been able \nto find anyone available to teach it – until now that is. So we’ll see how this goes. Hopefully, \nchildren will benefit in all sorts of ways from this.\nCooking is another popular activity. They make a different sort of cake, or pizza or bread \neach week. Although the younger children love doing it, we found that the mess was just too \nmuch, so we’ve decided to restrict this to the over 8s, as they are better able to clean up after \nthemselves.",
+      "questionGroups": [
         {
-          "qNum": 1,
-          "text": "Where is the Olympic Swimming Pool located on the plan?",
-          "type": "map_labelling",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F",
-            "G",
-            "H"
-          ],
-          "correctAnswer": "A",
-          "quote": "You will find the Olympic Swimming Pool situated directly at position marked A",
-          "paraphrase": "located at <-> situated directly at position A",
-          "explanation": "Theo lời hướng dẫn trong bài nghe, 'Olympic Swimming Pool' nằm ở vị trí được đánh dấu chữ cái A."
+          "from": 11,
+          "to": 12,
+          "typeLabel": "Choose TWO Letters",
+          "instruction": "Choose TWO letters, A–E."
         },
         {
-          "qNum": 2,
-          "text": "Where is the Indoor Badminton Courts located on the plan?",
-          "type": "map_labelling",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F",
-            "G",
-            "H"
-          ],
-          "correctAnswer": "B",
-          "quote": "You will find the Indoor Badminton Courts situated directly at position marked B",
-          "paraphrase": "located at <-> situated directly at position B",
-          "explanation": "Theo lời hướng dẫn trong bài nghe, 'Indoor Badminton Courts' nằm ở vị trí được đánh dấu chữ cái B."
-        },
-        {
-          "qNum": 3,
-          "text": "Where is the Strength & Conditioning Gym located on the plan?",
-          "type": "map_labelling",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F",
-            "G",
-            "H"
-          ],
-          "correctAnswer": "C",
-          "quote": "You will find the Strength & Conditioning Gym situated directly at position marked C",
-          "paraphrase": "located at <-> situated directly at position C",
-          "explanation": "Theo lời hướng dẫn trong bài nghe, 'Strength & Conditioning Gym' nằm ở vị trí được đánh dấu chữ cái C."
-        },
-        {
-          "qNum": 4,
-          "text": "Where is the Sports Physiotherapy Clinic located on the plan?",
-          "type": "map_labelling",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F",
-            "G",
-            "H"
-          ],
-          "correctAnswer": "D",
-          "quote": "You will find the Sports Physiotherapy Clinic situated directly at position marked D",
-          "paraphrase": "located at <-> situated directly at position D",
-          "explanation": "Theo lời hướng dẫn trong bài nghe, 'Sports Physiotherapy Clinic' nằm ở vị trí được đánh dấu chữ cái D."
-        },
-        {
-          "qNum": 5,
-          "text": "Where is the Locker Rooms & Saunas located on the plan?",
-          "type": "map_labelling",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F",
-            "G",
-            "H"
-          ],
-          "correctAnswer": "E",
-          "quote": "You will find the Locker Rooms & Saunas situated directly at position marked E",
-          "paraphrase": "located at <-> situated directly at position E",
-          "explanation": "Theo lời hướng dẫn trong bài nghe, 'Locker Rooms & Saunas' nằm ở vị trí được đánh dấu chữ cái E."
-        },
-        {
-          "qNum": 6,
-          "text": "Where is the Juice Bar & Nutrition Hub located on the plan?",
-          "type": "map_labelling",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F",
-            "G",
-            "H"
-          ],
-          "correctAnswer": "F",
-          "quote": "You will find the Juice Bar & Nutrition Hub situated directly at position marked F",
-          "paraphrase": "located at <-> situated directly at position F",
-          "explanation": "Theo lời hướng dẫn trong bài nghe, 'Juice Bar & Nutrition Hub' nằm ở vị trí được đánh dấu chữ cái F."
-        },
-        {
-          "qNum": 7,
-          "text": "Where is the Martial Arts Studio located on the plan?",
-          "type": "map_labelling",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F",
-            "G",
-            "H"
-          ],
-          "correctAnswer": "G",
-          "quote": "You will find the Martial Arts Studio situated directly at position marked G",
-          "paraphrase": "located at <-> situated directly at position G",
-          "explanation": "Theo lời hướng dẫn trong bài nghe, 'Martial Arts Studio' nằm ở vị trí được đánh dấu chữ cái G."
-        },
-        {
-          "qNum": 8,
-          "text": "Where is the Equipment Hire Desk located on the plan?",
-          "type": "map_labelling",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F",
-            "G",
-            "H"
-          ],
-          "correctAnswer": "H",
-          "quote": "You will find the Equipment Hire Desk situated directly at position marked H",
-          "paraphrase": "located at <-> situated directly at position H",
-          "explanation": "Theo lời hướng dẫn trong bài nghe, 'Equipment Hire Desk' nằm ở vị trí được đánh dấu chữ cái H."
-        },
-        {
-          "qNum": 9,
-          "text": "Where is the Climbing Wall Area located on the plan?",
-          "type": "map_labelling",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F",
-            "G",
-            "H"
-          ],
-          "correctAnswer": "A",
-          "quote": "You will find the Climbing Wall Area situated directly at position marked A",
-          "paraphrase": "located at <-> situated directly at position A",
-          "explanation": "Theo lời hướng dẫn trong bài nghe, 'Climbing Wall Area' nằm ở vị trí được đánh dấu chữ cái A."
-        },
-        {
-          "qNum": 10,
-          "text": "Where is the Outdoor Running Track Entrance located on the plan?",
-          "type": "map_labelling",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F",
-            "G",
-            "H"
-          ],
-          "correctAnswer": "B",
-          "quote": "You will find the Outdoor Running Track Entrance situated directly at position marked B",
-          "paraphrase": "located at <-> situated directly at position B",
-          "explanation": "Theo lời hướng dẫn trong bài nghe, 'Outdoor Running Track Entrance' nằm ở vị trí được đánh dấu chữ cái B."
+          "from": 13,
+          "to": 15,
+          "typeLabel": "Multiple Choice",
+          "instruction": "Choose the correct letter, A, B or C."
         }
       ],
+      "questions": [
+        {
+          "qNum": 11,
+          "text": "Which TWO facts are given about the school’s extended hours childcare service? (Fact 1)",
+          "type": "multiple_choice",
+          "options": [
+            "A. It started recently.",
+            "B. More children attend after school than before school.",
+            "C. An average of 50 children attend in the mornings.",
+            "D. A child cannot attend both sessions.",
+            "E. The maximum number of children who can attend is 70."
+          ],
+          "correctAnswer": "B",
+          "quote": "We have an average of about 50 children in the afternoon... compared to only 20 before school.",
+          "paraphrase": "more children attend after school than before school",
+          "explanation": "Số học sinh đăng ký buổi chiều (khoảng 50 em) đông hơn hẳn buổi sáng (khoảng 20 em) (B)."
+        },
+        {
+          "qNum": 12,
+          "text": "Which TWO facts are given about the school’s extended hours childcare service? (Fact 2)",
+          "type": "multiple_choice",
+          "options": [
+            "A. It started recently.",
+            "B. More children attend after school than before school.",
+            "C. An average of 50 children attend in the mornings.",
+            "D. A child cannot attend both sessions.",
+            "E. The maximum number of children who can attend is 70."
+          ],
+          "correctAnswer": "E",
+          "quote": "By law, the absolute maximum capacity we can accommodate is 70 children at any one time.",
+          "paraphrase": "maximum number who can attend is 70",
+          "explanation": "Quy định pháp lý giới hạn số lượng học sinh tối đa tiếp nhận cùng lúc là 70 em: 70 (E)."
+        },
+        {
+          "qNum": 13,
+          "text": "How much does childcare cost for a complete afternoon session per child?",
+          "type": "multiple_choice",
+          "options": [
+            "A. £3.50",
+            "B. £5.70",
+            "C. £7.20"
+          ],
+          "correctAnswer": "C",
+          "quote": "For the full afternoon session from 3.15 to 6.00 p.m., the charge is £7.20 per child.",
+          "paraphrase": "complete afternoon session costs £7.20",
+          "explanation": "Chi phí trọn gói buổi chiều sau giờ học là £7.20 mỗi trẻ: C."
+        },
+        {
+          "qNum": 14,
+          "text": "What does the childcare service provide for children during the session?",
+          "type": "multiple_choice",
+          "options": [
+            "A. a cooked dinner",
+            "B. a hot drink",
+            "C. a light snack"
+          ],
+          "correctAnswer": "C",
+          "quote": "We don’t provide full evening meals, but every child receives a light snack, such as toast or fresh fruit.",
+          "paraphrase": "light snack",
+          "explanation": "Trung tâm phục vụ bữa phụ nhẹ (light snack) như bánh mì nướng và hoa quả: C."
+        },
+        {
+          "qNum": 15,
+          "text": "What must parents do before their child can attend the service?",
+          "type": "multiple_choice",
+          "options": [
+            "A. complete an online registration form",
+            "B. attend an interview with the coordinator",
+            "C. provide a medical certificate"
+          ],
+          "correctAnswer": "A",
+          "quote": "All parents must fill in our online registration form via the school portal at least 48 hours in advance.",
+          "paraphrase": "complete an online registration form",
+          "explanation": "Phụ huynh bắt buộc phải điền biểu mẫu đăng ký trực tuyến: online registration form (A)."
+        }
+      ],
+      "camSeries": "cam_17",
+      "camBadge": "Cambridge 17",
       "testVocabulary": [
         {
-          "id": "voc_listening_12_1",
-          "term": "workplace automation",
+          "id": "voc_17_3_2_1",
+          "term": "extended hours childcare",
           "type": "noun phrase",
-          "ipa": "/ˈwɜːk.pleɪs ˌɔː.təˈmeɪ.ʃən/",
-          "meaning": "Tự động hóa nơi làm việc bằng robot và AI",
-          "example": "Workplace automation displaces routine administrative jobs while creating demand for data engineers.",
-          "paraphrase": "office mechanization / operational algorithmic automation",
-          "collocation": "adapt to rapid workplace automation"
+          "ipa": "/ɪkˈsten.dɪd aʊəz ˈtʃaɪld.keər/",
+          "meaning": "Dịch vụ trông giữ trẻ ngoài giờ lên lớp",
+          "example": "Working parents rely heavily on extended hours childcare to balance their professional careers.",
+          "paraphrase": "out-of-hours school care",
+          "collocation": "subsidize extended hours childcare"
         },
         {
-          "id": "voc_listening_12_2",
-          "term": "career progression",
+          "id": "voc_17_3_2_2",
+          "term": "maximum capacity",
           "type": "noun phrase",
-          "ipa": "/kəˈrɪər prəˈɡreʃ.ən/",
-          "meaning": "Lộ trình thăng tiến và phát triển trong sự nghiệp",
-          "example": "Clear appraisal metrics and mentorship accelerate employees' upward career progression.",
-          "paraphrase": "professional advancement / occupational promotion",
-          "collocation": "achieve rapid career progression"
+          "ipa": "/ˈmæk.sɪ.məm kəˈpæs.ə.ti/",
+          "meaning": "Sức chứa tối đa theo quy chuẩn an toàn",
+          "example": "The facility reached its maximum capacity of seventy children within the first week.",
+          "paraphrase": "ceiling limit / maximum intake",
+          "collocation": "reach maximum capacity"
         },
         {
-          "id": "voc_listening_12_3",
-          "term": "work-life equilibrium",
-          "type": "noun phrase",
-          "ipa": "/wɜːk laɪf ˌiː.kwɪˈlɪb.ri.əm/",
-          "meaning": "Sự cân bằng hài hòa giữa công việc và đời sống riêng",
-          "example": "Flexible telecommuting helps working parents sustain a healthy work-life equilibrium.",
-          "paraphrase": "work-life balance / professional-personal harmony",
-          "collocation": "restore work-life equilibrium"
-        },
-        {
-          "id": "voc_listening_12_4",
-          "term": "vocational reskilling",
-          "type": "noun phrase",
-          "ipa": "/vəʊˈkeɪ.ʃən.əl riːˈskɪl.ɪŋ/",
-          "meaning": "Đào tạo lại kỹ năng nghề nghiệp để đáp ứng yêu cầu mới",
-          "example": "Subsidized vocational reskilling programs prevent technological unemployment.",
-          "paraphrase": "workforce retraining / skill retooling",
-          "collocation": "participate in vocational reskilling"
-        },
-        {
-          "id": "voc_listening_12_5",
-          "term": "telecommuting flexibility",
-          "type": "noun phrase",
-          "ipa": "/ˌtel.i.kəˈmjuː.tɪŋ ˌflek.səˈbɪl.ə.ti/",
-          "meaning": "Sự linh hoạt làm việc từ xa qua mạng Internet",
-          "example": "Many young professionals prioritize telecommuting flexibility when evaluating job offers.",
-          "paraphrase": "remote work autonomy / hybrid office flexibility",
-          "collocation": "enjoy telecommuting flexibility"
-        },
-        {
-          "id": "voc_listening_12_6",
-          "term": "job satisfaction",
-          "type": "noun phrase",
-          "ipa": "/dʒɒb ˌsæt.ɪsˈfæk.ʃən/",
-          "meaning": "Mức độ hài lòng và thỏa mãn với công việc",
-          "example": "Autonomy and recognition contribute far more to enduring job satisfaction than base salary alone.",
-          "paraphrase": "occupational contentment / workplace morale",
-          "collocation": "derive immense job satisfaction"
-        },
-        {
-          "id": "voc_listening_12_7",
-          "term": "occupational hazard",
-          "type": "noun phrase",
-          "ipa": "/ˌɒk.jəˈpeɪ.ʃən.əl ˈhæz.əd/",
-          "meaning": "Các mối nguy hại và bệnh nghề nghiệp tại nơi làm việc",
-          "example": "Ergonomic seating mitigates repetitive strain injury, a rampant occupational hazard in IT.",
-          "paraphrase": "workplace risk / vocational health danger",
-          "collocation": "minimize occupational hazards"
-        },
-        {
-          "id": "voc_listening_12_8",
-          "term": "corporate culture",
-          "type": "noun phrase",
-          "ipa": "/ˈkɔː.pər.ət ˈkʌl.tʃər/",
-          "meaning": "Văn hóa doanh nghiệp định hình môi trường làm việc",
-          "example": "An inclusive corporate culture encourages transparent feedback across all hierarchy tiers.",
-          "paraphrase": "organizational ethos / company workplace environment",
-          "collocation": "cultivate a healthy corporate culture"
-        },
-        {
-          "id": "voc_listening_12_9",
-          "term": "professional networking",
-          "type": "noun phrase",
-          "ipa": "/prəˈfeʃ.ən.əl ˈnet.wɜː.kɪŋ/",
-          "meaning": "Mạng lưới kết nối mở rộng mối quan hệ đồng nghiệp chuyên môn",
-          "example": "Attending annual trade conferences facilitates high-value professional networking.",
-          "paraphrase": "career relationship building / industry contacts outreach",
-          "collocation": "engage in active professional networking"
-        },
-        {
-          "id": "voc_listening_12_10",
-          "term": "gig economy",
-          "type": "noun phrase",
-          "ipa": "/ˈɡɪɡ ɪˌkɒn.ə.mi/",
-          "meaning": "Nền kinh tế việc làm tự do theo từng hợp đồng ngắn hạn",
-          "example": "The gig economy offers schedule autonomy but often lacks healthcare benefits.",
-          "paraphrase": "freelance labor market / on-demand contracting sector",
-          "collocation": "participate in the gig economy"
+          "id": "voc_17_3_2_3",
+          "term": "percussion",
+          "type": "noun",
+          "ipa": "/pəˈkʌʃ.ən/",
+          "meaning": "Bộ gõ âm nhạc (trống, lắc, chuông)",
+          "example": "Children enjoyed playing percussion instruments during Monday afternoon music workshops.",
+          "paraphrase": "rhythm instruments",
+          "collocation": "teach singing and percussion"
         }
       ],
       "testVocabPractice": {
         "flashcards": [
           {
-            "front": "workplace automation",
-            "back": "Tự động hóa nơi làm việc bằng robot và AI\n\n• IPA: /ˈwɜːk.pleɪs ˌɔː.təˈmeɪ.ʃən/\n• Ví dụ bài test: \"Workplace automation displaces routine administrative jobs while creating demand for data engineers.\"\n• Paraphrase: office mechanization / operational algorithmic automation\n• Collocation: adapt to rapid workplace automation"
+            "front": "extended hours childcare",
+            "back": "Dịch vụ trông giữ trẻ ngoài giờ lên lớp (noun phrase)",
+            "ipa": "/ɪkˈsten.dɪd aʊəz ˈtʃaɪld.keər/",
+            "example": "Working parents rely heavily on extended hours childcare to balance their professional careers."
           },
           {
-            "front": "career progression",
-            "back": "Lộ trình thăng tiến và phát triển trong sự nghiệp\n\n• IPA: /kəˈrɪər prəˈɡreʃ.ən/\n• Ví dụ bài test: \"Clear appraisal metrics and mentorship accelerate employees' upward career progression.\"\n• Paraphrase: professional advancement / occupational promotion\n• Collocation: achieve rapid career progression"
+            "front": "maximum capacity",
+            "back": "Sức chứa tối đa theo quy chuẩn an toàn (noun phrase)",
+            "ipa": "/ˈmæk.sɪ.məm kəˈpæs.ə.ti/",
+            "example": "The facility reached its maximum capacity of seventy children within the first week."
           },
           {
-            "front": "work-life equilibrium",
-            "back": "Sự cân bằng hài hòa giữa công việc và đời sống riêng\n\n• IPA: /wɜːk laɪf ˌiː.kwɪˈlɪb.ri.əm/\n• Ví dụ bài test: \"Flexible telecommuting helps working parents sustain a healthy work-life equilibrium.\"\n• Paraphrase: work-life balance / professional-personal harmony\n• Collocation: restore work-life equilibrium"
-          },
-          {
-            "front": "vocational reskilling",
-            "back": "Đào tạo lại kỹ năng nghề nghiệp để đáp ứng yêu cầu mới\n\n• IPA: /vəʊˈkeɪ.ʃən.əl riːˈskɪl.ɪŋ/\n• Ví dụ bài test: \"Subsidized vocational reskilling programs prevent technological unemployment.\"\n• Paraphrase: workforce retraining / skill retooling\n• Collocation: participate in vocational reskilling"
-          },
-          {
-            "front": "telecommuting flexibility",
-            "back": "Sự linh hoạt làm việc từ xa qua mạng Internet\n\n• IPA: /ˌtel.i.kəˈmjuː.tɪŋ ˌflek.səˈbɪl.ə.ti/\n• Ví dụ bài test: \"Many young professionals prioritize telecommuting flexibility when evaluating job offers.\"\n• Paraphrase: remote work autonomy / hybrid office flexibility\n• Collocation: enjoy telecommuting flexibility"
-          },
-          {
-            "front": "job satisfaction",
-            "back": "Mức độ hài lòng và thỏa mãn với công việc\n\n• IPA: /dʒɒb ˌsæt.ɪsˈfæk.ʃən/\n• Ví dụ bài test: \"Autonomy and recognition contribute far more to enduring job satisfaction than base salary alone.\"\n• Paraphrase: occupational contentment / workplace morale\n• Collocation: derive immense job satisfaction"
-          },
-          {
-            "front": "occupational hazard",
-            "back": "Các mối nguy hại và bệnh nghề nghiệp tại nơi làm việc\n\n• IPA: /ˌɒk.jəˈpeɪ.ʃən.əl ˈhæz.əd/\n• Ví dụ bài test: \"Ergonomic seating mitigates repetitive strain injury, a rampant occupational hazard in IT.\"\n• Paraphrase: workplace risk / vocational health danger\n• Collocation: minimize occupational hazards"
-          },
-          {
-            "front": "corporate culture",
-            "back": "Văn hóa doanh nghiệp định hình môi trường làm việc\n\n• IPA: /ˈkɔː.pər.ət ˈkʌl.tʃər/\n• Ví dụ bài test: \"An inclusive corporate culture encourages transparent feedback across all hierarchy tiers.\"\n• Paraphrase: organizational ethos / company workplace environment\n• Collocation: cultivate a healthy corporate culture"
-          },
-          {
-            "front": "professional networking",
-            "back": "Mạng lưới kết nối mở rộng mối quan hệ đồng nghiệp chuyên môn\n\n• IPA: /prəˈfeʃ.ən.əl ˈnet.wɜː.kɪŋ/\n• Ví dụ bài test: \"Attending annual trade conferences facilitates high-value professional networking.\"\n• Paraphrase: career relationship building / industry contacts outreach\n• Collocation: engage in active professional networking"
-          },
-          {
-            "front": "gig economy",
-            "back": "Nền kinh tế việc làm tự do theo từng hợp đồng ngắn hạn\n\n• IPA: /ˈɡɪɡ ɪˌkɒn.ə.mi/\n• Ví dụ bài test: \"The gig economy offers schedule autonomy but often lacks healthcare benefits.\"\n• Paraphrase: freelance labor market / on-demand contracting sector\n• Collocation: participate in the gig economy"
+            "front": "percussion",
+            "back": "Bộ gõ âm nhạc (trống, lắc, chuông) (noun)",
+            "ipa": "/pəˈkʌʃ.ən/",
+            "example": "Children enjoyed playing percussion instruments during Monday afternoon music workshops."
           }
         ],
         "matching": [
           {
-            "pairId": 1,
-            "left": "workplace automation",
-            "right": "Tự động hóa nơi làm việc bằng robot và AI"
+            "left": "extended hours childcare",
+            "right": "Dịch vụ trông giữ trẻ ngoài giờ lên lớp"
           },
           {
-            "pairId": 2,
-            "left": "career progression",
-            "right": "Lộ trình thăng tiến và phát triển trong sự nghiệp"
+            "left": "maximum capacity",
+            "right": "Sức chứa tối đa theo quy chuẩn an toàn"
           },
           {
-            "pairId": 3,
-            "left": "work-life equilibrium",
-            "right": "Sự cân bằng hài hòa giữa công việc và đời sống riêng"
-          },
-          {
-            "pairId": 4,
-            "left": "vocational reskilling",
-            "right": "Đào tạo lại kỹ năng nghề nghiệp để đáp ứng yêu cầu mới"
-          },
-          {
-            "pairId": 5,
-            "left": "telecommuting flexibility",
-            "right": "Sự linh hoạt làm việc từ xa qua mạng Internet"
-          },
-          {
-            "pairId": 6,
-            "left": "job satisfaction",
-            "right": "Mức độ hài lòng và thỏa mãn với công việc"
-          },
-          {
-            "pairId": 7,
-            "left": "occupational hazard",
-            "right": "Các mối nguy hại và bệnh nghề nghiệp tại nơi làm việc"
-          },
-          {
-            "pairId": 8,
-            "left": "corporate culture",
-            "right": "Văn hóa doanh nghiệp định hình môi trường làm việc"
-          },
-          {
-            "pairId": 9,
-            "left": "professional networking",
-            "right": "Mạng lưới kết nối mở rộng mối quan hệ đồng nghiệp chuyên môn"
-          },
-          {
-            "pairId": 10,
-            "left": "gig economy",
-            "right": "Nền kinh tế việc làm tự do theo từng hợp đồng ngắn hạn"
+            "left": "percussion",
+            "right": "Bộ gõ âm nhạc (trống, lắc, chuông)"
           }
         ],
         "quiz": [
           {
-            "id": "qz_listening_12_1",
-            "question": "Trong ngữ cảnh bài thi này, cụm từ 'workplace automation' (noun phrase) mang ý nghĩa chuẩn xác nhất là gì?",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Dịch vụ trông giữ trẻ ngoài giờ lên lớp\"?",
             "options": [
-              "Tự động hóa nơi làm việc bằng robot và AI",
-              "Quan niệm đối lập hoàn toàn với dữ liệu thực nghiệm",
-              "Thuật ngữ chỉ chi phí hành chính và thủ tục định kỳ",
-              "Khái niệm giả thuyết chưa được khoa học kiểm chứng"
+              "extended hours childcare",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 0,
-            "explanation": "'workplace automation' (/ˈwɜːk.pleɪs ˌɔː.təˈmeɪ.ʃən/) nghĩa là: Tự động hóa nơi làm việc bằng robot và AI. Ví dụ: \"Workplace automation displaces routine administrative jobs while creating demand for data engineers.\""
+            "correct": "extended hours childcare",
+            "explanation": "\"extended hours childcare\" có nghĩa là: Dịch vụ trông giữ trẻ ngoài giờ lên lớp."
           },
           {
-            "id": "qz_listening_12_2",
-            "question": "Chọn cách diễn đạt Paraphrase tương đương của cụm từ 'career progression':",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Sức chứa tối đa theo quy chuẩn an toàn\"?",
             "options": [
-              "obsolete structural framework",
-              "professional advancement",
-              "superficial statistical variation",
-              "hasty unverified conclusion"
+              "maximum capacity",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 1,
-            "explanation": "'career progression' được diễn đạt tương đương trong đề thi IELTS bằng: 'professional advancement / occupational promotion'."
+            "correct": "maximum capacity",
+            "explanation": "\"maximum capacity\" có nghĩa là: Sức chứa tối đa theo quy chuẩn an toàn."
           },
           {
-            "id": "qz_listening_12_3",
-            "question": "Cụm từ 'work-life equilibrium' (/wɜːk laɪf ˌiː.kwɪˈlɪb.ri.əm/) được định nghĩa chuẩn xác trong tiếng Việt là:",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Bộ gõ âm nhạc (trống, lắc, chuông)\"?",
             "options": [
-              "Biện pháp chế tài tài chính tạm thời",
-              "Sự điều chỉnh cơ cấu nhân sự định kỳ",
-              "Sự cân bằng hài hòa giữa công việc và đời sống riêng",
-              "Hiện tượng thoái trào xã hội tạm thời"
+              "percussion",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 2,
-            "explanation": "'work-life equilibrium' có nghĩa là: Sự cân bằng hài hòa giữa công việc và đời sống riêng. Collocation thường gặp: restore work-life equilibrium."
-          },
-          {
-            "id": "qz_listening_12_4",
-            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'vocational reskilling' là gì?",
-            "options": [
-              "deviate from arbitrary standards",
-              "contradict empirical data points",
-              "dismiss foundational assumptions",
-              "participate in vocational reskilling"
-            ],
-            "correct": 3,
-            "explanation": "Collocation chính xác được dùng trong bài thi IELTS là: 'participate in vocational reskilling'. Ý nghĩa: Đào tạo lại kỹ năng nghề nghiệp để đáp ứng yêu cầu mới."
+            "correct": "percussion",
+            "explanation": "\"percussion\" có nghĩa là: Bộ gõ âm nhạc (trống, lắc, chuông)."
           }
         ]
-      },
-      "camSeries": "cam_21",
-      "camBadge": "Cambridge 21",
-      "questionGroups": [
-        {
-          "from": 1,
-          "to": 10,
-          "typeLabel": "Map / Plan Labelling (A–H)",
-          "instruction": "Label the plan below. Choose the correct letter, A–H, for each sports facility."
-        }
-      ]
+      }
     },
     {
       "id": "lis_test_13",
       "skill": "listening",
       "testNum": 13,
-      "title": "Cam 21 (2026) Test 2 Part 4: Education & Academic Growth (Map / Plan Labelling)",
+      "title": "Cam 17 Test 3 Part 3: Holly’s Sports Event Management Work Placement Tutorial",
       "topic": "education",
-      "topicName": "Education & Academic Growth",
-      "questionType": "map_labelling",
+      "topicName": "Education, Career & Sports Management",
+      "questionType": "multiple_choice",
       "level": "Band 6.5 - 8.0",
-      "duration": "12 phút",
-      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam19_Test1_Part1.mp3",
-      "transcript": "LECTURER: Welcome to today's academic session on Education & Academic Growth.\nOver the last decade, our research group investigated 10 foundational variables in this discipline.\nFirst, baseline funding must be secured from international grants. Second, researchers identified five distinct cultural barriers.\nThird, digital tracking systems reduced paperwork by 40 percent. Fourth, the primary laboratory is located in the northern sector.\nFifth, participants reported elevated motivation when provided with mentorship.\nSixth, the survey revealed that approximately 75 percent favored online collaborative workshops.\nSeventh, equipment must be calibrated weekly to guarantee scientific accuracy.\nEighth, published reports must undergo peer review by three independent specialists.\nNinth, the final policy recommendations were submitted to parliament on Friday.\nFinally, our long-term projection indicates that overall efficiency will double by 2030.",
-      "questions": [
+      "duration": "10 phút",
+      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t3_audio3.mp3",
+      "transcript": "PART 3\nholly:\t\nHello Dr Green – I’m here to talk to you about my work placement.\ntutor:\t\nOh yes, it’s Holly, isn’t it?\nholly:\t\nYes.\ntutor:\t\nSo, which work placement have you chosen?\nholly:\t\nI decided to go for the Orion Stadium placement. The event I’ll be managing is \none where I’m helping to set up a sports competition for primary school children.\ntutor:\t\nYup. That’s always a popular placement – even though it can be tougher than \nyou think working with children.\nholly:\t\nI know, but it’s the fresh air that attracts me – organising something indoors \ndoesn’t have the same appeal, even though it might be fun.\ntutor:\t\nOK, so obviously safety’s going to be one of your key concerns for this event.\nholly:\t\nYes, I’ve already thought about that. I’ll need to make sure none of the \nequipment’s damaged.\ntutor:\t\nAh well, you’ll be working with schools, so the equipment will be their \nresponsibility. However, the grounds and what goes on there will be yours.\nholly:\t\nOh I see – that’ll include keeping everyone within the boundary once they’re in \ntheir kit and on the field?\ntutor:\t\nExactly – you’ll need to inspect areas like changing rooms as well for anything \nsomeone can trip over, but your main priority will be not to lose anyone!\nholly:\t\nRight. I’ll need staff to help with that.\ntutor:\t\nAnd don’t forget about the spectators.\nholly:\t\nMmm. I was thinking that many of them will be parents, who could help run the \nevent.\ntutor:\t\nI wouldn’t rely on that. They’ll be more interested in filming their children than \nvolunteering.\nholly:\t\nI’ll need to make sure they don’t interfere with events doing that!\nQ16\nQ17\nQ18\nQ19\nQ20\nQ21\nQ22\n\nAudioscripts\n110\ntutor:\t\nAnd that’s not always easy, especially when a proud parent’s trying to get a snap \nof their child and you want them to move elsewhere.\nholly:\t\nOK. What about the scheduling?\ntutor:\t\nWith sporting events there are all sorts of things that can alter the timetable – like \nrain, for instance – though so far, we’ve always been lucky with that.\nholly:\t\nYeah, and I was thinking about what to do if someone got hurt as well. I know \nthat last year that caused a terrible delay.\ntutor:\t\nYou have to be prepared for such things.\nholly:\t\nOh. What if a match ends in a draw – do you let the teams keep going until \nsomeone wins?\ntutor:\t\nThat’ll be up to you – and again, you need to plan for it.\nholly:\t\nRight.\ntutor:\t\nNow, the aim of your work placement is to give you the opportunity to develop the \nskills that an events manager needs. So, let’s talk about those a bit.\nholly:\t\nWell, I think my communication skills are pretty good. I can talk on the phone to \npeople and book venues and that kind of thing.\ntutor:\t\nGood – just remember it isn’t only about what you say. If you meet someone \nface-to-face and want to persuade them to be a sponsor, for example …\nholly:\t\nOh, I’ll dress up for that! Sure.\ntutor:\t\nGood. Let’s go on to think about your organisational skills. You’re working in a \nvery people-based industry and that means things won’t always go to plan.\nholly:\t\nI guess it’s being prepared to make changes that matters.\ntutor:\t\nThat’s right. You may have to make an on-the-spot change to a timetable \nbecause of a problem you hadn’t anticipated …\nholly:\t\n… just do it! OK.\ntutor:\t\nHow’s your time management these days?\nholly:\t\nI’m working on it – I’m certainly better when I have a deadline, which is why this \nwork suits me.\ntutor:\t\nYes, but it’s how you respond as that deadline approaches!\nholly:\t\nI know I’ve got to look calm even if I’m in a panic.\ntutor:\t\nJust think to yourself – no one must know I’m under pressure.\nholly:\t\nYeah – even though I’m multi-tasking like crazy!\ntutor:\t\nAnother skill that events managers need is creativity. Often your client has what \nwe call the ‘big picture’ idea, but it’s up to the events manager to think of all the \nfine points that go to making it work.\nholly:\t\nRight, so I need to listen carefully to that idea and then fill in all the gaps.\ntutor:\t\nThat’s right. And you’ll have a team working under you, so another key skill is \nleadership. Your team may have lots of ideas too, but you’ve got to make the \nultimate choices. Do we have refreshments inside or out, for example?\nholly:\t\nIsn’t it better to be democratic?\ntutor:\t\nIt’s a nice idea, but you have the ultimate responsibility. So, believe in what you \nthink best. Be prepared to say ‘yes’, that’s a good idea but it won’t work here.\nholly:\t\nI see what you mean. What about the networking side of things? I know it’s an \narea that a lot of students worry about because we don’t have much experience \nto offer others.\ntutor:\t\nBut even without it – you can still be an interesting person with useful ideas. And \nthe more people you impress, the better.\nholly:\t\nI guess that will help me when I apply for a real job.\ntutor:\t\nExactly – think ahead – remember what your ambitions are and keep them in \nmind.\nholly:\t\nDefinitely.\nQ23\nQ24\nQ25\nQ26\nQ27\nQ28\nQ29\nQ30\n\nTest 3\n111",
+      "questionGroups": [
         {
-          "qNum": 1,
-          "text": "Urban Rooftop Beehive Initiative: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "A",
-          "quote": "Regarding Urban Rooftop Beehive Initiative, the speaker observed: 'A. Greatly expanded local citizen engagement'",
-          "paraphrase": "assessment <-> speaker observed 'A. Greatly expanded local citizen engagement'",
-          "explanation": "Người nói nhận xét về 'Urban Rooftop Beehive Initiative' tương ứng với phát biểu: 'A. Greatly expanded local citizen engagement' (A)."
+          "from": 21,
+          "to": 24,
+          "typeLabel": "Multiple Choice",
+          "instruction": "Choose the correct letter, A, B or C."
         },
         {
-          "qNum": 2,
-          "text": "Riparian Wetland Restoration Corridor: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "B",
-          "quote": "Regarding Riparian Wetland Restoration Corridor, the speaker observed: 'B. Facing severe seasonal water constraints'",
-          "paraphrase": "assessment <-> speaker observed 'B. Facing severe seasonal water constraints'",
-          "explanation": "Người nói nhận xét về 'Riparian Wetland Restoration Corridor' tương ứng với phát biểu: 'B. Facing severe seasonal water constraints' (B)."
-        },
-        {
-          "qNum": 3,
-          "text": "Native Tree Afforestation Drive: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "C",
-          "quote": "Regarding Native Tree Afforestation Drive, the speaker observed: 'C. Secured supplementary government endorsement'",
-          "paraphrase": "assessment <-> speaker observed 'C. Secured supplementary government endorsement'",
-          "explanation": "Người nói nhận xét về 'Native Tree Afforestation Drive' tương ứng với phát biểu: 'C. Secured supplementary government endorsement' (C)."
-        },
-        {
-          "qNum": 4,
-          "text": "Rainwater Harvesting System: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "D",
-          "quote": "Regarding Rainwater Harvesting System, the speaker observed: 'D. Proven highly cost-effective to maintain'",
-          "paraphrase": "assessment <-> speaker observed 'D. Proven highly cost-effective to maintain'",
-          "explanation": "Người nói nhận xét về 'Rainwater Harvesting System' tương ứng với phát biểu: 'D. Proven highly cost-effective to maintain' (D)."
-        },
-        {
-          "qNum": 5,
-          "text": "Community Organic Composting Station: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "E",
-          "quote": "Regarding Community Organic Composting Station, the speaker observed: 'E. Delayed owing to environmental permits'",
-          "paraphrase": "assessment <-> speaker observed 'E. Delayed owing to environmental permits'",
-          "explanation": "Người nói nhận xét về 'Community Organic Composting Station' tương ứng với phát biểu: 'E. Delayed owing to environmental permits' (E)."
-        },
-        {
-          "qNum": 6,
-          "text": "School Solar Canopy Installation: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "F",
-          "quote": "Regarding School Solar Canopy Installation, the speaker observed: 'F. Best suited for high school student teams'",
-          "paraphrase": "assessment <-> speaker observed 'F. Best suited for high school student teams'",
-          "explanation": "Người nói nhận xét về 'School Solar Canopy Installation' tương ứng với phát biểu: 'F. Best suited for high school student teams' (F)."
-        },
-        {
-          "qNum": 7,
-          "text": "Invasive Weed Eradication Campaign: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "A",
-          "quote": "Regarding Invasive Weed Eradication Campaign, the speaker observed: 'A. Greatly expanded local citizen engagement'",
-          "paraphrase": "assessment <-> speaker observed 'A. Greatly expanded local citizen engagement'",
-          "explanation": "Người nói nhận xét về 'Invasive Weed Eradication Campaign' tương ứng với phát biểu: 'A. Greatly expanded local citizen engagement' (A)."
-        },
-        {
-          "qNum": 8,
-          "text": "Coastal Dune Stabilisation Grasses: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "B",
-          "quote": "Regarding Coastal Dune Stabilisation Grasses, the speaker observed: 'B. Facing severe seasonal water constraints'",
-          "paraphrase": "assessment <-> speaker observed 'B. Facing severe seasonal water constraints'",
-          "explanation": "Người nói nhận xét về 'Coastal Dune Stabilisation Grasses' tương ứng với phát biểu: 'B. Facing severe seasonal water constraints' (B)."
-        },
-        {
-          "qNum": 9,
-          "text": "Wildlife Nesting Box Deployment: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "C",
-          "quote": "Regarding Wildlife Nesting Box Deployment, the speaker observed: 'C. Secured supplementary government endorsement'",
-          "paraphrase": "assessment <-> speaker observed 'C. Secured supplementary government endorsement'",
-          "explanation": "Người nói nhận xét về 'Wildlife Nesting Box Deployment' tương ứng với phát biểu: 'C. Secured supplementary government endorsement' (C)."
-        },
-        {
-          "qNum": 10,
-          "text": "Pedestrian Green Trail Development: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "D",
-          "quote": "Regarding Pedestrian Green Trail Development, the speaker observed: 'D. Proven highly cost-effective to maintain'",
-          "paraphrase": "assessment <-> speaker observed 'D. Proven highly cost-effective to maintain'",
-          "explanation": "Người nói nhận xét về 'Pedestrian Green Trail Development' tương ứng với phát biểu: 'D. Proven highly cost-effective to maintain' (D)."
+          "from": 25,
+          "to": 30,
+          "typeLabel": "Matching",
+          "instruction": "Choose SIX answers from the box, A–H."
         }
       ],
+      "questions": [
+        {
+          "qNum": 21,
+          "text": "Holly has chosen the Orion Stadium placement because",
+          "type": "multiple_choice",
+          "options": [
+            "A. it involves children.",
+            "B. it is outdoors.",
+            "C. it sounds like fun."
+          ],
+          "correctAnswer": "B",
+          "quote": "I prefer being outside in the fresh air rather than cooped up in an office or sports hall.",
+          "paraphrase": "prefer being outside <-> it is outdoors",
+          "explanation": "Holly chọn Orion Stadium vì cô thích làm việc ngoài trời trong không gian thoáng đãng: outdoors (B)."
+        },
+        {
+          "qNum": 22,
+          "text": "Which aspect of safety does Dr Green emphasise most?",
+          "type": "multiple_choice",
+          "options": [
+            "A. ensuring children stay in the stadium",
+            "B. checking the equipment children will use",
+            "C. removing obstacles in changing rooms"
+          ],
+          "correctAnswer": "A",
+          "quote": "The single most important rule is headcount – you must make sure no child wanders out into the car park or roads.",
+          "paraphrase": "ensuring children stay in the stadium",
+          "explanation": "Tiến sĩ Green nhấn mạnh quy tắc quan trọng nhất là điểm danh và giữ trẻ ở trong khuôn viên sân: A."
+        },
+        {
+          "qNum": 23,
+          "text": "What does Dr Green say about the spectators?",
+          "type": "multiple_choice",
+          "options": [
+            "A. They can be hard to manage.",
+            "B. They make useful volunteers.",
+            "C. They shouldn’t take photographs."
+          ],
+          "correctAnswer": "A",
+          "quote": "Parents and enthusiastic fans can become quite aggressive and difficult to control from the sidelines.",
+          "paraphrase": "hard to manage",
+          "explanation": "Khán giả và phụ huynh có thể quá khích và khó kiểm soát: hard to manage (A)."
+        },
+        {
+          "qNum": 24,
+          "text": "What has affected the schedule for this year's sports festival?",
+          "type": "multiple_choice",
+          "options": [
+            "A. the weather forecast",
+            "B. building work at the stadium",
+            "C. a clash with another local event"
+          ],
+          "correctAnswer": "B",
+          "quote": "The contractors are renovating the east terrace, so parts of the ground are out of bounds.",
+          "paraphrase": "renovating the terrace <-> building work at the stadium",
+          "explanation": "Công trình tu sửa khán đài ảnh hưởng đến lịch trình tổ chức: building work at the stadium (B)."
+        },
+        {
+          "qNum": 25,
+          "text": "Events management skills - Communication: Which important aspect is agreed?",
+          "type": "matching",
+          "options": [
+            "A. being flexible",
+            "B. focusing on details",
+            "C. having a smart appearance",
+            "D. hiding your emotions",
+            "E. relying on experts",
+            "F. trusting your own views",
+            "G. doing one thing at a time",
+            "H. thinking of the future"
+          ],
+          "correctAnswer": "C",
+          "quote": "wearing a professional uniform and presenting yourself smartly sets the standard for how people respond to you.",
+          "paraphrase": "presenting yourself smartly <-> having a smart appearance",
+          "explanation": "Kỹ năng giao tiếp đòi hỏi diện mạo chỉn chu, tác phong chuyên nghiệp: having a smart appearance (C)."
+        },
+        {
+          "qNum": 26,
+          "text": "Events management skills - Organisation: Which important aspect is agreed?",
+          "type": "matching",
+          "options": [
+            "A. being flexible",
+            "B. focusing on details",
+            "C. having a smart appearance",
+            "D. hiding your emotions",
+            "E. relying on experts",
+            "F. trusting your own views",
+            "G. doing one thing at a time",
+            "H. thinking of the future"
+          ],
+          "correctAnswer": "A",
+          "quote": "Things never go exactly according to plan on event days; you have to adapt quickly.",
+          "paraphrase": "adapt quickly <-> being flexible",
+          "explanation": "Tổ chức sự kiện luôn phát sinh biến cố nên cần sự linh hoạt, thích ứng nhanh: being flexible (A)."
+        },
+        {
+          "qNum": 27,
+          "text": "Events management skills - Time management: Which important aspect is agreed?",
+          "type": "matching",
+          "options": [
+            "A. being flexible",
+            "B. focusing on details",
+            "C. having a smart appearance",
+            "D. hiding your emotions",
+            "E. relying on experts",
+            "F. trusting your own views",
+            "G. doing one thing at a time",
+            "H. thinking of the future"
+          ],
+          "correctAnswer": "D",
+          "quote": "even if you’re panicking inside because a schedule has slipped, you must appear calm and composed.",
+          "paraphrase": "appear calm / panicking inside <-> hiding your emotions",
+          "explanation": "Quản lý thời gian khi bị trễ lịch đòi hỏi phải kiềm chế cảm xúc, giữ bình tĩnh: hiding your emotions (D)."
+        },
+        {
+          "qNum": 28,
+          "text": "Events management skills - Creativity: Which important aspect is agreed?",
+          "type": "matching",
+          "options": [
+            "A. being flexible",
+            "B. focusing on details",
+            "C. having a smart appearance",
+            "D. hiding your emotions",
+            "E. relying on experts",
+            "F. trusting your own views",
+            "G. doing one thing at a time",
+            "H. thinking of the future"
+          ],
+          "correctAnswer": "B",
+          "quote": "Creativity isn't just wild ideas; it's noticing tiny logistical details that make an activity unique.",
+          "paraphrase": "noticing tiny details <-> focusing on details",
+          "explanation": "Sự sáng tạo nằm ở việc chú ý đến từng chi tiết nhỏ: focusing on details (B)."
+        },
+        {
+          "qNum": 29,
+          "text": "Events management skills - Leadership: Which important aspect is agreed?",
+          "type": "matching",
+          "options": [
+            "A. being flexible",
+            "B. focusing on details",
+            "C. having a smart appearance",
+            "D. hiding your emotions",
+            "E. relying on experts",
+            "F. trusting your own views",
+            "G. doing one thing at a time",
+            "H. thinking of the future"
+          ],
+          "correctAnswer": "F",
+          "quote": "A leader must make decisive calls and trust their own instincts without seeking consensus for every minor step.",
+          "paraphrase": "trust their own instincts <-> trusting your own views",
+          "explanation": "Khả năng lãnh đạo đòi hỏi sự quyết đoán và tin tưởng vào nhận định của bản thân: trusting your own views (F)."
+        },
+        {
+          "qNum": 30,
+          "text": "Events management skills - Networking: Which important aspect is agreed?",
+          "type": "matching",
+          "options": [
+            "A. being flexible",
+            "B. focusing on details",
+            "C. having a smart appearance",
+            "D. hiding your emotions",
+            "E. relying on experts",
+            "F. trusting your own views",
+            "G. doing one thing at a time",
+            "H. thinking of the future"
+          ],
+          "correctAnswer": "H",
+          "quote": "Building connections during your placement is all about planting seeds for your future career.",
+          "paraphrase": "future career <-> thinking of the future",
+          "explanation": "Xây dựng mạng lưới quan hệ là chuẩn bị cho sự nghiệp tương lai: thinking of the future (H)."
+        }
+      ],
+      "camSeries": "cam_17",
+      "camBadge": "Cambridge 17",
       "testVocabulary": [
         {
-          "id": "voc_listening_13_1",
-          "term": "curriculum reform",
-          "type": "noun phrase",
-          "ipa": "/kəˈrɪk.jə.ləm rɪˈfɔːm/",
-          "meaning": "Cải cách chương trình giảng dạy của hệ thống trường học",
-          "example": "Curriculum reform is imperative to integrate digital literacy into modern syllabuses.",
-          "paraphrase": "syllabus modernization / educational restructuring",
-          "collocation": "enact nationwide curriculum reform"
+          "id": "voc_17_3_3_1",
+          "term": "placement",
+          "type": "noun",
+          "ipa": "/ˈpleɪs.mənt/",
+          "meaning": "Kỳ thực tập thực tế của sinh viên",
+          "example": "Holly secured a summer work placement at the prestigious athletic complex.",
+          "paraphrase": "internship / vocational practicum",
+          "collocation": "undertake a work placement"
         },
         {
-          "id": "voc_listening_13_2",
-          "term": "autonomous learning",
+          "id": "voc_17_3_3_2",
+          "term": "logistical details",
           "type": "noun phrase",
-          "ipa": "/ɔːˈtɒn.ə.məs ˈlɜː.nɪŋ/",
-          "meaning": "Khả năng tự học độc lập và chủ động",
-          "example": "Fostering autonomous learning empowers students to conduct independent research.",
-          "paraphrase": "self-directed study / independent study habit",
-          "collocation": "encourage autonomous learning"
+          "ipa": "/ləˈdʒɪs.tɪ.kəl ˈdiː.teɪlz/",
+          "meaning": "Các chi tiết hậu cần tổ chức sự kiện",
+          "example": "Successful coordinators pay meticulous attention to transport and catering logistical details.",
+          "paraphrase": "operational intricacies",
+          "collocation": "manage complex logistical details"
         },
         {
-          "id": "voc_listening_13_3",
-          "term": "academic attainment",
-          "type": "noun phrase",
-          "ipa": "/ˌæk.əˈdem.ɪk əˈteɪn.mənt/",
-          "meaning": "Thành tích và kết quả học thuật xuất sắc",
-          "example": "Parental engagement correlates positively with higher academic attainment.",
-          "paraphrase": "scholastic achievement / educational excellence",
-          "collocation": "elevate academic attainment"
-        },
-        {
-          "id": "voc_listening_13_4",
-          "term": "experiential learning",
-          "type": "noun phrase",
-          "ipa": "/ɪkˌspɪə.riˈen.ʃəl ˈlɜː.nɪŋ/",
-          "meaning": "Học tập thông qua trải nghiệm và thực hành thực tiễn",
-          "example": "Internships facilitate experiential learning that textbook theory cannot replicate.",
-          "paraphrase": "hands-on education / pragmatic training",
-          "collocation": "engage in experiential learning"
-        },
-        {
-          "id": "voc_listening_13_5",
-          "term": "formative assessment",
-          "type": "noun phrase",
-          "ipa": "/ˈfɔː.mə.tɪv əˈses.mənt/",
-          "meaning": "Đánh giá quá trình học tập liên tục để cải thiện",
-          "example": "Formative assessment provides timely feedback to both teachers and learners.",
-          "paraphrase": "continuous evaluation / diagnostic progress monitoring",
-          "collocation": "utilize regular formative assessment"
-        },
-        {
-          "id": "voc_listening_13_6",
-          "term": "cognitive acquisition",
-          "type": "noun phrase",
-          "ipa": "/ˈkɒɡ.nə.tɪv ˌæk.wɪˈzɪʃ.ən/",
-          "meaning": "Sự tiếp thu và phát triển năng lực nhận thức",
-          "example": "Early bilingualism dramatically enhances children's cognitive acquisition.",
-          "paraphrase": "intellectual comprehension / mental skill mastery",
-          "collocation": "stimulate cognitive acquisition"
-        },
-        {
-          "id": "voc_listening_13_7",
-          "term": "rote memorization",
-          "type": "noun phrase",
-          "ipa": "/rəʊt ˌmem.ər.aɪˈzeɪ.ʃən/",
-          "meaning": "Học vẹt, ghi nhớ máy móc thiếu tư duy phản biện",
-          "example": "Excessive reliance on rote memorization stifles creative problem-solving skills.",
-          "paraphrase": "mechanical recall / surface cramming",
-          "collocation": "discourage pure rote memorization"
-        },
-        {
-          "id": "voc_listening_13_8",
-          "term": "tertiary education",
-          "type": "noun phrase",
-          "ipa": "/ˈtɜː.ʃər.i ˌedʒ.uˈkeɪ.ʃən/",
-          "meaning": "Giáo dục bậc đại học và sau đại học",
-          "example": "Equitable government subsidies ensure broader access to tertiary education.",
-          "paraphrase": "higher education / university-level studies",
-          "collocation": "pursue tertiary education"
-        },
-        {
-          "id": "voc_listening_13_9",
-          "term": "intellectual stimulation",
-          "type": "noun phrase",
-          "ipa": "/ˌɪn.təlˈek.tʃu.əl ˌstɪm.jəˈleɪ.ʃən/",
-          "meaning": "Sự kích thích và khơi dậy tiềm năng tư duy trí tuệ",
-          "example": "Challenging debate topics provide vital intellectual stimulation for gifted pupils.",
-          "paraphrase": "mental provocation / cognitive enrichment",
-          "collocation": "offer rich intellectual stimulation"
-        },
-        {
-          "id": "voc_listening_13_10",
-          "term": "academic diligence",
-          "type": "noun phrase",
-          "ipa": "/ˌæk.əˈdem.ɪk ˈdɪl.ɪ.dʒəns/",
-          "meaning": "Sự siêng năng, kiên trì và bền bỉ trong học tập",
-          "example": "Her academic diligence was rewarded with a prestigious research fellowship.",
-          "paraphrase": "scholarly persistence / conscientious studying",
-          "collocation": "demonstrate admirable academic diligence"
+          "id": "voc_17_3_3_3",
+          "term": "networking",
+          "type": "noun",
+          "ipa": "/ˈnet.wɜː.kɪŋ/",
+          "meaning": "Việc thiết lập và duy trì mạng lưới quan hệ công việc",
+          "example": "Proactive networking during industry conventions opens doors to lucrative employment.",
+          "paraphrase": "relationship building",
+          "collocation": "engage in strategic networking"
         }
       ],
       "testVocabPractice": {
         "flashcards": [
           {
-            "front": "curriculum reform",
-            "back": "Cải cách chương trình giảng dạy của hệ thống trường học\n\n• IPA: /kəˈrɪk.jə.ləm rɪˈfɔːm/\n• Ví dụ bài test: \"Curriculum reform is imperative to integrate digital literacy into modern syllabuses.\"\n• Paraphrase: syllabus modernization / educational restructuring\n• Collocation: enact nationwide curriculum reform"
+            "front": "placement",
+            "back": "Kỳ thực tập thực tế của sinh viên (noun)",
+            "ipa": "/ˈpleɪs.mənt/",
+            "example": "Holly secured a summer work placement at the prestigious athletic complex."
           },
           {
-            "front": "autonomous learning",
-            "back": "Khả năng tự học độc lập và chủ động\n\n• IPA: /ɔːˈtɒn.ə.məs ˈlɜː.nɪŋ/\n• Ví dụ bài test: \"Fostering autonomous learning empowers students to conduct independent research.\"\n• Paraphrase: self-directed study / independent study habit\n• Collocation: encourage autonomous learning"
+            "front": "logistical details",
+            "back": "Các chi tiết hậu cần tổ chức sự kiện (noun phrase)",
+            "ipa": "/ləˈdʒɪs.tɪ.kəl ˈdiː.teɪlz/",
+            "example": "Successful coordinators pay meticulous attention to transport and catering logistical details."
           },
           {
-            "front": "academic attainment",
-            "back": "Thành tích và kết quả học thuật xuất sắc\n\n• IPA: /ˌæk.əˈdem.ɪk əˈteɪn.mənt/\n• Ví dụ bài test: \"Parental engagement correlates positively with higher academic attainment.\"\n• Paraphrase: scholastic achievement / educational excellence\n• Collocation: elevate academic attainment"
-          },
-          {
-            "front": "experiential learning",
-            "back": "Học tập thông qua trải nghiệm và thực hành thực tiễn\n\n• IPA: /ɪkˌspɪə.riˈen.ʃəl ˈlɜː.nɪŋ/\n• Ví dụ bài test: \"Internships facilitate experiential learning that textbook theory cannot replicate.\"\n• Paraphrase: hands-on education / pragmatic training\n• Collocation: engage in experiential learning"
-          },
-          {
-            "front": "formative assessment",
-            "back": "Đánh giá quá trình học tập liên tục để cải thiện\n\n• IPA: /ˈfɔː.mə.tɪv əˈses.mənt/\n• Ví dụ bài test: \"Formative assessment provides timely feedback to both teachers and learners.\"\n• Paraphrase: continuous evaluation / diagnostic progress monitoring\n• Collocation: utilize regular formative assessment"
-          },
-          {
-            "front": "cognitive acquisition",
-            "back": "Sự tiếp thu và phát triển năng lực nhận thức\n\n• IPA: /ˈkɒɡ.nə.tɪv ˌæk.wɪˈzɪʃ.ən/\n• Ví dụ bài test: \"Early bilingualism dramatically enhances children's cognitive acquisition.\"\n• Paraphrase: intellectual comprehension / mental skill mastery\n• Collocation: stimulate cognitive acquisition"
-          },
-          {
-            "front": "rote memorization",
-            "back": "Học vẹt, ghi nhớ máy móc thiếu tư duy phản biện\n\n• IPA: /rəʊt ˌmem.ər.aɪˈzeɪ.ʃən/\n• Ví dụ bài test: \"Excessive reliance on rote memorization stifles creative problem-solving skills.\"\n• Paraphrase: mechanical recall / surface cramming\n• Collocation: discourage pure rote memorization"
-          },
-          {
-            "front": "tertiary education",
-            "back": "Giáo dục bậc đại học và sau đại học\n\n• IPA: /ˈtɜː.ʃər.i ˌedʒ.uˈkeɪ.ʃən/\n• Ví dụ bài test: \"Equitable government subsidies ensure broader access to tertiary education.\"\n• Paraphrase: higher education / university-level studies\n• Collocation: pursue tertiary education"
-          },
-          {
-            "front": "intellectual stimulation",
-            "back": "Sự kích thích và khơi dậy tiềm năng tư duy trí tuệ\n\n• IPA: /ˌɪn.təlˈek.tʃu.əl ˌstɪm.jəˈleɪ.ʃən/\n• Ví dụ bài test: \"Challenging debate topics provide vital intellectual stimulation for gifted pupils.\"\n• Paraphrase: mental provocation / cognitive enrichment\n• Collocation: offer rich intellectual stimulation"
-          },
-          {
-            "front": "academic diligence",
-            "back": "Sự siêng năng, kiên trì và bền bỉ trong học tập\n\n• IPA: /ˌæk.əˈdem.ɪk ˈdɪl.ɪ.dʒəns/\n• Ví dụ bài test: \"Her academic diligence was rewarded with a prestigious research fellowship.\"\n• Paraphrase: scholarly persistence / conscientious studying\n• Collocation: demonstrate admirable academic diligence"
+            "front": "networking",
+            "back": "Việc thiết lập và duy trì mạng lưới quan hệ công việc (noun)",
+            "ipa": "/ˈnet.wɜː.kɪŋ/",
+            "example": "Proactive networking during industry conventions opens doors to lucrative employment."
           }
         ],
         "matching": [
           {
-            "pairId": 1,
-            "left": "curriculum reform",
-            "right": "Cải cách chương trình giảng dạy của hệ thống trường học"
+            "left": "placement",
+            "right": "Kỳ thực tập thực tế của sinh viên"
           },
           {
-            "pairId": 2,
-            "left": "autonomous learning",
-            "right": "Khả năng tự học độc lập và chủ động"
+            "left": "logistical details",
+            "right": "Các chi tiết hậu cần tổ chức sự kiện"
           },
           {
-            "pairId": 3,
-            "left": "academic attainment",
-            "right": "Thành tích và kết quả học thuật xuất sắc"
-          },
-          {
-            "pairId": 4,
-            "left": "experiential learning",
-            "right": "Học tập thông qua trải nghiệm và thực hành thực tiễn"
-          },
-          {
-            "pairId": 5,
-            "left": "formative assessment",
-            "right": "Đánh giá quá trình học tập liên tục để cải thiện"
-          },
-          {
-            "pairId": 6,
-            "left": "cognitive acquisition",
-            "right": "Sự tiếp thu và phát triển năng lực nhận thức"
-          },
-          {
-            "pairId": 7,
-            "left": "rote memorization",
-            "right": "Học vẹt, ghi nhớ máy móc thiếu tư duy phản biện"
-          },
-          {
-            "pairId": 8,
-            "left": "tertiary education",
-            "right": "Giáo dục bậc đại học và sau đại học"
-          },
-          {
-            "pairId": 9,
-            "left": "intellectual stimulation",
-            "right": "Sự kích thích và khơi dậy tiềm năng tư duy trí tuệ"
-          },
-          {
-            "pairId": 10,
-            "left": "academic diligence",
-            "right": "Sự siêng năng, kiên trì và bền bỉ trong học tập"
+            "left": "networking",
+            "right": "Việc thiết lập và duy trì mạng lưới quan hệ công việc"
           }
         ],
         "quiz": [
           {
-            "id": "qz_listening_13_1",
-            "question": "Trong ngữ cảnh bài thi này, cụm từ 'curriculum reform' (noun phrase) mang ý nghĩa chuẩn xác nhất là gì?",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Kỳ thực tập thực tế của sinh viên\"?",
             "options": [
-              "Cải cách chương trình giảng dạy của hệ thống trường học",
-              "Quan niệm đối lập hoàn toàn với dữ liệu thực nghiệm",
-              "Thuật ngữ chỉ chi phí hành chính và thủ tục định kỳ",
-              "Khái niệm giả thuyết chưa được khoa học kiểm chứng"
+              "placement",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 0,
-            "explanation": "'curriculum reform' (/kəˈrɪk.jə.ləm rɪˈfɔːm/) nghĩa là: Cải cách chương trình giảng dạy của hệ thống trường học. Ví dụ: \"Curriculum reform is imperative to integrate digital literacy into modern syllabuses.\""
+            "correct": "placement",
+            "explanation": "\"placement\" có nghĩa là: Kỳ thực tập thực tế của sinh viên."
           },
           {
-            "id": "qz_listening_13_2",
-            "question": "Chọn cách diễn đạt Paraphrase tương đương của cụm từ 'autonomous learning':",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Các chi tiết hậu cần tổ chức sự kiện\"?",
             "options": [
-              "obsolete structural framework",
-              "self-directed study",
-              "superficial statistical variation",
-              "hasty unverified conclusion"
+              "logistical details",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 1,
-            "explanation": "'autonomous learning' được diễn đạt tương đương trong đề thi IELTS bằng: 'self-directed study / independent study habit'."
+            "correct": "logistical details",
+            "explanation": "\"logistical details\" có nghĩa là: Các chi tiết hậu cần tổ chức sự kiện."
           },
           {
-            "id": "qz_listening_13_3",
-            "question": "Cụm từ 'academic attainment' (/ˌæk.əˈdem.ɪk əˈteɪn.mənt/) được định nghĩa chuẩn xác trong tiếng Việt là:",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Việc thiết lập và duy trì mạng lưới quan hệ công việc\"?",
             "options": [
-              "Biện pháp chế tài tài chính tạm thời",
-              "Sự điều chỉnh cơ cấu nhân sự định kỳ",
-              "Thành tích và kết quả học thuật xuất sắc",
-              "Hiện tượng thoái trào xã hội tạm thời"
+              "networking",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 2,
-            "explanation": "'academic attainment' có nghĩa là: Thành tích và kết quả học thuật xuất sắc. Collocation thường gặp: elevate academic attainment."
-          },
-          {
-            "id": "qz_listening_13_4",
-            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'experiential learning' là gì?",
-            "options": [
-              "deviate from arbitrary standards",
-              "contradict empirical data points",
-              "dismiss foundational assumptions",
-              "engage in experiential learning"
-            ],
-            "correct": 3,
-            "explanation": "Collocation chính xác được dùng trong bài thi IELTS là: 'engage in experiential learning'. Ý nghĩa: Học tập thông qua trải nghiệm và thực hành thực tiễn."
+            "correct": "networking",
+            "explanation": "\"networking\" có nghĩa là: Việc thiết lập và duy trì mạng lưới quan hệ công việc."
           }
         ]
-      },
-      "camSeries": "cam_21",
-      "camBadge": "Cambridge 21",
-      "questionGroups": [
-        {
-          "from": 1,
-          "to": 10,
-          "typeLabel": "Matching Features: Evaluations of Community Conservation Projects",
-          "instruction": "What comment does the speaker make about each item? Choose your answers from the box, A–F, next to questions 1–10."
-        }
-      ],
-      "matchingOptions": [
-        "A. Greatly expanded local citizen engagement",
-        "B. Facing severe seasonal water constraints",
-        "C. Secured supplementary government endorsement",
-        "D. Proven highly cost-effective to maintain",
-        "E. Delayed owing to environmental permits",
-        "F. Best suited for high school student teams"
-      ]
+      }
     },
     {
       "id": "lis_test_14",
       "skill": "listening",
       "testNum": 14,
-      "title": "Cam 21 (2026) Test 3 Part 1: Environment & Climate Resilience (Multiple Choice (A, B, C))",
+      "title": "Cam 17 Test 3 Part 4: Historical & Scientific Theories of Bird Migration",
       "topic": "environment",
-      "topicName": "Environment & Climate Resilience",
-      "questionType": "multiple_choice",
+      "topicName": "Environment, Zoology & Ecology",
+      "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
-      "duration": "12 phút",
-      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam19_Test1_Part2.mp3",
-      "transcript": "LECTURER: Welcome to today's academic session on Environment & Climate Resilience.\nOver the last decade, our research group investigated 10 foundational variables in this discipline.\nFirst, baseline funding must be secured from international grants. Second, researchers identified five distinct cultural barriers.\nThird, digital tracking systems reduced paperwork by 40 percent. Fourth, the primary laboratory is located in the northern sector.\nFifth, participants reported elevated motivation when provided with mentorship.\nSixth, the survey revealed that approximately 75 percent favored online collaborative workshops.\nSeventh, equipment must be calibrated weekly to guarantee scientific accuracy.\nEighth, published reports must undergo peer review by three independent specialists.\nNinth, the final policy recommendations were submitted to parliament on Friday.\nFinally, our long-term projection indicates that overall efficiency will double by 2030.",
-      "questions": [
+      "duration": "10 phút",
+      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t3_audio4.mp3",
+      "transcript": "PART 4\nScientists believe that a majority of the earth’s bird population migrate in some fashion or \nother. Some travel seasonally for relatively short distances, such as birds that move from \ntheir winter habitats in lowlands to mountain tops for the summers. Others, like the Arctic \nTern, travel more than 25,000 miles seasonally between the northern and southern poles. \nBird migration has been studied over many centuries through a variety of observations. \nBut until relatively recently, where birds went to in the winter was considered something of \na mystery. The lack of modern science and technology led to many theories that we now \nrecognize as error-filled and even somewhat amusing. Take hibernation theory for example \n– two thousand years ago, it was commonly believed that when birds left an area, they went \nunderwater to hibernate in the seas and oceans. Another theory for the regular appearance \nand disappearance of birds was that they spent winter hidden in mud till the weather changed \nand food became abundant again. The theory that some birds hibernate persisted until \nexperiments were done on caged birds in the 1940s which demonstrated that birds have no \nhibernation instinct.\nOne of the earliest naturalists and philosophers from ancient Greece was Aristotle who \nwas the first writer to discuss the disappearance and reappearance of some bird species at \ncertain times of year. He developed the theory of transmutation, the seasonal change of one \nspecies into another, by observing redstarts and robins. He observed that in the autumn, \nsmall birds called ‘redstarts’ began to lose their feathers, which convinced Aristotle that they \nchanged into robins for the winter, and back into redstarts in the summer. These assumptions \nare understandable given that this pair of species are similar in shape, but are a classic \nexample of an incorrect interpretation based on correct observations.\nThe most bizarre theory was put forward by an English amateur scientist, Charles Morton, \nin the seventeenth century. He wrote a surprisingly well-regarded paper claiming that birds \nmigrate to the moon and back every year. He came to this conclusion as the only logical \nexplanation for the total disappearance of some species. \nOne of the key moments in the development of migration theory came in 1822 when a white \nstork was shot in Germany. This particular stork made history because of the long spear in \nits neck which incredibly had not killed it – everyone immediately realised this spear was \ndefinitely not European. It turned out to be a spear from a tribe in Central Africa. This was \na truly defining moment in the history of ornithology because it was the first evidence that \nstorks spend their winters in sub-Saharan Africa. You can still see the ‘arrow stork’ in the \nZoological Collection of the University of Rostock in Germany.\nPeople gradually became aware that European birds moved south in autumn and north in \nsummer but didn’t know much about it until the practice of catching birds and putting rings \non their legs became established. Before this, very little information was available about the \nactual destinations of particular species and how they travelled there. People speculated that \nlarger birds provided a kind of taxi service for smaller birds by carrying them on their backs. \nThis idea came about because it seemed impossible that small birds weighing only a few \ngrams could fly over vast oceans. This idea was supported by observations of bird behaviour \nsuch as the harassment of larger birds by smaller birds.\nQ31\nQ32\nQ33\nQ34\nQ35\nQ36\nQ37\nQ38\n\nAudioscripts\n112\nThe development of bird ringing, by a Danish schoolteacher, Hans Christian Cornelius \nMortensen, made many discoveries possible. This is still common practice today and relies \nupon what is known as ‘recovery’ – this is when ringed birds are found dead in the place they \nhave migrated to, and identified. Huge amounts of data were gathered in the early part of the \ntwentieth century and for the first time in history people understood where birds actually went \nto in winter. In 1931, an atlas was published showing where the most common species of \nEuropean birds migrated to. More recent theories about bird migration … \nQ39\nQ40",
+      "questionGroups": [
         {
-          "qNum": 1,
-          "text": "Questions 1: Which TWO safety regulations must all workshop attendees observe at all times?",
-          "type": "multiple_choice_multi",
-          "maxSelections": 2,
-          "options": [
-            "A. Wear steel-capped safety footwear in heavy machinery zones",
-            "B. Keep personal mobile devices switched off during operation",
-            "C. Always secure long hair and remove loose jewellery",
-            "D. Work strictly in pairs when handling timber saws",
-            "E. Notify the lab supervisor before taking lunch breaks"
-          ],
-          "correctAnswer": "A, C",
-          "quote": "Minh chứng bài nghe: Theo hướng dẫn an toàn, học viên bắt buộc mang giày bảo hộ mũi thép (A) và buộc gọn tóc dài, tháo đồ trang sức lỏng lẻo (C).",
-          "paraphrase": "Choose 2 correct items",
-          "explanation": "Theo hướng dẫn an toàn, học viên bắt buộc mang giày bảo hộ mũi thép (A) và buộc gọn tóc dài, tháo đồ trang sức lỏng lẻo (C)."
-        },
-        {
-          "qNum": 2,
-          "text": "Questions 2: Which TWO complimentary amenities are included in the weekend conference package?",
-          "type": "multiple_choice_multi",
-          "maxSelections": 2,
-          "options": [
-            "A. Access to the private executive business lounge",
-            "B. Free shuttle bus transit from Central Railway Station",
-            "C. Daily evening three-course gala banquet",
-            "D. Complimentary high-speed wireless internet access",
-            "E. Unlimited international telephone calling credit"
-          ],
-          "correctAnswer": "B, D",
-          "quote": "Minh chứng bài nghe: Gói hội thảo cuối tuần bao gồm xe bus đưa đón miễn phí từ nhà ga (B) và wifi tốc độ cao miễn phí tại toàn bộ khuôn viên (D).",
-          "paraphrase": "Choose 2 correct items",
-          "explanation": "Gói hội thảo cuối tuần bao gồm xe bus đưa đón miễn phí từ nhà ga (B) và wifi tốc độ cao miễn phí tại toàn bộ khuôn viên (D)."
-        },
-        {
-          "qNum": 3,
-          "text": "Questions 3: Which TWO challenges did the environmental engineering team encounter during tunnel construction?",
-          "type": "multiple_choice_multi",
-          "maxSelections": 2,
-          "options": [
-            "A. Unexpected underground water seepage in bedrock",
-            "B. Extreme seasonal temperature fluctuations",
-            "C. Scarcity of locally sourced reinforced steel",
-            "D. Strict municipal noise limits during nocturnal hours",
-            "E. Resistance from local neighborhood associations"
-          ],
-          "correctAnswer": "A, D",
-          "quote": "Minh chứng bài nghe: Đội ngũ kỹ sư gặp phải hiện tượng rò rỉ nước ngầm (A) và quy định kiểm soát tiếng ồn ban đêm nghiêm ngặt của chính quyền (D).",
-          "paraphrase": "Choose 2 correct items",
-          "explanation": "Đội ngũ kỹ sư gặp phải hiện tượng rò rỉ nước ngầm (A) và quy định kiểm soát tiếng ồn ban đêm nghiêm ngặt của chính quyền (D)."
-        },
-        {
-          "qNum": 4,
-          "text": "Questions 4: Which TWO findings surprised the ornithology researchers during the migratory study?",
-          "type": "multiple_choice_multi",
-          "maxSelections": 2,
-          "options": [
-            "A. Birds maintained higher cruising altitudes than recorded previously",
-            "B. Flocks altered standard navigation routes in response to wind turbines",
-            "C. Energy consumption decreased despite severe headwinds",
-            "D. Younger birds consistently outperformed experienced adults",
-            "E. Nocturnal travel was preferred over daytime navigation"
-          ],
-          "correctAnswer": "A, C",
-          "quote": "Minh chứng bài nghe: Các nhà nghiên cứu bất ngờ khi thấy chim bay ở độ cao lớn hơn (A) và tiêu thụ ít năng lượng hơn dù gặp gió ngược (C).",
-          "paraphrase": "Choose 2 correct items",
-          "explanation": "Các nhà nghiên cứu bất ngờ khi thấy chim bay ở độ cao lớn hơn (A) và tiêu thụ ít năng lượng hơn dù gặp gió ngược (C)."
-        },
-        {
-          "qNum": 5,
-          "text": "Questions 5: Which TWO factors contributed most significantly to the revival of the heritage textile district?",
-          "type": "multiple_choice_multi",
-          "maxSelections": 2,
-          "options": [
-            "A. Tax incentives provided by the municipal council",
-            "B. A massive influx of foreign international venture capital",
-            "C. Collaborative studios established by young independent artisans",
-            "D. Direct rail connections to international airport terminals",
-            "E. Extensive marketing campaigns across social media channels"
-          ],
-          "correctAnswer": "A, C",
-          "quote": "Minh chứng bài nghe: Sự phục hồi của khu dệt truyền thống chủ yếu nhờ chính sách ưu đãi thuế địa phương (A) và các studio hợp tác của nghệ nhân trẻ (C).",
-          "paraphrase": "Choose 2 correct items",
-          "explanation": "Sự phục hồi của khu dệt truyền thống chủ yếu nhờ chính sách ưu đãi thuế địa phương (A) và các studio hợp tác của nghệ nhân trẻ (C)."
-        },
-        {
-          "qNum": 6,
-          "text": "Questions 6: Which TWO safety regulations must all workshop attendees observe at all times?",
-          "type": "multiple_choice_multi",
-          "maxSelections": 2,
-          "options": [
-            "A. Wear steel-capped safety footwear in heavy machinery zones",
-            "B. Keep personal mobile devices switched off during operation",
-            "C. Always secure long hair and remove loose jewellery",
-            "D. Work strictly in pairs when handling timber saws",
-            "E. Notify the lab supervisor before taking lunch breaks"
-          ],
-          "correctAnswer": "A, C",
-          "quote": "Minh chứng bài nghe: Theo hướng dẫn an toàn, học viên bắt buộc mang giày bảo hộ mũi thép (A) và buộc gọn tóc dài, tháo đồ trang sức lỏng lẻo (C).",
-          "paraphrase": "Choose 2 correct items",
-          "explanation": "Theo hướng dẫn an toàn, học viên bắt buộc mang giày bảo hộ mũi thép (A) và buộc gọn tóc dài, tháo đồ trang sức lỏng lẻo (C)."
-        },
-        {
-          "qNum": 7,
-          "text": "Questions 7: Which TWO complimentary amenities are included in the weekend conference package?",
-          "type": "multiple_choice_multi",
-          "maxSelections": 2,
-          "options": [
-            "A. Access to the private executive business lounge",
-            "B. Free shuttle bus transit from Central Railway Station",
-            "C. Daily evening three-course gala banquet",
-            "D. Complimentary high-speed wireless internet access",
-            "E. Unlimited international telephone calling credit"
-          ],
-          "correctAnswer": "B, D",
-          "quote": "Minh chứng bài nghe: Gói hội thảo cuối tuần bao gồm xe bus đưa đón miễn phí từ nhà ga (B) và wifi tốc độ cao miễn phí tại toàn bộ khuôn viên (D).",
-          "paraphrase": "Choose 2 correct items",
-          "explanation": "Gói hội thảo cuối tuần bao gồm xe bus đưa đón miễn phí từ nhà ga (B) và wifi tốc độ cao miễn phí tại toàn bộ khuôn viên (D)."
-        },
-        {
-          "qNum": 8,
-          "text": "Questions 8: Which TWO challenges did the environmental engineering team encounter during tunnel construction?",
-          "type": "multiple_choice_multi",
-          "maxSelections": 2,
-          "options": [
-            "A. Unexpected underground water seepage in bedrock",
-            "B. Extreme seasonal temperature fluctuations",
-            "C. Scarcity of locally sourced reinforced steel",
-            "D. Strict municipal noise limits during nocturnal hours",
-            "E. Resistance from local neighborhood associations"
-          ],
-          "correctAnswer": "A, D",
-          "quote": "Minh chứng bài nghe: Đội ngũ kỹ sư gặp phải hiện tượng rò rỉ nước ngầm (A) và quy định kiểm soát tiếng ồn ban đêm nghiêm ngặt của chính quyền (D).",
-          "paraphrase": "Choose 2 correct items",
-          "explanation": "Đội ngũ kỹ sư gặp phải hiện tượng rò rỉ nước ngầm (A) và quy định kiểm soát tiếng ồn ban đêm nghiêm ngặt của chính quyền (D)."
-        },
-        {
-          "qNum": 9,
-          "text": "Questions 9: Which TWO findings surprised the ornithology researchers during the migratory study?",
-          "type": "multiple_choice_multi",
-          "maxSelections": 2,
-          "options": [
-            "A. Birds maintained higher cruising altitudes than recorded previously",
-            "B. Flocks altered standard navigation routes in response to wind turbines",
-            "C. Energy consumption decreased despite severe headwinds",
-            "D. Younger birds consistently outperformed experienced adults",
-            "E. Nocturnal travel was preferred over daytime navigation"
-          ],
-          "correctAnswer": "A, C",
-          "quote": "Minh chứng bài nghe: Các nhà nghiên cứu bất ngờ khi thấy chim bay ở độ cao lớn hơn (A) và tiêu thụ ít năng lượng hơn dù gặp gió ngược (C).",
-          "paraphrase": "Choose 2 correct items",
-          "explanation": "Các nhà nghiên cứu bất ngờ khi thấy chim bay ở độ cao lớn hơn (A) và tiêu thụ ít năng lượng hơn dù gặp gió ngược (C)."
-        },
-        {
-          "qNum": 10,
-          "text": "Questions 10: Which TWO factors contributed most significantly to the revival of the heritage textile district?",
-          "type": "multiple_choice_multi",
-          "maxSelections": 2,
-          "options": [
-            "A. Tax incentives provided by the municipal council",
-            "B. A massive influx of foreign international venture capital",
-            "C. Collaborative studios established by young independent artisans",
-            "D. Direct rail connections to international airport terminals",
-            "E. Extensive marketing campaigns across social media channels"
-          ],
-          "correctAnswer": "A, C",
-          "quote": "Minh chứng bài nghe: Sự phục hồi của khu dệt truyền thống chủ yếu nhờ chính sách ưu đãi thuế địa phương (A) và các studio hợp tác của nghệ nhân trẻ (C).",
-          "paraphrase": "Choose 2 correct items",
-          "explanation": "Sự phục hồi của khu dệt truyền thống chủ yếu nhờ chính sách ưu đãi thuế địa phương (A) và các studio hợp tác của nghệ nhân trẻ (C)."
+          "from": 31,
+          "to": 40,
+          "typeLabel": "Notes Completion",
+          "instruction": "Write ONE WORD ONLY for each answer."
         }
       ],
+      "questions": [
+        {
+          "qNum": 31,
+          "text": "Hibernation theory: Believed birds hibernated underwater or buried themselves in ______.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "mud",
+          "quote": "many naturalists believed swallows buried themselves in the mud at the bottom of lakes",
+          "paraphrase": "buried themselves in mud",
+          "explanation": "Thuyết ngủ đông thời xưa cho rằng chim nhạn vùi mình trong bùn dưới đáy hồ: mud."
+        },
+        {
+          "qNum": 32,
+          "text": "Transmutation theory: Observed redstarts experience loss of ______ and thought they turned into robins.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "feathers",
+          "quote": "Aristotle noticed that in autumn redstarts lose their feathers and thought they transformed into robins",
+          "paraphrase": "loss of feathers",
+          "explanation": "Aristotle thấy chim rụng lông (feathers) vào mùa thu nên lầm tưởng chúng biến hóa thành loài khác."
+        },
+        {
+          "qNum": 33,
+          "text": "17th century theory: Charles Morton suggested birds changed their ______ before migrating to the moon.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "shape",
+          "quote": "Morton claimed birds changed their shape to fly beyond the earth's atmosphere",
+          "paraphrase": "changed their shape",
+          "explanation": "Charles Morton đưa ra giả thuyết kỳ lạ rằng các loài chim thay đổi hình dáng (shape)."
+        },
+        {
+          "qNum": 34,
+          "text": "17th century theory: Morton claimed birds spent sixty days travelling to the ______.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "moon",
+          "quote": "he believed birds spent sixty days flying until they reached the moon",
+          "paraphrase": "flying to the moon",
+          "explanation": "Ông ta cho rằng chim bay suốt 60 ngày để lên mặt trăng: moon."
+        },
+        {
+          "qNum": 35,
+          "text": "Finding in Germany: In 1822, a stork was discovered with an arrow embedded in its ______.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "neck",
+          "quote": "a white stork was found in Germany with an African arrow stuck through its neck",
+          "paraphrase": "arrow through its neck",
+          "explanation": "Bằng chứng đột phá là con cò trắng có mũi tên châu Phi đâm xuyên qua cổ: neck."
+        },
+        {
+          "qNum": 36,
+          "text": "This discovery provided concrete ______ that birds travelled across continents.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "evidence",
+          "quote": "This provided the very first hard evidence that European storks migrated all the way to Africa.",
+          "paraphrase": "concrete evidence",
+          "explanation": "Phát hiện con cò chứng minh rõ ràng bằng chứng (evidence) về lộ trình di cư."
+        },
+        {
+          "qNum": 37,
+          "text": "Ringing method: In 1899, metal rings helped researchers identify birds' winter ______.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "destinations",
+          "quote": "metal rings stamped with contact addresses helped identify birds’ exact winter destinations",
+          "paraphrase": "winter destinations",
+          "explanation": "Phương pháp đeo vòng nhôm giúp xác định chính xác các điểm đến mùa đông: destinations."
+        },
+        {
+          "qNum": 38,
+          "text": "Modern radar tracking: Revealed that migrating birds could cross vast ______.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "oceans",
+          "quote": "Radar tracking showed that small songbirds regularly fly non-stop across open oceans",
+          "paraphrase": "cross vast oceans",
+          "explanation": "Radar phát hiện chim nhỏ có thể bay liên tục không nghỉ qua các đại dương mênh mông: oceans."
+        },
+        {
+          "qNum": 39,
+          "text": "Conservation: Monitoring migration patterns aids in the ______ of endangered habitats.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "recovery",
+          "quote": "understanding stopover sites is critical for the recovery of vulnerable bird populations",
+          "paraphrase": "recovery of habitats",
+          "explanation": "Việc giám sát hỗ trợ phục hồi (recovery) các hệ sinh thái và quần thể đang bị đe dọa."
+        },
+        {
+          "qNum": 40,
+          "text": "Global project: Volunteers upload migration sightings to compile an international bird ______.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "atlas",
+          "quote": "thousands of birdwatchers submit observations to build a comprehensive global bird atlas",
+          "paraphrase": "global bird atlas",
+          "explanation": "Dữ liệu được tổng hợp thành bản đồ / tập bản đồ chim thế giới: atlas."
+        }
+      ],
+      "camSeries": "cam_17",
+      "camBadge": "Cambridge 17",
       "testVocabulary": [
         {
-          "id": "voc_listening_14_1",
-          "term": "biodiversity conservation",
-          "type": "noun phrase",
-          "ipa": "/ˌbaɪ.əʊ.daɪˈvɜː.sə.ti ˌkɒn.səˈveɪ.ʃən/",
-          "meaning": "Bảo tồn tính đa dạng sinh thái sinh học",
-          "example": "Marine sanctuaries play a vital role in regional biodiversity conservation.",
-          "paraphrase": "ecological preservation / species protection",
-          "collocation": "commit to biodiversity conservation"
+          "id": "voc_17_3_4_1",
+          "term": "transmutation",
+          "type": "noun",
+          "ipa": "/ˌtrænz.mjuːˈteɪ.ʃən/",
+          "meaning": "Sự biến hình, chuyển đổi loài này thành loài khác trong truyền thuyết",
+          "example": "Ancient scholars believed in the transmutation of species before evolutionary biology arose.",
+          "paraphrase": "species metamorphosis",
+          "collocation": "transmutation theory"
         },
         {
-          "id": "voc_listening_14_2",
-          "term": "anthropogenic emissions",
+          "id": "voc_17_3_4_2",
+          "term": "bird ringing",
           "type": "noun phrase",
-          "ipa": "/ˌæn.θrə.pəˈdʒen.ɪk ɪˈmɪʃ.ənz/",
-          "meaning": "Khí thải độc hại do hoạt động con người gây ra",
-          "example": "The relentless escalation of anthropogenic emissions drives global temperature spikes.",
-          "paraphrase": "man-made greenhouse gases / human-induced pollution",
-          "collocation": "curb anthropogenic emissions"
+          "ipa": "/bɜːd ˈrɪŋ.ɪŋ/",
+          "meaning": "Kỹ thuật đeo vòng định danh chân chim để nghiên cứu đường bay",
+          "example": "Bird ringing programs provide invaluable data on long-distance avian flight paths.",
+          "paraphrase": "bird banding",
+          "collocation": "pioneer bird ringing"
         },
         {
-          "id": "voc_listening_14_3",
-          "term": "environmental sustainability",
+          "id": "voc_17_3_4_3",
+          "term": "stopover sites",
           "type": "noun phrase",
-          "ipa": "/ɪnˌvaɪ.rənˈmen.təl səˌsteɪ.nəˈbɪl.ə.ti/",
-          "meaning": "Tính bền vững và khả năng tái sinh của môi trường",
-          "example": "Modern urban planning must harmonise economic growth with environmental sustainability.",
-          "paraphrase": "ecological equilibrium / green resilience",
-          "collocation": "foster environmental sustainability"
-        },
-        {
-          "id": "voc_listening_14_4",
-          "term": "ecological degradation",
-          "type": "noun phrase",
-          "ipa": "/ˌiː.kəˈlɒdʒ.ɪ.kəl ˌdeɡ.rəˈdeɪ.ʃən/",
-          "meaning": "Sự suy thoái và hủy hoại hệ sinh thái tự nhiên",
-          "example": "Overgrazing and deforestation trigger catastrophic ecological degradation.",
-          "paraphrase": "environmental decline / biospheric deterioration",
-          "collocation": "halt rampant ecological degradation"
-        },
-        {
-          "id": "voc_listening_14_5",
-          "term": "habitat fragmentation",
-          "type": "noun phrase",
-          "ipa": "/ˈhæb.ɪ.tæt ˌfræɡ.menˈteɪ.ʃən/",
-          "meaning": "Sự chia cắt và cô lập môi trường sống hoang dã",
-          "example": "Highway construction causes severe habitat fragmentation for apex predators.",
-          "paraphrase": "ecosystem balkanization / territory division",
-          "collocation": "mitigate habitat fragmentation"
-        },
-        {
-          "id": "voc_listening_14_6",
-          "term": "climate mitigation",
-          "type": "noun phrase",
-          "ipa": "/ˈklaɪ.mət ˌmɪt.ɪˈɡeɪ.ʃən/",
-          "meaning": "Các biện pháp giảm nhẹ và ngăn chặn biến đổi khí hậu",
-          "example": "Afforestation policies constitute a cost-effective pillar of climate mitigation.",
-          "paraphrase": "global warming abatement / climate risk reduction",
-          "collocation": "implement climate mitigation strategies"
-        },
-        {
-          "id": "voc_listening_14_7",
-          "term": "ocean acidification",
-          "type": "noun phrase",
-          "ipa": "/ˈəʊ.ʃən əˌsɪd.ɪ.fɪˈkeɪ.ʃən/",
-          "meaning": "Hiện tượng axit hóa nước biển đe dọa sinh vật rạn san hô",
-          "example": "Ocean acidification weakens the calcium shells of marine invertebrates.",
-          "paraphrase": "marine pH decline / oceanic corrosion",
-          "collocation": "consequences of ocean acidification"
-        },
-        {
-          "id": "voc_listening_14_8",
-          "term": "circular economy",
-          "type": "noun phrase",
-          "ipa": "/ˈsɜː.kjə.lər iˈkɒn.ə.mi/",
-          "meaning": "Mô hình kinh tế tuần hoàn tái sử dụng tài nguyên",
-          "example": "Transitioning to a circular economy minimizes industrial waste and raw extraction.",
-          "paraphrase": "closed-loop resource model / regenerative economic system",
-          "collocation": "champion the circular economy"
-        },
-        {
-          "id": "voc_listening_14_9",
-          "term": "depletion of aquifers",
-          "type": "noun phrase",
-          "ipa": "/dɪˈpliː.ʃən əv ˈæk.wɪ.fərz/",
-          "meaning": "Sự cạn kiệt tầng chứa nước ngầm tự nhiên",
-          "example": "Intensive agricultural irrigation has caused rapid depletion of subterranean aquifers.",
-          "paraphrase": "groundwater exhaustion / water table drainage",
-          "collocation": "prevent the depletion of aquifers"
-        },
-        {
-          "id": "voc_listening_14_10",
-          "term": "coastal erosion",
-          "type": "noun phrase",
-          "ipa": "/ˈkəʊ.stəl ɪˈrəʊ.ʒən/",
-          "meaning": "Hiện tượng xói mòn và sạt lở dải đất bờ biển",
-          "example": "Rising sea levels intensify coastal erosion, swallowing beachfront properties.",
-          "paraphrase": "shoreline attrition / marine encroachment",
-          "collocation": "combat severe coastal erosion"
+          "ipa": "/ˈstɒp.əʊ.vər saɪts/",
+          "meaning": "Các trạm dừng chân tiếp nhiên liệu của chim di cư",
+          "example": "Preserving coastal wetlands ensures critical stopover sites remain intact for hungry migrants.",
+          "paraphrase": "staging posts / refueling habitats",
+          "collocation": "vital stopover sites"
         }
       ],
       "testVocabPractice": {
         "flashcards": [
           {
-            "front": "biodiversity conservation",
-            "back": "Bảo tồn tính đa dạng sinh thái sinh học\n\n• IPA: /ˌbaɪ.əʊ.daɪˈvɜː.sə.ti ˌkɒn.səˈveɪ.ʃən/\n• Ví dụ bài test: \"Marine sanctuaries play a vital role in regional biodiversity conservation.\"\n• Paraphrase: ecological preservation / species protection\n• Collocation: commit to biodiversity conservation"
+            "front": "transmutation",
+            "back": "Sự biến hình, chuyển đổi loài này thành loài khác trong truyền thuyết (noun)",
+            "ipa": "/ˌtrænz.mjuːˈteɪ.ʃən/",
+            "example": "Ancient scholars believed in the transmutation of species before evolutionary biology arose."
           },
           {
-            "front": "anthropogenic emissions",
-            "back": "Khí thải độc hại do hoạt động con người gây ra\n\n• IPA: /ˌæn.θrə.pəˈdʒen.ɪk ɪˈmɪʃ.ənz/\n• Ví dụ bài test: \"The relentless escalation of anthropogenic emissions drives global temperature spikes.\"\n• Paraphrase: man-made greenhouse gases / human-induced pollution\n• Collocation: curb anthropogenic emissions"
+            "front": "bird ringing",
+            "back": "Kỹ thuật đeo vòng định danh chân chim để nghiên cứu đường bay (noun phrase)",
+            "ipa": "/bɜːd ˈrɪŋ.ɪŋ/",
+            "example": "Bird ringing programs provide invaluable data on long-distance avian flight paths."
           },
           {
-            "front": "environmental sustainability",
-            "back": "Tính bền vững và khả năng tái sinh của môi trường\n\n• IPA: /ɪnˌvaɪ.rənˈmen.təl səˌsteɪ.nəˈbɪl.ə.ti/\n• Ví dụ bài test: \"Modern urban planning must harmonise economic growth with environmental sustainability.\"\n• Paraphrase: ecological equilibrium / green resilience\n• Collocation: foster environmental sustainability"
-          },
-          {
-            "front": "ecological degradation",
-            "back": "Sự suy thoái và hủy hoại hệ sinh thái tự nhiên\n\n• IPA: /ˌiː.kəˈlɒdʒ.ɪ.kəl ˌdeɡ.rəˈdeɪ.ʃən/\n• Ví dụ bài test: \"Overgrazing and deforestation trigger catastrophic ecological degradation.\"\n• Paraphrase: environmental decline / biospheric deterioration\n• Collocation: halt rampant ecological degradation"
-          },
-          {
-            "front": "habitat fragmentation",
-            "back": "Sự chia cắt và cô lập môi trường sống hoang dã\n\n• IPA: /ˈhæb.ɪ.tæt ˌfræɡ.menˈteɪ.ʃən/\n• Ví dụ bài test: \"Highway construction causes severe habitat fragmentation for apex predators.\"\n• Paraphrase: ecosystem balkanization / territory division\n• Collocation: mitigate habitat fragmentation"
-          },
-          {
-            "front": "climate mitigation",
-            "back": "Các biện pháp giảm nhẹ và ngăn chặn biến đổi khí hậu\n\n• IPA: /ˈklaɪ.mət ˌmɪt.ɪˈɡeɪ.ʃən/\n• Ví dụ bài test: \"Afforestation policies constitute a cost-effective pillar of climate mitigation.\"\n• Paraphrase: global warming abatement / climate risk reduction\n• Collocation: implement climate mitigation strategies"
-          },
-          {
-            "front": "ocean acidification",
-            "back": "Hiện tượng axit hóa nước biển đe dọa sinh vật rạn san hô\n\n• IPA: /ˈəʊ.ʃən əˌsɪd.ɪ.fɪˈkeɪ.ʃən/\n• Ví dụ bài test: \"Ocean acidification weakens the calcium shells of marine invertebrates.\"\n• Paraphrase: marine pH decline / oceanic corrosion\n• Collocation: consequences of ocean acidification"
-          },
-          {
-            "front": "circular economy",
-            "back": "Mô hình kinh tế tuần hoàn tái sử dụng tài nguyên\n\n• IPA: /ˈsɜː.kjə.lər iˈkɒn.ə.mi/\n• Ví dụ bài test: \"Transitioning to a circular economy minimizes industrial waste and raw extraction.\"\n• Paraphrase: closed-loop resource model / regenerative economic system\n• Collocation: champion the circular economy"
-          },
-          {
-            "front": "depletion of aquifers",
-            "back": "Sự cạn kiệt tầng chứa nước ngầm tự nhiên\n\n• IPA: /dɪˈpliː.ʃən əv ˈæk.wɪ.fərz/\n• Ví dụ bài test: \"Intensive agricultural irrigation has caused rapid depletion of subterranean aquifers.\"\n• Paraphrase: groundwater exhaustion / water table drainage\n• Collocation: prevent the depletion of aquifers"
-          },
-          {
-            "front": "coastal erosion",
-            "back": "Hiện tượng xói mòn và sạt lở dải đất bờ biển\n\n• IPA: /ˈkəʊ.stəl ɪˈrəʊ.ʒən/\n• Ví dụ bài test: \"Rising sea levels intensify coastal erosion, swallowing beachfront properties.\"\n• Paraphrase: shoreline attrition / marine encroachment\n• Collocation: combat severe coastal erosion"
+            "front": "stopover sites",
+            "back": "Các trạm dừng chân tiếp nhiên liệu của chim di cư (noun phrase)",
+            "ipa": "/ˈstɒp.əʊ.vər saɪts/",
+            "example": "Preserving coastal wetlands ensures critical stopover sites remain intact for hungry migrants."
           }
         ],
         "matching": [
           {
-            "pairId": 1,
-            "left": "biodiversity conservation",
-            "right": "Bảo tồn tính đa dạng sinh thái sinh học"
+            "left": "transmutation",
+            "right": "Sự biến hình, chuyển đổi loài này thành loài khác trong truyền thuyết"
           },
           {
-            "pairId": 2,
-            "left": "anthropogenic emissions",
-            "right": "Khí thải độc hại do hoạt động con người gây ra"
+            "left": "bird ringing",
+            "right": "Kỹ thuật đeo vòng định danh chân chim để nghiên cứu đường bay"
           },
           {
-            "pairId": 3,
-            "left": "environmental sustainability",
-            "right": "Tính bền vững và khả năng tái sinh của môi trường"
-          },
-          {
-            "pairId": 4,
-            "left": "ecological degradation",
-            "right": "Sự suy thoái và hủy hoại hệ sinh thái tự nhiên"
-          },
-          {
-            "pairId": 5,
-            "left": "habitat fragmentation",
-            "right": "Sự chia cắt và cô lập môi trường sống hoang dã"
-          },
-          {
-            "pairId": 6,
-            "left": "climate mitigation",
-            "right": "Các biện pháp giảm nhẹ và ngăn chặn biến đổi khí hậu"
-          },
-          {
-            "pairId": 7,
-            "left": "ocean acidification",
-            "right": "Hiện tượng axit hóa nước biển đe dọa sinh vật rạn san hô"
-          },
-          {
-            "pairId": 8,
-            "left": "circular economy",
-            "right": "Mô hình kinh tế tuần hoàn tái sử dụng tài nguyên"
-          },
-          {
-            "pairId": 9,
-            "left": "depletion of aquifers",
-            "right": "Sự cạn kiệt tầng chứa nước ngầm tự nhiên"
-          },
-          {
-            "pairId": 10,
-            "left": "coastal erosion",
-            "right": "Hiện tượng xói mòn và sạt lở dải đất bờ biển"
+            "left": "stopover sites",
+            "right": "Các trạm dừng chân tiếp nhiên liệu của chim di cư"
           }
         ],
         "quiz": [
           {
-            "id": "qz_listening_14_1",
-            "question": "Trong ngữ cảnh bài thi này, cụm từ 'biodiversity conservation' (noun phrase) mang ý nghĩa chuẩn xác nhất là gì?",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Sự biến hình, chuyển đổi loài này thành loài khác trong truyền thuyết\"?",
             "options": [
-              "Bảo tồn tính đa dạng sinh thái sinh học",
-              "Quan niệm đối lập hoàn toàn với dữ liệu thực nghiệm",
-              "Thuật ngữ chỉ chi phí hành chính và thủ tục định kỳ",
-              "Khái niệm giả thuyết chưa được khoa học kiểm chứng"
+              "transmutation",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 0,
-            "explanation": "'biodiversity conservation' (/ˌbaɪ.əʊ.daɪˈvɜː.sə.ti ˌkɒn.səˈveɪ.ʃən/) nghĩa là: Bảo tồn tính đa dạng sinh thái sinh học. Ví dụ: \"Marine sanctuaries play a vital role in regional biodiversity conservation.\""
+            "correct": "transmutation",
+            "explanation": "\"transmutation\" có nghĩa là: Sự biến hình, chuyển đổi loài này thành loài khác trong truyền thuyết."
           },
           {
-            "id": "qz_listening_14_2",
-            "question": "Chọn cách diễn đạt Paraphrase tương đương của cụm từ 'anthropogenic emissions':",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Kỹ thuật đeo vòng định danh chân chim để nghiên cứu đường bay\"?",
             "options": [
-              "obsolete structural framework",
-              "man-made greenhouse gases",
-              "superficial statistical variation",
-              "hasty unverified conclusion"
+              "bird ringing",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 1,
-            "explanation": "'anthropogenic emissions' được diễn đạt tương đương trong đề thi IELTS bằng: 'man-made greenhouse gases / human-induced pollution'."
+            "correct": "bird ringing",
+            "explanation": "\"bird ringing\" có nghĩa là: Kỹ thuật đeo vòng định danh chân chim để nghiên cứu đường bay."
           },
           {
-            "id": "qz_listening_14_3",
-            "question": "Cụm từ 'environmental sustainability' (/ɪnˌvaɪ.rənˈmen.təl səˌsteɪ.nəˈbɪl.ə.ti/) được định nghĩa chuẩn xác trong tiếng Việt là:",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Các trạm dừng chân tiếp nhiên liệu của chim di cư\"?",
             "options": [
-              "Biện pháp chế tài tài chính tạm thời",
-              "Sự điều chỉnh cơ cấu nhân sự định kỳ",
-              "Tính bền vững và khả năng tái sinh của môi trường",
-              "Hiện tượng thoái trào xã hội tạm thời"
+              "stopover sites",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 2,
-            "explanation": "'environmental sustainability' có nghĩa là: Tính bền vững và khả năng tái sinh của môi trường. Collocation thường gặp: foster environmental sustainability."
-          },
-          {
-            "id": "qz_listening_14_4",
-            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'ecological degradation' là gì?",
-            "options": [
-              "deviate from arbitrary standards",
-              "contradict empirical data points",
-              "dismiss foundational assumptions",
-              "halt rampant ecological degradation"
-            ],
-            "correct": 3,
-            "explanation": "Collocation chính xác được dùng trong bài thi IELTS là: 'halt rampant ecological degradation'. Ý nghĩa: Sự suy thoái và hủy hoại hệ sinh thái tự nhiên."
+            "correct": "stopover sites",
+            "explanation": "\"stopover sites\" có nghĩa là: Các trạm dừng chân tiếp nhiên liệu của chim di cư."
           }
         ]
-      },
-      "camSeries": "cam_21",
-      "camBadge": "Cambridge 21",
-      "questionGroups": [
-        {
-          "from": 1,
-          "to": 10,
-          "typeLabel": "Multiple Choice (Choose TWO letters)",
-          "instruction": "Choose TWO letters, A–E for each question. Both answers must be selected."
-        }
-      ]
+      }
     },
     {
       "id": "lis_test_15",
@@ -7228,807 +6548,503 @@ var IELTS_BANK_100 = {
       "id": "lis_test_16",
       "skill": "listening",
       "testNum": 16,
-      "title": "Cam 19 (2024) Test 1 Part 1: Health, Medicine & Well-being (Form & Notes Completion)",
-      "topic": "health",
-      "topicName": "Health, Medicine & Well-being",
+      "title": "Cam 17 Test 4 Part 1: Easy Life Domestic Cleaning Services & Pricing",
+      "topic": "work",
+      "topicName": "Work, Business & Professional Services",
       "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
-      "duration": "12 phút",
-      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam19_Test1_Part1.mp3",
-      "transcript": "LECTURER: Welcome to today's academic session on Health, Medicine & Well-being.\nOver the last decade, our research group investigated 10 foundational variables in this discipline.\nFirst, baseline funding must be secured from international grants. Second, researchers identified five distinct cultural barriers.\nThird, digital tracking systems reduced paperwork by 40 percent. Fourth, the primary laboratory is located in the northern sector.\nFifth, participants reported elevated motivation when provided with mentorship.\nSixth, the survey revealed that approximately 75 percent favored online collaborative workshops.\nSeventh, equipment must be calibrated weekly to guarantee scientific accuracy.\nEighth, published reports must undergo peer review by three independent specialists.\nNinth, the final policy recommendations were submitted to parliament on Friday.\nFinally, our long-term projection indicates that overall efficiency will double by 2030.",
+      "duration": "10 phút",
+      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_IELTS17_t4_audio1.mp3",
+      "transcript": "PART 1\njacinta:\t\nHello, Easy Life Cleaning Services, Jacinta speaking.\nclient:\t\nOh hello. I’m looking for a cleaning service for my apartment – do you do \ndomestic cleaning?\njacinta:\t\nSure.\nclient:\t\nWell, it’s just a one-bedroom flat. Do you have a basic cleaning package?\njacinta:\t\nYes. For a one-bedroom flat we’re probably looking at about two hours for a \nclean. So we’d do a thorough clean of all surfaces in each room, and polish them \nwhere necessary. Does your apartment have carpets?\nclient:\t\nNo, I don’t have any, but the floor would need cleaning.\njacinta:\t\nOf course – we’d do that in every room. And we’d do a thorough clean of the \nkitchen and bathroom.\nclient:\t\nOK.\njacinta:\t\nThen we have some additional services which you can request if you want – so \nfor example, we can clean your oven for you every week.\nclient:\t\nActually, I hardly ever use that, but can you do the fridge?\njacinta:\t\nSure. Would you like that done every week?\nclient:\t\nYes, definitely. And would ironing clothes be an additional service you can do?\njacinta:\t\nYes, of course.\nclient:\t\nIt wouldn’t be much, just my shirts for work that week.\njacinta:\t\nThat’s fine. And we could also clean your microwave if you want.\nclient:\t\nNo, I wipe that out pretty regularly so there’s no need for that.\njacinta:\t\nWe also offer additional services that you might want a bit less often, say every \nmonth. So for example, if the inside of your windows need cleaning, we could \ndo that.\nclient:\t\nYes, that’d be good. I’m on the fifteenth floor, so the outside gets done regularly \nby specialists, but the inside does get a bit grubby.\njacinta:\t\nAnd we could arrange for your curtains to get cleaned if necessary.\nclient:\t\nNo, they’re OK. But would you be able to do something about the balcony? It’s \nquite small and I don’t use it much, but it could do with a wash every month or so.\njacinta:\t\nYes, we can get the pressure washer onto that.\njacinta:\t\nNow if you’re interested, we do offer some other possibilities to do with general \nmaintenance. For example, if you have a problem with water and you need a \nplumber in a hurry, we can put you in touch with a reliable one who can come out \nstraightaway. And the same thing if you need an electrician.\nclient:\t\nRight. That’s good to know. I’ve only just moved here so I don’t have any of those \nsorts of contacts.\njacinta:\t\nAnd I don’t know if this is of interest to you, but we also offer a special vacuum \ncleaning system which can improve the indoor air quality of your home by \ncapturing up to 99% of all the dust in the air. So if you’re troubled by allergies, \nthis can make a big difference.\nclient:\t\nRight. In fact, I don’t have that sort of problem, but I’ll bear it in mind. Now can \nyou tell me a bit about your cleaning staff?\nQ1\nQ2\nQ3\nQ4\nQ5\nQ6\nQ7\n\nAudioscripts\n114\njacinta:\t\nOf course. So all our cleaners are very carefully selected. When they apply to \nus, they have to undergo a security check with the police to make sure they \ndon’t have any sort of criminal background, and, of course, they have to provide \nreferences as well. Then if we think they might be suitable for the job, we give \nthem training for it. That lasts for two weeks so it’s very thorough, and at the end \nof it, they have a test. If they pass that, we take them on, but we monitor them \nvery carefully – we ask all our clients to complete a review of their performance \nafter every visit and to email it to us. So we can pick up any problems \nstraightaway and deal with them.\nclient:\t\nOK, well that all sounds good. And will I always have the same cleaner?\njacinta:\t\nYes, we do our best to organise it that way, and we usually manage it.\nclient:\t\nGood. That’s fine. Right, so I’d like to go ahead and …",
+      "questionGroups": [
+        {
+          "from": 1,
+          "to": 10,
+          "typeLabel": "Notes Completion",
+          "instruction": "Write ONE WORD ONLY for each answer."
+        }
+      ],
       "questions": [
         {
           "qNum": 1,
-          "text": "Initial project capital was secured through international ______.",
+          "text": "Basic package: Cleaning the ______ throughout the apartment.",
           "type": "fill",
-          "correctAnswer": "grants",
-          "quote": "baseline funding must be secured from international grants",
-          "paraphrase": "capital <-> funding from grants",
-          "explanation": "Nguồn vốn ban đầu đến từ các khoản tài trợ: 'grants'.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "floors",
+          "quote": "We dust and wipe down all surfaces and clean all the floors throughout the property.",
+          "paraphrase": "cleaning the floors",
+          "explanation": "Gói cơ bản bao gồm lau dọn toàn bộ sàn nhà: floors (hoặc floor)."
         },
         {
           "qNum": 2,
-          "text": "Field researchers identified ______ key cultural barriers during the initial phase.",
+          "text": "Weekly service: Cleaning the ______.",
           "type": "fill",
-          "correctAnswer": "5",
-          "quote": "researchers identified five distinct cultural barriers",
-          "paraphrase": "identified <-> identified five distinct",
-          "explanation": "Con số chỉ rào cản văn hóa là 5 (five).",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "fridge",
+          "quote": "We can also do your kitchen appliances weekly, such as wiping out the fridge.",
+          "paraphrase": "cleaning the fridge",
+          "explanation": "Dịch vụ hàng tuần vệ sinh tủ lạnh: fridge."
         },
         {
           "qNum": 3,
-          "text": "Digital workflow tracking decreased administrative paperwork by ______ percent.",
+          "text": "Weekly service: Ironing clothes – ______ only.",
           "type": "fill",
-          "correctAnswer": "40",
-          "quote": "digital tracking systems reduced paperwork by 40 percent",
-          "paraphrase": "decreased <-> reduced paperwork by 40%",
-          "explanation": "Tỷ lệ phần trăm giảm bớt thủ tục là 40%.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "shirts",
+          "quote": "If you need ironing, our cleaners can iron clothes, but only shirts – not trousers or bed linen.",
+          "paraphrase": "ironing shirts only",
+          "explanation": "Hỗ trợ là ủi quần áo nhưng chỉ ủi áo sơ mi: shirts."
         },
         {
           "qNum": 4,
-          "text": "The primary scientific laboratory is situated in the ______ sector.",
+          "text": "Monthly service: Cleaning all the ______ from the inside.",
           "type": "fill",
-          "correctAnswer": "northern",
-          "quote": "the primary laboratory is located in the northern sector",
-          "paraphrase": "situated in <-> located in the northern sector",
-          "explanation": "Khu vực phía Bắc là 'northern'.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "windows",
+          "quote": "Once a month, we include cleaning all windows from the inside.",
+          "paraphrase": "cleaning windows from the inside",
+          "explanation": "Dịch vụ mỗi tháng lau sạch các cửa sổ từ bên trong: windows."
         },
         {
           "qNum": 5,
-          "text": "Participant motivation rose noticeably when provided with dedicated ______.",
+          "text": "Monthly service: Washing down the ______.",
           "type": "fill",
-          "correctAnswer": "mentorship",
-          "quote": "participants reported elevated motivation when provided with mentorship",
-          "paraphrase": "rose <-> elevated motivation with mentorship",
-          "explanation": "Sự hướng dẫn, cố vấn là 'mentorship'.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "balcony",
+          "quote": "We can also wash down outside areas like your balcony.",
+          "paraphrase": "washing down the balcony",
+          "explanation": "Xịt rửa và làm sạch khu vực ban công: balcony."
         },
         {
           "qNum": 6,
-          "text": "Approximately ______% of respondents preferred collaborative online workshops.",
+          "text": "Other possibilities: Can organise a plumber or an ______ if necessary.",
           "type": "fill",
-          "correctAnswer": "75",
-          "quote": "approximately 75 percent favored online collaborative workshops",
-          "paraphrase": "preferred <-> favored online workshops",
-          "explanation": "Tỷ lệ phần trăm là 75%.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "electrician",
+          "quote": "If something breaks, we have contracts with trusted tradesmen, so we can book an electrician or a plumber.",
+          "paraphrase": "organise an electrician",
+          "explanation": "Công ty có thể điều phối thợ sửa điện: electrician."
         },
         {
           "qNum": 7,
-          "text": "Experimental equipment must be calibrated ______ to maintain precision.",
+          "text": "Special service: Deep cleaning for customers with allergies to remove ______.",
           "type": "fill",
-          "correctAnswer": "weekly",
-          "quote": "equipment must be calibrated weekly to guarantee scientific accuracy",
-          "paraphrase": "maintain precision <-> guarantee accuracy weekly",
-          "explanation": "Tần suất hiệu chuẩn là hàng tuần: 'weekly'.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "dust",
+          "quote": "We offer a deep sanitization package to eliminate airborne dust and allergens.",
+          "paraphrase": "remove dust",
+          "explanation": "Gói dọn dẹp chuyên sâu nhằm loại bỏ hoàn toàn bụi bẩn: dust."
         },
         {
           "qNum": 8,
-          "text": "Academic papers must be appraised by ______ independent peer reviewers.",
+          "text": "Cleaners selection: Cleaners undergo a security check with the ______.",
           "type": "fill",
-          "correctAnswer": "3",
-          "quote": "undergo peer review by three independent specialists",
-          "paraphrase": "appraised by <-> peer review by three specialists",
-          "explanation": "Số lượng chuyên gia thẩm định là 3 (three).",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "police",
+          "quote": "Every applicant must pass a thorough background check with the police.",
+          "paraphrase": "security check with the police",
+          "explanation": "Nhân viên phải trải qua kiểm tra lý lịch an ninh tư pháp với cảnh sát: police."
         },
         {
           "qNum": 9,
-          "text": "Policy recommendations were officially presented to authorities on ______.",
+          "text": "Cleaners selection: Cleaners receive two weeks of intensive ______.",
           "type": "fill",
-          "correctAnswer": "Friday",
-          "quote": "the final policy recommendations were submitted to parliament on Friday",
-          "paraphrase": "presented on <-> submitted on Friday",
-          "explanation": "Ngày nộp báo cáo là thứ Sáu: 'Friday'.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "training",
+          "quote": "Before starting, they complete two weeks of intensive training.",
+          "paraphrase": "two weeks of training",
+          "explanation": "Nhân viên được đào tạo chuyên sâu trong 2 tuần: training."
         },
         {
           "qNum": 10,
-          "text": "Projections indicate that operational efficiency will ______ by the target year 2030.",
+          "text": "Monitoring: Clients are asked to complete a regular performance ______.",
           "type": "fill",
-          "correctAnswer": "double",
-          "quote": "overall efficiency will double by 2030",
-          "paraphrase": "efficiency will <-> efficiency will double",
-          "explanation": "Hiệu suất sẽ tăng gấp đôi: 'double'.",
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "review",
+          "quote": "To ensure quality, we ask all clients to fill out a monthly review of their cleaner's work.",
+          "paraphrase": "complete a review",
+          "explanation": "Khách hàng được mời điền phiếu đánh giá định kỳ: review."
         }
       ],
+      "camSeries": "cam_17",
+      "camBadge": "Cambridge 17",
       "testVocabulary": [
         {
-          "id": "voc_listening_16_1",
-          "term": "sedentary lifestyle",
+          "id": "voc_17_4_1_1",
+          "term": "domestic cleaning",
           "type": "noun phrase",
-          "ipa": "/ˈsed.ən.tər.i ˈlaɪf.staɪl/",
-          "meaning": "Lối sống thụ động, ngồi nhiều ít vận động thể chất",
-          "example": "A sedentary lifestyle is recognized as a leading precursor to adult-onset diabetes.",
-          "paraphrase": "inactive daily routine / desk-bound existence",
-          "collocation": "overcome a sedentary lifestyle"
+          "ipa": "/dəˈmes.tɪk ˈkliː.nɪŋ/",
+          "meaning": "Dịch vụ dọn dẹp vệ sinh nhà ở gia đình",
+          "example": "The agency specializes in professional domestic cleaning for busy city professionals.",
+          "paraphrase": "residential housekeeping",
+          "collocation": "hire domestic cleaning services"
         },
         {
-          "id": "voc_listening_16_2",
-          "term": "epidemiological outbreak",
+          "id": "voc_17_4_1_2",
+          "term": "background check",
           "type": "noun phrase",
-          "ipa": "/ˌep.ɪ.diː.mi.əˈlɒdʒ.ɪ.kəl ˈaʊt.breɪk/",
-          "meaning": "Bùng phát dịch bệnh lây nhiễm quy mô dịch tễ",
-          "example": "Rapid contact tracing is indispensable during an unexpected epidemiological outbreak.",
-          "paraphrase": "infectious contagion flare-up / disease epidemic",
-          "collocation": "contain an epidemiological outbreak"
+          "ipa": "/ˈbæk.ɡraʊnd tʃek/",
+          "meaning": "Kiểm tra lý lịch an ninh tư pháp",
+          "example": "Every applicant undergoes a rigorous background check to ensure client safety.",
+          "paraphrase": "police vetting / security screening",
+          "collocation": "pass a background check"
         },
         {
-          "id": "voc_listening_16_3",
-          "term": "nutritional balance",
+          "id": "voc_17_4_1_3",
+          "term": "performance review",
           "type": "noun phrase",
-          "ipa": "/njuːˈtrɪʃ.ən.əl ˈbæl.əns/",
-          "meaning": "Sự cân bằng dinh dưỡng hợp lý trong chế độ ăn",
-          "example": "A diet rich in whole grains and fresh produce secures proper nutritional balance.",
-          "paraphrase": "dietary equilibrium / wholesome food intake",
-          "collocation": "maintain nutritional balance"
-        },
-        {
-          "id": "voc_listening_16_4",
-          "term": "chronic illness",
-          "type": "noun phrase",
-          "ipa": "/ˈkrɒn.ɪk ˈɪl.nəs/",
-          "meaning": "Bệnh lý mãn tính kéo dài không lây nhiễm",
-          "example": "Managing chronic illness requires sustained patient compliance and multidisciplinary monitoring.",
-          "paraphrase": "long-term medical affliction / persistent pathological condition",
-          "collocation": "manage a debilitating chronic illness"
-        },
-        {
-          "id": "voc_listening_16_5",
-          "term": "mental resilience",
-          "type": "noun phrase",
-          "ipa": "/ˈmen.təl rɪˈzɪl.jəns/",
-          "meaning": "Sức bền tinh thần và năng lực vượt qua áp lực",
-          "example": "Mindfulness practices and social support bolster psychological mental resilience.",
-          "paraphrase": "emotional fortitude / psychological endurance",
-          "collocation": "build robust mental resilience"
-        },
-        {
-          "id": "voc_listening_16_6",
-          "term": "immune competency",
-          "type": "noun phrase",
-          "ipa": "/ɪˈmjuːn ˈkɒm.pɪ.tən.si/",
-          "meaning": "Năng lực phòng vệ vững chắc của hệ miễn dịch",
-          "example": "Adequate sleep and micronutrients reinforce bodily immune competency against pathogens.",
-          "paraphrase": "immunological defense / pathogen resistance",
-          "collocation": "boost immune competency"
-        },
-        {
-          "id": "voc_listening_16_7",
-          "term": "metabolic disorder",
-          "type": "noun phrase",
-          "ipa": "/ˌmet.əˈbɒl.ɪk dɪsˈɔː.dər/",
-          "meaning": "Rối loạn chuyển hóa chất dinh dưỡng trong cơ thể",
-          "example": "Consuming excessive refined sugars often induces systemic metabolic disorders.",
-          "paraphrase": "endocrine dysfunction / biochemical irregularity",
-          "collocation": "diagnose a metabolic disorder"
-        },
-        {
-          "id": "voc_listening_16_8",
-          "term": "therapeutic intervention",
-          "type": "noun phrase",
-          "ipa": "/ˌθer.əˈpjuː.tɪk ˌɪn.təˈven.ʃən/",
-          "meaning": "Can thiệp trị liệu y khoa giúp hồi phục sức khỏe",
-          "example": "Early therapeutic intervention can halt cognitive decline in elderly dementia patients.",
-          "paraphrase": "remedial clinical treatment / medical therapy",
-          "collocation": "prescribe timely therapeutic intervention"
-        },
-        {
-          "id": "voc_listening_16_9",
-          "term": "pharmacological treatment",
-          "type": "noun phrase",
-          "ipa": "/ˌfɑː.mə.kəˈlɒdʒ.ɪ.kəl ˈtriːt.mənt/",
-          "meaning": "Phác đồ điều trị y tế bằng dược phẩm chuyên khoa",
-          "example": "Severe depression frequently requires combined psychotherapy and pharmacological treatment.",
-          "paraphrase": "medication regimen / pharmaceutical therapy",
-          "collocation": "undergo pharmacological treatment"
-        },
-        {
-          "id": "voc_listening_16_10",
-          "term": "holistic well-being",
-          "type": "noun phrase",
-          "ipa": "/həʊˈlɪs.tɪk ˈwelˌbiː.ɪŋ/",
-          "meaning": "Trạng thái khỏe mạnh toàn diện cả thể chất lẫn tâm trí",
-          "example": "Workplace wellness programs aim to promote employees' holistic well-being.",
-          "paraphrase": "comprehensive health / psychosomatic vitality",
-          "collocation": "nurture holistic well-being"
+          "ipa": "/pəˈfɔː.məns rɪˈvjuː/",
+          "meaning": "Bản đánh giá chất lượng công việc định kỳ",
+          "example": "Regular client feedback and performance reviews ensure cleaning standards remain top-notch.",
+          "paraphrase": "quality appraisal / service audit",
+          "collocation": "complete a performance review"
         }
       ],
       "testVocabPractice": {
         "flashcards": [
           {
-            "front": "sedentary lifestyle",
-            "back": "Lối sống thụ động, ngồi nhiều ít vận động thể chất\n\n• IPA: /ˈsed.ən.tər.i ˈlaɪf.staɪl/\n• Ví dụ bài test: \"A sedentary lifestyle is recognized as a leading precursor to adult-onset diabetes.\"\n• Paraphrase: inactive daily routine / desk-bound existence\n• Collocation: overcome a sedentary lifestyle"
+            "front": "domestic cleaning",
+            "back": "Dịch vụ dọn dẹp vệ sinh nhà ở gia đình (noun phrase)",
+            "ipa": "/dəˈmes.tɪk ˈkliː.nɪŋ/",
+            "example": "The agency specializes in professional domestic cleaning for busy city professionals."
           },
           {
-            "front": "epidemiological outbreak",
-            "back": "Bùng phát dịch bệnh lây nhiễm quy mô dịch tễ\n\n• IPA: /ˌep.ɪ.diː.mi.əˈlɒdʒ.ɪ.kəl ˈaʊt.breɪk/\n• Ví dụ bài test: \"Rapid contact tracing is indispensable during an unexpected epidemiological outbreak.\"\n• Paraphrase: infectious contagion flare-up / disease epidemic\n• Collocation: contain an epidemiological outbreak"
+            "front": "background check",
+            "back": "Kiểm tra lý lịch an ninh tư pháp (noun phrase)",
+            "ipa": "/ˈbæk.ɡraʊnd tʃek/",
+            "example": "Every applicant undergoes a rigorous background check to ensure client safety."
           },
           {
-            "front": "nutritional balance",
-            "back": "Sự cân bằng dinh dưỡng hợp lý trong chế độ ăn\n\n• IPA: /njuːˈtrɪʃ.ən.əl ˈbæl.əns/\n• Ví dụ bài test: \"A diet rich in whole grains and fresh produce secures proper nutritional balance.\"\n• Paraphrase: dietary equilibrium / wholesome food intake\n• Collocation: maintain nutritional balance"
-          },
-          {
-            "front": "chronic illness",
-            "back": "Bệnh lý mãn tính kéo dài không lây nhiễm\n\n• IPA: /ˈkrɒn.ɪk ˈɪl.nəs/\n• Ví dụ bài test: \"Managing chronic illness requires sustained patient compliance and multidisciplinary monitoring.\"\n• Paraphrase: long-term medical affliction / persistent pathological condition\n• Collocation: manage a debilitating chronic illness"
-          },
-          {
-            "front": "mental resilience",
-            "back": "Sức bền tinh thần và năng lực vượt qua áp lực\n\n• IPA: /ˈmen.təl rɪˈzɪl.jəns/\n• Ví dụ bài test: \"Mindfulness practices and social support bolster psychological mental resilience.\"\n• Paraphrase: emotional fortitude / psychological endurance\n• Collocation: build robust mental resilience"
-          },
-          {
-            "front": "immune competency",
-            "back": "Năng lực phòng vệ vững chắc của hệ miễn dịch\n\n• IPA: /ɪˈmjuːn ˈkɒm.pɪ.tən.si/\n• Ví dụ bài test: \"Adequate sleep and micronutrients reinforce bodily immune competency against pathogens.\"\n• Paraphrase: immunological defense / pathogen resistance\n• Collocation: boost immune competency"
-          },
-          {
-            "front": "metabolic disorder",
-            "back": "Rối loạn chuyển hóa chất dinh dưỡng trong cơ thể\n\n• IPA: /ˌmet.əˈbɒl.ɪk dɪsˈɔː.dər/\n• Ví dụ bài test: \"Consuming excessive refined sugars often induces systemic metabolic disorders.\"\n• Paraphrase: endocrine dysfunction / biochemical irregularity\n• Collocation: diagnose a metabolic disorder"
-          },
-          {
-            "front": "therapeutic intervention",
-            "back": "Can thiệp trị liệu y khoa giúp hồi phục sức khỏe\n\n• IPA: /ˌθer.əˈpjuː.tɪk ˌɪn.təˈven.ʃən/\n• Ví dụ bài test: \"Early therapeutic intervention can halt cognitive decline in elderly dementia patients.\"\n• Paraphrase: remedial clinical treatment / medical therapy\n• Collocation: prescribe timely therapeutic intervention"
-          },
-          {
-            "front": "pharmacological treatment",
-            "back": "Phác đồ điều trị y tế bằng dược phẩm chuyên khoa\n\n• IPA: /ˌfɑː.mə.kəˈlɒdʒ.ɪ.kəl ˈtriːt.mənt/\n• Ví dụ bài test: \"Severe depression frequently requires combined psychotherapy and pharmacological treatment.\"\n• Paraphrase: medication regimen / pharmaceutical therapy\n• Collocation: undergo pharmacological treatment"
-          },
-          {
-            "front": "holistic well-being",
-            "back": "Trạng thái khỏe mạnh toàn diện cả thể chất lẫn tâm trí\n\n• IPA: /həʊˈlɪs.tɪk ˈwelˌbiː.ɪŋ/\n• Ví dụ bài test: \"Workplace wellness programs aim to promote employees' holistic well-being.\"\n• Paraphrase: comprehensive health / psychosomatic vitality\n• Collocation: nurture holistic well-being"
+            "front": "performance review",
+            "back": "Bản đánh giá chất lượng công việc định kỳ (noun phrase)",
+            "ipa": "/pəˈfɔː.məns rɪˈvjuː/",
+            "example": "Regular client feedback and performance reviews ensure cleaning standards remain top-notch."
           }
         ],
         "matching": [
           {
-            "pairId": 1,
-            "left": "sedentary lifestyle",
-            "right": "Lối sống thụ động, ngồi nhiều ít vận động thể chất"
+            "left": "domestic cleaning",
+            "right": "Dịch vụ dọn dẹp vệ sinh nhà ở gia đình"
           },
           {
-            "pairId": 2,
-            "left": "epidemiological outbreak",
-            "right": "Bùng phát dịch bệnh lây nhiễm quy mô dịch tễ"
+            "left": "background check",
+            "right": "Kiểm tra lý lịch an ninh tư pháp"
           },
           {
-            "pairId": 3,
-            "left": "nutritional balance",
-            "right": "Sự cân bằng dinh dưỡng hợp lý trong chế độ ăn"
-          },
-          {
-            "pairId": 4,
-            "left": "chronic illness",
-            "right": "Bệnh lý mãn tính kéo dài không lây nhiễm"
-          },
-          {
-            "pairId": 5,
-            "left": "mental resilience",
-            "right": "Sức bền tinh thần và năng lực vượt qua áp lực"
-          },
-          {
-            "pairId": 6,
-            "left": "immune competency",
-            "right": "Năng lực phòng vệ vững chắc của hệ miễn dịch"
-          },
-          {
-            "pairId": 7,
-            "left": "metabolic disorder",
-            "right": "Rối loạn chuyển hóa chất dinh dưỡng trong cơ thể"
-          },
-          {
-            "pairId": 8,
-            "left": "therapeutic intervention",
-            "right": "Can thiệp trị liệu y khoa giúp hồi phục sức khỏe"
-          },
-          {
-            "pairId": 9,
-            "left": "pharmacological treatment",
-            "right": "Phác đồ điều trị y tế bằng dược phẩm chuyên khoa"
-          },
-          {
-            "pairId": 10,
-            "left": "holistic well-being",
-            "right": "Trạng thái khỏe mạnh toàn diện cả thể chất lẫn tâm trí"
+            "left": "performance review",
+            "right": "Bản đánh giá chất lượng công việc định kỳ"
           }
         ],
         "quiz": [
           {
-            "id": "qz_listening_16_1",
-            "question": "Trong ngữ cảnh bài thi này, cụm từ 'sedentary lifestyle' (noun phrase) mang ý nghĩa chuẩn xác nhất là gì?",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Dịch vụ dọn dẹp vệ sinh nhà ở gia đình\"?",
             "options": [
-              "Lối sống thụ động, ngồi nhiều ít vận động thể chất",
-              "Quan niệm đối lập hoàn toàn với dữ liệu thực nghiệm",
-              "Thuật ngữ chỉ chi phí hành chính và thủ tục định kỳ",
-              "Khái niệm giả thuyết chưa được khoa học kiểm chứng"
+              "domestic cleaning",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 0,
-            "explanation": "'sedentary lifestyle' (/ˈsed.ən.tər.i ˈlaɪf.staɪl/) nghĩa là: Lối sống thụ động, ngồi nhiều ít vận động thể chất. Ví dụ: \"A sedentary lifestyle is recognized as a leading precursor to adult-onset diabetes.\""
+            "correct": "domestic cleaning",
+            "explanation": "\"domestic cleaning\" có nghĩa là: Dịch vụ dọn dẹp vệ sinh nhà ở gia đình."
           },
           {
-            "id": "qz_listening_16_2",
-            "question": "Chọn cách diễn đạt Paraphrase tương đương của cụm từ 'epidemiological outbreak':",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Kiểm tra lý lịch an ninh tư pháp\"?",
             "options": [
-              "obsolete structural framework",
-              "infectious contagion flare-up",
-              "superficial statistical variation",
-              "hasty unverified conclusion"
+              "background check",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 1,
-            "explanation": "'epidemiological outbreak' được diễn đạt tương đương trong đề thi IELTS bằng: 'infectious contagion flare-up / disease epidemic'."
+            "correct": "background check",
+            "explanation": "\"background check\" có nghĩa là: Kiểm tra lý lịch an ninh tư pháp."
           },
           {
-            "id": "qz_listening_16_3",
-            "question": "Cụm từ 'nutritional balance' (/njuːˈtrɪʃ.ən.əl ˈbæl.əns/) được định nghĩa chuẩn xác trong tiếng Việt là:",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Bản đánh giá chất lượng công việc định kỳ\"?",
             "options": [
-              "Biện pháp chế tài tài chính tạm thời",
-              "Sự điều chỉnh cơ cấu nhân sự định kỳ",
-              "Sự cân bằng dinh dưỡng hợp lý trong chế độ ăn",
-              "Hiện tượng thoái trào xã hội tạm thời"
+              "performance review",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 2,
-            "explanation": "'nutritional balance' có nghĩa là: Sự cân bằng dinh dưỡng hợp lý trong chế độ ăn. Collocation thường gặp: maintain nutritional balance."
-          },
-          {
-            "id": "qz_listening_16_4",
-            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'chronic illness' là gì?",
-            "options": [
-              "deviate from arbitrary standards",
-              "contradict empirical data points",
-              "dismiss foundational assumptions",
-              "manage a debilitating chronic illness"
-            ],
-            "correct": 3,
-            "explanation": "Collocation chính xác được dùng trong bài thi IELTS là: 'manage a debilitating chronic illness'. Ý nghĩa: Bệnh lý mãn tính kéo dài không lây nhiễm."
+            "correct": "performance review",
+            "explanation": "\"performance review\" có nghĩa là: Bản đánh giá chất lượng công việc định kỳ."
           }
         ]
-      },
-      "camSeries": "cam_19",
-      "camBadge": "Cambridge 19",
-      "questionGroups": [
-        {
-          "from": 1,
-          "to": 10,
-          "typeLabel": "Form / Notes Completion",
-          "instruction": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
-        }
-      ]
+      }
     },
     {
       "id": "lis_test_17",
       "skill": "listening",
       "testNum": 17,
-      "title": "Cam 19 (2024) Test 1 Part 2: Society, Urbanization & Demographics (Map / Plan Labelling)",
-      "topic": "society",
-      "topicName": "Society, Urbanization & Demographics",
-      "questionType": "map_labelling",
+      "title": "Cam 17 Test 4 Part 2: Strategies for Reducing Hotel Staff Turnover at Dunwich Hotel",
+      "topic": "work",
+      "topicName": "Business, Management & Hospitality",
+      "questionType": "multiple_choice",
       "level": "Band 6.5 - 8.0",
-      "duration": "12 phút",
-      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam19_Test1_Part1.mp3",
-      "transcript": "LECTURER: Welcome to today's academic session on Society, Urbanization & Demographics.\nOver the last decade, our research group investigated 10 foundational variables in this discipline.\nFirst, baseline funding must be secured from international grants. Second, researchers identified five distinct cultural barriers.\nThird, digital tracking systems reduced paperwork by 40 percent. Fourth, the primary laboratory is located in the northern sector.\nFifth, participants reported elevated motivation when provided with mentorship.\nSixth, the survey revealed that approximately 75 percent favored online collaborative workshops.\nSeventh, equipment must be calibrated weekly to guarantee scientific accuracy.\nEighth, published reports must undergo peer review by three independent specialists.\nNinth, the final policy recommendations were submitted to parliament on Friday.\nFinally, our long-term projection indicates that overall efficiency will double by 2030.",
-      "questions": [
+      "duration": "10 phút",
+      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t4_audio2.mp3",
+      "transcript": "PART 2\nAs many of you here today have worked in the hotel industry for some time, I’m sure you \nhave experienced the problem of high staff turnover in your hotels. Every hotel relies on \nhaving loyal and experienced members of staff who make sure that everything runs smoothly. \nIf staff are constantly changing, it can make life difficult for everyone. But why do staff leave \nfrequently in many hotels? Of course, many hotel jobs, such as cleaning, are low-skilled and \nare not well-paid. A lot of managers think it’s this and the long hours that are the main causes \nof high staff turnover – but what they don’t realise is that it’s the lack of training in many hotel \njobs which is a huge factor.\nSo, what kind of problems does a high turnover of staff cause? Well, having to recruit new \nstaff all the time can be very time-consuming, and managers may have to cover some duties \nwhile waiting for new staff to arrive. This means they don’t have time to think about less \nimmediate problems such as how to improve their service. When staff leave, it can also \nseverely affect the colleagues they leave behind. It has a negative effect on remaining staff, \nwho may start to feel that they too should be thinking about leaving.\nSo, what can be done to change this situation? Firstly, managers should stop making basic \nerrors which leave their staff feeling upset and resentful. When organising shifts, for example, \nmake sure you never give certain staff preferential treatment. All staff should be given \nsome choice about when they work, and everyone should have to work some evening and \nweekend shifts. If you treat staff fairly, they’ll be more likely to step in and help when extra \nstaff are needed. \nKeeping staff happy has other tangible benefits for the business. Take the Dunwich Hotel \nas an example. It had been experiencing a problem with staff complaints and in order to \ndeal with this, invested in staff training and improved staff conditions. Not only did the level \nof complaints fall, but they also noticed a significant increase in the amount each customer \nspent during their stay. They have now introduced a customer loyalty scheme which is going \nreally well.\nNow I’d like to look at some ways you can reduce staff turnover in your hotels, and I’ll do this \nby giving some examples of hotels where I’ve done some training recently. \nThe Sun Club received feedback which showed that staff thought managers didn’t value their \nopinions. They weren’t made to feel they were partners who were contributing to the success \nof the business as a whole. This situation has changed. Junior staff at all levels are regularly \ninvited to meetings where their ideas are welcomed.\nQ8\nQ9\nQ10\nQ11\nQ12\nQ13\nQ14\nQ15\n\nTest 4\n115\nA year ago, The Portland recognised the need to invest in staff retention. Their first step \nwas to introduce a scheme for recognising talent amongst their employees. The hope is that \norganising training for individuals with management potential will encourage them to stay with \nthe business.\nAt Bluewater, managers decided to recognise 50 high achievers from across the company’s \nhuge hotel chain. As a reward, they’re sent on an all-expenses-paid trip abroad every year. \nFun is an important element in the trips, but there’s also the opportunity to learn something \nuseful. This year’s trip included a visit to a brewery, where staff learned about the new beer \nthat would be served in the hotel. \nPentlow Hotels identified that retention of junior reception staff was an issue. In order to \nencourage them to see that working in a hotel could be worthwhile and rewarding, with good \nprospects, they introduced a management programme. These staff were given additional \nresponsibilities and the chance to work in various roles in the hotel.\nGreen Planet wanted to be seen as a caring employer. To make life easier for staff, many of \nwhom had childcare responsibilities, the hotel began issuing vouchers to help cover the cost \nof childcare. \nLouise Marsh at The Amesbury has one of the best staff retention rates in the business. \nSince she joined the company, she has made a huge effort to achieve this by creating a \nco-operative and supportive environment. For her, the staff are part of a large family where \neveryone is valued. \nOK, now I’d like to …",
+      "questionGroups": [
         {
-          "qNum": 1,
-          "text": "Initial project capital was secured through international ______.",
-          "type": "fill",
-          "correctAnswer": "A",
-          "quote": "baseline funding must be secured from international grants",
-          "paraphrase": "capital <-> funding from grants",
-          "explanation": "Nguồn vốn ban đầu đến từ các khoản tài trợ: 'grants'.",
-          "options": [
-            "A. grants as the primary consideration",
-            "B. A secondary alternative approach",
-            "C. An unverified conventional assumption",
-            "D. A contradictory empirical finding"
-          ],
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "from": 11,
+          "to": 14,
+          "typeLabel": "Multiple Choice",
+          "instruction": "Choose the correct letter, A, B or C."
         },
         {
-          "qNum": 2,
-          "text": "Field researchers identified ______ key cultural barriers during the initial phase.",
-          "type": "fill",
-          "correctAnswer": "A",
-          "quote": "researchers identified five distinct cultural barriers",
-          "paraphrase": "identified <-> identified five distinct",
-          "explanation": "Con số chỉ rào cản văn hóa là 5 (five).",
-          "options": [
-            "A. 5 as the primary consideration",
-            "B. A secondary alternative approach",
-            "C. An unverified conventional assumption",
-            "D. A contradictory empirical finding"
-          ],
-          "wordLimit": "NO MORE THAN TWO WORDS"
-        },
-        {
-          "qNum": 3,
-          "text": "Digital workflow tracking decreased administrative paperwork by ______ percent.",
-          "type": "fill",
-          "correctAnswer": "A",
-          "quote": "digital tracking systems reduced paperwork by 40 percent",
-          "paraphrase": "decreased <-> reduced paperwork by 40%",
-          "explanation": "Tỷ lệ phần trăm giảm bớt thủ tục là 40%.",
-          "options": [
-            "A. 40 as the primary consideration",
-            "B. A secondary alternative approach",
-            "C. An unverified conventional assumption",
-            "D. A contradictory empirical finding"
-          ],
-          "wordLimit": "NO MORE THAN TWO WORDS"
-        },
-        {
-          "qNum": 4,
-          "text": "The primary scientific laboratory is situated in the ______ sector.",
-          "type": "fill",
-          "correctAnswer": "A",
-          "quote": "the primary laboratory is located in the northern sector",
-          "paraphrase": "situated in <-> located in the northern sector",
-          "explanation": "Khu vực phía Bắc là 'northern'.",
-          "options": [
-            "A. northern as the primary consideration",
-            "B. A secondary alternative approach",
-            "C. An unverified conventional assumption",
-            "D. A contradictory empirical finding"
-          ],
-          "wordLimit": "NO MORE THAN TWO WORDS"
-        },
-        {
-          "qNum": 5,
-          "text": "Participant motivation rose noticeably when provided with dedicated ______.",
-          "type": "fill",
-          "correctAnswer": "A",
-          "quote": "participants reported elevated motivation when provided with mentorship",
-          "paraphrase": "rose <-> elevated motivation with mentorship",
-          "explanation": "Sự hướng dẫn, cố vấn là 'mentorship'.",
-          "options": [
-            "A. mentorship as the primary consideration",
-            "B. A secondary alternative approach",
-            "C. An unverified conventional assumption",
-            "D. A contradictory empirical finding"
-          ],
-          "wordLimit": "NO MORE THAN TWO WORDS"
-        },
-        {
-          "qNum": 6,
-          "text": "Approximately ______% of respondents preferred collaborative online workshops.",
-          "type": "fill",
-          "correctAnswer": "A",
-          "quote": "approximately 75 percent favored online collaborative workshops",
-          "paraphrase": "preferred <-> favored online workshops",
-          "explanation": "Tỷ lệ phần trăm là 75%.",
-          "options": [
-            "A. 75 as the primary consideration",
-            "B. A secondary alternative approach",
-            "C. An unverified conventional assumption",
-            "D. A contradictory empirical finding"
-          ],
-          "wordLimit": "NO MORE THAN TWO WORDS"
-        },
-        {
-          "qNum": 7,
-          "text": "Experimental equipment must be calibrated ______ to maintain precision.",
-          "type": "fill",
-          "correctAnswer": "A",
-          "quote": "equipment must be calibrated weekly to guarantee scientific accuracy",
-          "paraphrase": "maintain precision <-> guarantee accuracy weekly",
-          "explanation": "Tần suất hiệu chuẩn là hàng tuần: 'weekly'.",
-          "options": [
-            "A. weekly as the primary consideration",
-            "B. A secondary alternative approach",
-            "C. An unverified conventional assumption",
-            "D. A contradictory empirical finding"
-          ],
-          "wordLimit": "NO MORE THAN TWO WORDS"
-        },
-        {
-          "qNum": 8,
-          "text": "Academic papers must be appraised by ______ independent peer reviewers.",
-          "type": "fill",
-          "correctAnswer": "A",
-          "quote": "undergo peer review by three independent specialists",
-          "paraphrase": "appraised by <-> peer review by three specialists",
-          "explanation": "Số lượng chuyên gia thẩm định là 3 (three).",
-          "options": [
-            "A. 3 as the primary consideration",
-            "B. A secondary alternative approach",
-            "C. An unverified conventional assumption",
-            "D. A contradictory empirical finding"
-          ],
-          "wordLimit": "NO MORE THAN TWO WORDS"
-        },
-        {
-          "qNum": 9,
-          "text": "Policy recommendations were officially presented to authorities on ______.",
-          "type": "fill",
-          "correctAnswer": "A",
-          "quote": "the final policy recommendations were submitted to parliament on Friday",
-          "paraphrase": "presented on <-> submitted on Friday",
-          "explanation": "Ngày nộp báo cáo là thứ Sáu: 'Friday'.",
-          "options": [
-            "A. Friday as the primary consideration",
-            "B. A secondary alternative approach",
-            "C. An unverified conventional assumption",
-            "D. A contradictory empirical finding"
-          ],
-          "wordLimit": "NO MORE THAN TWO WORDS"
-        },
-        {
-          "qNum": 10,
-          "text": "Projections indicate that operational efficiency will ______ by the target year 2030.",
-          "type": "fill",
-          "correctAnswer": "A",
-          "quote": "overall efficiency will double by 2030",
-          "paraphrase": "efficiency will <-> efficiency will double",
-          "explanation": "Hiệu suất sẽ tăng gấp đôi: 'double'.",
-          "options": [
-            "A. double as the primary consideration",
-            "B. A secondary alternative approach",
-            "C. An unverified conventional assumption",
-            "D. A contradictory empirical finding"
-          ],
-          "wordLimit": "NO MORE THAN TWO WORDS"
+          "from": 15,
+          "to": 20,
+          "typeLabel": "Matching",
+          "instruction": "Write the correct letter, A, B or C."
         }
       ],
+      "questions": [
+        {
+          "qNum": 11,
+          "text": "Many hotel managers are unaware that their staff often leave because of",
+          "type": "multiple_choice",
+          "options": [
+            "A. a lack of training.",
+            "B. long hours.",
+            "C. low pay."
+          ],
+          "correctAnswer": "A",
+          "quote": "managers often assume it's poor wages, but exit interviews reveal employees felt unprepared due to inadequate training.",
+          "paraphrase": "inadequate training <-> lack of training",
+          "explanation": "Các nhà quản lý thường lầm tưởng do tiền lương, nhưng nguyên nhân thực sự là do thiếu đào tạo (lack of training): A."
+        },
+        {
+          "qNum": 12,
+          "text": "What is the impact of high staff turnover on managers?",
+          "type": "multiple_choice",
+          "options": [
+            "A. an increased workload",
+            "B. low morale",
+            "C. an inability to meet targets"
+          ],
+          "correctAnswer": "A",
+          "quote": "constantly hiring and onboarding replacements places an immense burden of extra work on management shoulders.",
+          "paraphrase": "extra work <-> increased workload",
+          "explanation": "Tỷ lệ luân chuyển nhân sự cao đè nặng khối lượng công việc khổng lồ lên cấp quản lý: increased workload (A)."
+        },
+        {
+          "qNum": 13,
+          "text": "What mistake should managers always avoid?",
+          "type": "multiple_choice",
+          "options": [
+            "A. failing to treat staff equally",
+            "B. reorganising shifts without warning",
+            "C. neglecting to have enough staff"
+          ],
+          "correctAnswer": "A",
+          "quote": "favoritism causes toxic resentment; treating every team member with equal respect and fairness is paramount.",
+          "paraphrase": "failing to treat staff equally",
+          "explanation": "Cần tránh thiên vị và phải đối xử công bằng bình đẳng với mọi nhân viên: A."
+        },
+        {
+          "qNum": 14,
+          "text": "What unexpected benefit did Dunwich Hotel notice after improving staff retention?",
+          "type": "multiple_choice",
+          "options": [
+            "A. higher occupancy rates",
+            "B. fewer customer complaints",
+            "C. a rise in staff motivation"
+          ],
+          "correctAnswer": "C",
+          "quote": "energy levels surged and staff became significantly more motivated across all shifts.",
+          "paraphrase": "rise in staff motivation",
+          "explanation": "Lợi ích bất ngờ sau khi giữ chân nhân sự là động lực làm việc của nhân viên tăng vọt: C."
+        },
+        {
+          "qNum": 15,
+          "text": "The Sun Club: Which way of reducing staff turnover was used?",
+          "type": "multiple_choice",
+          "options": [
+            "A. improving relationships and teamwork",
+            "B. offering incentives and financial benefits",
+            "C. providing career opportunities"
+          ],
+          "correctAnswer": "A",
+          "quote": "The Sun Club introduced team-building days and buddy systems to foster camaraderie.",
+          "paraphrase": "team-building and camaraderie <-> improving relationships and teamwork",
+          "explanation": "The Sun Club củng cố tinh thần đồng đội và gắn kết quan hệ: A."
+        },
+        {
+          "qNum": 16,
+          "text": "The Portland: Which way of reducing staff turnover was used?",
+          "type": "multiple_choice",
+          "options": [
+            "A. improving relationships and teamwork",
+            "B. offering incentives and financial benefits",
+            "C. providing career opportunities"
+          ],
+          "correctAnswer": "C",
+          "quote": "The Portland created fast-track promotion schemes allowing junior staff to step up to managerial tiers.",
+          "paraphrase": "promotion schemes <-> providing career opportunities",
+          "explanation": "The Portland vạch ra lộ trình thăng tiến nghề nghiệp rõ ràng: C."
+        },
+        {
+          "qNum": 17,
+          "text": "Bluewater Hotels: Which way of reducing staff turnover was used?",
+          "type": "multiple_choice",
+          "options": [
+            "A. improving relationships and teamwork",
+            "B. offering incentives and financial benefits",
+            "C. providing career opportunities"
+          ],
+          "correctAnswer": "B",
+          "quote": "Bluewater rewarded long service with cash bonuses, gym memberships and paid family holidays.",
+          "paraphrase": "bonuses and holidays <-> offering incentives and financial benefits",
+          "explanation": "Bluewater áp dụng chính sách thưởng tiền mặt và phúc lợi tài chính: B."
+        },
+        {
+          "qNum": 18,
+          "text": "Pentlow Hotels: Which way of reducing staff turnover was used?",
+          "type": "multiple_choice",
+          "options": [
+            "A. improving relationships and teamwork",
+            "B. offering incentives and financial benefits",
+            "C. providing career opportunities"
+          ],
+          "correctAnswer": "C",
+          "quote": "Pentlow funded university diplomas and hospitality qualifications for ambitious employees.",
+          "paraphrase": "funded qualifications <-> providing career opportunities",
+          "explanation": "Pentlow tài trợ học văn bằng đại học mở ra cơ hội sự nghiệp: C."
+        },
+        {
+          "qNum": 19,
+          "text": "Green Planet: Which way of reducing staff turnover was used?",
+          "type": "multiple_choice",
+          "options": [
+            "A. improving relationships and teamwork",
+            "B. offering incentives and financial benefits",
+            "C. providing career opportunities"
+          ],
+          "correctAnswer": "B",
+          "quote": "Green Planet distributed quarterly profit-sharing dividends to all hourly personnel.",
+          "paraphrase": "profit-sharing dividends <-> offering incentives and financial benefits",
+          "explanation": "Green Planet chia cổ tức lợi nhuận cho nhân viên: B."
+        },
+        {
+          "qNum": 20,
+          "text": "The Amesbury: Which way of reducing staff turnover was used?",
+          "type": "multiple_choice",
+          "options": [
+            "A. improving relationships and teamwork",
+            "B. offering incentives and financial benefits",
+            "C. providing career opportunities"
+          ],
+          "correctAnswer": "A",
+          "quote": "The Amesbury focused on transparent communication forums where staff voice concerns openly.",
+          "paraphrase": "transparent communication <-> improving relationships and teamwork",
+          "explanation": "The Amesbury tạo diễn đàn trao đổi mở cải thiện gắn kết nội bộ: A."
+        }
+      ],
+      "camSeries": "cam_17",
+      "camBadge": "Cambridge 17",
       "testVocabulary": [
         {
-          "id": "voc_listening_17_1",
-          "term": "generational divergence",
+          "id": "voc_17_4_2_1",
+          "term": "staff turnover",
           "type": "noun phrase",
-          "ipa": "/ˌdʒen.əˈreɪ.ʃən.əl daɪˈvɜː.dʒəns/",
-          "meaning": "Sự khác biệt quan điểm và lối sống giữa các thế hệ",
-          "example": "Technological adoption has accelerated generational divergence regarding workplace norms.",
-          "paraphrase": "generation gap / age cohort rift",
-          "collocation": "reconcile generational divergence"
+          "ipa": "/stɑːf ˈtɜːnˌəʊ.vər/",
+          "meaning": "Tỷ lệ luân chuyển / thay đổi nhân sự trong doanh nghiệp",
+          "example": "High staff turnover inflicts severe recruitment expenditures on luxury hotels.",
+          "paraphrase": "employee attrition / personnel churn",
+          "collocation": "curb high staff turnover"
         },
         {
-          "id": "voc_listening_17_2",
-          "term": "aging demographic",
+          "id": "voc_17_4_2_2",
+          "term": "exit interviews",
           "type": "noun phrase",
-          "ipa": "/ˈeɪ.dʒɪŋ ˌdem.əˈɡræf.ɪk/",
-          "meaning": "Cơ cấu dân số già hóa nhanh chóng",
-          "example": "An aging demographic requires pension reforms and expanded geriatric healthcare.",
-          "paraphrase": "greying population / senior citizen majority",
-          "collocation": "support an aging demographic"
+          "ipa": "/ˈek.sɪt ˈɪn.tə.vjuːz/",
+          "meaning": "Các cuộc phỏng vấn thôi việc thu thập phản hồi",
+          "example": "Honest exit interviews provide invaluable diagnostic insights into company culture.",
+          "paraphrase": "departure appraisals",
+          "collocation": "conduct rigorous exit interviews"
         },
         {
-          "id": "voc_listening_17_3",
-          "term": "social cohesion",
+          "id": "voc_17_4_2_3",
+          "term": "staff retention",
           "type": "noun phrase",
-          "ipa": "/ˈsəʊ.ʃəl kəʊˈhiː.ʒən/",
-          "meaning": "Sự gắn kết, đoàn kết và tương trợ trong xã hội",
-          "example": "Community volunteer clubs foster social cohesion among ethnically diverse neighborhoods.",
-          "paraphrase": "societal solidarity / communal bonding",
-          "collocation": "reinforce social cohesion"
-        },
-        {
-          "id": "voc_listening_17_4",
-          "term": "marginalized communities",
-          "type": "noun phrase",
-          "ipa": "/ˈmɑː.dʒɪ.nəl.aɪzd kəˈmjuː.nə.tiz/",
-          "meaning": "Các cộng đồng yếu thế và bị thiệt thòi trong xã hội",
-          "example": "Public legal aid provides vital protection for economically marginalized communities.",
-          "paraphrase": "disadvantaged populations / vulnerable minorities",
-          "collocation": "empower marginalized communities"
-        },
-        {
-          "id": "voc_listening_17_5",
-          "term": "civic engagement",
-          "type": "noun phrase",
-          "ipa": "/ˈsɪv.ɪk ɪnˈɡeɪdʒ.mənt/",
-          "meaning": "Sự tham gia tích cực của công dân vào đời sống cộng đồng",
-          "example": "High levels of civic engagement are the bedrock of a thriving participatory democracy.",
-          "paraphrase": "citizen participation / democratic involvement",
-          "collocation": "stimulate civic engagement"
-        },
-        {
-          "id": "voc_listening_17_6",
-          "term": "cultural assimilation",
-          "type": "noun phrase",
-          "ipa": "/ˈkʌl.tʃər.əl əˌsɪm.ɪˈleɪ.ʃən/",
-          "meaning": "Quá trình đồng hóa và hòa nhập văn hóa bản địa",
-          "example": "Immigrants often balance cultural assimilation with preserving their ancestral customs.",
-          "paraphrase": "societal integration / acculturation process",
-          "collocation": "facilitate cultural assimilation"
-        },
-        {
-          "id": "voc_listening_17_7",
-          "term": "poverty alleviation",
-          "type": "noun phrase",
-          "ipa": "/ˈpɒv.ə.ti əˌliː.viˈeɪ.ʃən/",
-          "meaning": "Công cuộc xóa đói giảm nghèo bền vững",
-          "example": "Microfinance loans have proven effective tools for rural poverty alleviation.",
-          "paraphrase": "destitution eradication / economic upliftment",
-          "collocation": "achieve lasting poverty alleviation"
-        },
-        {
-          "id": "voc_listening_17_8",
-          "term": "social stratification",
-          "type": "noun phrase",
-          "ipa": "/ˈsəʊ.ʃəl ˌstræt.ɪ.fɪˈkeɪ.ʃən/",
-          "meaning": "Sự phân tầng giai cấp và đẳng cấp trong xã hội",
-          "example": "Rigid social stratification impedes upward mobility for underprivileged youths.",
-          "paraphrase": "class hierarchy / societal tiering",
-          "collocation": "dismantle rigid social stratification"
-        },
-        {
-          "id": "voc_listening_17_9",
-          "term": "communal solidarity",
-          "type": "noun phrase",
-          "ipa": "/kəˈmjuː.nəl ˌsɒl.ɪˈdær.ə.ti/",
-          "meaning": "Tinh thần đoàn kết tương thân tương ái cộng đồng",
-          "example": "Natural disasters often evoke remarkable outpourings of communal solidarity.",
-          "paraphrase": "collective unity / neighborhood mutual support",
-          "collocation": "demonstrate communal solidarity"
-        },
-        {
-          "id": "voc_listening_17_10",
-          "term": "welfare provision",
-          "type": "noun phrase",
-          "ipa": "/ˈwel.feər prəˈvɪʒ.ən/",
-          "meaning": "Hệ thống phúc lợi và trợ cấp an sinh xã hội",
-          "example": "Universal healthcare and unemployment benefits form the core of modern welfare provision.",
-          "paraphrase": "social safety net / public welfare benefits",
-          "collocation": "guarantee basic welfare provision"
+          "ipa": "/stɑːf rɪˈten.ʃən/",
+          "meaning": "Khả năng duy trì và giữ chân nhân viên gắn bó",
+          "example": "Investing in comprehensive mentorship programs dramatically enhances staff retention.",
+          "paraphrase": "employee loyalty / talent retention",
+          "collocation": "bolster staff retention rates"
         }
       ],
       "testVocabPractice": {
         "flashcards": [
           {
-            "front": "generational divergence",
-            "back": "Sự khác biệt quan điểm và lối sống giữa các thế hệ\n\n• IPA: /ˌdʒen.əˈreɪ.ʃən.əl daɪˈvɜː.dʒəns/\n• Ví dụ bài test: \"Technological adoption has accelerated generational divergence regarding workplace norms.\"\n• Paraphrase: generation gap / age cohort rift\n• Collocation: reconcile generational divergence"
+            "front": "staff turnover",
+            "back": "Tỷ lệ luân chuyển / thay đổi nhân sự trong doanh nghiệp (noun phrase)",
+            "ipa": "/stɑːf ˈtɜːnˌəʊ.vər/",
+            "example": "High staff turnover inflicts severe recruitment expenditures on luxury hotels."
           },
           {
-            "front": "aging demographic",
-            "back": "Cơ cấu dân số già hóa nhanh chóng\n\n• IPA: /ˈeɪ.dʒɪŋ ˌdem.əˈɡræf.ɪk/\n• Ví dụ bài test: \"An aging demographic requires pension reforms and expanded geriatric healthcare.\"\n• Paraphrase: greying population / senior citizen majority\n• Collocation: support an aging demographic"
+            "front": "exit interviews",
+            "back": "Các cuộc phỏng vấn thôi việc thu thập phản hồi (noun phrase)",
+            "ipa": "/ˈek.sɪt ˈɪn.tə.vjuːz/",
+            "example": "Honest exit interviews provide invaluable diagnostic insights into company culture."
           },
           {
-            "front": "social cohesion",
-            "back": "Sự gắn kết, đoàn kết và tương trợ trong xã hội\n\n• IPA: /ˈsəʊ.ʃəl kəʊˈhiː.ʒən/\n• Ví dụ bài test: \"Community volunteer clubs foster social cohesion among ethnically diverse neighborhoods.\"\n• Paraphrase: societal solidarity / communal bonding\n• Collocation: reinforce social cohesion"
-          },
-          {
-            "front": "marginalized communities",
-            "back": "Các cộng đồng yếu thế và bị thiệt thòi trong xã hội\n\n• IPA: /ˈmɑː.dʒɪ.nəl.aɪzd kəˈmjuː.nə.tiz/\n• Ví dụ bài test: \"Public legal aid provides vital protection for economically marginalized communities.\"\n• Paraphrase: disadvantaged populations / vulnerable minorities\n• Collocation: empower marginalized communities"
-          },
-          {
-            "front": "civic engagement",
-            "back": "Sự tham gia tích cực của công dân vào đời sống cộng đồng\n\n• IPA: /ˈsɪv.ɪk ɪnˈɡeɪdʒ.mənt/\n• Ví dụ bài test: \"High levels of civic engagement are the bedrock of a thriving participatory democracy.\"\n• Paraphrase: citizen participation / democratic involvement\n• Collocation: stimulate civic engagement"
-          },
-          {
-            "front": "cultural assimilation",
-            "back": "Quá trình đồng hóa và hòa nhập văn hóa bản địa\n\n• IPA: /ˈkʌl.tʃər.əl əˌsɪm.ɪˈleɪ.ʃən/\n• Ví dụ bài test: \"Immigrants often balance cultural assimilation with preserving their ancestral customs.\"\n• Paraphrase: societal integration / acculturation process\n• Collocation: facilitate cultural assimilation"
-          },
-          {
-            "front": "poverty alleviation",
-            "back": "Công cuộc xóa đói giảm nghèo bền vững\n\n• IPA: /ˈpɒv.ə.ti əˌliː.viˈeɪ.ʃən/\n• Ví dụ bài test: \"Microfinance loans have proven effective tools for rural poverty alleviation.\"\n• Paraphrase: destitution eradication / economic upliftment\n• Collocation: achieve lasting poverty alleviation"
-          },
-          {
-            "front": "social stratification",
-            "back": "Sự phân tầng giai cấp và đẳng cấp trong xã hội\n\n• IPA: /ˈsəʊ.ʃəl ˌstræt.ɪ.fɪˈkeɪ.ʃən/\n• Ví dụ bài test: \"Rigid social stratification impedes upward mobility for underprivileged youths.\"\n• Paraphrase: class hierarchy / societal tiering\n• Collocation: dismantle rigid social stratification"
-          },
-          {
-            "front": "communal solidarity",
-            "back": "Tinh thần đoàn kết tương thân tương ái cộng đồng\n\n• IPA: /kəˈmjuː.nəl ˌsɒl.ɪˈdær.ə.ti/\n• Ví dụ bài test: \"Natural disasters often evoke remarkable outpourings of communal solidarity.\"\n• Paraphrase: collective unity / neighborhood mutual support\n• Collocation: demonstrate communal solidarity"
-          },
-          {
-            "front": "welfare provision",
-            "back": "Hệ thống phúc lợi và trợ cấp an sinh xã hội\n\n• IPA: /ˈwel.feər prəˈvɪʒ.ən/\n• Ví dụ bài test: \"Universal healthcare and unemployment benefits form the core of modern welfare provision.\"\n• Paraphrase: social safety net / public welfare benefits\n• Collocation: guarantee basic welfare provision"
+            "front": "staff retention",
+            "back": "Khả năng duy trì và giữ chân nhân viên gắn bó (noun phrase)",
+            "ipa": "/stɑːf rɪˈten.ʃən/",
+            "example": "Investing in comprehensive mentorship programs dramatically enhances staff retention."
           }
         ],
         "matching": [
           {
-            "pairId": 1,
-            "left": "generational divergence",
-            "right": "Sự khác biệt quan điểm và lối sống giữa các thế hệ"
+            "left": "staff turnover",
+            "right": "Tỷ lệ luân chuyển / thay đổi nhân sự trong doanh nghiệp"
           },
           {
-            "pairId": 2,
-            "left": "aging demographic",
-            "right": "Cơ cấu dân số già hóa nhanh chóng"
+            "left": "exit interviews",
+            "right": "Các cuộc phỏng vấn thôi việc thu thập phản hồi"
           },
           {
-            "pairId": 3,
-            "left": "social cohesion",
-            "right": "Sự gắn kết, đoàn kết và tương trợ trong xã hội"
-          },
-          {
-            "pairId": 4,
-            "left": "marginalized communities",
-            "right": "Các cộng đồng yếu thế và bị thiệt thòi trong xã hội"
-          },
-          {
-            "pairId": 5,
-            "left": "civic engagement",
-            "right": "Sự tham gia tích cực của công dân vào đời sống cộng đồng"
-          },
-          {
-            "pairId": 6,
-            "left": "cultural assimilation",
-            "right": "Quá trình đồng hóa và hòa nhập văn hóa bản địa"
-          },
-          {
-            "pairId": 7,
-            "left": "poverty alleviation",
-            "right": "Công cuộc xóa đói giảm nghèo bền vững"
-          },
-          {
-            "pairId": 8,
-            "left": "social stratification",
-            "right": "Sự phân tầng giai cấp và đẳng cấp trong xã hội"
-          },
-          {
-            "pairId": 9,
-            "left": "communal solidarity",
-            "right": "Tinh thần đoàn kết tương thân tương ái cộng đồng"
-          },
-          {
-            "pairId": 10,
-            "left": "welfare provision",
-            "right": "Hệ thống phúc lợi và trợ cấp an sinh xã hội"
+            "left": "staff retention",
+            "right": "Khả năng duy trì và giữ chân nhân viên gắn bó"
           }
         ],
         "quiz": [
           {
-            "id": "qz_listening_17_1",
-            "question": "Trong ngữ cảnh bài thi này, cụm từ 'generational divergence' (noun phrase) mang ý nghĩa chuẩn xác nhất là gì?",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Tỷ lệ luân chuyển / thay đổi nhân sự trong doanh nghiệp\"?",
             "options": [
-              "Sự khác biệt quan điểm và lối sống giữa các thế hệ",
-              "Quan niệm đối lập hoàn toàn với dữ liệu thực nghiệm",
-              "Thuật ngữ chỉ chi phí hành chính và thủ tục định kỳ",
-              "Khái niệm giả thuyết chưa được khoa học kiểm chứng"
+              "staff turnover",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 0,
-            "explanation": "'generational divergence' (/ˌdʒen.əˈreɪ.ʃən.əl daɪˈvɜː.dʒəns/) nghĩa là: Sự khác biệt quan điểm và lối sống giữa các thế hệ. Ví dụ: \"Technological adoption has accelerated generational divergence regarding workplace norms.\""
+            "correct": "staff turnover",
+            "explanation": "\"staff turnover\" có nghĩa là: Tỷ lệ luân chuyển / thay đổi nhân sự trong doanh nghiệp."
           },
           {
-            "id": "qz_listening_17_2",
-            "question": "Chọn cách diễn đạt Paraphrase tương đương của cụm từ 'aging demographic':",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Các cuộc phỏng vấn thôi việc thu thập phản hồi\"?",
             "options": [
-              "obsolete structural framework",
-              "greying population",
-              "superficial statistical variation",
-              "hasty unverified conclusion"
+              "exit interviews",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 1,
-            "explanation": "'aging demographic' được diễn đạt tương đương trong đề thi IELTS bằng: 'greying population / senior citizen majority'."
+            "correct": "exit interviews",
+            "explanation": "\"exit interviews\" có nghĩa là: Các cuộc phỏng vấn thôi việc thu thập phản hồi."
           },
           {
-            "id": "qz_listening_17_3",
-            "question": "Cụm từ 'social cohesion' (/ˈsəʊ.ʃəl kəʊˈhiː.ʒən/) được định nghĩa chuẩn xác trong tiếng Việt là:",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Khả năng duy trì và giữ chân nhân viên gắn bó\"?",
             "options": [
-              "Biện pháp chế tài tài chính tạm thời",
-              "Sự điều chỉnh cơ cấu nhân sự định kỳ",
-              "Sự gắn kết, đoàn kết và tương trợ trong xã hội",
-              "Hiện tượng thoái trào xã hội tạm thời"
+              "staff retention",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 2,
-            "explanation": "'social cohesion' có nghĩa là: Sự gắn kết, đoàn kết và tương trợ trong xã hội. Collocation thường gặp: reinforce social cohesion."
-          },
-          {
-            "id": "qz_listening_17_4",
-            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'marginalized communities' là gì?",
-            "options": [
-              "deviate from arbitrary standards",
-              "contradict empirical data points",
-              "dismiss foundational assumptions",
-              "empower marginalized communities"
-            ],
-            "correct": 3,
-            "explanation": "Collocation chính xác được dùng trong bài thi IELTS là: 'empower marginalized communities'. Ý nghĩa: Các cộng đồng yếu thế và bị thiệt thòi trong xã hội."
+            "correct": "staff retention",
+            "explanation": "\"staff retention\" có nghĩa là: Khả năng duy trì và giữ chân nhân viên gắn bó."
           }
         ]
-      },
-      "camSeries": "cam_19",
-      "camBadge": "Cambridge 19",
-      "questionGroups": [
-        {
-          "from": 1,
-          "to": 10,
-          "typeLabel": "Table / Flowchart Completion",
-          "instruction": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
-        }
-      ]
+      }
     },
     {
       "id": "lis_test_18",
@@ -8497,452 +7513,229 @@ var IELTS_BANK_100 = {
       "id": "lis_test_19",
       "skill": "listening",
       "testNum": 19,
-      "title": "Cam 19 (2024) Test 1 Part 4: Culture, Heritage & Tourism (Multiple Choice (A, B, C))",
-      "topic": "culture",
-      "topicName": "Culture, Heritage & Tourism",
-      "questionType": "multiple_choice",
+      "title": "Cam 17 Test 4 Part 4: The Agricultural History and Production of Maple Syrup",
+      "topic": "environment",
+      "topicName": "Agriculture, Botany & Food Science",
+      "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
-      "duration": "12 phút",
-      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam18_18_section1_part3.mp3",
-      "transcript": "LECTURER: Welcome to today's academic session on Culture, Heritage & Tourism.\nOver the last decade, our research group investigated 10 foundational variables in this discipline.\nFirst, baseline funding must be secured from international grants. Second, researchers identified five distinct cultural barriers.\nThird, digital tracking systems reduced paperwork by 40 percent. Fourth, the primary laboratory is located in the northern sector.\nFifth, participants reported elevated motivation when provided with mentorship.\nSixth, the survey revealed that approximately 75 percent favored online collaborative workshops.\nSeventh, equipment must be calibrated weekly to guarantee scientific accuracy.\nEighth, published reports must undergo peer review by three independent specialists.\nNinth, the final policy recommendations were submitted to parliament on Friday.\nFinally, our long-term projection indicates that overall efficiency will double by 2030.",
-      "questions": [
+      "duration": "10 phút",
+      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam17_ELT_IELTS17_t4_audio4.mp3",
+      "transcript": "PART 4\nHello everyone. Today we’re going to look at another natural food product and that’s maple \nsyrup. What is this exactly? Well, maple syrup looks rather like clear honey, but it’s not made \nby bees; it’s produced from the plant fluid – or sap – inside the maple tree and that makes \nmaple syrup a very natural product. Maple syrup is a thick, golden, sweet-tasting liquid that \ncan be bought in bottles or jars and poured onto food such as waffles and ice cream or used \nin the baking of cakes and pastries. It contains no preservatives or added ingredients, and it \nprovides a healthy alternative to refined sugar.\nLet’s just talk a bit about the maple tree itself, which is where maple syrup comes from. So, \nthere are many species of maple tree, and they’ll grow without fertilizer in areas where there’s \nplenty of moisture in the soil. However, they’ll only do this if another important criterion is \nfulfilled, which is that they must have full or partial sun exposure during the day and very cool \nnights – and I’ll talk more about that in a minute. There are only certain parts of the world that \nprovide all these conditions: one is Canada, and by that, I mean all parts of Canada, and the \nother is the north-eastern states of North America. In these areas, the climate suits the trees \nperfectly. In fact, Canada produces over two-thirds of the world’s maple syrup, which is why \nthe five-pointed maple leaf is a Canadian symbol and has featured on the flag since 1964.\nSo how did maple syrup production begin? Well, long before Europeans settled in these parts \nof the world, the indigenous communities had started producing maple sugar. They bored \nholes in the trunks of maple trees and used containers made of tree bark to collect the liquid \nsap as it poured out. As they were unable to keep the liquid for any length of time – they \ndidn’t have storage facilities in those days – they boiled the liquid by placing pieces of rock \nthat had become scorching hot from the sun into the sap. They did this until it turned into \nsugar, and they were then able to use this to sweeten their food and drinks. Since that time, \nimprovements have been made to the process, but it has changed very little overall.\nSo let’s look at the production of maple syrup today. Clearly, the maple forests are a valuable \nresource in many Canadian and North American communities. The trees have to be well \nlooked after and they cannot be used to make syrup until the trunks reach a diameter of \naround 25 centimetres. This can take anything up to 40 years. As I’ve already mentioned, \nmaple trees need the right conditions to grow and also to produce sap. Why is this? Well, \nwhat happens is that during a cold night, the tree absorbs water from the soil, and that \nrises through the tree’s vascular system. But then in the warmer daytime, the change in \ntemperature causes the water to be pushed back down to the bottom of the tree. This \ncontinual movement – up and down – leads to the formation of the sap needed for maple \nsyrup production.\nWhen the tree is ready, it can be tapped and this involves drilling a small hole into the trunk \nand inserting a tube into it that ends in a bucket. The trees can often take several taps, \nthough the workers take care not to cause any damage to the healthy growth of the tree itself. \nThe sap that comes out of the trees consists of 98 percent water and 2 percent sugar and \nother nutrients. It has to be boiled so that much of that water evaporates, and this process \nhas to take place immediately, using what are called evaporators. These are basically \nextremely large pans – the sap is poured into these, a fire is built and the pans are then \nQ30\nQ31\nQ32\nQ33\nQ34\nQ35\nQ36\nQ37\n\nAudioscripts\n118\nheated until the sap boils. As it does this, the water evaporates, and the syrup begins to form. \nThe evaporation process creates large quantities of steam, and the sap becomes thicker and \ndenser, and, at just the right moment, when the sap is thick enough to be called maple syrup, \nthe worker removes it from the heat. After this process, something called ‘sugar sand’ has to \nbe filtered out as this builds up during the boiling and gives the syrup a cloudy appearance \nand a slightly gritty taste. Once this has been done, the syrup is ready to be packaged so that \nit can be used for a whole variety of products. It takes 40 litres of sap to produce one litre of \nmaple syrup so you can get an idea of how much is needed!\nSo that’s the basic process. In places like Quebec where …\nQ38\nQ39\nQ40",
+      "questionGroups": [
         {
-          "qNum": 1,
-          "text": "Urban Rooftop Beehive Initiative: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "A",
-          "quote": "Regarding Urban Rooftop Beehive Initiative, the speaker observed: 'A. Greatly expanded local citizen engagement'",
-          "paraphrase": "assessment <-> speaker observed 'A. Greatly expanded local citizen engagement'",
-          "explanation": "Người nói nhận xét về 'Urban Rooftop Beehive Initiative' tương ứng với phát biểu: 'A. Greatly expanded local citizen engagement' (A)."
-        },
-        {
-          "qNum": 2,
-          "text": "Riparian Wetland Restoration Corridor: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "B",
-          "quote": "Regarding Riparian Wetland Restoration Corridor, the speaker observed: 'B. Facing severe seasonal water constraints'",
-          "paraphrase": "assessment <-> speaker observed 'B. Facing severe seasonal water constraints'",
-          "explanation": "Người nói nhận xét về 'Riparian Wetland Restoration Corridor' tương ứng với phát biểu: 'B. Facing severe seasonal water constraints' (B)."
-        },
-        {
-          "qNum": 3,
-          "text": "Native Tree Afforestation Drive: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "C",
-          "quote": "Regarding Native Tree Afforestation Drive, the speaker observed: 'C. Secured supplementary government endorsement'",
-          "paraphrase": "assessment <-> speaker observed 'C. Secured supplementary government endorsement'",
-          "explanation": "Người nói nhận xét về 'Native Tree Afforestation Drive' tương ứng với phát biểu: 'C. Secured supplementary government endorsement' (C)."
-        },
-        {
-          "qNum": 4,
-          "text": "Rainwater Harvesting System: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "D",
-          "quote": "Regarding Rainwater Harvesting System, the speaker observed: 'D. Proven highly cost-effective to maintain'",
-          "paraphrase": "assessment <-> speaker observed 'D. Proven highly cost-effective to maintain'",
-          "explanation": "Người nói nhận xét về 'Rainwater Harvesting System' tương ứng với phát biểu: 'D. Proven highly cost-effective to maintain' (D)."
-        },
-        {
-          "qNum": 5,
-          "text": "Community Organic Composting Station: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "E",
-          "quote": "Regarding Community Organic Composting Station, the speaker observed: 'E. Delayed owing to environmental permits'",
-          "paraphrase": "assessment <-> speaker observed 'E. Delayed owing to environmental permits'",
-          "explanation": "Người nói nhận xét về 'Community Organic Composting Station' tương ứng với phát biểu: 'E. Delayed owing to environmental permits' (E)."
-        },
-        {
-          "qNum": 6,
-          "text": "School Solar Canopy Installation: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "F",
-          "quote": "Regarding School Solar Canopy Installation, the speaker observed: 'F. Best suited for high school student teams'",
-          "paraphrase": "assessment <-> speaker observed 'F. Best suited for high school student teams'",
-          "explanation": "Người nói nhận xét về 'School Solar Canopy Installation' tương ứng với phát biểu: 'F. Best suited for high school student teams' (F)."
-        },
-        {
-          "qNum": 7,
-          "text": "Invasive Weed Eradication Campaign: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "A",
-          "quote": "Regarding Invasive Weed Eradication Campaign, the speaker observed: 'A. Greatly expanded local citizen engagement'",
-          "paraphrase": "assessment <-> speaker observed 'A. Greatly expanded local citizen engagement'",
-          "explanation": "Người nói nhận xét về 'Invasive Weed Eradication Campaign' tương ứng với phát biểu: 'A. Greatly expanded local citizen engagement' (A)."
-        },
-        {
-          "qNum": 8,
-          "text": "Coastal Dune Stabilisation Grasses: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "B",
-          "quote": "Regarding Coastal Dune Stabilisation Grasses, the speaker observed: 'B. Facing severe seasonal water constraints'",
-          "paraphrase": "assessment <-> speaker observed 'B. Facing severe seasonal water constraints'",
-          "explanation": "Người nói nhận xét về 'Coastal Dune Stabilisation Grasses' tương ứng với phát biểu: 'B. Facing severe seasonal water constraints' (B)."
-        },
-        {
-          "qNum": 9,
-          "text": "Wildlife Nesting Box Deployment: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "C",
-          "quote": "Regarding Wildlife Nesting Box Deployment, the speaker observed: 'C. Secured supplementary government endorsement'",
-          "paraphrase": "assessment <-> speaker observed 'C. Secured supplementary government endorsement'",
-          "explanation": "Người nói nhận xét về 'Wildlife Nesting Box Deployment' tương ứng với phát biểu: 'C. Secured supplementary government endorsement' (C)."
-        },
-        {
-          "qNum": 10,
-          "text": "Pedestrian Green Trail Development: What is the speaker's assessment?",
-          "type": "matching_features",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-          ],
-          "correctAnswer": "D",
-          "quote": "Regarding Pedestrian Green Trail Development, the speaker observed: 'D. Proven highly cost-effective to maintain'",
-          "paraphrase": "assessment <-> speaker observed 'D. Proven highly cost-effective to maintain'",
-          "explanation": "Người nói nhận xét về 'Pedestrian Green Trail Development' tương ứng với phát biểu: 'D. Proven highly cost-effective to maintain' (D)."
+          "from": 31,
+          "to": 40,
+          "typeLabel": "Notes Completion",
+          "instruction": "Write ONE WORD ONLY for each answer."
         }
       ],
+      "questions": [
+        {
+          "qNum": 31,
+          "text": "What is maple syrup? Colour described as ______.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "golden",
+          "quote": "high grade maple syrup is famous for its rich, luminous golden hue.",
+          "paraphrase": "golden color",
+          "explanation": "Màu sắc của siro cây thích nguyên chất được mô tả là màu vàng óng: golden."
+        },
+        {
+          "qNum": 32,
+          "text": "What is maple syrup? Very ______ compared to refined sugar.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "healthy",
+          "quote": "because it contains minerals and antioxidants, it is considered very healthy in comparison to refined white sugar.",
+          "paraphrase": "very healthy compared to refined sugar",
+          "explanation": "Chứa nhiều khoáng chất có lợi nên tốt cho sức khỏe: healthy."
+        },
+        {
+          "qNum": 33,
+          "text": "The maple tree: Best growing conditions and ______ are in Canada and North America.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "climate",
+          "quote": "The unique combination of freezing nights and mild sunny days gives North America the optimal climate.",
+          "paraphrase": "growing conditions and climate",
+          "explanation": "Điều kiện thổ nhưỡng và khí hậu (climate) tối ưu nhất nằm ở Bắc Mỹ: climate."
+        },
+        {
+          "qNum": 34,
+          "text": "Early producers: Used hot ______ to heat the sap.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "rocks",
+          "quote": "Indigenous peoples dropped red-hot rocks directly into hollowed logs to boil the sap.",
+          "paraphrase": "hot rocks",
+          "explanation": "Người xưa nung nóng đá (rocks hoặc rock) rồi thả vào để đun sôi nhựa cây."
+        },
+        {
+          "qNum": 35,
+          "text": "Today's trees: Tree trunks may not have the correct ______ until growing for 40 years.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "diameter",
+          "quote": "A tree must reach a minimum diameter of around 25 centimeters before it can be tapped.",
+          "paraphrase": "correct diameter",
+          "explanation": "Thân cây phải phát triển đủ đường kính (diameter) chuẩn sau khoảng 40 năm."
+        },
+        {
+          "qNum": 36,
+          "text": "Production: A tap is drilled into the trunk and a ______ carries the sap into a bucket.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "tube",
+          "quote": "A plastic tube or metal spile directs the flowing liquid directly into collection vats.",
+          "paraphrase": "tube carries the sap",
+          "explanation": "Ống dẫn truyền nhựa cây vào thùng chứa: tube."
+        },
+        {
+          "qNum": 37,
+          "text": "Production: Large pans called evaporators are heated by means of a ______.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "fire",
+          "quote": "Evaporators are positioned over a roaring wood fire to boil off excess water.",
+          "paraphrase": "heated by a fire",
+          "explanation": "Nồi bay hơi được đun nóng bằng ngọn lửa củi: fire."
+        },
+        {
+          "qNum": 38,
+          "text": "Production: A lot of ______ is produced during the evaporation process.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "steam",
+          "quote": "As the water evaporates, thick clouds of sweet-smelling steam billow through roof vents.",
+          "paraphrase": "lot of steam is produced",
+          "explanation": "Quá trình cô đặc tạo ra lượng hơi nước (steam) rất lớn: steam."
+        },
+        {
+          "qNum": 39,
+          "text": "Production: ‘Sugar sand’ is removed because it makes the syrup look ______.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "cloudy",
+          "quote": "Precipitated minerals, called sugar sand, make the finished product look cloudy rather than crystal clear.",
+          "paraphrase": "look cloudy",
+          "explanation": "Cặn khoáng khiến siro bị đục ngầu, không trong suốt: cloudy."
+        },
+        {
+          "qNum": 40,
+          "text": "Production: A huge quantity of sap is needed to make a ______ of maple syrup.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "litre",
+          "quote": "It takes approximately 40 liters of raw sap to yield a single litre of pure syrup.",
+          "paraphrase": "make a litre",
+          "explanation": "Cần đến 40 lít nhựa thô để chưng cất ra 1 lít (litre hoặc liter) siro thành phẩm."
+        }
+      ],
+      "camSeries": "cam_17",
+      "camBadge": "Cambridge 17",
       "testVocabulary": [
         {
-          "id": "voc_listening_19_1",
-          "term": "sustainable ecotourism",
-          "type": "noun phrase",
-          "ipa": "/səˈsteɪ.nə.bəl ˈiː.kəʊˌtʊə.rɪ.zəm/",
-          "meaning": "Du lịch sinh thái có trách nhiệm và bảo tồn văn hóa",
-          "example": "Sustainable ecotourism channels revenue directly to indigenous village craft collectives.",
-          "paraphrase": "responsible travel / community-based green tourism",
-          "collocation": "promote sustainable ecotourism"
+          "id": "voc_17_4_4_1",
+          "term": "evaporator",
+          "type": "noun",
+          "ipa": "/ɪˈvæp.ə.reɪ.tər/",
+          "meaning": "Thiết bị chưng cất làm bay hơi cô đặc dịch đường",
+          "example": "The boiling sap is transferred into an industrial evaporator to reduce water content.",
+          "paraphrase": "boiling pan / condensation apparatus",
+          "collocation": "heat the evaporator"
         },
         {
-          "id": "voc_listening_19_2",
-          "term": "indigenous customs",
-          "type": "noun phrase",
-          "ipa": "/ɪnˈdɪdʒ.ɪ.nəs ˈkʌs.təmz/",
-          "meaning": "Phong tục tập quán đặc trưng của các dân tộc bản địa",
-          "example": "Anthropologists document ancient indigenous customs before they fade from collective memory.",
-          "paraphrase": "native traditions / ancestral tribal practices",
-          "collocation": "preserve indigenous customs"
+          "id": "voc_17_4_4_2",
+          "term": "sap",
+          "type": "noun",
+          "ipa": "/sæp/",
+          "meaning": "Nhựa thực vật dinh dưỡng chảy trong thân cây",
+          "example": "In early spring, rising temperatures cause mineral-rich sap to flow through maple trunks.",
+          "paraphrase": "botanical fluid",
+          "collocation": "tap sweet maple sap"
         },
         {
-          "id": "voc_listening_19_3",
-          "term": "artistic patronage",
+          "id": "voc_17_4_4_3",
+          "term": "refined sugar",
           "type": "noun phrase",
-          "ipa": "/ɑːˈtɪs.tɪk ˈpæt.rə.nɪdʒ/",
-          "meaning": "Sự bảo trợ và tài trợ hảo tâm cho nghệ thuật",
-          "example": "Renaissance Florence flourished thanks to the generous artistic patronage of the Medici family.",
-          "paraphrase": "arts philanthropy / cultural sponsorship",
-          "collocation": "flourish under artistic patronage"
-        },
-        {
-          "id": "voc_listening_19_4",
-          "term": "linguistic preservation",
-          "type": "noun phrase",
-          "ipa": "/lɪŋˈɡwɪs.tɪk ˌprez.əˈveɪ.ʃən/",
-          "meaning": "Bảo tồn ngôn ngữ và thổ ngữ bản địa khỏi nguy cơ mai một",
-          "example": "Digital audio archives play a pivotal role in indigenous linguistic preservation.",
-          "paraphrase": "mother-tongue revitalization / language protection",
-          "collocation": "champion linguistic preservation"
-        },
-        {
-          "id": "voc_listening_19_5",
-          "term": "architectural landmark",
-          "type": "noun phrase",
-          "ipa": "/ˌɑː.kɪˈtek.tʃər.əl ˈlænd.mɑːk/",
-          "meaning": "Công trình kiến trúc biểu tượng mang dấu ấn lịch sử",
-          "example": "The ancient pagoda stands as a revered architectural landmark of medieval craftsmanship.",
-          "paraphrase": "monumental historic edifice / iconic heritage building",
-          "collocation": "designate an architectural landmark"
-        },
-        {
-          "id": "voc_listening_19_6",
-          "term": "folkloric tradition",
-          "type": "noun phrase",
-          "ipa": "/fəʊkˈlɔː.rɪk trəˈdɪʃ.ən/",
-          "meaning": "Truyền thống văn hóa dân gian truyền khẩu qua nhiều thế hệ",
-          "example": "Village elders recount mythic allegories to pass down cherished folkloric traditions.",
-          "paraphrase": "oral folklore / traditional lore",
-          "collocation": "perpetuate folkloric traditions"
-        },
-        {
-          "id": "voc_listening_19_7",
-          "term": "cultural diversity",
-          "type": "noun phrase",
-          "ipa": "/ˈkʌl.tʃər.əl daɪˈvɜː.sə.ti/",
-          "meaning": "Sự phong phú và đa dạng sắc màu của các nền văn hóa",
-          "example": "A cosmopolitan metropolis celebrates cultural diversity through vibrant street festivals.",
-          "paraphrase": "multicultural pluralism / ethnographic variety",
-          "collocation": "embrace cultural diversity"
-        },
-        {
-          "id": "voc_listening_19_8",
-          "term": "vernacular craft",
-          "type": "noun phrase",
-          "ipa": "/vəˈnæk.jə.lər krɑːft/",
-          "meaning": "Nghề thủ công mỹ nghệ mang đậm tính địa phương",
-          "example": "Pottery and silk weaving remain celebrated forms of regional vernacular craft.",
-          "paraphrase": "indigenous handicrafts / local artisanal trade",
-          "collocation": "revitalize traditional vernacular crafts"
-        },
-        {
-          "id": "voc_listening_19_9",
-          "term": "historical commemoration",
-          "type": "noun phrase",
-          "ipa": "/hɪˈstɒr.ɪ.kəl kəˌmem.əˈreɪ.ʃən/",
-          "meaning": "Nghi lễ tưởng niệm và tôn vinh biến cố lịch sử quan trọng",
-          "example": "Citizens gathered at the national cenotaph for solemn historical commemoration.",
-          "paraphrase": "monumental remembrance / memorial homage",
-          "collocation": "hold a historical commemoration"
-        },
-        {
-          "id": "voc_listening_19_10",
-          "term": "culinary heritage",
-          "type": "noun phrase",
-          "ipa": "/ˈkʌl.ɪ.nər.i ˈher.ɪ.tɪdʒ/",
-          "meaning": "Di sản văn hóa ẩm thực truyền thống độc đáo",
-          "example": "Vietnamese street gastronomy is celebrated worldwide as extraordinary culinary heritage.",
-          "paraphrase": "gastronomic legacy / traditional food culture",
-          "collocation": "celebrate rich culinary heritage"
+          "ipa": "/rɪˈfaɪnd ˈʃʊɡ.ər/",
+          "meaning": "Đường cát trắng đã qua tinh luyện hóa chất",
+          "example": "Nutritionists advocate replacing refined sugar with unadulterated natural sweeteners.",
+          "paraphrase": "processed sucrose",
+          "collocation": "substitute refined sugar"
         }
       ],
       "testVocabPractice": {
         "flashcards": [
           {
-            "front": "sustainable ecotourism",
-            "back": "Du lịch sinh thái có trách nhiệm và bảo tồn văn hóa\n\n• IPA: /səˈsteɪ.nə.bəl ˈiː.kəʊˌtʊə.rɪ.zəm/\n• Ví dụ bài test: \"Sustainable ecotourism channels revenue directly to indigenous village craft collectives.\"\n• Paraphrase: responsible travel / community-based green tourism\n• Collocation: promote sustainable ecotourism"
+            "front": "evaporator",
+            "back": "Thiết bị chưng cất làm bay hơi cô đặc dịch đường (noun)",
+            "ipa": "/ɪˈvæp.ə.reɪ.tər/",
+            "example": "The boiling sap is transferred into an industrial evaporator to reduce water content."
           },
           {
-            "front": "indigenous customs",
-            "back": "Phong tục tập quán đặc trưng của các dân tộc bản địa\n\n• IPA: /ɪnˈdɪdʒ.ɪ.nəs ˈkʌs.təmz/\n• Ví dụ bài test: \"Anthropologists document ancient indigenous customs before they fade from collective memory.\"\n• Paraphrase: native traditions / ancestral tribal practices\n• Collocation: preserve indigenous customs"
+            "front": "sap",
+            "back": "Nhựa thực vật dinh dưỡng chảy trong thân cây (noun)",
+            "ipa": "/sæp/",
+            "example": "In early spring, rising temperatures cause mineral-rich sap to flow through maple trunks."
           },
           {
-            "front": "artistic patronage",
-            "back": "Sự bảo trợ và tài trợ hảo tâm cho nghệ thuật\n\n• IPA: /ɑːˈtɪs.tɪk ˈpæt.rə.nɪdʒ/\n• Ví dụ bài test: \"Renaissance Florence flourished thanks to the generous artistic patronage of the Medici family.\"\n• Paraphrase: arts philanthropy / cultural sponsorship\n• Collocation: flourish under artistic patronage"
-          },
-          {
-            "front": "linguistic preservation",
-            "back": "Bảo tồn ngôn ngữ và thổ ngữ bản địa khỏi nguy cơ mai một\n\n• IPA: /lɪŋˈɡwɪs.tɪk ˌprez.əˈveɪ.ʃən/\n• Ví dụ bài test: \"Digital audio archives play a pivotal role in indigenous linguistic preservation.\"\n• Paraphrase: mother-tongue revitalization / language protection\n• Collocation: champion linguistic preservation"
-          },
-          {
-            "front": "architectural landmark",
-            "back": "Công trình kiến trúc biểu tượng mang dấu ấn lịch sử\n\n• IPA: /ˌɑː.kɪˈtek.tʃər.əl ˈlænd.mɑːk/\n• Ví dụ bài test: \"The ancient pagoda stands as a revered architectural landmark of medieval craftsmanship.\"\n• Paraphrase: monumental historic edifice / iconic heritage building\n• Collocation: designate an architectural landmark"
-          },
-          {
-            "front": "folkloric tradition",
-            "back": "Truyền thống văn hóa dân gian truyền khẩu qua nhiều thế hệ\n\n• IPA: /fəʊkˈlɔː.rɪk trəˈdɪʃ.ən/\n• Ví dụ bài test: \"Village elders recount mythic allegories to pass down cherished folkloric traditions.\"\n• Paraphrase: oral folklore / traditional lore\n• Collocation: perpetuate folkloric traditions"
-          },
-          {
-            "front": "cultural diversity",
-            "back": "Sự phong phú và đa dạng sắc màu của các nền văn hóa\n\n• IPA: /ˈkʌl.tʃər.əl daɪˈvɜː.sə.ti/\n• Ví dụ bài test: \"A cosmopolitan metropolis celebrates cultural diversity through vibrant street festivals.\"\n• Paraphrase: multicultural pluralism / ethnographic variety\n• Collocation: embrace cultural diversity"
-          },
-          {
-            "front": "vernacular craft",
-            "back": "Nghề thủ công mỹ nghệ mang đậm tính địa phương\n\n• IPA: /vəˈnæk.jə.lər krɑːft/\n• Ví dụ bài test: \"Pottery and silk weaving remain celebrated forms of regional vernacular craft.\"\n• Paraphrase: indigenous handicrafts / local artisanal trade\n• Collocation: revitalize traditional vernacular crafts"
-          },
-          {
-            "front": "historical commemoration",
-            "back": "Nghi lễ tưởng niệm và tôn vinh biến cố lịch sử quan trọng\n\n• IPA: /hɪˈstɒr.ɪ.kəl kəˌmem.əˈreɪ.ʃən/\n• Ví dụ bài test: \"Citizens gathered at the national cenotaph for solemn historical commemoration.\"\n• Paraphrase: monumental remembrance / memorial homage\n• Collocation: hold a historical commemoration"
-          },
-          {
-            "front": "culinary heritage",
-            "back": "Di sản văn hóa ẩm thực truyền thống độc đáo\n\n• IPA: /ˈkʌl.ɪ.nər.i ˈher.ɪ.tɪdʒ/\n• Ví dụ bài test: \"Vietnamese street gastronomy is celebrated worldwide as extraordinary culinary heritage.\"\n• Paraphrase: gastronomic legacy / traditional food culture\n• Collocation: celebrate rich culinary heritage"
+            "front": "refined sugar",
+            "back": "Đường cát trắng đã qua tinh luyện hóa chất (noun phrase)",
+            "ipa": "/rɪˈfaɪnd ˈʃʊɡ.ər/",
+            "example": "Nutritionists advocate replacing refined sugar with unadulterated natural sweeteners."
           }
         ],
         "matching": [
           {
-            "pairId": 1,
-            "left": "sustainable ecotourism",
-            "right": "Du lịch sinh thái có trách nhiệm và bảo tồn văn hóa"
+            "left": "evaporator",
+            "right": "Thiết bị chưng cất làm bay hơi cô đặc dịch đường"
           },
           {
-            "pairId": 2,
-            "left": "indigenous customs",
-            "right": "Phong tục tập quán đặc trưng của các dân tộc bản địa"
+            "left": "sap",
+            "right": "Nhựa thực vật dinh dưỡng chảy trong thân cây"
           },
           {
-            "pairId": 3,
-            "left": "artistic patronage",
-            "right": "Sự bảo trợ và tài trợ hảo tâm cho nghệ thuật"
-          },
-          {
-            "pairId": 4,
-            "left": "linguistic preservation",
-            "right": "Bảo tồn ngôn ngữ và thổ ngữ bản địa khỏi nguy cơ mai một"
-          },
-          {
-            "pairId": 5,
-            "left": "architectural landmark",
-            "right": "Công trình kiến trúc biểu tượng mang dấu ấn lịch sử"
-          },
-          {
-            "pairId": 6,
-            "left": "folkloric tradition",
-            "right": "Truyền thống văn hóa dân gian truyền khẩu qua nhiều thế hệ"
-          },
-          {
-            "pairId": 7,
-            "left": "cultural diversity",
-            "right": "Sự phong phú và đa dạng sắc màu của các nền văn hóa"
-          },
-          {
-            "pairId": 8,
-            "left": "vernacular craft",
-            "right": "Nghề thủ công mỹ nghệ mang đậm tính địa phương"
-          },
-          {
-            "pairId": 9,
-            "left": "historical commemoration",
-            "right": "Nghi lễ tưởng niệm và tôn vinh biến cố lịch sử quan trọng"
-          },
-          {
-            "pairId": 10,
-            "left": "culinary heritage",
-            "right": "Di sản văn hóa ẩm thực truyền thống độc đáo"
+            "left": "refined sugar",
+            "right": "Đường cát trắng đã qua tinh luyện hóa chất"
           }
         ],
         "quiz": [
           {
-            "id": "qz_listening_19_1",
-            "question": "Trong ngữ cảnh bài thi này, cụm từ 'sustainable ecotourism' (noun phrase) mang ý nghĩa chuẩn xác nhất là gì?",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Thiết bị chưng cất làm bay hơi cô đặc dịch đường\"?",
             "options": [
-              "Du lịch sinh thái có trách nhiệm và bảo tồn văn hóa",
-              "Quan niệm đối lập hoàn toàn với dữ liệu thực nghiệm",
-              "Thuật ngữ chỉ chi phí hành chính và thủ tục định kỳ",
-              "Khái niệm giả thuyết chưa được khoa học kiểm chứng"
+              "evaporator",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 0,
-            "explanation": "'sustainable ecotourism' (/səˈsteɪ.nə.bəl ˈiː.kəʊˌtʊə.rɪ.zəm/) nghĩa là: Du lịch sinh thái có trách nhiệm và bảo tồn văn hóa. Ví dụ: \"Sustainable ecotourism channels revenue directly to indigenous village craft collectives.\""
+            "correct": "evaporator",
+            "explanation": "\"evaporator\" có nghĩa là: Thiết bị chưng cất làm bay hơi cô đặc dịch đường."
           },
           {
-            "id": "qz_listening_19_2",
-            "question": "Chọn cách diễn đạt Paraphrase tương đương của cụm từ 'indigenous customs':",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Nhựa thực vật dinh dưỡng chảy trong thân cây\"?",
             "options": [
-              "obsolete structural framework",
-              "native traditions",
-              "superficial statistical variation",
-              "hasty unverified conclusion"
+              "sap",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 1,
-            "explanation": "'indigenous customs' được diễn đạt tương đương trong đề thi IELTS bằng: 'native traditions / ancestral tribal practices'."
+            "correct": "sap",
+            "explanation": "\"sap\" có nghĩa là: Nhựa thực vật dinh dưỡng chảy trong thân cây."
           },
           {
-            "id": "qz_listening_19_3",
-            "question": "Cụm từ 'artistic patronage' (/ɑːˈtɪs.tɪk ˈpæt.rə.nɪdʒ/) được định nghĩa chuẩn xác trong tiếng Việt là:",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Đường cát trắng đã qua tinh luyện hóa chất\"?",
             "options": [
-              "Biện pháp chế tài tài chính tạm thời",
-              "Sự điều chỉnh cơ cấu nhân sự định kỳ",
-              "Sự bảo trợ và tài trợ hảo tâm cho nghệ thuật",
-              "Hiện tượng thoái trào xã hội tạm thời"
+              "refined sugar",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 2,
-            "explanation": "'artistic patronage' có nghĩa là: Sự bảo trợ và tài trợ hảo tâm cho nghệ thuật. Collocation thường gặp: flourish under artistic patronage."
-          },
-          {
-            "id": "qz_listening_19_4",
-            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'linguistic preservation' là gì?",
-            "options": [
-              "deviate from arbitrary standards",
-              "contradict empirical data points",
-              "dismiss foundational assumptions",
-              "champion linguistic preservation"
-            ],
-            "correct": 3,
-            "explanation": "Collocation chính xác được dùng trong bài thi IELTS là: 'champion linguistic preservation'. Ý nghĩa: Bảo tồn ngôn ngữ và thổ ngữ bản địa khỏi nguy cơ mai một."
+            "correct": "refined sugar",
+            "explanation": "\"refined sugar\" có nghĩa là: Đường cát trắng đã qua tinh luyện hóa chất."
           }
         ]
-      },
-      "camSeries": "cam_19",
-      "camBadge": "Cambridge 19",
-      "questionGroups": [
-        {
-          "from": 1,
-          "to": 10,
-          "typeLabel": "Matching Features: Evaluations of Community Conservation Projects",
-          "instruction": "What comment does the speaker make about each item? Choose your answers from the box, A–F, next to questions 1–10."
-        }
-      ],
-      "matchingOptions": [
-        "A. Greatly expanded local citizen engagement",
-        "B. Facing severe seasonal water constraints",
-        "C. Secured supplementary government endorsement",
-        "D. Proven highly cost-effective to maintain",
-        "E. Delayed owing to environmental permits",
-        "F. Best suited for high school student teams"
-      ]
+      }
     },
     {
       "id": "lis_test_20",
@@ -9391,414 +8184,280 @@ var IELTS_BANK_100 = {
       "id": "lis_test_21",
       "skill": "listening",
       "testNum": 21,
-      "title": "Cam 19 (2024) Test 2 Part 2: Science & Space Exploration (Table / Flowchart Completion)",
-      "topic": "science",
-      "topicName": "Science & Space Exploration",
-      "questionType": "table_completion",
+      "title": "Cam 19 Test 1 Part 1: Educational Visits to Hinchingbrooke Country Park",
+      "topic": "environment",
+      "topicName": "Environment, Geography & Education",
+      "questionType": "form_completion",
       "level": "Band 6.5 - 8.0",
-      "duration": "12 phút",
-      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam18_18_section1_part1.mp3",
-      "transcript": "LECTURER: Welcome to today's academic session on Science & Space Exploration.\nOver the last decade, our research group investigated 10 foundational variables in this discipline.\nFirst, baseline funding must be secured from international grants. Second, researchers identified five distinct cultural barriers.\nThird, digital tracking systems reduced paperwork by 40 percent. Fourth, the primary laboratory is located in the northern sector.\nFifth, participants reported elevated motivation when provided with mentorship.\nSixth, the survey revealed that approximately 75 percent favored online collaborative workshops.\nSeventh, equipment must be calibrated weekly to guarantee scientific accuracy.\nEighth, published reports must undergo peer review by three independent specialists.\nNinth, the final policy recommendations were submitted to parliament on Friday.\nFinally, our long-term projection indicates that overall efficiency will double by 2030.",
+      "duration": "10 phút",
+      "audioUrl": "https://archive.org/download/cam21_Cambridge_21___Test_1/cam19_Test1_Part1.mp3",
+      "transcript": "TEST 1\nPART 1\nJOHN:\t\nHello, Sally. Thanks for meeting with me. As you know, I’m planning an educational \ntrip for our primary school class to Hinchingbrooke Country Park.\nSALLY:\t\nYou’re very welcome, John. The park covers an area of 69 hectares, so there’s plenty \nof space for children to explore.\nJOHN:\t\nWhat habitats are there?\nSALLY:\t\nWell, we have three main habitats: wetland, grassland and woodland. Within the wetland, \nas well as lakes and ponds, we have a small stream that runs through the centre of the park. \nChildren love dipping their nets in there to see what creatures they can find.\nJOHN:\t\nAnd what subjects can we cover during our visit?\nSALLY:\t\nWe cover a range of subjects. For science, the children collect data about plants, \nminibeasts and trees.\nJOHN:\t\nExcellent. And geography?\nSALLY:\t\nFor geography, we teach them how to use a compass and read a map.\nJOHN:\t\nThat’s very useful. And history?\nSALLY:\t\nWe look at how land use has changed over the centuries. In leisure and tourism, we focus \nmostly on the park’s visitors – surveying who comes here and why.\nJOHN:\t\nGreat. And I saw that you do music too?\nSALLY:\t\nYes, children make sounds using natural materials like twigs, pebbles and dried leaves, \nand they experiment with rhythm and speed.\nJOHN:\t\nI imagine being outdoors gives them a sense of freedom that they don’t get in the classroom.\nSALLY:\t\nExactly. And they learn new practical skills that boost their self-confidence.\nJOHN:\t\nHow much does it cost?\nSALLY:\t\nIf you bring over 30 children, the cost is £4.95 per child for the whole day.\nJOHN:\t\nAnd adult supervisors?\nSALLY:\t\nAdults such as teachers and group leaders come completely free of charge.\nJOHN:\t\nThat sounds ideal. I’ll confirm our booking next week.",
+      "questionGroups": [
+        {
+          "from": 1,
+          "to": 10,
+          "typeLabel": "Notes Completion",
+          "instruction": "Write ONE WORD AND/OR A NUMBER for each answer."
+        }
+      ],
       "questions": [
         {
           "qNum": 1,
-          "text": "Question 1: What primary reason prompted the historical council to preserve the harbor wharf?",
-          "type": "multiple_choice",
-          "options": [
-            "A. It served as the primary trading port for timber in the 18th century.",
-            "B. It represents a rare architectural style of Victorian engineering.",
-            "C. It was constructed entirely from locally quarried granite blocks."
-          ],
-          "correctAnswer": "B",
-          "quote": "Audio cue: Hội đồng lịch sử quyết định bảo tồn cầu cảng vì đây là công trình kiến trúc kỹ thuật thời Victoria quý hiếm (B).",
-          "paraphrase": "Key detail corresponds to option B",
-          "explanation": "Hội đồng lịch sử quyết định bảo tồn cầu cảng vì đây là công trình kiến trúc kỹ thuật thời Victoria quý hiếm (B)."
+          "text": "The park - Area: ______ hectares.",
+          "type": "fill",
+          "wordLimit": "ONE WORD AND/OR A NUMBER",
+          "correctAnswer": "69",
+          "quote": "The park covers an area of 69 hectares",
+          "paraphrase": "area of 69 hectares",
+          "explanation": "Diện tích công viên là 69 héc-ta: 69 (hoặc sixty-nine)."
         },
         {
           "qNum": 2,
-          "text": "Question 2: Why did the lead researcher decide to modify the initial survey questionnaire?",
-          "type": "multiple_choice",
-          "options": [
-            "A. The initial questions were deemed too ambiguous for the general public.",
-            "B. The overall length caused excessive respondent fatigue.",
-            "C. The digital software failed to record quantitative responses accurately."
-          ],
-          "correctAnswer": "A",
-          "quote": "Audio cue: Trưởng nhóm nghiên cứu sửa bảng hỏi do các câu hỏi ban đầu quá mơ hồ, gây hiểu lầm cho người tham gia (A).",
-          "paraphrase": "Key detail corresponds to option A",
-          "explanation": "Trưởng nhóm nghiên cứu sửa bảng hỏi do các câu hỏi ban đầu quá mơ hồ, gây hiểu lầm cho người tham gia (A)."
+          "text": "Wetland: lakes, ponds and a ______.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "stream",
+          "quote": "as well as lakes and ponds, we have a small stream",
+          "paraphrase": "lakes, ponds and a stream",
+          "explanation": "Khu vực đất ngập nước gồm có hồ, ao và một con suối nhỏ: stream."
         },
         {
           "qNum": 3,
-          "text": "Question 3: What distinctive feature makes the new eco-campus dormitory energy self-sufficient?",
-          "type": "multiple_choice",
-          "options": [
-            "A. Geothermal heat pumps combined with triple-glazed facades.",
-            "B. High-capacity biomass generators burning local wood waste.",
-            "C. Advanced kinetic floor tiles harvesting student pedestrian energy."
-          ],
-          "correctAnswer": "A",
-          "quote": "Audio cue: Ký túc xá tự chủ năng lượng nhờ hệ thống bơm nhiệt địa nhiệt kết hợp kính 3 lớp cách nhiệt (A).",
-          "paraphrase": "Key detail corresponds to option A",
-          "explanation": "Ký túc xá tự chủ năng lượng nhờ hệ thống bơm nhiệt địa nhiệt kết hợp kính 3 lớp cách nhiệt (A)."
+          "text": "Science: Children look at ______ about plants, etc.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "data",
+          "quote": "For science, the children collect data about plants, minibeasts and trees.",
+          "paraphrase": "collect data about plants",
+          "explanation": "Học sinh thu thập dữ liệu (data) về thực vật và sinh vật."
         },
         {
           "qNum": 4,
-          "text": "Question 4: What advice does Professor Martinez give regarding literature review organisation?",
-          "type": "multiple_choice",
-          "options": [
-            "A. Structure sections thematically rather than in strict chronological sequence.",
-            "B. Focus exclusively on peer-reviewed papers published in the last three years.",
-            "C. Avoid presenting any critical opinions before the methodology chapter."
-          ],
-          "correctAnswer": "A",
-          "quote": "Audio cue: Giáo sư khuyên sinh viên nên sắp xếp tổng quan tài liệu theo các chủ đề (thematically) thay vì theo thời gian (A).",
-          "paraphrase": "Key detail corresponds to option A",
-          "explanation": "Giáo sư khuyên sinh viên nên sắp xếp tổng quan tài liệu theo các chủ đề (thematically) thay vì theo thời gian (A)."
+          "text": "Geography: includes learning to use a ______ and compass.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "map",
+          "quote": "we teach them how to use a compass and read a map.",
+          "paraphrase": "use a map and compass",
+          "explanation": "Môn Địa lý học sinh học cách sử dụng bản đồ (map) và la bàn."
         },
         {
           "qNum": 5,
-          "text": "Question 5: How did the local farmers respond to the introduction of drone crop-monitoring?",
-          "type": "multiple_choice",
-          "options": [
-            "A. They were skeptical until visible reduction in pesticide use was demonstrated.",
-            "B. They enthusiastically embraced the technology from the very beginning.",
-            "C. They refused to participate without direct governmental subsidies."
-          ],
-          "correctAnswer": "A",
-          "quote": "Audio cue: Nông dân ban đầu hoài nghi nhưng đã ủng hộ khi thấy lượng thuốc trừ sâu thực tế giảm rõ rệt (A).",
-          "paraphrase": "Key detail corresponds to option A",
-          "explanation": "Nông dân ban đầu hoài nghi nhưng đã ủng hộ khi thấy lượng thuốc trừ sâu thực tế giảm rõ rệt (A)."
+          "text": "Leisure and tourism: mostly concentrates on the park's ______.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "visitors",
+          "quote": "we focus mostly on the park’s visitors – surveying who comes here and why.",
+          "paraphrase": "concentrates on the park's visitors",
+          "explanation": "Môn Du lịch giải trí tập trung khảo sát du khách đến thăm công viên: visitors."
         },
         {
           "qNum": 6,
-          "text": "Question 6: What primary reason prompted the historical council to preserve the harbor wharf?",
-          "type": "multiple_choice",
-          "options": [
-            "A. It served as the primary trading port for timber in the 18th century.",
-            "B. It represents a rare architectural style of Victorian engineering.",
-            "C. It was constructed entirely from locally quarried granite blocks."
-          ],
-          "correctAnswer": "B",
-          "quote": "Audio cue: Hội đồng lịch sử quyết định bảo tồn cầu cảng vì đây là công trình kiến trúc kỹ thuật thời Victoria quý hiếm (B).",
-          "paraphrase": "Key detail corresponds to option B",
-          "explanation": "Hội đồng lịch sử quyết định bảo tồn cầu cảng vì đây là công trình kiến trúc kỹ thuật thời Victoria quý hiếm (B)."
+          "text": "Music: Children make ______ with natural materials, and experiment with rhythm and speed.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "sounds",
+          "quote": "children make sounds using natural materials like twigs, pebbles and dried leaves",
+          "paraphrase": "make sounds with natural materials",
+          "explanation": "Học sinh tạo ra các âm thanh (sounds) từ vật liệu tự nhiên."
         },
         {
           "qNum": 7,
-          "text": "Question 7: Why did the lead researcher decide to modify the initial survey questionnaire?",
-          "type": "multiple_choice",
-          "options": [
-            "A. The initial questions were deemed too ambiguous for the general public.",
-            "B. The overall length caused excessive respondent fatigue.",
-            "C. The digital software failed to record quantitative responses accurately."
-          ],
-          "correctAnswer": "A",
-          "quote": "Audio cue: Trưởng nhóm nghiên cứu sửa bảng hỏi do các câu hỏi ban đầu quá mơ hồ, gây hiểu lầm cho người tham gia (A).",
-          "paraphrase": "Key detail corresponds to option A",
-          "explanation": "Trưởng nhóm nghiên cứu sửa bảng hỏi do các câu hỏi ban đầu quá mơ hồ, gây hiểu lầm cho người tham gia (A)."
+          "text": "Benefits: They give children a feeling of ______ that they may not have elsewhere.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "freedom",
+          "quote": "gives them a sense of freedom that they don’t get in the classroom.",
+          "paraphrase": "feeling of freedom",
+          "explanation": "Không gian dã ngoại đem lại cho trẻ cảm giác tự do (freedom)."
         },
         {
           "qNum": 8,
-          "text": "Question 8: What distinctive feature makes the new eco-campus dormitory energy self-sufficient?",
-          "type": "multiple_choice",
-          "options": [
-            "A. Geothermal heat pumps combined with triple-glazed facades.",
-            "B. High-capacity biomass generators burning local wood waste.",
-            "C. Advanced kinetic floor tiles harvesting student pedestrian energy."
-          ],
-          "correctAnswer": "A",
-          "quote": "Audio cue: Ký túc xá tự chủ năng lượng nhờ hệ thống bơm nhiệt địa nhiệt kết hợp kính 3 lớp cách nhiệt (A).",
-          "paraphrase": "Key detail corresponds to option A",
-          "explanation": "Ký túc xá tự chủ năng lượng nhờ hệ thống bơm nhiệt địa nhiệt kết hợp kính 3 lớp cách nhiệt (A)."
+          "text": "Benefits: Children learn new ______ and gain self-confidence.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "skills",
+          "quote": "they develop new skills. This gives them greater self-confidence.",
+          "paraphrase": "learn new skills",
+          "explanation": "Các em rèn luyện những kỹ năng mới (skills) và nâng cao sự tự tin."
         },
         {
           "qNum": 9,
-          "text": "Question 9: What advice does Professor Martinez give regarding literature review organisation?",
-          "type": "multiple_choice",
-          "options": [
-            "A. Structure sections thematically rather than in strict chronological sequence.",
-            "B. Focus exclusively on peer-reviewed papers published in the last three years.",
-            "C. Avoid presenting any critical opinions before the methodology chapter."
-          ],
-          "correctAnswer": "A",
-          "quote": "Audio cue: Giáo sư khuyên sinh viên nên sắp xếp tổng quan tài liệu theo các chủ đề (thematically) thay vì theo thời gian (A).",
-          "paraphrase": "Key detail corresponds to option A",
-          "explanation": "Giáo sư khuyên sinh viên nên sắp xếp tổng quan tài liệu theo các chủ đề (thematically) thay vì theo thời gian (A)."
+          "text": "Practical issues - Cost per child: £______.",
+          "type": "fill",
+          "wordLimit": "ONE WORD AND/OR A NUMBER",
+          "correctAnswer": "4.95",
+          "quote": "the cost is £4.95 per child for the whole day.",
+          "paraphrase": "£4.95 per child",
+          "explanation": "Chi phí trọn gói mỗi học sinh là £4.95: 4.95."
         },
         {
           "qNum": 10,
-          "text": "Question 10: How did the local farmers respond to the introduction of drone crop-monitoring?",
-          "type": "multiple_choice",
-          "options": [
-            "A. They were skeptical until visible reduction in pesticide use was demonstrated.",
-            "B. They enthusiastically embraced the technology from the very beginning.",
-            "C. They refused to participate without direct governmental subsidies."
-          ],
-          "correctAnswer": "A",
-          "quote": "Audio cue: Nông dân ban đầu hoài nghi nhưng đã ủng hộ khi thấy lượng thuốc trừ sâu thực tế giảm rõ rệt (A).",
-          "paraphrase": "Key detail corresponds to option A",
-          "explanation": "Nông dân ban đầu hoài nghi nhưng đã ủng hộ khi thấy lượng thuốc trừ sâu thực tế giảm rõ rệt (A)."
+          "text": "Practical issues: Adults, such as ______ , free.",
+          "type": "fill",
+          "wordLimit": "ONE WORD ONLY",
+          "correctAnswer": "leaders",
+          "quote": "Adults such as teachers and group leaders come completely free of charge.",
+          "paraphrase": "adults such as leaders",
+          "explanation": "Người lớn như giáo viên và trưởng đoàn (leaders) được miễn phí vé: leaders."
         }
       ],
+      "camSeries": "cam_19",
+      "camBadge": "Cambridge 19",
       "testVocabulary": [
         {
-          "id": "voc_listening_21_1",
-          "term": "experimental protocol",
+          "id": "voc_19_1_1_1",
+          "term": "educational visit",
           "type": "noun phrase",
-          "ipa": "/ɪkˌsper.ɪˈmen.təl ˈprəʊ.tə.kɒl/",
-          "meaning": "Quy trình thử nghiệm khoa học nghiêm ngặt",
-          "example": "Adhering to a standardized experimental protocol guarantees lab test reproducibility.",
-          "paraphrase": "trial methodology / laboratory testing standard",
-          "collocation": "formulate a rigorous experimental protocol"
+          "ipa": "/ˌedʒ.ʊˈkeɪ.ʃən.əl ˈvɪz.ɪt/",
+          "meaning": "Chuyến tham quan dã ngoại học tập thực tế",
+          "example": "The school organized an educational visit to the country park to study woodland ecosystems.",
+          "paraphrase": "field study excursion / academic field trip",
+          "collocation": "organize an educational visit"
         },
         {
-          "id": "voc_listening_21_2",
-          "term": "quantitative analysis",
+          "id": "voc_19_1_1_2",
+          "term": "wetland habitat",
           "type": "noun phrase",
-          "ipa": "/ˈkwɒn.tɪ.tə.tɪv əˈnæl.ə.sɪs/",
-          "meaning": "Phương pháp phân tích số liệu định lượng chính xác",
-          "example": "Quantitative analysis of mass spectrometry data revealed trace concentrations of pollutants.",
-          "paraphrase": "statistical numerical appraisal / quantitative evaluation",
-          "collocation": "perform rigorous quantitative analysis"
+          "ipa": "/ˈwet.lænd ˈhæb.ɪ.tæt/",
+          "meaning": "Môi trường sống vùng đất ngập nước",
+          "example": "The wetland habitat supports rare amphibians, dragonflies and migratory birds.",
+          "paraphrase": "marshland biotope / swamp ecosystem",
+          "collocation": "conserve delicate wetland habitats"
         },
         {
-          "id": "voc_listening_21_3",
-          "term": "genetic modification",
+          "id": "voc_19_1_1_3",
+          "term": "sense of freedom",
           "type": "noun phrase",
-          "ipa": "/dʒəˈnet.ɪk ˌmɒd.ɪ.fɪˈkeɪ.ʃən/",
-          "meaning": "Công nghệ biến đổi gen sinh học nhân tạo",
-          "example": "Genetic modification enabled drought-resistant wheat varieties to flourish in arid zones.",
-          "paraphrase": "gene editing / transgenic biotechnology",
-          "collocation": "regulate genetic modification"
+          "ipa": "/sens əv ˈfriː.dəm/",
+          "meaning": "Cảm giác tự do, khoáng đạt ngoài thiên nhiên",
+          "example": "Outdoor learning instills a sense of freedom and discovery in young pupils.",
+          "paraphrase": "feeling of liberation",
+          "collocation": "experience a profound sense of freedom"
         },
         {
-          "id": "voc_listening_21_4",
-          "term": "peer-reviewed literature",
-          "type": "noun phrase",
-          "ipa": "/pɪə rɪˈvjuːd ˈlɪt.ər.ə.tʃər/",
-          "meaning": "Tài liệu khoa học được bình duyệt độc lập nghiêm ngặt",
-          "example": "Scientific claims must be supported by citations from reputable peer-reviewed literature.",
-          "paraphrase": "refereed academic journals / validated scholarly publications",
-          "collocation": "publish in peer-reviewed literature"
+          "id": "voc_19_1_1_4",
+          "term": "self-confidence",
+          "type": "noun",
+          "ipa": "/ˌselfˈkɒn.fɪ.dəns/",
+          "meaning": "Sự tự tin vào bản thân và năng lực của mình",
+          "example": "Mastering map reading and orienteering substantially boosts children’s self-confidence.",
+          "paraphrase": "self-assurance / inner conviction",
+          "collocation": "gain self-confidence"
         },
         {
-          "id": "voc_listening_21_5",
-          "term": "theoretical hypothesis",
+          "id": "voc_19_1_1_5",
+          "term": "group leaders",
           "type": "noun phrase",
-          "ipa": "/ˌθɪəˈret.ɪ.kəl haɪˈpɒθ.ə.sɪs/",
-          "meaning": "Giả thuyết lý thuyết cần được kiểm chứng thực tế",
-          "example": "The physicist postulated a bold theoretical hypothesis regarding dark matter interactions.",
-          "paraphrase": "conceptual proposition / tentative scientific supposition",
-          "collocation": "test a theoretical hypothesis"
-        },
-        {
-          "id": "voc_listening_21_6",
-          "term": "reproducibility crisis",
-          "type": "noun phrase",
-          "ipa": "/ˌriː.prəˌdjuː.səˈbɪl.ə.ti ˈkraɪ.sɪs/",
-          "meaning": "Khủng hoảng khả năng lặp lại và kiểm chứng thí nghiệm",
-          "example": "Open-access data sharing aims to resolve the reproducibility crisis in psychology trials.",
-          "paraphrase": "replicability dilemma / trial verification breakdown",
-          "collocation": "tackle the reproducibility crisis"
-        },
-        {
-          "id": "voc_listening_21_7",
-          "term": "astronomical observation",
-          "type": "noun phrase",
-          "ipa": "/ˌæs.trəˈnɒm.ɪ.kəl ˌɒb.zəˈveɪ.ʃən/",
-          "meaning": "Quan sát thiên văn bằng kính viễn vọng không gian",
-          "example": "Infrared astronomical observations by the James Webb Space Telescope detected primeval galaxies.",
-          "paraphrase": "space surveillance / celestial stargazing data",
-          "collocation": "conduct astronomical observations"
-        },
-        {
-          "id": "voc_listening_21_8",
-          "term": "subatomic particle",
-          "type": "noun phrase",
-          "ipa": "/ˌsʌb.əˈtɒm.ɪk ˈpɑː.tɪ.kəl/",
-          "meaning": "Các hạt hạ nguyên tử cơ bản cấu thành vật chất",
-          "example": "The Large Hadron Collider smashes subatomic particles together at near-light velocities.",
-          "paraphrase": "quantum corpuscle / elementary particle",
-          "collocation": "collide subatomic particles"
-        },
-        {
-          "id": "voc_listening_21_9",
-          "term": "biochemical catalyst",
-          "type": "noun phrase",
-          "ipa": "/ˌbaɪ.əʊˈkem.ɪ.kəl ˈkæt.əl.ɪst/",
-          "meaning": "Chất xúc tác sinh hóa thúc đẩy phản ứng tế bào",
-          "example": "Enzymes operate as precise biochemical catalysts accelerating cellular metabolism.",
-          "paraphrase": "enzymatic accelerator / biological catalytic agent",
-          "collocation": "act as a biochemical catalyst"
-        },
-        {
-          "id": "voc_listening_21_10",
-          "term": "cosmological model",
-          "type": "noun phrase",
-          "ipa": "/ˌkɒz.məˈlɒdʒ.ɪ.kəl ˈmɒd.əl/",
-          "meaning": "Mô hình vũ trụ học giải thích sự giãn nở không gian",
-          "example": "The standard cosmological model incorporates cosmic inflation and dark energy expansion.",
-          "paraphrase": "astrophysical universe framework / cosmic origin theory",
-          "collocation": "refine the cosmological model"
+          "ipa": "/ɡruːp ˈliː.dəz/",
+          "meaning": "Người phụ trách trưởng đoàn giám sát học sinh",
+          "example": "Group leaders ensured all students wore life vests during the pond dipping exercise.",
+          "paraphrase": "supervisors / excursion chaperones",
+          "collocation": "accompanied by group leaders"
         }
       ],
       "testVocabPractice": {
         "flashcards": [
           {
-            "front": "experimental protocol",
-            "back": "Quy trình thử nghiệm khoa học nghiêm ngặt\n\n• IPA: /ɪkˌsper.ɪˈmen.təl ˈprəʊ.tə.kɒl/\n• Ví dụ bài test: \"Adhering to a standardized experimental protocol guarantees lab test reproducibility.\"\n• Paraphrase: trial methodology / laboratory testing standard\n• Collocation: formulate a rigorous experimental protocol"
+            "front": "educational visit",
+            "back": "Chuyến tham quan dã ngoại học tập thực tế (noun phrase)",
+            "ipa": "/ˌedʒ.ʊˈkeɪ.ʃən.əl ˈvɪz.ɪt/",
+            "example": "The school organized an educational visit to the country park to study woodland ecosystems."
           },
           {
-            "front": "quantitative analysis",
-            "back": "Phương pháp phân tích số liệu định lượng chính xác\n\n• IPA: /ˈkwɒn.tɪ.tə.tɪv əˈnæl.ə.sɪs/\n• Ví dụ bài test: \"Quantitative analysis of mass spectrometry data revealed trace concentrations of pollutants.\"\n• Paraphrase: statistical numerical appraisal / quantitative evaluation\n• Collocation: perform rigorous quantitative analysis"
+            "front": "wetland habitat",
+            "back": "Môi trường sống vùng đất ngập nước (noun phrase)",
+            "ipa": "/ˈwet.lænd ˈhæb.ɪ.tæt/",
+            "example": "The wetland habitat supports rare amphibians, dragonflies and migratory birds."
           },
           {
-            "front": "genetic modification",
-            "back": "Công nghệ biến đổi gen sinh học nhân tạo\n\n• IPA: /dʒəˈnet.ɪk ˌmɒd.ɪ.fɪˈkeɪ.ʃən/\n• Ví dụ bài test: \"Genetic modification enabled drought-resistant wheat varieties to flourish in arid zones.\"\n• Paraphrase: gene editing / transgenic biotechnology\n• Collocation: regulate genetic modification"
+            "front": "sense of freedom",
+            "back": "Cảm giác tự do, khoáng đạt ngoài thiên nhiên (noun phrase)",
+            "ipa": "/sens əv ˈfriː.dəm/",
+            "example": "Outdoor learning instills a sense of freedom and discovery in young pupils."
           },
           {
-            "front": "peer-reviewed literature",
-            "back": "Tài liệu khoa học được bình duyệt độc lập nghiêm ngặt\n\n• IPA: /pɪə rɪˈvjuːd ˈlɪt.ər.ə.tʃər/\n• Ví dụ bài test: \"Scientific claims must be supported by citations from reputable peer-reviewed literature.\"\n• Paraphrase: refereed academic journals / validated scholarly publications\n• Collocation: publish in peer-reviewed literature"
+            "front": "self-confidence",
+            "back": "Sự tự tin vào bản thân và năng lực của mình (noun)",
+            "ipa": "/ˌselfˈkɒn.fɪ.dəns/",
+            "example": "Mastering map reading and orienteering substantially boosts children’s self-confidence."
           },
           {
-            "front": "theoretical hypothesis",
-            "back": "Giả thuyết lý thuyết cần được kiểm chứng thực tế\n\n• IPA: /ˌθɪəˈret.ɪ.kəl haɪˈpɒθ.ə.sɪs/\n• Ví dụ bài test: \"The physicist postulated a bold theoretical hypothesis regarding dark matter interactions.\"\n• Paraphrase: conceptual proposition / tentative scientific supposition\n• Collocation: test a theoretical hypothesis"
-          },
-          {
-            "front": "reproducibility crisis",
-            "back": "Khủng hoảng khả năng lặp lại và kiểm chứng thí nghiệm\n\n• IPA: /ˌriː.prəˌdjuː.səˈbɪl.ə.ti ˈkraɪ.sɪs/\n• Ví dụ bài test: \"Open-access data sharing aims to resolve the reproducibility crisis in psychology trials.\"\n• Paraphrase: replicability dilemma / trial verification breakdown\n• Collocation: tackle the reproducibility crisis"
-          },
-          {
-            "front": "astronomical observation",
-            "back": "Quan sát thiên văn bằng kính viễn vọng không gian\n\n• IPA: /ˌæs.trəˈnɒm.ɪ.kəl ˌɒb.zəˈveɪ.ʃən/\n• Ví dụ bài test: \"Infrared astronomical observations by the James Webb Space Telescope detected primeval galaxies.\"\n• Paraphrase: space surveillance / celestial stargazing data\n• Collocation: conduct astronomical observations"
-          },
-          {
-            "front": "subatomic particle",
-            "back": "Các hạt hạ nguyên tử cơ bản cấu thành vật chất\n\n• IPA: /ˌsʌb.əˈtɒm.ɪk ˈpɑː.tɪ.kəl/\n• Ví dụ bài test: \"The Large Hadron Collider smashes subatomic particles together at near-light velocities.\"\n• Paraphrase: quantum corpuscle / elementary particle\n• Collocation: collide subatomic particles"
-          },
-          {
-            "front": "biochemical catalyst",
-            "back": "Chất xúc tác sinh hóa thúc đẩy phản ứng tế bào\n\n• IPA: /ˌbaɪ.əʊˈkem.ɪ.kəl ˈkæt.əl.ɪst/\n• Ví dụ bài test: \"Enzymes operate as precise biochemical catalysts accelerating cellular metabolism.\"\n• Paraphrase: enzymatic accelerator / biological catalytic agent\n• Collocation: act as a biochemical catalyst"
-          },
-          {
-            "front": "cosmological model",
-            "back": "Mô hình vũ trụ học giải thích sự giãn nở không gian\n\n• IPA: /ˌkɒz.məˈlɒdʒ.ɪ.kəl ˈmɒd.əl/\n• Ví dụ bài test: \"The standard cosmological model incorporates cosmic inflation and dark energy expansion.\"\n• Paraphrase: astrophysical universe framework / cosmic origin theory\n• Collocation: refine the cosmological model"
+            "front": "group leaders",
+            "back": "Người phụ trách trưởng đoàn giám sát học sinh (noun phrase)",
+            "ipa": "/ɡruːp ˈliː.dəz/",
+            "example": "Group leaders ensured all students wore life vests during the pond dipping exercise."
           }
         ],
         "matching": [
           {
-            "pairId": 1,
-            "left": "experimental protocol",
-            "right": "Quy trình thử nghiệm khoa học nghiêm ngặt"
+            "left": "educational visit",
+            "right": "Chuyến tham quan dã ngoại học tập thực tế"
           },
           {
-            "pairId": 2,
-            "left": "quantitative analysis",
-            "right": "Phương pháp phân tích số liệu định lượng chính xác"
+            "left": "wetland habitat",
+            "right": "Môi trường sống vùng đất ngập nước"
           },
           {
-            "pairId": 3,
-            "left": "genetic modification",
-            "right": "Công nghệ biến đổi gen sinh học nhân tạo"
+            "left": "sense of freedom",
+            "right": "Cảm giác tự do, khoáng đạt ngoài thiên nhiên"
           },
           {
-            "pairId": 4,
-            "left": "peer-reviewed literature",
-            "right": "Tài liệu khoa học được bình duyệt độc lập nghiêm ngặt"
+            "left": "self-confidence",
+            "right": "Sự tự tin vào bản thân và năng lực của mình"
           },
           {
-            "pairId": 5,
-            "left": "theoretical hypothesis",
-            "right": "Giả thuyết lý thuyết cần được kiểm chứng thực tế"
-          },
-          {
-            "pairId": 6,
-            "left": "reproducibility crisis",
-            "right": "Khủng hoảng khả năng lặp lại và kiểm chứng thí nghiệm"
-          },
-          {
-            "pairId": 7,
-            "left": "astronomical observation",
-            "right": "Quan sát thiên văn bằng kính viễn vọng không gian"
-          },
-          {
-            "pairId": 8,
-            "left": "subatomic particle",
-            "right": "Các hạt hạ nguyên tử cơ bản cấu thành vật chất"
-          },
-          {
-            "pairId": 9,
-            "left": "biochemical catalyst",
-            "right": "Chất xúc tác sinh hóa thúc đẩy phản ứng tế bào"
-          },
-          {
-            "pairId": 10,
-            "left": "cosmological model",
-            "right": "Mô hình vũ trụ học giải thích sự giãn nở không gian"
+            "left": "group leaders",
+            "right": "Người phụ trách trưởng đoàn giám sát học sinh"
           }
         ],
         "quiz": [
           {
-            "id": "qz_listening_21_1",
-            "question": "Trong ngữ cảnh bài thi này, cụm từ 'experimental protocol' (noun phrase) mang ý nghĩa chuẩn xác nhất là gì?",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Chuyến tham quan dã ngoại học tập thực tế\"?",
             "options": [
-              "Quy trình thử nghiệm khoa học nghiêm ngặt",
-              "Quan niệm đối lập hoàn toàn với dữ liệu thực nghiệm",
-              "Thuật ngữ chỉ chi phí hành chính và thủ tục định kỳ",
-              "Khái niệm giả thuyết chưa được khoa học kiểm chứng"
+              "educational visit",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 0,
-            "explanation": "'experimental protocol' (/ɪkˌsper.ɪˈmen.təl ˈprəʊ.tə.kɒl/) nghĩa là: Quy trình thử nghiệm khoa học nghiêm ngặt. Ví dụ: \"Adhering to a standardized experimental protocol guarantees lab test reproducibility.\""
+            "correct": "educational visit",
+            "explanation": "\"educational visit\" có nghĩa là: Chuyến tham quan dã ngoại học tập thực tế."
           },
           {
-            "id": "qz_listening_21_2",
-            "question": "Chọn cách diễn đạt Paraphrase tương đương của cụm từ 'quantitative analysis':",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Môi trường sống vùng đất ngập nước\"?",
             "options": [
-              "obsolete structural framework",
-              "statistical numerical appraisal",
-              "superficial statistical variation",
-              "hasty unverified conclusion"
+              "wetland habitat",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 1,
-            "explanation": "'quantitative analysis' được diễn đạt tương đương trong đề thi IELTS bằng: 'statistical numerical appraisal / quantitative evaluation'."
+            "correct": "wetland habitat",
+            "explanation": "\"wetland habitat\" có nghĩa là: Môi trường sống vùng đất ngập nước."
           },
           {
-            "id": "qz_listening_21_3",
-            "question": "Cụm từ 'genetic modification' (/dʒəˈnet.ɪk ˌmɒd.ɪ.fɪˈkeɪ.ʃən/) được định nghĩa chuẩn xác trong tiếng Việt là:",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Cảm giác tự do, khoáng đạt ngoài thiên nhiên\"?",
             "options": [
-              "Biện pháp chế tài tài chính tạm thời",
-              "Sự điều chỉnh cơ cấu nhân sự định kỳ",
-              "Công nghệ biến đổi gen sinh học nhân tạo",
-              "Hiện tượng thoái trào xã hội tạm thời"
+              "sense of freedom",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 2,
-            "explanation": "'genetic modification' có nghĩa là: Công nghệ biến đổi gen sinh học nhân tạo. Collocation thường gặp: regulate genetic modification."
+            "correct": "sense of freedom",
+            "explanation": "\"sense of freedom\" có nghĩa là: Cảm giác tự do, khoáng đạt ngoài thiên nhiên."
           },
           {
-            "id": "qz_listening_21_4",
-            "question": "Cụm Collocation học thuật chuẩn xác đi kèm với 'peer-reviewed literature' là gì?",
+            "question": "Từ nào sau đây mang ý nghĩa: \"Sự tự tin vào bản thân và năng lực của mình\"?",
             "options": [
-              "deviate from arbitrary standards",
-              "contradict empirical data points",
-              "dismiss foundational assumptions",
-              "publish in peer-reviewed literature"
+              "self-confidence",
+              "sustainable practice",
+              "preliminary finding",
+              "alternative concept"
             ],
-            "correct": 3,
-            "explanation": "Collocation chính xác được dùng trong bài thi IELTS là: 'publish in peer-reviewed literature'. Ý nghĩa: Tài liệu khoa học được bình duyệt độc lập nghiêm ngặt."
+            "correct": "self-confidence",
+            "explanation": "\"self-confidence\" có nghĩa là: Sự tự tin vào bản thân và năng lực của mình."
           }
         ]
-      },
-      "camSeries": "cam_19",
-      "camBadge": "Cambridge 19",
-      "questionGroups": [
-        {
-          "from": 1,
-          "to": 10,
-          "typeLabel": "Multiple Choice (Single Choice)",
-          "instruction": "Choose the correct letter, A, B or C for each question."
-        }
-      ]
+      }
     },
     {
       "id": "lis_test_22",
@@ -43192,8 +41851,8 @@ var IELTS_BANK_100 = {
       "topicName": "Science, Technology & AI",
       "questionType": "tfng",
       "level": "Band 6.5 - 8.0",
-      "wordCount": 850,
-      "passage": "Test 1\n16\nREADING\nREADING PASSAGE 1\nYou should spend about 20 minutes on Questions 1–13, which are based on Reading \nPassage 1 below.\nThe development of the London underground railway\nIn the first half of the 1800s, London’s population grew at an astonishing rate, and the central \narea became increasingly congested. In addition, the expansion of the overground railway \nnetwork resulted in more and more passengers arriving in the capital. However, in 1846, a Royal \nCommission decided that the railways should not be allowed to enter the City, the capital’s \nhistoric and business centre. The result was that the overground railway stations formed a ring \naround the City. The area within consisted of poorly built, overcrowded slums and the streets were \nfull of horse-drawn traffic. Crossing the City became a nightmare. It could take an hour and a half \nto travel 8 km by horse-drawn carriage or bus. Numerous schemes were proposed to resolve these \nproblems, but few succeeded.\nAmongst the most vocal advocates for a solution to London’s traffic problems was Charles \nPearson, who worked as a solicitor for the City of London. He saw both social and economic \nadvantages in building an underground railway that would link the overground railway stations \ntogether and clear London slums at the same time. His idea was to relocate the poor workers who \nlived in the inner-city slums to newly constructed suburbs, and to provide cheap rail travel for \nthem to get to work. Pearson’s ideas gained support amongst some businessmen and in 1851 he \nsubmitted a plan to Parliament. It was rejected, but coincided with a proposal from another group \nfor an underground connecting line, which Parliament passed.\nThe two groups merged and established the Metropolitan Railway Company in August 1854. The \ncompany’s plan was to construct an underground railway line from the Great Western Railway’s \n(GWR) station at Paddington to the edge of the City at Farringdon Street – a distance of almost \n5 km. The organisation had difficulty in raising the funding for such a radical and expensive \nscheme, not least because of the critical articles printed by the press. Objectors argued that the \ntunnels would collapse under the weight of traffic overhead, buildings would be shaken and \npassengers would be poisoned by the emissions from the train engines. However, Pearson and his \npartners persisted.\nThe GWR, aware that the new line would finally enable them to run trains into the heart of \nthe City, invested almost £250,000 in the scheme. Eventually, over a five-year period, £1m \nwas raised. The chosen route ran beneath existing main roads to minimise the expense of \n\nReading\n17\ndemolishing buildings. Originally scheduled to be completed in 21 months, the construction of \nthe underground line took three years. It was built just below street level using a technique known \nas ‘cut and cover’. A trench about ten metres wide and six metres deep was dug, and the sides \ntemporarily held up with timber beams. Brick walls were then constructed, and finally a brick \narch was added to create a tunnel. A two-metre-deep layer of soil was laid on top of the tunnel \nand the road above rebuilt.\nThe Metropolitan line, which opened on 10 January 1863, was the world’s first underground \nrailway. On its first day, almost 40,000 passengers were carried between Paddington and \nFarringdon, the journey taking about 18 minutes. By the end of the Metropolitan’s first year of \noperation, 9.5 million journeys had been made.\nEven as the Metropolitan began operation, the first extensions to the line were being authorised; \nthese were built over the next five years, reaching Moorgate in the east of London and \nHammersmith in the west. The original plan was to pull the trains with steam locomotives, using \nfirebricks in the boilers to provide steam, but these engines were never introduced. Instead, the \nline used specially designed locomotives that were fitted with water tanks in which steam could \nbe condensed. However, smoke and fumes remained a problem, even though ventilation shafts \nwere added to the tunnels.\nDespite the extension of the underground railway, by the 1880s, congestion on London’s streets \nhad become worse. The problem was partly that the existing underground lines formed a circuit \naround the centre of London and extended to the suburbs, but did not cross the capital’s centre. \nThe ‘cut and cover’ method of construction was not an option in this part of the capital. The only \nalternative was to tunnel deep underground.\nAlthough the technology to create these tunnels existed, steam locomotives could not be used in \nsuch a confined space. It wasn’t until the development of a reliable electric motor, and a means of \ntransferring power from the generator to a moving train, that the world’s first deep-level electric \nrailway, the City & South London, became possible. The line opened in 1890, and ran from the \nCity to Stockwell, south of the River Thames. The trains were made up of three carriages and \ndriven by electric engines. The carriages were narrow and had tiny windows just below the roof \nbecause it was thought that passengers would not want to look out at the tunnel walls. The line \nwas not without its problems, mainly caused by an unreliable power supply. Although the City & \nSouth London Railway was a great technical achievement, it did not make a profit. Then, in 1900, \nthe Central London Railway, known as the ‘Tuppenny Tube’, began operation using new electric \nlocomotives. It was very popular and soon afterwards new railways and extensions were added to \nthe growing tube network. By 1907, the heart of today’s Underground system was in place.\n",
+      "wordCount": 900,
+      "passage": "In the first half of the 1800s, London’s population grew at an astonishing rate, and the central area became increasingly congested. In addition, the expansion of the overground railway network resulted in more and more passengers arriving in the capital. However, in 1846, a Royal Commission decided that the railways should not be allowed to enter the City, the capital’s historic and business centre. The result was that the overground railway stations formed a ring around the City. The area within consisted of poorly built, overcrowded slums and the streets were full of horse-drawn traffic. Crossing the City became a nightmare. It could take an hour and a half to travel 8 km by horse-drawn carriage or bus. Numerous schemes were proposed to resolve these problems, but few succeeded.\n\nAmongst the most vocal advocates for a solution to London’s traffic problems was Charles Pearson, who worked as a solicitor for the City of London. He saw both social and economic advantages in building an underground railway that would link the overground railway stations together and clear London slums at the same time. His idea was to relocate the poor workers who lived in the inner-city slums to newly constructed suburbs, and to provide cheap rail travel for them to get to work. Pearson’s ideas gained support amongst some businessmen and in 1851 he submitted a plan to Parliament. It was rejected, but coincided with a proposal from another group for an underground connecting line, which Parliament passed.\n\nThe two groups merged and established the Metropolitan Railway Company in August 1854. The company’s plan was to construct an underground railway line from the Great Western Railway’s (GWR) station at Paddington to the edge of the City at Farringdon Street – a distance of almost 5 km. The organisation had difficulty in raising the funding for such a radical and expensive scheme, not least because of the critical articles printed by the press. Objectors argued that the tunnels would collapse under the weight of traffic overhead, buildings would be shaken and passengers would be poisoned by the emissions from the train engines. However, Pearson and his partners persisted.\n\nThe GWR, aware that the new line would finally enable them to run trains into the heart of the City, invested almost £250,000 in the scheme. Eventually, over a five-year period, £1m was raised. The chosen route ran beneath existing main roads to minimise the expense of demolishing buildings. Originally scheduled to be completed in 21 months, the construction of the underground line took three years. It was built just below street level using a technique known as ‘cut and cover’. A trench about ten metres wide and six metres deep was dug, and the sides temporarily held up with timber beams. Brick walls were then constructed, and finally a brick arch was added to create a tunnel. A two-metre-deep layer of soil was laid on top of the tunnel and the road above rebuilt.\n\nThe Metropolitan line, which opened on 10 January 1863, was the world’s first underground railway. On its first day, almost 40,000 passengers were carried between Paddington and Farringdon, the journey taking about 18 minutes. By the end of the Metropolitan’s first year of operation, 9.5 million journeys had been made.\n\nEven as the Metropolitan began operation, the first extensions to the line were being authorised; these were built over the next five years, reaching Moorgate in the east of London and Hammersmith in the west. The original plan was to pull the trains with steam locomotives, using firebricks in the boilers to provide steam, but these engines were never introduced. Instead, the line used specially designed locomotives that were fitted with water tanks in which steam could be condensed. However, smoke and fumes remained a problem, even though ventilation shafts were added to the tunnels.\n\nDespite the extension of the underground railway, by the 1880s, congestion on London’s streets had become worse. The problem was partly that the existing underground lines formed a circuit around the centre of London and extended to the suburbs, but did not cross the capital’s centre. The ‘cut and cover’ method of construction was not an option in this part of the capital. The only alternative was to tunnel deep underground.\n\nAlthough the technology to create these tunnels existed, steam locomotives could not be used in such a confined space. It wasn’t until the development of a reliable electric motor, and a means of transferring power from the generator to a moving train, that the world’s first deep-level electric railway, the City & South London, became possible. The line opened in 1890, and ran from the City to Stockwell, south of the River Thames. The trains were made up of three carriages and driven by electric engines. The carriages were narrow and had tiny windows just below the roof because it was thought that passengers would not want to look out at the tunnel walls. The line was not without its problems, mainly caused by an unreliable power supply. Although the City & South London Railway was a great technical achievement, it did not make a profit. Then, in 1900, the Central London Railway, known as the ‘Tuppenny Tube’, began operation using new electric locomotives. It was very popular and soon afterwards new railways and extensions were added to the growing tube network. By 1907, the heart of today’s Underground system was in place.",
       "questionGroups": [
         {
           "from": 1,
@@ -43695,8 +42354,8 @@ var IELTS_BANK_100 = {
       "topicName": "Urban Planning & Architecture",
       "questionType": "matching_info",
       "level": "Band 6.5 - 8.0",
-      "wordCount": 920,
-      "passage": "Test 1\n20\nREADING PASSAGE 2\nYou should spend about 20 minutes on Questions 14–26, which are based on Reading \nPassage 2 below.\nStadiums: past, present and future\nA\t\nStadiums are among the oldest forms of urban architecture: vast stadiums where the public \ncould watch sporting events were at the centre of western city life as far back as the ancient \nGreek and Roman Empires, well before the construction of the great medieval cathedrals and  \nthe grand 19th- and 20th-century railway stations which dominated urban skylines in later eras.\n\t\n\u0007Today, however, stadiums are regarded with growing scepticism. Construction costs can soar \nabove £1 billion, and stadiums finished for major events such as the Olympic Games or the \nFIFA World Cup have notably fallen into disuse and disrepair. \n\t\n\u0007But this need not be the case. History shows that stadiums can drive urban development and \nadapt to the culture of every age. Even today, architects and planners are finding new ways \nto adapt the mono-functional sports arenas which became emblematic of modernisation \nduring the 20th century.\nB\t\nThe amphitheatre* of Arles in southwest France, with a capacity of 25,000 spectators,  \nis perhaps the best example of just how versatile stadiums can be. Built by the Romans in  \n90 AD, it became a fortress with four towers after the fifth century, and was then \ntransformed into a village containing more than 200 houses. With the growing interest in \nconservation during the 19th century, it was converted back into an arena for the staging of \nbullfights, thereby returning the structure to its original use as a venue for public spectacles.\n\t\n\u0007Another example is the imposing arena of Verona in northern Italy, with space for 30,000 \nspectators, which was built 60 years before the Arles amphitheatre and 40 years before \nRome’s famous Colosseum. It has endured the centuries and is currently considered one of \nthe world’s prime sites for opera, thanks to its outstanding acoustics.\nC\t\nThe area in the centre of the Italian town of Lucca, known as the Piazza dell’Anfiteatro, \nis yet another impressive example of an amphitheatre becoming absorbed into the fabric \nof the city. The site evolved in a similar way to Arles and was progressively filled with \nbuildings from the Middle Ages until the 19th century, variously used as houses, a salt depot \nand a prison. But rather than reverting to an arena, it became a market square, designed \nby Romanticist architect Lorenzo Nottolini. Today, the ruins of the amphitheatre remain \nembedded in the various shops and residences surrounding the public square.\nD\t\nThere are many similarities between modern stadiums and the ancient amphitheatres \nintended for games. But some of the flexibility was lost at the beginning of the 20th century, \nas stadiums were developed using new products such as steel and reinforced concrete, and \nmade use of bright lights for night-time matches.\n* \u0007amphitheatre: (especially in Greek and Roman architecture) an open circular or oval building with a central space surrounded by tiers of \nseats for spectators, for the presentation of dramatic or sporting events\n\nReading\n21\nMany such stadiums are situated in suburban areas, designed for sporting use only and \nsurrounded by parking lots. These factors mean that they may not be as accessible to the \ngeneral public, require more energy to run and contribute to urban heat.\nE\t\nBut many of today’s most innovative architects see scope for the stadium to help improve the\ncity. Among the current strategies, two seem to be having particular success: the stadium as \nan urban hub, and as a power plant.\nThere’s a growing trend for stadiums to be equipped with public spaces and services that \nserve a function beyond sport, such as hotels, retail outlets, conference centres, restaurants \nand bars, children’s playgrounds and green space. Creating mixed-use developments such as \nthis reinforces compactness and multi-functionality, making more efficient use of land and \nhelping to regenerate urban spaces. \nThis opens the space up to families and a wider cross-section of society, instead of catering \nonly to sportspeople and supporters. There have been many examples of this in the UK: the \nmixed-use facilities at Wembley and Old Trafford have become a blueprint for many other \nstadiums in the world.\nF\t\nThe phenomenon of stadiums as power stations has arisen from the idea that energy\nproblems can be overcome by integrating interconnected buildings by means of a smart grid, \nwhich is an electricity supply network that uses digital communications technology to detect \nand react to local changes in usage, without significant energy losses. Stadiums are ideal \nfor these purposes, because their canopies have a large surface area for fitting photovoltaic \npanels and rise high enough (more than 40 metres) to make use of micro wind turbines.\nFreiburg Mage Solar Stadium in Germany is the first of a new wave of stadiums as power \nplants, which also includes the Amsterdam Arena and the Kaohsiung Stadium. The latter, \ninaugurated in 2009, has 8,844 photovoltaic panels producing up to 1.14 GWh of electricity \nannually. This reduces the annual output of carbon dioxide by 660 tons and supplies up \nto 80 percent of the surrounding area when the stadium is not in use. This is proof that a \nstadium can serve its city, and have a decidedly positive impact in terms of reduction of CO2 \nemissions.\nG\t\nSporting arenas have always been central to the life and culture of cities. In every era, the\nstadium has acquired new value and uses: from military fortress to residential village, public \nspace to theatre and most recently a field for experimentation in advanced engineering. \nThe stadium of today now brings together multiple functions, thus helping cities to create a \nsustainable future.\n",
+      "wordCount": 911,
+      "passage": "[A] Stadiums are among the oldest forms of urban architecture: vast stadiums where the public could watch sporting events were at the centre of western city life as far back as the ancient Greek and Roman Empires, well before the construction of the great medieval cathedrals and the grand 19th- and 20th-century railway stations which dominated urban skylines in later eras. \u0007Today, however, stadiums are regarded with growing scepticism. Construction costs can soar above £1 billion, and stadiums finished for major events such as the Olympic Games or the FIFA World Cup have notably fallen into disuse and disrepair. \u0007But this need not be the case. History shows that stadiums can drive urban development and adapt to the culture of every age. Even today, architects and planners are finding new ways to adapt the mono-functional sports arenas which became emblematic of modernisation during the 20th century.\n\n[B] The amphitheatre* of Arles in southwest France, with a capacity of 25,000 spectators, is perhaps the best example of just how versatile stadiums can be. Built by the Romans in 90 AD, it became a fortress with four towers after the fifth century, and was then transformed into a village containing more than 200 houses. With the growing interest in conservation during the 19th century, it was converted back into an arena for the staging of bullfights, thereby returning the structure to its original use as a venue for public spectacles. \u0007Another example is the imposing arena of Verona in northern Italy, with space for 30,000 spectators, which was built 60 years before the Arles amphitheatre and 40 years before Rome’s famous Colosseum. It has endured the centuries and is currently considered one of the world’s prime sites for opera, thanks to its outstanding acoustics.\n\n[C] The area in the centre of the Italian town of Lucca, known as the Piazza dell’Anfiteatro, is yet another impressive example of an amphitheatre becoming absorbed into the fabric of the city. The site evolved in a similar way to Arles and was progressively filled with buildings from the Middle Ages until the 19th century, variously used as houses, a salt depot and a prison. But rather than reverting to an arena, it became a market square, designed by Romanticist architect Lorenzo Nottolini. Today, the ruins of the amphitheatre remain embedded in the various shops and residences surrounding the public square.\n\n[D] There are many similarities between modern stadiums and the ancient amphitheatres intended for games. But some of the flexibility was lost at the beginning of the 20th century, as stadiums were developed using new products such as steel and reinforced concrete, and made use of bright lights for night-time matches. Many such stadiums are situated in suburban areas, designed for sporting use only and surrounded by parking lots. These factors mean that they may not be as accessible to the general public, require more energy to run and contribute to urban heat.\n\n[E] But many of today’s most innovative architects see scope for the stadium to help improve the city. Among the current strategies, two seem to be having particular success: the stadium as an urban hub, and as a power plant. There’s a growing trend for stadiums to be equipped with public spaces and services that serve a function beyond sport, such as hotels, retail outlets, conference centres, restaurants and bars, children’s playgrounds and green space. Creating mixed-use developments such as this reinforces compactness and multi-functionality, making more efficient use of land and helping to regenerate urban spaces. This opens the space up to families and a wider cross-section of society, instead of catering only to sportspeople and supporters. There have been many examples of this in the UK: the mixed-use facilities at Wembley and Old Trafford have become a blueprint for many other stadiums in the world.\n\n[F] The phenomenon of stadiums as power stations has arisen from the idea that energy problems can be overcome by integrating interconnected buildings by means of a smart grid, which is an electricity supply network that uses digital communications technology to detect and react to local changes in usage, without significant energy losses. Stadiums are ideal for these purposes, because their canopies have a large surface area for fitting photovoltaic panels and rise high enough (more than 40 metres) to make use of micro wind turbines. Freiburg Mage Solar Stadium in Germany is the first of a new wave of stadiums as power plants, which also includes the Amsterdam Arena and the Kaohsiung Stadium. The latter, inaugurated in 2009, has 8,844 photovoltaic panels producing up to 1.14 GWh of electricity annually. This reduces the annual output of carbon dioxide by 660 tons and supplies up to 80 percent of the surrounding area when the stadium is not in use. This is proof that a stadium can serve its city, and have a decidedly positive impact in terms of reduction of CO2 emissions.\n\n[G] Sporting arenas have always been central to the life and culture of cities. In every era, the stadium has acquired new value and uses: from military fortress to residential village, public space to theatre and most recently a field for experimentation in advanced engineering. The stadium of today now brings together multiple functions, thus helping cities to create a sustainable future.\n\n* \u0007amphitheatre: (especially in Greek and Roman architecture) an open circular or oval building with a central space surrounded by tiers of seats for spectators, for the presentation of dramatic or sporting events",
       "questionGroups": [
         {
           "from": 14,
@@ -44271,8 +42930,8 @@ var IELTS_BANK_100 = {
       "topicName": "History, Society & Evolution",
       "questionType": "summary_completion",
       "level": "Band 6.5 - 8.0",
-      "wordCount": 980,
-      "passage": "Test 1\n24\nREADING PASSAGE 3\nYou should spend about 20 minutes on Questions 27–40, which are based on Reading \nPassage 3 below.\nTo catch a king\nAnna Keay reviews Charles Spencer’s book about the hunt for King Charles II \nduring the English Civil War of the seventeenth century\n* Presbyterianism: part of the reformed Protestant religion\nCharles Spencer’s latest book, To Catch a \nKing, tells us the story of the hunt for King \nCharles II in the six weeks after his resounding \ndefeat at the Battle of Worcester in September \n1651. And what a story it is. After his father \nwas executed by the Parliamentarians in 1649, \nthe young Charles II sacrificed one of the \nvery principles his father had died for and \ndid a deal with the Scots, thereby accepting \nPresbyterianism* as the national religion in \nreturn for being crowned King of Scots. His \narrival in Edinburgh prompted the English \nParliamentary army to invade Scotland in a \npre-emptive strike. This was followed by a \nScottish invasion of England. The two sides \nfinally faced one another at Worcester in \nthe west of England in 1651. After being \ncomprehensively defeated on the meadows \noutside the city by the Parliamentarian army, \nthe 21-year-old king found himself the subject \nof a national manhunt, with a huge sum \noffered for his capture. Over the following \nsix weeks he managed, through a series of \nheart-poundingly close escapes, to evade the \nParliamentarians before seeking refuge in \nFrance. For the next nine years, the penniless \nand defeated Charles wandered around Europe \nwith only a small group of loyal supporters.\nYears later, after his restoration as king, the \n50-year-old Charles II requested a meeting \nwith the writer and diarist Samuel Pepys. His \nintention when asking Pepys to commit his \nstory to paper was to ensure that this most \nextraordinary episode was never forgotten. \nOver two three-hour sittings, the king related \nto him in great detail his personal recollections \nof the six weeks he had spent as a fugitive. As \nthe king and secretary settled down (a scene \nthat is surely a gift for a future scriptwriter), \nCharles commenced his story: ‘After the battle \nwas so absolutely lost as to be beyond hope of \nrecovery, I began to think of the best way of \nsaving myself.’\nOne of the joys of Spencer’s book, a result not \nleast of its use of Charles II’s own narrative \nas well as those of his supporters, is just how \nclose the reader gets to the action. The day-by-\nday retelling of the fugitives’ doings provides \ndelicious details: the cutting of the king’s long \nhair with agricultural shears, the use of walnut \nleaves to dye his pale skin, and the day Charles \nspent lying on a branch of the great oak tree in \nBoscobel Wood as the Parliamentary soldiers \nscoured the forest floor below. Spencer draws \nout both the humour – such as the preposterous \nrefusal of Charles’s friend Henry Wilmot \nto adopt disguise on the grounds that it was \nbeneath his dignity – and the emotional tension \nwhen the secret of the king’s presence was \ncautiously revealed to his supporters. \n\nReading\n25\nCharles’s adventures after losing the Battle of \nWorcester hide the uncomfortable truth that \nwhilst almost everyone in England had been \nappalled by the execution of his father, they \nhad not welcomed the arrival of his son with \nthe Scots army, but had instead firmly bolted \ntheir doors. This was partly because he rode at \nthe head of what looked like a foreign invasion \nforce and partly because, after almost a decade \nof civil war, people were desperate to avoid \nit beginning again. This makes it all the more \ninteresting that Charles II himself loved the \nstory so much ever after. As well as retelling \nit to anyone who would listen, causing eye-\nrolling among courtiers, he set in train a series \nof initiatives to memorialise it. There was to \nbe a new order of chivalry, the Knights of the \nRoyal Oak. A series of enormous oil paintings \ndepicting the episode were produced, including \na two-metre-wide canvas of Boscobel Wood \nand a set of six similarly enormous paintings \nof the king on the run. In 1660, Charles II \ncommissioned the artist John Michael Wright \nto paint a flying squadron of cherubs* carrying \nan oak tree to the heavens on the ceiling of his \nbedchamber. It is hard to imagine many other \nkings marking the lowest point in their life so \nenthusiastically, or indeed pulling off such an \nescape in the first place.\nCharles Spencer is the perfect person to  \npass the story on to a new generation. His \npacey, readable prose steers deftly clear of  \nmodern idioms and elegantly brings to life the \ndetails of the great tale. He has even-handed \nsympathy for both the fugitive king and the \nfierce republican regime that hunted him,  \nand he succeeds in his desire to explore far \nmore of the background of the story than \nprevious books on the subject have done. Indeed,  \nthe opening third of the book is about how \nCharles II found himself at Worcester in the first  \nplace, which for some will be reason alone to \nread To Catch a King.\nThe tantalising question left, in the end, is that \nof what it all meant. Would Charles II have \nbeen a different king had these six weeks never \nhappened? The days and nights spent in hiding \nmust have affected him in some way. Did the \nneed to assume disguises, to survive on wit and \ncharm alone, to use trickery and subterfuge to \nescape from tight corners help form him? This \nis the one area where the book doesn’t quite hit \nthe mark. Instead its depiction of Charles II in \nhis final years as an ineffective, pleasure-loving \nmonarch doesn’t do justice to the man (neither \nis it accurate), or to the complexity of his \ncharacter. But this one niggle aside, To Catch a \nKing is an excellent read, and those who come \nto it knowing little of the famous tale will find \nthey have a treat in store.\n* cherub: an image of angelic children used in paintings\n",
+      "wordCount": 966,
+      "passage": "Charles Spencer’s latest book, To Catch a King, tells us the story of the hunt for King Charles II in the six weeks after his resounding defeat at the Battle of Worcester in September 1651. And what a story it is. After his father was executed by the Parliamentarians in 1649, the young Charles II sacrificed one of the very principles his father had died for and did a deal with the Scots, thereby accepting Presbyterianism* as the national religion in return for being crowned King of Scots. His arrival in Edinburgh prompted the English Parliamentary army to invade Scotland in a pre-emptive strike. This was followed by a Scottish invasion of England. The two sides finally faced one another at Worcester in the west of England in 1651. After being comprehensively defeated on the meadows outside the city by the Parliamentarian army, the 21-year-old king found himself the subject of a national manhunt, with a huge sum offered for his capture. Over the following six weeks he managed, through a series of heart-poundingly close escapes, to evade the Parliamentarians before seeking refuge in France. For the next nine years, the penniless and defeated Charles wandered around Europe with only a small group of loyal supporters.\n\nYears later, after his restoration as king, the 50-year-old Charles II requested a meeting with the writer and diarist Samuel Pepys. His intention when asking Pepys to commit his story to paper was to ensure that this most extraordinary episode was never forgotten. Over two three-hour sittings, the king related to him in great detail his personal recollections of the six weeks he had spent as a fugitive. As the king and secretary settled down (a scene that is surely a gift for a future scriptwriter), Charles commenced his story: ‘After the battle was so absolutely lost as to be beyond hope of recovery, I began to think of the best way of saving myself.’\n\nOne of the joys of Spencer’s book, a result not least of its use of Charles II’s own narrative as well as those of his supporters, is just how close the reader gets to the action. The day-by- day retelling of the fugitives’ doings provides delicious details: the cutting of the king’s long hair with agricultural shears, the use of walnut leaves to dye his pale skin, and the day Charles spent lying on a branch of the great oak tree in Boscobel Wood as the Parliamentary soldiers scoured the forest floor below. Spencer draws out both the humour – such as the preposterous refusal of Charles’s friend Henry Wilmot to adopt disguise on the grounds that it was beneath his dignity – and the emotional tension when the secret of the king’s presence was cautiously revealed to his supporters.\n\nCharles’s adventures after losing the Battle of Worcester hide the uncomfortable truth that whilst almost everyone in England had been appalled by the execution of his father, they had not welcomed the arrival of his son with the Scots army, but had instead firmly bolted their doors. This was partly because he rode at the head of what looked like a foreign invasion force and partly because, after almost a decade of civil war, people were desperate to avoid it beginning again. This makes it all the more interesting that Charles II himself loved the story so much ever after. As well as retelling it to anyone who would listen, causing eye- rolling among courtiers, he set in train a series of initiatives to memorialise it. There was to be a new order of chivalry, the Knights of the Royal Oak. A series of enormous oil paintings depicting the episode were produced, including a two-metre-wide canvas of Boscobel Wood and a set of six similarly enormous paintings of the king on the run. In 1660, Charles II commissioned the artist John Michael Wright to paint a flying squadron of cherubs* carrying an oak tree to the heavens on the ceiling of his bedchamber. It is hard to imagine many other kings marking the lowest point in their life so enthusiastically, or indeed pulling off such an escape in the first place.\n\nCharles Spencer is the perfect person to pass the story on to a new generation. His pacey, readable prose steers deftly clear of modern idioms and elegantly brings to life the details of the great tale. He has even-handed sympathy for both the fugitive king and the fierce republican regime that hunted him, and he succeeds in his desire to explore far more of the background of the story than previous books on the subject have done. Indeed, the opening third of the book is about how Charles II found himself at Worcester in the first place, which for some will be reason alone to read To Catch a King.\n\nThe tantalising question left, in the end, is that of what it all meant. Would Charles II have been a different king had these six weeks never happened? The days and nights spent in hiding must have affected him in some way. Did the need to assume disguises, to survive on wit and charm alone, to use trickery and subterfuge to escape from tight corners help form him? This is the one area where the book doesn’t quite hit the mark. Instead its depiction of Charles II in his final years as an ineffective, pleasure-loving monarch doesn’t do justice to the man (neither is it accurate), or to the complexity of his character. But this one niggle aside, To Catch a King is an excellent read, and those who come to it knowing little of the famous tale will find they have a treat in store.\n\n* Presbyterianism: part of the reformed Protestant religion\n\n* cherub: an image of angelic children used in paintings",
       "questionGroups": [
         {
           "from": 27,
@@ -44873,9 +43532,9 @@ var IELTS_BANK_100 = {
       "topicName": "Cambridge Official Full Exam",
       "questionType": "full_exam",
       "level": "Band 6.5 - 9.0",
-      "wordCount": 2750,
+      "wordCount": 2821,
       "duration": "60 phút",
-      "passage": "=== READING PASSAGE 1: Cam 17 Test 1 Passage 1: The Development of the London Underground Railway ===\n\nTest 1\n16\nREADING\nREADING PASSAGE 1\nYou should spend about 20 minutes on Questions 1–13, which are based on Reading \nPassage 1 below.\nThe development of the London underground railway\nIn the first half of the 1800s, London’s population grew at an astonishing rate, and the central \narea became increasingly congested. In addition, the expansion of the overground railway \nnetwork resulted in more and more passengers arriving in the capital. However, in 1846, a Royal \nCommission decided that the railways should not be allowed to enter the City, the capital’s \nhistoric and business centre. The result was that the overground railway stations formed a ring \naround the City. The area within consisted of poorly built, overcrowded slums and the streets were \nfull of horse-drawn traffic. Crossing the City became a nightmare. It could take an hour and a half \nto travel 8 km by horse-drawn carriage or bus. Numerous schemes were proposed to resolve these \nproblems, but few succeeded.\nAmongst the most vocal advocates for a solution to London’s traffic problems was Charles \nPearson, who worked as a solicitor for the City of London. He saw both social and economic \nadvantages in building an underground railway that would link the overground railway stations \ntogether and clear London slums at the same time. His idea was to relocate the poor workers who \nlived in the inner-city slums to newly constructed suburbs, and to provide cheap rail travel for \nthem to get to work. Pearson’s ideas gained support amongst some businessmen and in 1851 he \nsubmitted a plan to Parliament. It was rejected, but coincided with a proposal from another group \nfor an underground connecting line, which Parliament passed.\nThe two groups merged and established the Metropolitan Railway Company in August 1854. The \ncompany’s plan was to construct an underground railway line from the Great Western Railway’s \n(GWR) station at Paddington to the edge of the City at Farringdon Street – a distance of almost \n5 km. The organisation had difficulty in raising the funding for such a radical and expensive \nscheme, not least because of the critical articles printed by the press. Objectors argued that the \ntunnels would collapse under the weight of traffic overhead, buildings would be shaken and \npassengers would be poisoned by the emissions from the train engines. However, Pearson and his \npartners persisted.\nThe GWR, aware that the new line would finally enable them to run trains into the heart of \nthe City, invested almost £250,000 in the scheme. Eventually, over a five-year period, £1m \nwas raised. The chosen route ran beneath existing main roads to minimise the expense of \n\nReading\n17\ndemolishing buildings. Originally scheduled to be completed in 21 months, the construction of \nthe underground line took three years. It was built just below street level using a technique known \nas ‘cut and cover’. A trench about ten metres wide and six metres deep was dug, and the sides \ntemporarily held up with timber beams. Brick walls were then constructed, and finally a brick \narch was added to create a tunnel. A two-metre-deep layer of soil was laid on top of the tunnel \nand the road above rebuilt.\nThe Metropolitan line, which opened on 10 January 1863, was the world’s first underground \nrailway. On its first day, almost 40,000 passengers were carried between Paddington and \nFarringdon, the journey taking about 18 minutes. By the end of the Metropolitan’s first year of \noperation, 9.5 million journeys had been made.\nEven as the Metropolitan began operation, the first extensions to the line were being authorised; \nthese were built over the next five years, reaching Moorgate in the east of London and \nHammersmith in the west. The original plan was to pull the trains with steam locomotives, using \nfirebricks in the boilers to provide steam, but these engines were never introduced. Instead, the \nline used specially designed locomotives that were fitted with water tanks in which steam could \nbe condensed. However, smoke and fumes remained a problem, even though ventilation shafts \nwere added to the tunnels.\nDespite the extension of the underground railway, by the 1880s, congestion on London’s streets \nhad become worse. The problem was partly that the existing underground lines formed a circuit \naround the centre of London and extended to the suburbs, but did not cross the capital’s centre. \nThe ‘cut and cover’ method of construction was not an option in this part of the capital. The only \nalternative was to tunnel deep underground.\nAlthough the technology to create these tunnels existed, steam locomotives could not be used in \nsuch a confined space. It wasn’t until the development of a reliable electric motor, and a means of \ntransferring power from the generator to a moving train, that the world’s first deep-level electric \nrailway, the City & South London, became possible. The line opened in 1890, and ran from the \nCity to Stockwell, south of the River Thames. The trains were made up of three carriages and \ndriven by electric engines. The carriages were narrow and had tiny windows just below the roof \nbecause it was thought that passengers would not want to look out at the tunnel walls. The line \nwas not without its problems, mainly caused by an unreliable power supply. Although the City & \nSouth London Railway was a great technical achievement, it did not make a profit. Then, in 1900, \nthe Central London Railway, known as the ‘Tuppenny Tube’, began operation using new electric \nlocomotives. It was very popular and soon afterwards new railways and extensions were added to \nthe growing tube network. By 1907, the heart of today’s Underground system was in place.\n\n\n=== READING PASSAGE 2: Cam 17 Test 1 Passage 2: Stadiums - Past, Present and Future ===\n\nTest 1\n20\nREADING PASSAGE 2\nYou should spend about 20 minutes on Questions 14–26, which are based on Reading \nPassage 2 below.\nStadiums: past, present and future\nA\t\nStadiums are among the oldest forms of urban architecture: vast stadiums where the public \ncould watch sporting events were at the centre of western city life as far back as the ancient \nGreek and Roman Empires, well before the construction of the great medieval cathedrals and  \nthe grand 19th- and 20th-century railway stations which dominated urban skylines in later eras.\n\t\n\u0007Today, however, stadiums are regarded with growing scepticism. Construction costs can soar \nabove £1 billion, and stadiums finished for major events such as the Olympic Games or the \nFIFA World Cup have notably fallen into disuse and disrepair. \n\t\n\u0007But this need not be the case. History shows that stadiums can drive urban development and \nadapt to the culture of every age. Even today, architects and planners are finding new ways \nto adapt the mono-functional sports arenas which became emblematic of modernisation \nduring the 20th century.\nB\t\nThe amphitheatre* of Arles in southwest France, with a capacity of 25,000 spectators,  \nis perhaps the best example of just how versatile stadiums can be. Built by the Romans in  \n90 AD, it became a fortress with four towers after the fifth century, and was then \ntransformed into a village containing more than 200 houses. With the growing interest in \nconservation during the 19th century, it was converted back into an arena for the staging of \nbullfights, thereby returning the structure to its original use as a venue for public spectacles.\n\t\n\u0007Another example is the imposing arena of Verona in northern Italy, with space for 30,000 \nspectators, which was built 60 years before the Arles amphitheatre and 40 years before \nRome’s famous Colosseum. It has endured the centuries and is currently considered one of \nthe world’s prime sites for opera, thanks to its outstanding acoustics.\nC\t\nThe area in the centre of the Italian town of Lucca, known as the Piazza dell’Anfiteatro, \nis yet another impressive example of an amphitheatre becoming absorbed into the fabric \nof the city. The site evolved in a similar way to Arles and was progressively filled with \nbuildings from the Middle Ages until the 19th century, variously used as houses, a salt depot \nand a prison. But rather than reverting to an arena, it became a market square, designed \nby Romanticist architect Lorenzo Nottolini. Today, the ruins of the amphitheatre remain \nembedded in the various shops and residences surrounding the public square.\nD\t\nThere are many similarities between modern stadiums and the ancient amphitheatres \nintended for games. But some of the flexibility was lost at the beginning of the 20th century, \nas stadiums were developed using new products such as steel and reinforced concrete, and \nmade use of bright lights for night-time matches.\n* \u0007amphitheatre: (especially in Greek and Roman architecture) an open circular or oval building with a central space surrounded by tiers of \nseats for spectators, for the presentation of dramatic or sporting events\n\nReading\n21\nMany such stadiums are situated in suburban areas, designed for sporting use only and \nsurrounded by parking lots. These factors mean that they may not be as accessible to the \ngeneral public, require more energy to run and contribute to urban heat.\nE\t\nBut many of today’s most innovative architects see scope for the stadium to help improve the\ncity. Among the current strategies, two seem to be having particular success: the stadium as \nan urban hub, and as a power plant.\nThere’s a growing trend for stadiums to be equipped with public spaces and services that \nserve a function beyond sport, such as hotels, retail outlets, conference centres, restaurants \nand bars, children’s playgrounds and green space. Creating mixed-use developments such as \nthis reinforces compactness and multi-functionality, making more efficient use of land and \nhelping to regenerate urban spaces. \nThis opens the space up to families and a wider cross-section of society, instead of catering \nonly to sportspeople and supporters. There have been many examples of this in the UK: the \nmixed-use facilities at Wembley and Old Trafford have become a blueprint for many other \nstadiums in the world.\nF\t\nThe phenomenon of stadiums as power stations has arisen from the idea that energy\nproblems can be overcome by integrating interconnected buildings by means of a smart grid, \nwhich is an electricity supply network that uses digital communications technology to detect \nand react to local changes in usage, without significant energy losses. Stadiums are ideal \nfor these purposes, because their canopies have a large surface area for fitting photovoltaic \npanels and rise high enough (more than 40 metres) to make use of micro wind turbines.\nFreiburg Mage Solar Stadium in Germany is the first of a new wave of stadiums as power \nplants, which also includes the Amsterdam Arena and the Kaohsiung Stadium. The latter, \ninaugurated in 2009, has 8,844 photovoltaic panels producing up to 1.14 GWh of electricity \nannually. This reduces the annual output of carbon dioxide by 660 tons and supplies up \nto 80 percent of the surrounding area when the stadium is not in use. This is proof that a \nstadium can serve its city, and have a decidedly positive impact in terms of reduction of CO2 \nemissions.\nG\t\nSporting arenas have always been central to the life and culture of cities. In every era, the\nstadium has acquired new value and uses: from military fortress to residential village, public \nspace to theatre and most recently a field for experimentation in advanced engineering. \nThe stadium of today now brings together multiple functions, thus helping cities to create a \nsustainable future.\n\n\n=== READING PASSAGE 3: Cam 17 Test 1 Passage 3: To Catch a King - Charles II on the Run ===\n\nTest 1\n24\nREADING PASSAGE 3\nYou should spend about 20 minutes on Questions 27–40, which are based on Reading \nPassage 3 below.\nTo catch a king\nAnna Keay reviews Charles Spencer’s book about the hunt for King Charles II \nduring the English Civil War of the seventeenth century\n* Presbyterianism: part of the reformed Protestant religion\nCharles Spencer’s latest book, To Catch a \nKing, tells us the story of the hunt for King \nCharles II in the six weeks after his resounding \ndefeat at the Battle of Worcester in September \n1651. And what a story it is. After his father \nwas executed by the Parliamentarians in 1649, \nthe young Charles II sacrificed one of the \nvery principles his father had died for and \ndid a deal with the Scots, thereby accepting \nPresbyterianism* as the national religion in \nreturn for being crowned King of Scots. His \narrival in Edinburgh prompted the English \nParliamentary army to invade Scotland in a \npre-emptive strike. This was followed by a \nScottish invasion of England. The two sides \nfinally faced one another at Worcester in \nthe west of England in 1651. After being \ncomprehensively defeated on the meadows \noutside the city by the Parliamentarian army, \nthe 21-year-old king found himself the subject \nof a national manhunt, with a huge sum \noffered for his capture. Over the following \nsix weeks he managed, through a series of \nheart-poundingly close escapes, to evade the \nParliamentarians before seeking refuge in \nFrance. For the next nine years, the penniless \nand defeated Charles wandered around Europe \nwith only a small group of loyal supporters.\nYears later, after his restoration as king, the \n50-year-old Charles II requested a meeting \nwith the writer and diarist Samuel Pepys. His \nintention when asking Pepys to commit his \nstory to paper was to ensure that this most \nextraordinary episode was never forgotten. \nOver two three-hour sittings, the king related \nto him in great detail his personal recollections \nof the six weeks he had spent as a fugitive. As \nthe king and secretary settled down (a scene \nthat is surely a gift for a future scriptwriter), \nCharles commenced his story: ‘After the battle \nwas so absolutely lost as to be beyond hope of \nrecovery, I began to think of the best way of \nsaving myself.’\nOne of the joys of Spencer’s book, a result not \nleast of its use of Charles II’s own narrative \nas well as those of his supporters, is just how \nclose the reader gets to the action. The day-by-\nday retelling of the fugitives’ doings provides \ndelicious details: the cutting of the king’s long \nhair with agricultural shears, the use of walnut \nleaves to dye his pale skin, and the day Charles \nspent lying on a branch of the great oak tree in \nBoscobel Wood as the Parliamentary soldiers \nscoured the forest floor below. Spencer draws \nout both the humour – such as the preposterous \nrefusal of Charles’s friend Henry Wilmot \nto adopt disguise on the grounds that it was \nbeneath his dignity – and the emotional tension \nwhen the secret of the king’s presence was \ncautiously revealed to his supporters. \n\nReading\n25\nCharles’s adventures after losing the Battle of \nWorcester hide the uncomfortable truth that \nwhilst almost everyone in England had been \nappalled by the execution of his father, they \nhad not welcomed the arrival of his son with \nthe Scots army, but had instead firmly bolted \ntheir doors. This was partly because he rode at \nthe head of what looked like a foreign invasion \nforce and partly because, after almost a decade \nof civil war, people were desperate to avoid \nit beginning again. This makes it all the more \ninteresting that Charles II himself loved the \nstory so much ever after. As well as retelling \nit to anyone who would listen, causing eye-\nrolling among courtiers, he set in train a series \nof initiatives to memorialise it. There was to \nbe a new order of chivalry, the Knights of the \nRoyal Oak. A series of enormous oil paintings \ndepicting the episode were produced, including \na two-metre-wide canvas of Boscobel Wood \nand a set of six similarly enormous paintings \nof the king on the run. In 1660, Charles II \ncommissioned the artist John Michael Wright \nto paint a flying squadron of cherubs* carrying \nan oak tree to the heavens on the ceiling of his \nbedchamber. It is hard to imagine many other \nkings marking the lowest point in their life so \nenthusiastically, or indeed pulling off such an \nescape in the first place.\nCharles Spencer is the perfect person to  \npass the story on to a new generation. His \npacey, readable prose steers deftly clear of  \nmodern idioms and elegantly brings to life the \ndetails of the great tale. He has even-handed \nsympathy for both the fugitive king and the \nfierce republican regime that hunted him,  \nand he succeeds in his desire to explore far \nmore of the background of the story than \nprevious books on the subject have done. Indeed,  \nthe opening third of the book is about how \nCharles II found himself at Worcester in the first  \nplace, which for some will be reason alone to \nread To Catch a King.\nThe tantalising question left, in the end, is that \nof what it all meant. Would Charles II have \nbeen a different king had these six weeks never \nhappened? The days and nights spent in hiding \nmust have affected him in some way. Did the \nneed to assume disguises, to survive on wit and \ncharm alone, to use trickery and subterfuge to \nescape from tight corners help form him? This \nis the one area where the book doesn’t quite hit \nthe mark. Instead its depiction of Charles II in \nhis final years as an ineffective, pleasure-loving \nmonarch doesn’t do justice to the man (neither \nis it accurate), or to the complexity of his \ncharacter. But this one niggle aside, To Catch a \nKing is an excellent read, and those who come \nto it knowing little of the famous tale will find \nthey have a treat in store.\n* cherub: an image of angelic children used in paintings\n",
+      "passage": "=== READING PASSAGE 1: The Development of the London Underground Railway (Questions 1–13) ===\n\nIn the first half of the 1800s, London’s population grew at an astonishing rate, and the central area became increasingly congested. In addition, the expansion of the overground railway network resulted in more and more passengers arriving in the capital. However, in 1846, a Royal Commission decided that the railways should not be allowed to enter the City, the capital’s historic and business centre. The result was that the overground railway stations formed a ring around the City. The area within consisted of poorly built, overcrowded slums and the streets were full of horse-drawn traffic. Crossing the City became a nightmare. It could take an hour and a half to travel 8 km by horse-drawn carriage or bus. Numerous schemes were proposed to resolve these problems, but few succeeded.\n\nAmongst the most vocal advocates for a solution to London’s traffic problems was Charles Pearson, who worked as a solicitor for the City of London. He saw both social and economic advantages in building an underground railway that would link the overground railway stations together and clear London slums at the same time. His idea was to relocate the poor workers who lived in the inner-city slums to newly constructed suburbs, and to provide cheap rail travel for them to get to work. Pearson’s ideas gained support amongst some businessmen and in 1851 he submitted a plan to Parliament. It was rejected, but coincided with a proposal from another group for an underground connecting line, which Parliament passed.\n\nThe two groups merged and established the Metropolitan Railway Company in August 1854. The company’s plan was to construct an underground railway line from the Great Western Railway’s (GWR) station at Paddington to the edge of the City at Farringdon Street – a distance of almost 5 km. The organisation had difficulty in raising the funding for such a radical and expensive scheme, not least because of the critical articles printed by the press. Objectors argued that the tunnels would collapse under the weight of traffic overhead, buildings would be shaken and passengers would be poisoned by the emissions from the train engines. However, Pearson and his partners persisted.\n\nThe GWR, aware that the new line would finally enable them to run trains into the heart of the City, invested almost £250,000 in the scheme. Eventually, over a five-year period, £1m was raised. The chosen route ran beneath existing main roads to minimise the expense of demolishing buildings. Originally scheduled to be completed in 21 months, the construction of the underground line took three years. It was built just below street level using a technique known as ‘cut and cover’. A trench about ten metres wide and six metres deep was dug, and the sides temporarily held up with timber beams. Brick walls were then constructed, and finally a brick arch was added to create a tunnel. A two-metre-deep layer of soil was laid on top of the tunnel and the road above rebuilt.\n\nThe Metropolitan line, which opened on 10 January 1863, was the world’s first underground railway. On its first day, almost 40,000 passengers were carried between Paddington and Farringdon, the journey taking about 18 minutes. By the end of the Metropolitan’s first year of operation, 9.5 million journeys had been made.\n\nEven as the Metropolitan began operation, the first extensions to the line were being authorised; these were built over the next five years, reaching Moorgate in the east of London and Hammersmith in the west. The original plan was to pull the trains with steam locomotives, using firebricks in the boilers to provide steam, but these engines were never introduced. Instead, the line used specially designed locomotives that were fitted with water tanks in which steam could be condensed. However, smoke and fumes remained a problem, even though ventilation shafts were added to the tunnels.\n\nDespite the extension of the underground railway, by the 1880s, congestion on London’s streets had become worse. The problem was partly that the existing underground lines formed a circuit around the centre of London and extended to the suburbs, but did not cross the capital’s centre. The ‘cut and cover’ method of construction was not an option in this part of the capital. The only alternative was to tunnel deep underground.\n\nAlthough the technology to create these tunnels existed, steam locomotives could not be used in such a confined space. It wasn’t until the development of a reliable electric motor, and a means of transferring power from the generator to a moving train, that the world’s first deep-level electric railway, the City & South London, became possible. The line opened in 1890, and ran from the City to Stockwell, south of the River Thames. The trains were made up of three carriages and driven by electric engines. The carriages were narrow and had tiny windows just below the roof because it was thought that passengers would not want to look out at the tunnel walls. The line was not without its problems, mainly caused by an unreliable power supply. Although the City & South London Railway was a great technical achievement, it did not make a profit. Then, in 1900, the Central London Railway, known as the ‘Tuppenny Tube’, began operation using new electric locomotives. It was very popular and soon afterwards new railways and extensions were added to the growing tube network. By 1907, the heart of today’s Underground system was in place.\n\n=== READING PASSAGE 2: Stadiums - Past, Present and Future (Questions 14–26) ===\n\n[A] Stadiums are among the oldest forms of urban architecture: vast stadiums where the public could watch sporting events were at the centre of western city life as far back as the ancient Greek and Roman Empires, well before the construction of the great medieval cathedrals and the grand 19th- and 20th-century railway stations which dominated urban skylines in later eras. \u0007Today, however, stadiums are regarded with growing scepticism. Construction costs can soar above £1 billion, and stadiums finished for major events such as the Olympic Games or the FIFA World Cup have notably fallen into disuse and disrepair. \u0007But this need not be the case. History shows that stadiums can drive urban development and adapt to the culture of every age. Even today, architects and planners are finding new ways to adapt the mono-functional sports arenas which became emblematic of modernisation during the 20th century.\n\n[B] The amphitheatre* of Arles in southwest France, with a capacity of 25,000 spectators, is perhaps the best example of just how versatile stadiums can be. Built by the Romans in 90 AD, it became a fortress with four towers after the fifth century, and was then transformed into a village containing more than 200 houses. With the growing interest in conservation during the 19th century, it was converted back into an arena for the staging of bullfights, thereby returning the structure to its original use as a venue for public spectacles. \u0007Another example is the imposing arena of Verona in northern Italy, with space for 30,000 spectators, which was built 60 years before the Arles amphitheatre and 40 years before Rome’s famous Colosseum. It has endured the centuries and is currently considered one of the world’s prime sites for opera, thanks to its outstanding acoustics.\n\n[C] The area in the centre of the Italian town of Lucca, known as the Piazza dell’Anfiteatro, is yet another impressive example of an amphitheatre becoming absorbed into the fabric of the city. The site evolved in a similar way to Arles and was progressively filled with buildings from the Middle Ages until the 19th century, variously used as houses, a salt depot and a prison. But rather than reverting to an arena, it became a market square, designed by Romanticist architect Lorenzo Nottolini. Today, the ruins of the amphitheatre remain embedded in the various shops and residences surrounding the public square.\n\n[D] There are many similarities between modern stadiums and the ancient amphitheatres intended for games. But some of the flexibility was lost at the beginning of the 20th century, as stadiums were developed using new products such as steel and reinforced concrete, and made use of bright lights for night-time matches. Many such stadiums are situated in suburban areas, designed for sporting use only and surrounded by parking lots. These factors mean that they may not be as accessible to the general public, require more energy to run and contribute to urban heat.\n\n[E] But many of today’s most innovative architects see scope for the stadium to help improve the city. Among the current strategies, two seem to be having particular success: the stadium as an urban hub, and as a power plant. There’s a growing trend for stadiums to be equipped with public spaces and services that serve a function beyond sport, such as hotels, retail outlets, conference centres, restaurants and bars, children’s playgrounds and green space. Creating mixed-use developments such as this reinforces compactness and multi-functionality, making more efficient use of land and helping to regenerate urban spaces. This opens the space up to families and a wider cross-section of society, instead of catering only to sportspeople and supporters. There have been many examples of this in the UK: the mixed-use facilities at Wembley and Old Trafford have become a blueprint for many other stadiums in the world.\n\n[F] The phenomenon of stadiums as power stations has arisen from the idea that energy problems can be overcome by integrating interconnected buildings by means of a smart grid, which is an electricity supply network that uses digital communications technology to detect and react to local changes in usage, without significant energy losses. Stadiums are ideal for these purposes, because their canopies have a large surface area for fitting photovoltaic panels and rise high enough (more than 40 metres) to make use of micro wind turbines. Freiburg Mage Solar Stadium in Germany is the first of a new wave of stadiums as power plants, which also includes the Amsterdam Arena and the Kaohsiung Stadium. The latter, inaugurated in 2009, has 8,844 photovoltaic panels producing up to 1.14 GWh of electricity annually. This reduces the annual output of carbon dioxide by 660 tons and supplies up to 80 percent of the surrounding area when the stadium is not in use. This is proof that a stadium can serve its city, and have a decidedly positive impact in terms of reduction of CO2 emissions.\n\n[G] Sporting arenas have always been central to the life and culture of cities. In every era, the stadium has acquired new value and uses: from military fortress to residential village, public space to theatre and most recently a field for experimentation in advanced engineering. The stadium of today now brings together multiple functions, thus helping cities to create a sustainable future.\n\n* \u0007amphitheatre: (especially in Greek and Roman architecture) an open circular or oval building with a central space surrounded by tiers of seats for spectators, for the presentation of dramatic or sporting events\n\n=== READING PASSAGE 3: To Catch a King - Charles II on the Run (Questions 27–40) ===\n\nCharles Spencer’s latest book, To Catch a King, tells us the story of the hunt for King Charles II in the six weeks after his resounding defeat at the Battle of Worcester in September 1651. And what a story it is. After his father was executed by the Parliamentarians in 1649, the young Charles II sacrificed one of the very principles his father had died for and did a deal with the Scots, thereby accepting Presbyterianism* as the national religion in return for being crowned King of Scots. His arrival in Edinburgh prompted the English Parliamentary army to invade Scotland in a pre-emptive strike. This was followed by a Scottish invasion of England. The two sides finally faced one another at Worcester in the west of England in 1651. After being comprehensively defeated on the meadows outside the city by the Parliamentarian army, the 21-year-old king found himself the subject of a national manhunt, with a huge sum offered for his capture. Over the following six weeks he managed, through a series of heart-poundingly close escapes, to evade the Parliamentarians before seeking refuge in France. For the next nine years, the penniless and defeated Charles wandered around Europe with only a small group of loyal supporters.\n\nYears later, after his restoration as king, the 50-year-old Charles II requested a meeting with the writer and diarist Samuel Pepys. His intention when asking Pepys to commit his story to paper was to ensure that this most extraordinary episode was never forgotten. Over two three-hour sittings, the king related to him in great detail his personal recollections of the six weeks he had spent as a fugitive. As the king and secretary settled down (a scene that is surely a gift for a future scriptwriter), Charles commenced his story: ‘After the battle was so absolutely lost as to be beyond hope of recovery, I began to think of the best way of saving myself.’\n\nOne of the joys of Spencer’s book, a result not least of its use of Charles II’s own narrative as well as those of his supporters, is just how close the reader gets to the action. The day-by- day retelling of the fugitives’ doings provides delicious details: the cutting of the king’s long hair with agricultural shears, the use of walnut leaves to dye his pale skin, and the day Charles spent lying on a branch of the great oak tree in Boscobel Wood as the Parliamentary soldiers scoured the forest floor below. Spencer draws out both the humour – such as the preposterous refusal of Charles’s friend Henry Wilmot to adopt disguise on the grounds that it was beneath his dignity – and the emotional tension when the secret of the king’s presence was cautiously revealed to his supporters.\n\nCharles’s adventures after losing the Battle of Worcester hide the uncomfortable truth that whilst almost everyone in England had been appalled by the execution of his father, they had not welcomed the arrival of his son with the Scots army, but had instead firmly bolted their doors. This was partly because he rode at the head of what looked like a foreign invasion force and partly because, after almost a decade of civil war, people were desperate to avoid it beginning again. This makes it all the more interesting that Charles II himself loved the story so much ever after. As well as retelling it to anyone who would listen, causing eye- rolling among courtiers, he set in train a series of initiatives to memorialise it. There was to be a new order of chivalry, the Knights of the Royal Oak. A series of enormous oil paintings depicting the episode were produced, including a two-metre-wide canvas of Boscobel Wood and a set of six similarly enormous paintings of the king on the run. In 1660, Charles II commissioned the artist John Michael Wright to paint a flying squadron of cherubs* carrying an oak tree to the heavens on the ceiling of his bedchamber. It is hard to imagine many other kings marking the lowest point in their life so enthusiastically, or indeed pulling off such an escape in the first place.\n\nCharles Spencer is the perfect person to pass the story on to a new generation. His pacey, readable prose steers deftly clear of modern idioms and elegantly brings to life the details of the great tale. He has even-handed sympathy for both the fugitive king and the fierce republican regime that hunted him, and he succeeds in his desire to explore far more of the background of the story than previous books on the subject have done. Indeed, the opening third of the book is about how Charles II found himself at Worcester in the first place, which for some will be reason alone to read To Catch a King.\n\nThe tantalising question left, in the end, is that of what it all meant. Would Charles II have been a different king had these six weeks never happened? The days and nights spent in hiding must have affected him in some way. Did the need to assume disguises, to survive on wit and charm alone, to use trickery and subterfuge to escape from tight corners help form him? This is the one area where the book doesn’t quite hit the mark. Instead its depiction of Charles II in his final years as an ineffective, pleasure-loving monarch doesn’t do justice to the man (neither is it accurate), or to the complexity of his character. But this one niggle aside, To Catch a King is an excellent read, and those who come to it knowing little of the famous tale will find they have a treat in store.\n\n* Presbyterianism: part of the reformed Protestant religion\n\n* cherub: an image of angelic children used in paintings",
       "questionGroups": [
         {
           "from": 1,
@@ -45808,7 +44467,33 @@ var IELTS_BANK_100 = {
             "explanation": "Đáp án đúng là 'monarchical legitimacy'. Câu hoàn chỉnh: \"Charles II's survival in exile preserved the constitutional monarchical legitimacy of the Stuarts.\""
           }
         ]
-      }
+      },
+      "passages": [
+        {
+          "id": 1,
+          "title": "Passage 1: London Underground Railway",
+          "wordCount": 900,
+          "fromQ": 1,
+          "toQ": 13,
+          "text": "In the first half of the 1800s, London’s population grew at an astonishing rate, and the central area became increasingly congested. In addition, the expansion of the overground railway network resulted in more and more passengers arriving in the capital. However, in 1846, a Royal Commission decided that the railways should not be allowed to enter the City, the capital’s historic and business centre. The result was that the overground railway stations formed a ring around the City. The area within consisted of poorly built, overcrowded slums and the streets were full of horse-drawn traffic. Crossing the City became a nightmare. It could take an hour and a half to travel 8 km by horse-drawn carriage or bus. Numerous schemes were proposed to resolve these problems, but few succeeded.\n\nAmongst the most vocal advocates for a solution to London’s traffic problems was Charles Pearson, who worked as a solicitor for the City of London. He saw both social and economic advantages in building an underground railway that would link the overground railway stations together and clear London slums at the same time. His idea was to relocate the poor workers who lived in the inner-city slums to newly constructed suburbs, and to provide cheap rail travel for them to get to work. Pearson’s ideas gained support amongst some businessmen and in 1851 he submitted a plan to Parliament. It was rejected, but coincided with a proposal from another group for an underground connecting line, which Parliament passed.\n\nThe two groups merged and established the Metropolitan Railway Company in August 1854. The company’s plan was to construct an underground railway line from the Great Western Railway’s (GWR) station at Paddington to the edge of the City at Farringdon Street – a distance of almost 5 km. The organisation had difficulty in raising the funding for such a radical and expensive scheme, not least because of the critical articles printed by the press. Objectors argued that the tunnels would collapse under the weight of traffic overhead, buildings would be shaken and passengers would be poisoned by the emissions from the train engines. However, Pearson and his partners persisted.\n\nThe GWR, aware that the new line would finally enable them to run trains into the heart of the City, invested almost £250,000 in the scheme. Eventually, over a five-year period, £1m was raised. The chosen route ran beneath existing main roads to minimise the expense of demolishing buildings. Originally scheduled to be completed in 21 months, the construction of the underground line took three years. It was built just below street level using a technique known as ‘cut and cover’. A trench about ten metres wide and six metres deep was dug, and the sides temporarily held up with timber beams. Brick walls were then constructed, and finally a brick arch was added to create a tunnel. A two-metre-deep layer of soil was laid on top of the tunnel and the road above rebuilt.\n\nThe Metropolitan line, which opened on 10 January 1863, was the world’s first underground railway. On its first day, almost 40,000 passengers were carried between Paddington and Farringdon, the journey taking about 18 minutes. By the end of the Metropolitan’s first year of operation, 9.5 million journeys had been made.\n\nEven as the Metropolitan began operation, the first extensions to the line were being authorised; these were built over the next five years, reaching Moorgate in the east of London and Hammersmith in the west. The original plan was to pull the trains with steam locomotives, using firebricks in the boilers to provide steam, but these engines were never introduced. Instead, the line used specially designed locomotives that were fitted with water tanks in which steam could be condensed. However, smoke and fumes remained a problem, even though ventilation shafts were added to the tunnels.\n\nDespite the extension of the underground railway, by the 1880s, congestion on London’s streets had become worse. The problem was partly that the existing underground lines formed a circuit around the centre of London and extended to the suburbs, but did not cross the capital’s centre. The ‘cut and cover’ method of construction was not an option in this part of the capital. The only alternative was to tunnel deep underground.\n\nAlthough the technology to create these tunnels existed, steam locomotives could not be used in such a confined space. It wasn’t until the development of a reliable electric motor, and a means of transferring power from the generator to a moving train, that the world’s first deep-level electric railway, the City & South London, became possible. The line opened in 1890, and ran from the City to Stockwell, south of the River Thames. The trains were made up of three carriages and driven by electric engines. The carriages were narrow and had tiny windows just below the roof because it was thought that passengers would not want to look out at the tunnel walls. The line was not without its problems, mainly caused by an unreliable power supply. Although the City & South London Railway was a great technical achievement, it did not make a profit. Then, in 1900, the Central London Railway, known as the ‘Tuppenny Tube’, began operation using new electric locomotives. It was very popular and soon afterwards new railways and extensions were added to the growing tube network. By 1907, the heart of today’s Underground system was in place."
+        },
+        {
+          "id": 2,
+          "title": "Passage 2: Stadiums - Past, Present and Future",
+          "wordCount": 911,
+          "fromQ": 14,
+          "toQ": 26,
+          "text": "[A] Stadiums are among the oldest forms of urban architecture: vast stadiums where the public could watch sporting events were at the centre of western city life as far back as the ancient Greek and Roman Empires, well before the construction of the great medieval cathedrals and the grand 19th- and 20th-century railway stations which dominated urban skylines in later eras. \u0007Today, however, stadiums are regarded with growing scepticism. Construction costs can soar above £1 billion, and stadiums finished for major events such as the Olympic Games or the FIFA World Cup have notably fallen into disuse and disrepair. \u0007But this need not be the case. History shows that stadiums can drive urban development and adapt to the culture of every age. Even today, architects and planners are finding new ways to adapt the mono-functional sports arenas which became emblematic of modernisation during the 20th century.\n\n[B] The amphitheatre* of Arles in southwest France, with a capacity of 25,000 spectators, is perhaps the best example of just how versatile stadiums can be. Built by the Romans in 90 AD, it became a fortress with four towers after the fifth century, and was then transformed into a village containing more than 200 houses. With the growing interest in conservation during the 19th century, it was converted back into an arena for the staging of bullfights, thereby returning the structure to its original use as a venue for public spectacles. \u0007Another example is the imposing arena of Verona in northern Italy, with space for 30,000 spectators, which was built 60 years before the Arles amphitheatre and 40 years before Rome’s famous Colosseum. It has endured the centuries and is currently considered one of the world’s prime sites for opera, thanks to its outstanding acoustics.\n\n[C] The area in the centre of the Italian town of Lucca, known as the Piazza dell’Anfiteatro, is yet another impressive example of an amphitheatre becoming absorbed into the fabric of the city. The site evolved in a similar way to Arles and was progressively filled with buildings from the Middle Ages until the 19th century, variously used as houses, a salt depot and a prison. But rather than reverting to an arena, it became a market square, designed by Romanticist architect Lorenzo Nottolini. Today, the ruins of the amphitheatre remain embedded in the various shops and residences surrounding the public square.\n\n[D] There are many similarities between modern stadiums and the ancient amphitheatres intended for games. But some of the flexibility was lost at the beginning of the 20th century, as stadiums were developed using new products such as steel and reinforced concrete, and made use of bright lights for night-time matches. Many such stadiums are situated in suburban areas, designed for sporting use only and surrounded by parking lots. These factors mean that they may not be as accessible to the general public, require more energy to run and contribute to urban heat.\n\n[E] But many of today’s most innovative architects see scope for the stadium to help improve the city. Among the current strategies, two seem to be having particular success: the stadium as an urban hub, and as a power plant. There’s a growing trend for stadiums to be equipped with public spaces and services that serve a function beyond sport, such as hotels, retail outlets, conference centres, restaurants and bars, children’s playgrounds and green space. Creating mixed-use developments such as this reinforces compactness and multi-functionality, making more efficient use of land and helping to regenerate urban spaces. This opens the space up to families and a wider cross-section of society, instead of catering only to sportspeople and supporters. There have been many examples of this in the UK: the mixed-use facilities at Wembley and Old Trafford have become a blueprint for many other stadiums in the world.\n\n[F] The phenomenon of stadiums as power stations has arisen from the idea that energy problems can be overcome by integrating interconnected buildings by means of a smart grid, which is an electricity supply network that uses digital communications technology to detect and react to local changes in usage, without significant energy losses. Stadiums are ideal for these purposes, because their canopies have a large surface area for fitting photovoltaic panels and rise high enough (more than 40 metres) to make use of micro wind turbines. Freiburg Mage Solar Stadium in Germany is the first of a new wave of stadiums as power plants, which also includes the Amsterdam Arena and the Kaohsiung Stadium. The latter, inaugurated in 2009, has 8,844 photovoltaic panels producing up to 1.14 GWh of electricity annually. This reduces the annual output of carbon dioxide by 660 tons and supplies up to 80 percent of the surrounding area when the stadium is not in use. This is proof that a stadium can serve its city, and have a decidedly positive impact in terms of reduction of CO2 emissions.\n\n[G] Sporting arenas have always been central to the life and culture of cities. In every era, the stadium has acquired new value and uses: from military fortress to residential village, public space to theatre and most recently a field for experimentation in advanced engineering. The stadium of today now brings together multiple functions, thus helping cities to create a sustainable future.\n\n* \u0007amphitheatre: (especially in Greek and Roman architecture) an open circular or oval building with a central space surrounded by tiers of seats for spectators, for the presentation of dramatic or sporting events"
+        },
+        {
+          "id": 3,
+          "title": "Passage 3: To Catch a King - Charles II on the Run",
+          "wordCount": 966,
+          "fromQ": 27,
+          "toQ": 40,
+          "text": "Charles Spencer’s latest book, To Catch a King, tells us the story of the hunt for King Charles II in the six weeks after his resounding defeat at the Battle of Worcester in September 1651. And what a story it is. After his father was executed by the Parliamentarians in 1649, the young Charles II sacrificed one of the very principles his father had died for and did a deal with the Scots, thereby accepting Presbyterianism* as the national religion in return for being crowned King of Scots. His arrival in Edinburgh prompted the English Parliamentary army to invade Scotland in a pre-emptive strike. This was followed by a Scottish invasion of England. The two sides finally faced one another at Worcester in the west of England in 1651. After being comprehensively defeated on the meadows outside the city by the Parliamentarian army, the 21-year-old king found himself the subject of a national manhunt, with a huge sum offered for his capture. Over the following six weeks he managed, through a series of heart-poundingly close escapes, to evade the Parliamentarians before seeking refuge in France. For the next nine years, the penniless and defeated Charles wandered around Europe with only a small group of loyal supporters.\n\nYears later, after his restoration as king, the 50-year-old Charles II requested a meeting with the writer and diarist Samuel Pepys. His intention when asking Pepys to commit his story to paper was to ensure that this most extraordinary episode was never forgotten. Over two three-hour sittings, the king related to him in great detail his personal recollections of the six weeks he had spent as a fugitive. As the king and secretary settled down (a scene that is surely a gift for a future scriptwriter), Charles commenced his story: ‘After the battle was so absolutely lost as to be beyond hope of recovery, I began to think of the best way of saving myself.’\n\nOne of the joys of Spencer’s book, a result not least of its use of Charles II’s own narrative as well as those of his supporters, is just how close the reader gets to the action. The day-by- day retelling of the fugitives’ doings provides delicious details: the cutting of the king’s long hair with agricultural shears, the use of walnut leaves to dye his pale skin, and the day Charles spent lying on a branch of the great oak tree in Boscobel Wood as the Parliamentary soldiers scoured the forest floor below. Spencer draws out both the humour – such as the preposterous refusal of Charles’s friend Henry Wilmot to adopt disguise on the grounds that it was beneath his dignity – and the emotional tension when the secret of the king’s presence was cautiously revealed to his supporters.\n\nCharles’s adventures after losing the Battle of Worcester hide the uncomfortable truth that whilst almost everyone in England had been appalled by the execution of his father, they had not welcomed the arrival of his son with the Scots army, but had instead firmly bolted their doors. This was partly because he rode at the head of what looked like a foreign invasion force and partly because, after almost a decade of civil war, people were desperate to avoid it beginning again. This makes it all the more interesting that Charles II himself loved the story so much ever after. As well as retelling it to anyone who would listen, causing eye- rolling among courtiers, he set in train a series of initiatives to memorialise it. There was to be a new order of chivalry, the Knights of the Royal Oak. A series of enormous oil paintings depicting the episode were produced, including a two-metre-wide canvas of Boscobel Wood and a set of six similarly enormous paintings of the king on the run. In 1660, Charles II commissioned the artist John Michael Wright to paint a flying squadron of cherubs* carrying an oak tree to the heavens on the ceiling of his bedchamber. It is hard to imagine many other kings marking the lowest point in their life so enthusiastically, or indeed pulling off such an escape in the first place.\n\nCharles Spencer is the perfect person to pass the story on to a new generation. His pacey, readable prose steers deftly clear of modern idioms and elegantly brings to life the details of the great tale. He has even-handed sympathy for both the fugitive king and the fierce republican regime that hunted him, and he succeeds in his desire to explore far more of the background of the story than previous books on the subject have done. Indeed, the opening third of the book is about how Charles II found himself at Worcester in the first place, which for some will be reason alone to read To Catch a King.\n\nThe tantalising question left, in the end, is that of what it all meant. Would Charles II have been a different king had these six weeks never happened? The days and nights spent in hiding must have affected him in some way. Did the need to assume disguises, to survive on wit and charm alone, to use trickery and subterfuge to escape from tight corners help form him? This is the one area where the book doesn’t quite hit the mark. Instead its depiction of Charles II in his final years as an ineffective, pleasure-loving monarch doesn’t do justice to the man (neither is it accurate), or to the complexity of his character. But this one niggle aside, To Catch a King is an excellent read, and those who come to it knowing little of the famous tale will find they have a treat in store.\n\n* Presbyterianism: part of the reformed Protestant religion\n\n* cherub: an image of angelic children used in paintings"
+        }
+      ]
     },
     {
       "id": "read_test_5",
@@ -46318,7 +45003,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_6",
       "skill": "reading",
       "testNum": 6,
-      "title": "Cam 21 (2026) Test 3 Passage 3: Academic Research into Economy, Business & Globalization (Passage 1)",
+      "title": "Cam 21 (2026) Test 3 Passage 3: Academic Research into Economy, Business & Globalization",
       "topic": "economy",
       "topicName": "Economy, Business & Globalization",
       "questionType": "tfng",
@@ -46697,7 +45382,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_7",
       "skill": "reading",
       "testNum": 7,
-      "title": "Cam 21 (2026) Test 3 Passage 1: Academic Research into Culture, Heritage & Tourism (Passage 2)",
+      "title": "Cam 21 (2026) Test 3 Passage 1: Academic Research into Culture, Heritage & Tourism",
       "topic": "culture",
       "topicName": "Culture, Heritage & Tourism",
       "questionType": "matching_headings",
@@ -47086,7 +45771,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_8",
       "skill": "reading",
       "testNum": 8,
-      "title": "Cam 21 (2026) Test 3 Passage 2: Academic Research into History & Archaeology (Passage 3)",
+      "title": "Cam 21 (2026) Test 3 Passage 2: Academic Research into History & Archaeology",
       "topic": "history",
       "topicName": "History & Archaeology",
       "questionType": "summary_completion",
@@ -47475,7 +46160,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_9",
       "skill": "reading",
       "testNum": 9,
-      "title": "Cam 19 (2024) Test 4 Passage 3: Academic Research into Science & Space Exploration (Passage 1)",
+      "title": "Cam 19 (2024) Test 4 Passage 3: Academic Research into Science & Space Exploration",
       "topic": "science",
       "topicName": "Science & Space Exploration",
       "questionType": "multiple_choice",
@@ -47884,7 +46569,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_10",
       "skill": "reading",
       "testNum": 10,
-      "title": "Cam 19 (2024) Test 4 Passage 1: Academic Research into Crime, Law & Rehabilitation (Passage 2)",
+      "title": "Cam 19 (2024) Test 4 Passage 1: Academic Research into Crime, Law & Rehabilitation",
       "topic": "crime",
       "topicName": "Crime, Law & Rehabilitation",
       "questionType": "matching_info",
@@ -48273,7 +46958,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_11",
       "skill": "reading",
       "testNum": 11,
-      "title": "Cam 19 (2024) Test 4 Passage 2: Academic Research into Media, Information & Advertising (Passage 3)",
+      "title": "Cam 19 (2024) Test 4 Passage 2: Academic Research into Media, Information & Advertising",
       "topic": "media",
       "topicName": "Media, Information & Advertising",
       "questionType": "tfng",
@@ -48652,7 +47337,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_12",
       "skill": "reading",
       "testNum": 12,
-      "title": "Cam 19 (2024) Test 5 Passage 3: Academic Research into Work, Career & Automation (Passage 1)",
+      "title": "Cam 19 (2024) Test 5 Passage 3: Academic Research into Work, Career & Automation",
       "topic": "work",
       "topicName": "Work, Career & Automation",
       "questionType": "matching_headings",
@@ -49041,7 +47726,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_13",
       "skill": "reading",
       "testNum": 13,
-      "title": "Cam 19 (2024) Test 5 Passage 1: Academic Research into Education & Academic Growth (Passage 2)",
+      "title": "Cam 19 (2024) Test 5 Passage 1: Academic Research into Education & Academic Growth",
       "topic": "education",
       "topicName": "Education & Academic Growth",
       "questionType": "summary_completion",
@@ -49430,7 +48115,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_14",
       "skill": "reading",
       "testNum": 14,
-      "title": "Cam 19 (2024) Test 5 Passage 2: Academic Research into Environment & Climate Resilience (Passage 3)",
+      "title": "Cam 19 (2024) Test 5 Passage 2: Academic Research into Environment & Climate Resilience",
       "topic": "environment",
       "topicName": "Environment & Climate Resilience",
       "questionType": "multiple_choice",
@@ -49839,7 +48524,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_15",
       "skill": "reading",
       "testNum": 15,
-      "title": "Cam 19 (2024) Test 6 Passage 3: Academic Research into Technology & Artificial Intelligence (Passage 1)",
+      "title": "Cam 19 (2024) Test 6 Passage 3: Academic Research into Technology & Artificial Intelligence",
       "topic": "technology",
       "topicName": "Technology & Artificial Intelligence",
       "questionType": "matching_info",
@@ -50228,7 +48913,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_16",
       "skill": "reading",
       "testNum": 16,
-      "title": "Cam 19 (2024) Test 6 Passage 1: Academic Research into Health, Medicine & Well-being (Passage 2)",
+      "title": "Cam 19 (2024) Test 6 Passage 1: Academic Research into Health, Medicine & Well-being",
       "topic": "health",
       "topicName": "Health, Medicine & Well-being",
       "questionType": "tfng",
@@ -50607,7 +49292,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_17",
       "skill": "reading",
       "testNum": 17,
-      "title": "Cam 18 (2023) Test 6 Passage 2: Academic Research into Society, Urbanization & Demographics (Passage 3)",
+      "title": "Cam 18 (2023) Test 6 Passage 2: Academic Research into Society, Urbanization & Demographics",
       "topic": "society",
       "topicName": "Society, Urbanization & Demographics",
       "questionType": "matching_headings",
@@ -50996,7 +49681,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_18",
       "skill": "reading",
       "testNum": 18,
-      "title": "Cam 18 (2023) Test 7 Passage 3: Academic Research into Economy, Business & Globalization (Passage 1)",
+      "title": "Cam 18 (2023) Test 7 Passage 3: Academic Research into Economy, Business & Globalization",
       "topic": "economy",
       "topicName": "Economy, Business & Globalization",
       "questionType": "summary_completion",
@@ -51385,7 +50070,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_19",
       "skill": "reading",
       "testNum": 19,
-      "title": "Cam 18 (2023) Test 7 Passage 1: Academic Research into Culture, Heritage & Tourism (Passage 2)",
+      "title": "Cam 18 (2023) Test 7 Passage 1: Academic Research into Culture, Heritage & Tourism",
       "topic": "culture",
       "topicName": "Culture, Heritage & Tourism",
       "questionType": "multiple_choice",
@@ -51794,7 +50479,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_20",
       "skill": "reading",
       "testNum": 20,
-      "title": "Cam 18 (2023) Test 7 Passage 2: Academic Research into History & Archaeology (Passage 3)",
+      "title": "Cam 18 (2023) Test 7 Passage 2: Academic Research into History & Archaeology",
       "topic": "history",
       "topicName": "History & Archaeology",
       "questionType": "matching_info",
@@ -52183,7 +50868,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_21",
       "skill": "reading",
       "testNum": 21,
-      "title": "Cam 18 (2023) Test 8 Passage 3: Academic Research into Science & Space Exploration (Passage 1)",
+      "title": "Cam 18 (2023) Test 8 Passage 3: Academic Research into Science & Space Exploration",
       "topic": "science",
       "topicName": "Science & Space Exploration",
       "questionType": "tfng",
@@ -52562,7 +51247,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_22",
       "skill": "reading",
       "testNum": 22,
-      "title": "Cam 18 (2023) Test 8 Passage 1: Academic Research into Crime, Law & Rehabilitation (Passage 2)",
+      "title": "Cam 18 (2023) Test 8 Passage 1: Academic Research into Crime, Law & Rehabilitation",
       "topic": "crime",
       "topicName": "Crime, Law & Rehabilitation",
       "questionType": "matching_headings",
@@ -52951,7 +51636,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_23",
       "skill": "reading",
       "testNum": 23,
-      "title": "Cam 18 (2023) Test 8 Passage 2: Academic Research into Media, Information & Advertising (Passage 3)",
+      "title": "Cam 18 (2023) Test 8 Passage 2: Academic Research into Media, Information & Advertising",
       "topic": "media",
       "topicName": "Media, Information & Advertising",
       "questionType": "summary_completion",
@@ -53340,7 +52025,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_24",
       "skill": "reading",
       "testNum": 24,
-      "title": "Cam 18 (2023) Test 9 Passage 3: Academic Research into Work, Career & Automation (Passage 1)",
+      "title": "Cam 18 (2023) Test 9 Passage 3: Academic Research into Work, Career & Automation",
       "topic": "work",
       "topicName": "Work, Career & Automation",
       "questionType": "multiple_choice",
@@ -53749,7 +52434,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_25",
       "skill": "reading",
       "testNum": 25,
-      "title": "Cam 17 (2022) Test 9 Passage 1: Academic Research into Education & Academic Growth (Passage 2)",
+      "title": "Cam 17 (2022) Test 9 Passage 1: Academic Research into Education & Academic Growth",
       "topic": "education",
       "topicName": "Education & Academic Growth",
       "questionType": "matching_info",
@@ -54138,7 +52823,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_26",
       "skill": "reading",
       "testNum": 26,
-      "title": "Cam 17 (2022) Test 9 Passage 2: Academic Research into Environment & Climate Resilience (Passage 3)",
+      "title": "Cam 17 (2022) Test 9 Passage 2: Academic Research into Environment & Climate Resilience",
       "topic": "environment",
       "topicName": "Environment & Climate Resilience",
       "questionType": "tfng",
@@ -54517,7 +53202,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_27",
       "skill": "reading",
       "testNum": 27,
-      "title": "Cam 17 (2022) Test 10 Passage 3: Academic Research into Technology & Artificial Intelligence (Passage 1)",
+      "title": "Cam 17 (2022) Test 10 Passage 3: Academic Research into Technology & Artificial Intelligence",
       "topic": "technology",
       "topicName": "Technology & Artificial Intelligence",
       "questionType": "matching_headings",
@@ -54906,7 +53591,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_28",
       "skill": "reading",
       "testNum": 28,
-      "title": "Cam 17 (2022) Test 10 Passage 1: Academic Research into Health, Medicine & Well-being (Passage 2)",
+      "title": "Cam 17 (2022) Test 10 Passage 1: Academic Research into Health, Medicine & Well-being",
       "topic": "health",
       "topicName": "Health, Medicine & Well-being",
       "questionType": "summary_completion",
@@ -55295,7 +53980,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_29",
       "skill": "reading",
       "testNum": 29,
-      "title": "Cam 17 (2022) Test 10 Passage 2: Academic Research into Society, Urbanization & Demographics (Passage 3)",
+      "title": "Cam 17 (2022) Test 10 Passage 2: Academic Research into Society, Urbanization & Demographics",
       "topic": "society",
       "topicName": "Society, Urbanization & Demographics",
       "questionType": "multiple_choice",
@@ -55704,7 +54389,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_30",
       "skill": "reading",
       "testNum": 30,
-      "title": "Cam 17 (2022) Test 11 Passage 3: Academic Research into Economy, Business & Globalization (Passage 1)",
+      "title": "Cam 17 (2022) Test 11 Passage 3: Academic Research into Economy, Business & Globalization",
       "topic": "economy",
       "topicName": "Economy, Business & Globalization",
       "questionType": "matching_info",
@@ -56093,7 +54778,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_31",
       "skill": "reading",
       "testNum": 31,
-      "title": "Cam 17 (2022) Test 11 Passage 1: Academic Research into Culture, Heritage & Tourism (Passage 2)",
+      "title": "Cam 17 (2022) Test 11 Passage 1: Academic Research into Culture, Heritage & Tourism",
       "topic": "culture",
       "topicName": "Culture, Heritage & Tourism",
       "questionType": "tfng",
@@ -56472,7 +55157,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_32",
       "skill": "reading",
       "testNum": 32,
-      "title": "Cam 17 (2022) Test 11 Passage 2: Academic Research into History & Archaeology (Passage 3)",
+      "title": "Cam 17 (2022) Test 11 Passage 2: Academic Research into History & Archaeology",
       "topic": "history",
       "topicName": "History & Archaeology",
       "questionType": "matching_headings",
@@ -56861,7 +55546,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_33",
       "skill": "reading",
       "testNum": 33,
-      "title": "Cam 17 (2022) Test 12 Passage 3: Academic Research into Science & Space Exploration (Passage 1)",
+      "title": "Cam 17 (2022) Test 12 Passage 3: Academic Research into Science & Space Exploration",
       "topic": "science",
       "topicName": "Science & Space Exploration",
       "questionType": "summary_completion",
@@ -57250,7 +55935,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_34",
       "skill": "reading",
       "testNum": 34,
-      "title": "Cam 17 (2022) Test 12 Passage 1: Academic Research into Crime, Law & Rehabilitation (Passage 2)",
+      "title": "Cam 17 (2022) Test 12 Passage 1: Academic Research into Crime, Law & Rehabilitation",
       "topic": "crime",
       "topicName": "Crime, Law & Rehabilitation",
       "questionType": "multiple_choice",
@@ -57659,7 +56344,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_35",
       "skill": "reading",
       "testNum": 35,
-      "title": "Cam 16 (2021) Test 12 Passage 2: Academic Research into Media, Information & Advertising (Passage 3)",
+      "title": "Cam 16 (2021) Test 12 Passage 2: Academic Research into Media, Information & Advertising",
       "topic": "media",
       "topicName": "Media, Information & Advertising",
       "questionType": "matching_info",
@@ -58048,7 +56733,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_36",
       "skill": "reading",
       "testNum": 36,
-      "title": "Cam 16 (2021) Test 13 Passage 3: Academic Research into Work, Career & Automation (Passage 1)",
+      "title": "Cam 16 (2021) Test 13 Passage 3: Academic Research into Work, Career & Automation",
       "topic": "work",
       "topicName": "Work, Career & Automation",
       "questionType": "tfng",
@@ -58427,7 +57112,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_37",
       "skill": "reading",
       "testNum": 37,
-      "title": "Cam 16 (2021) Test 13 Passage 1: Academic Research into Education & Academic Growth (Passage 2)",
+      "title": "Cam 16 (2021) Test 13 Passage 1: Academic Research into Education & Academic Growth",
       "topic": "education",
       "topicName": "Education & Academic Growth",
       "questionType": "matching_headings",
@@ -58816,7 +57501,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_38",
       "skill": "reading",
       "testNum": 38,
-      "title": "Cam 16 (2021) Test 13 Passage 2: Academic Research into Environment & Climate Resilience (Passage 3)",
+      "title": "Cam 16 (2021) Test 13 Passage 2: Academic Research into Environment & Climate Resilience",
       "topic": "environment",
       "topicName": "Environment & Climate Resilience",
       "questionType": "summary_completion",
@@ -59205,7 +57890,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_39",
       "skill": "reading",
       "testNum": 39,
-      "title": "Cam 16 (2021) Test 14 Passage 3: Academic Research into Technology & Artificial Intelligence (Passage 1)",
+      "title": "Cam 16 (2021) Test 14 Passage 3: Academic Research into Technology & Artificial Intelligence",
       "topic": "technology",
       "topicName": "Technology & Artificial Intelligence",
       "questionType": "multiple_choice",
@@ -59614,7 +58299,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_40",
       "skill": "reading",
       "testNum": 40,
-      "title": "Cam 16 (2021) Test 14 Passage 1: Academic Research into Health, Medicine & Well-being (Passage 2)",
+      "title": "Cam 16 (2021) Test 14 Passage 1: Academic Research into Health, Medicine & Well-being",
       "topic": "health",
       "topicName": "Health, Medicine & Well-being",
       "questionType": "matching_info",
@@ -60003,7 +58688,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_41",
       "skill": "reading",
       "testNum": 41,
-      "title": "Cam 16 (2021) Test 14 Passage 2: Academic Research into Society, Urbanization & Demographics (Passage 3)",
+      "title": "Cam 16 (2021) Test 14 Passage 2: Academic Research into Society, Urbanization & Demographics",
       "topic": "society",
       "topicName": "Society, Urbanization & Demographics",
       "questionType": "tfng",
@@ -60382,7 +59067,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_42",
       "skill": "reading",
       "testNum": 42,
-      "title": "Cam 16 (2021) Test 15 Passage 3: Academic Research into Economy, Business & Globalization (Passage 1)",
+      "title": "Cam 16 (2021) Test 15 Passage 3: Academic Research into Economy, Business & Globalization",
       "topic": "economy",
       "topicName": "Economy, Business & Globalization",
       "questionType": "matching_headings",
@@ -60771,7 +59456,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_43",
       "skill": "reading",
       "testNum": 43,
-      "title": "Cam 15 (2020) Test 15 Passage 1: Academic Research into Culture, Heritage & Tourism (Passage 2)",
+      "title": "Cam 15 (2020) Test 15 Passage 1: Academic Research into Culture, Heritage & Tourism",
       "topic": "culture",
       "topicName": "Culture, Heritage & Tourism",
       "questionType": "summary_completion",
@@ -61160,7 +59845,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_44",
       "skill": "reading",
       "testNum": 44,
-      "title": "Cam 15 (2020) Test 15 Passage 2: Academic Research into History & Archaeology (Passage 3)",
+      "title": "Cam 15 (2020) Test 15 Passage 2: Academic Research into History & Archaeology",
       "topic": "history",
       "topicName": "History & Archaeology",
       "questionType": "multiple_choice",
@@ -61569,7 +60254,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_45",
       "skill": "reading",
       "testNum": 45,
-      "title": "Cam 15 (2020) Test 16 Passage 3: Academic Research into Science & Space Exploration (Passage 1)",
+      "title": "Cam 15 (2020) Test 16 Passage 3: Academic Research into Science & Space Exploration",
       "topic": "science",
       "topicName": "Science & Space Exploration",
       "questionType": "matching_info",
@@ -61958,7 +60643,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_46",
       "skill": "reading",
       "testNum": 46,
-      "title": "Cam 15 (2020) Test 16 Passage 1: Academic Research into Crime, Law & Rehabilitation (Passage 2)",
+      "title": "Cam 15 (2020) Test 16 Passage 1: Academic Research into Crime, Law & Rehabilitation",
       "topic": "crime",
       "topicName": "Crime, Law & Rehabilitation",
       "questionType": "tfng",
@@ -62337,7 +61022,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_47",
       "skill": "reading",
       "testNum": 47,
-      "title": "Cam 15 (2020) Test 16 Passage 2: Academic Research into Media, Information & Advertising (Passage 3)",
+      "title": "Cam 15 (2020) Test 16 Passage 2: Academic Research into Media, Information & Advertising",
       "topic": "media",
       "topicName": "Media, Information & Advertising",
       "questionType": "matching_headings",
@@ -62726,7 +61411,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_48",
       "skill": "reading",
       "testNum": 48,
-      "title": "Cam 15 (2020) Test 17 Passage 3: Academic Research into Work, Career & Automation (Passage 1)",
+      "title": "Cam 15 (2020) Test 17 Passage 3: Academic Research into Work, Career & Automation",
       "topic": "work",
       "topicName": "Work, Career & Automation",
       "questionType": "summary_completion",
@@ -63115,7 +61800,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_49",
       "skill": "reading",
       "testNum": 49,
-      "title": "Cam 15 (2020) Test 17 Passage 1: Academic Research into Education & Academic Growth (Passage 2)",
+      "title": "Cam 15 (2020) Test 17 Passage 1: Academic Research into Education & Academic Growth",
       "topic": "education",
       "topicName": "Education & Academic Growth",
       "questionType": "multiple_choice",
@@ -63524,7 +62209,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_50",
       "skill": "reading",
       "testNum": 50,
-      "title": "Cam 15 (2020) Test 17 Passage 2: Academic Research into Environment & Climate Resilience (Passage 3)",
+      "title": "Cam 15 (2020) Test 17 Passage 2: Academic Research into Environment & Climate Resilience",
       "topic": "environment",
       "topicName": "Environment & Climate Resilience",
       "questionType": "matching_info",
@@ -63913,7 +62598,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_51",
       "skill": "reading",
       "testNum": 51,
-      "title": "Cam 13 (2018) Test 18 Passage 3: Academic Research into Technology & Artificial Intelligence (Passage 1)",
+      "title": "Cam 13 (2018) Test 18 Passage 3: Academic Research into Technology & Artificial Intelligence",
       "topic": "technology",
       "topicName": "Technology & Artificial Intelligence",
       "questionType": "tfng",
@@ -64292,7 +62977,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_52",
       "skill": "reading",
       "testNum": 52,
-      "title": "Cam 13 (2018) Test 18 Passage 1: Academic Research into Health, Medicine & Well-being (Passage 2)",
+      "title": "Cam 13 (2018) Test 18 Passage 1: Academic Research into Health, Medicine & Well-being",
       "topic": "health",
       "topicName": "Health, Medicine & Well-being",
       "questionType": "matching_headings",
@@ -64681,7 +63366,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_53",
       "skill": "reading",
       "testNum": 53,
-      "title": "Cam 13 (2018) Test 18 Passage 2: Academic Research into Society, Urbanization & Demographics (Passage 3)",
+      "title": "Cam 13 (2018) Test 18 Passage 2: Academic Research into Society, Urbanization & Demographics",
       "topic": "society",
       "topicName": "Society, Urbanization & Demographics",
       "questionType": "summary_completion",
@@ -65070,7 +63755,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_54",
       "skill": "reading",
       "testNum": 54,
-      "title": "Cam 13 (2018) Test 19 Passage 3: Academic Research into Economy, Business & Globalization (Passage 1)",
+      "title": "Cam 13 (2018) Test 19 Passage 3: Academic Research into Economy, Business & Globalization",
       "topic": "economy",
       "topicName": "Economy, Business & Globalization",
       "questionType": "multiple_choice",
@@ -65479,7 +64164,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_55",
       "skill": "reading",
       "testNum": 55,
-      "title": "Cam 13 (2018) Test 19 Passage 1: Academic Research into Culture, Heritage & Tourism (Passage 2)",
+      "title": "Cam 13 (2018) Test 19 Passage 1: Academic Research into Culture, Heritage & Tourism",
       "topic": "culture",
       "topicName": "Culture, Heritage & Tourism",
       "questionType": "matching_info",
@@ -65868,7 +64553,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_56",
       "skill": "reading",
       "testNum": 56,
-      "title": "Cam 13 (2018) Test 19 Passage 2: Academic Research into History & Archaeology (Passage 3)",
+      "title": "Cam 13 (2018) Test 19 Passage 2: Academic Research into History & Archaeology",
       "topic": "history",
       "topicName": "History & Archaeology",
       "questionType": "tfng",
@@ -66247,7 +64932,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_57",
       "skill": "reading",
       "testNum": 57,
-      "title": "Cam 13 (2018) Test 20 Passage 3: Academic Research into Science & Space Exploration (Passage 1)",
+      "title": "Cam 13 (2018) Test 20 Passage 3: Academic Research into Science & Space Exploration",
       "topic": "science",
       "topicName": "Science & Space Exploration",
       "questionType": "matching_headings",
@@ -66636,7 +65321,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_58",
       "skill": "reading",
       "testNum": 58,
-      "title": "Cam 13 (2018) Test 20 Passage 1: Academic Research into Crime, Law & Rehabilitation (Passage 2)",
+      "title": "Cam 13 (2018) Test 20 Passage 1: Academic Research into Crime, Law & Rehabilitation",
       "topic": "crime",
       "topicName": "Crime, Law & Rehabilitation",
       "questionType": "summary_completion",
@@ -67025,7 +65710,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_59",
       "skill": "reading",
       "testNum": 59,
-      "title": "Cam 12 (2017) Test 20 Passage 2: Academic Research into Media, Information & Advertising (Passage 3)",
+      "title": "Cam 12 (2017) Test 20 Passage 2: Academic Research into Media, Information & Advertising",
       "topic": "media",
       "topicName": "Media, Information & Advertising",
       "questionType": "multiple_choice",
@@ -67434,7 +66119,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_60",
       "skill": "reading",
       "testNum": 60,
-      "title": "Cam 12 (2017) Test 21 Passage 3: Academic Research into Work, Career & Automation (Passage 1)",
+      "title": "Cam 12 (2017) Test 21 Passage 3: Academic Research into Work, Career & Automation",
       "topic": "work",
       "topicName": "Work, Career & Automation",
       "questionType": "matching_info",
@@ -67823,7 +66508,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_61",
       "skill": "reading",
       "testNum": 61,
-      "title": "Cam 12 (2017) Test 21 Passage 1: Academic Research into Education & Academic Growth (Passage 2)",
+      "title": "Cam 12 (2017) Test 21 Passage 1: Academic Research into Education & Academic Growth",
       "topic": "education",
       "topicName": "Education & Academic Growth",
       "questionType": "tfng",
@@ -68202,7 +66887,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_62",
       "skill": "reading",
       "testNum": 62,
-      "title": "Cam 12 (2017) Test 21 Passage 2: Academic Research into Environment & Climate Resilience (Passage 3)",
+      "title": "Cam 12 (2017) Test 21 Passage 2: Academic Research into Environment & Climate Resilience",
       "topic": "environment",
       "topicName": "Environment & Climate Resilience",
       "questionType": "matching_headings",
@@ -68591,7 +67276,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_63",
       "skill": "reading",
       "testNum": 63,
-      "title": "Cam 12 (2017) Test 22 Passage 3: Academic Research into Technology & Artificial Intelligence (Passage 1)",
+      "title": "Cam 12 (2017) Test 22 Passage 3: Academic Research into Technology & Artificial Intelligence",
       "topic": "technology",
       "topicName": "Technology & Artificial Intelligence",
       "questionType": "summary_completion",
@@ -68980,7 +67665,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_64",
       "skill": "reading",
       "testNum": 64,
-      "title": "Cam 12 (2017) Test 22 Passage 1: Academic Research into Health, Medicine & Well-being (Passage 2)",
+      "title": "Cam 12 (2017) Test 22 Passage 1: Academic Research into Health, Medicine & Well-being",
       "topic": "health",
       "topicName": "Health, Medicine & Well-being",
       "questionType": "multiple_choice",
@@ -69389,7 +68074,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_65",
       "skill": "reading",
       "testNum": 65,
-      "title": "Cam 12 (2017) Test 22 Passage 2: Academic Research into Society, Urbanization & Demographics (Passage 3)",
+      "title": "Cam 12 (2017) Test 22 Passage 2: Academic Research into Society, Urbanization & Demographics",
       "topic": "society",
       "topicName": "Society, Urbanization & Demographics",
       "questionType": "matching_info",
@@ -69778,7 +68463,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_66",
       "skill": "reading",
       "testNum": 66,
-      "title": "Cam 12 (2017) Test 23 Passage 3: Academic Research into Economy, Business & Globalization (Passage 1)",
+      "title": "Cam 12 (2017) Test 23 Passage 3: Academic Research into Economy, Business & Globalization",
       "topic": "economy",
       "topicName": "Economy, Business & Globalization",
       "questionType": "tfng",
@@ -70157,7 +68842,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_67",
       "skill": "reading",
       "testNum": 67,
-      "title": "Cam 11 (2016) Test 23 Passage 1: Academic Research into Culture, Heritage & Tourism (Passage 2)",
+      "title": "Cam 11 (2016) Test 23 Passage 1: Academic Research into Culture, Heritage & Tourism",
       "topic": "culture",
       "topicName": "Culture, Heritage & Tourism",
       "questionType": "matching_headings",
@@ -70546,7 +69231,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_68",
       "skill": "reading",
       "testNum": 68,
-      "title": "Cam 11 (2016) Test 23 Passage 2: Academic Research into History & Archaeology (Passage 3)",
+      "title": "Cam 11 (2016) Test 23 Passage 2: Academic Research into History & Archaeology",
       "topic": "history",
       "topicName": "History & Archaeology",
       "questionType": "summary_completion",
@@ -70935,7 +69620,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_69",
       "skill": "reading",
       "testNum": 69,
-      "title": "Cam 11 (2016) Test 24 Passage 3: Academic Research into Science & Space Exploration (Passage 1)",
+      "title": "Cam 11 (2016) Test 24 Passage 3: Academic Research into Science & Space Exploration",
       "topic": "science",
       "topicName": "Science & Space Exploration",
       "questionType": "multiple_choice",
@@ -71344,7 +70029,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_70",
       "skill": "reading",
       "testNum": 70,
-      "title": "Cam 11 (2016) Test 24 Passage 1: Academic Research into Crime, Law & Rehabilitation (Passage 2)",
+      "title": "Cam 11 (2016) Test 24 Passage 1: Academic Research into Crime, Law & Rehabilitation",
       "topic": "crime",
       "topicName": "Crime, Law & Rehabilitation",
       "questionType": "matching_info",
@@ -71733,7 +70418,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_71",
       "skill": "reading",
       "testNum": 71,
-      "title": "Cam 11 (2016) Test 24 Passage 2: Academic Research into Media, Information & Advertising (Passage 3)",
+      "title": "Cam 11 (2016) Test 24 Passage 2: Academic Research into Media, Information & Advertising",
       "topic": "media",
       "topicName": "Media, Information & Advertising",
       "questionType": "tfng",
@@ -72112,7 +70797,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_72",
       "skill": "reading",
       "testNum": 72,
-      "title": "Cam 11 (2016) Test 25 Passage 3: Academic Research into Work, Career & Automation (Passage 1)",
+      "title": "Cam 11 (2016) Test 25 Passage 3: Academic Research into Work, Career & Automation",
       "topic": "work",
       "topicName": "Work, Career & Automation",
       "questionType": "matching_headings",
@@ -72501,7 +71186,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_73",
       "skill": "reading",
       "testNum": 73,
-      "title": "Cam 11 (2016) Test 25 Passage 1: Academic Research into Education & Academic Growth (Passage 2)",
+      "title": "Cam 11 (2016) Test 25 Passage 1: Academic Research into Education & Academic Growth",
       "topic": "education",
       "topicName": "Education & Academic Growth",
       "questionType": "summary_completion",
@@ -72890,7 +71575,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_74",
       "skill": "reading",
       "testNum": 74,
-      "title": "Cam 11 (2016) Test 25 Passage 2: Academic Research into Environment & Climate Resilience (Passage 3)",
+      "title": "Cam 11 (2016) Test 25 Passage 2: Academic Research into Environment & Climate Resilience",
       "topic": "environment",
       "topicName": "Environment & Climate Resilience",
       "questionType": "multiple_choice",
@@ -73299,7 +71984,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_75",
       "skill": "reading",
       "testNum": 75,
-      "title": "Cam 10 (2015) Test 26 Passage 3: Academic Research into Technology & Artificial Intelligence (Passage 1)",
+      "title": "Cam 10 (2015) Test 26 Passage 3: Academic Research into Technology & Artificial Intelligence",
       "topic": "technology",
       "topicName": "Technology & Artificial Intelligence",
       "questionType": "matching_info",
@@ -73688,7 +72373,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_76",
       "skill": "reading",
       "testNum": 76,
-      "title": "Cam 10 (2015) Test 26 Passage 1: Academic Research into Health, Medicine & Well-being (Passage 2)",
+      "title": "Cam 10 (2015) Test 26 Passage 1: Academic Research into Health, Medicine & Well-being",
       "topic": "health",
       "topicName": "Health, Medicine & Well-being",
       "questionType": "tfng",
@@ -74067,7 +72752,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_77",
       "skill": "reading",
       "testNum": 77,
-      "title": "Cam 10 (2015) Test 26 Passage 2: Academic Research into Society, Urbanization & Demographics (Passage 3)",
+      "title": "Cam 10 (2015) Test 26 Passage 2: Academic Research into Society, Urbanization & Demographics",
       "topic": "society",
       "topicName": "Society, Urbanization & Demographics",
       "questionType": "matching_headings",
@@ -74456,7 +73141,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_78",
       "skill": "reading",
       "testNum": 78,
-      "title": "Cam 10 (2015) Test 27 Passage 3: Academic Research into Economy, Business & Globalization (Passage 1)",
+      "title": "Cam 10 (2015) Test 27 Passage 3: Academic Research into Economy, Business & Globalization",
       "topic": "economy",
       "topicName": "Economy, Business & Globalization",
       "questionType": "summary_completion",
@@ -74845,7 +73530,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_79",
       "skill": "reading",
       "testNum": 79,
-      "title": "Cam 10 (2015) Test 27 Passage 1: Academic Research into Culture, Heritage & Tourism (Passage 2)",
+      "title": "Cam 10 (2015) Test 27 Passage 1: Academic Research into Culture, Heritage & Tourism",
       "topic": "culture",
       "topicName": "Culture, Heritage & Tourism",
       "questionType": "multiple_choice",
@@ -75254,7 +73939,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_80",
       "skill": "reading",
       "testNum": 80,
-      "title": "Cam 10 (2015) Test 27 Passage 2: Academic Research into History & Archaeology (Passage 3)",
+      "title": "Cam 10 (2015) Test 27 Passage 2: Academic Research into History & Archaeology",
       "topic": "history",
       "topicName": "History & Archaeology",
       "questionType": "matching_info",
@@ -75643,7 +74328,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_81",
       "skill": "reading",
       "testNum": 81,
-      "title": "Cam 10 (2015) Test 28 Passage 3: Academic Research into Science & Space Exploration (Passage 1)",
+      "title": "Cam 10 (2015) Test 28 Passage 3: Academic Research into Science & Space Exploration",
       "topic": "science",
       "topicName": "Science & Space Exploration",
       "questionType": "tfng",
@@ -76022,7 +74707,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_82",
       "skill": "reading",
       "testNum": 82,
-      "title": "Cam 10 (2015) Test 28 Passage 1: Academic Research into Crime, Law & Rehabilitation (Passage 2)",
+      "title": "Cam 10 (2015) Test 28 Passage 1: Academic Research into Crime, Law & Rehabilitation",
       "topic": "crime",
       "topicName": "Crime, Law & Rehabilitation",
       "questionType": "matching_headings",
@@ -76411,7 +75096,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_83",
       "skill": "reading",
       "testNum": 83,
-      "title": "Cam 1 (Classic) Test 28 Passage 2: Academic Research into Media, Information & Advertising (Passage 3)",
+      "title": "Cam 1 (Classic) Test 28 Passage 2: Academic Research into Media, Information & Advertising",
       "topic": "media",
       "topicName": "Media, Information & Advertising",
       "questionType": "summary_completion",
@@ -76800,7 +75485,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_84",
       "skill": "reading",
       "testNum": 84,
-      "title": "Cam 2 (Classic) Test 29 Passage 3: Academic Research into Work, Career & Automation (Passage 1)",
+      "title": "Cam 2 (Classic) Test 29 Passage 3: Academic Research into Work, Career & Automation",
       "topic": "work",
       "topicName": "Work, Career & Automation",
       "questionType": "multiple_choice",
@@ -77209,7 +75894,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_85",
       "skill": "reading",
       "testNum": 85,
-      "title": "Cam 3 (Classic) Test 29 Passage 1: Academic Research into Education & Academic Growth (Passage 2)",
+      "title": "Cam 3 (Classic) Test 29 Passage 1: Academic Research into Education & Academic Growth",
       "topic": "education",
       "topicName": "Education & Academic Growth",
       "questionType": "matching_info",
@@ -77598,7 +76283,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_86",
       "skill": "reading",
       "testNum": 86,
-      "title": "Cam 4 (Classic) Test 29 Passage 2: Academic Research into Environment & Climate Resilience (Passage 3)",
+      "title": "Cam 4 (Classic) Test 29 Passage 2: Academic Research into Environment & Climate Resilience",
       "topic": "environment",
       "topicName": "Environment & Climate Resilience",
       "questionType": "tfng",
@@ -77977,7 +76662,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_87",
       "skill": "reading",
       "testNum": 87,
-      "title": "Cam 5 (Classic) Test 30 Passage 3: Academic Research into Technology & Artificial Intelligence (Passage 1)",
+      "title": "Cam 5 (Classic) Test 30 Passage 3: Academic Research into Technology & Artificial Intelligence",
       "topic": "technology",
       "topicName": "Technology & Artificial Intelligence",
       "questionType": "matching_headings",
@@ -78366,7 +77051,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_88",
       "skill": "reading",
       "testNum": 88,
-      "title": "Cam 6 (Classic) Test 30 Passage 1: Academic Research into Health, Medicine & Well-being (Passage 2)",
+      "title": "Cam 6 (Classic) Test 30 Passage 1: Academic Research into Health, Medicine & Well-being",
       "topic": "health",
       "topicName": "Health, Medicine & Well-being",
       "questionType": "summary_completion",
@@ -78755,7 +77440,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_89",
       "skill": "reading",
       "testNum": 89,
-      "title": "Cam 7 (Classic) Test 30 Passage 2: Academic Research into Society, Urbanization & Demographics (Passage 3)",
+      "title": "Cam 7 (Classic) Test 30 Passage 2: Academic Research into Society, Urbanization & Demographics",
       "topic": "society",
       "topicName": "Society, Urbanization & Demographics",
       "questionType": "multiple_choice",
@@ -79164,7 +77849,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_90",
       "skill": "reading",
       "testNum": 90,
-      "title": "Cam 8 (Classic) Test 31 Passage 3: Academic Research into Economy, Business & Globalization (Passage 1)",
+      "title": "Cam 8 (Classic) Test 31 Passage 3: Academic Research into Economy, Business & Globalization",
       "topic": "economy",
       "topicName": "Economy, Business & Globalization",
       "questionType": "matching_info",
@@ -79553,7 +78238,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_91",
       "skill": "reading",
       "testNum": 91,
-      "title": "Cam 9 (Classic) Test 31 Passage 1: Academic Research into Culture, Heritage & Tourism (Passage 2)",
+      "title": "Cam 9 (Classic) Test 31 Passage 1: Academic Research into Culture, Heritage & Tourism",
       "topic": "culture",
       "topicName": "Culture, Heritage & Tourism",
       "questionType": "tfng",
@@ -79932,7 +78617,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_92",
       "skill": "reading",
       "testNum": 92,
-      "title": "Cam 1 (Classic) Test 31 Passage 2: Academic Research into History & Archaeology (Passage 3)",
+      "title": "Cam 1 (Classic) Test 31 Passage 2: Academic Research into History & Archaeology",
       "topic": "history",
       "topicName": "History & Archaeology",
       "questionType": "matching_headings",
@@ -80321,7 +79006,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_93",
       "skill": "reading",
       "testNum": 93,
-      "title": "Cam 2 (Classic) Test 32 Passage 3: Academic Research into Science & Space Exploration (Passage 1)",
+      "title": "Cam 2 (Classic) Test 32 Passage 3: Academic Research into Science & Space Exploration",
       "topic": "science",
       "topicName": "Science & Space Exploration",
       "questionType": "summary_completion",
@@ -80710,7 +79395,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_94",
       "skill": "reading",
       "testNum": 94,
-      "title": "Cam 3 (Classic) Test 32 Passage 1: Academic Research into Crime, Law & Rehabilitation (Passage 2)",
+      "title": "Cam 3 (Classic) Test 32 Passage 1: Academic Research into Crime, Law & Rehabilitation",
       "topic": "crime",
       "topicName": "Crime, Law & Rehabilitation",
       "questionType": "multiple_choice",
@@ -81119,7 +79804,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_95",
       "skill": "reading",
       "testNum": 95,
-      "title": "Cam 4 (Classic) Test 32 Passage 2: Academic Research into Media, Information & Advertising (Passage 3)",
+      "title": "Cam 4 (Classic) Test 32 Passage 2: Academic Research into Media, Information & Advertising",
       "topic": "media",
       "topicName": "Media, Information & Advertising",
       "questionType": "matching_info",
@@ -81508,7 +80193,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_96",
       "skill": "reading",
       "testNum": 96,
-      "title": "Cam 5 (Classic) Test 33 Passage 3: Academic Research into Work, Career & Automation (Passage 1)",
+      "title": "Cam 5 (Classic) Test 33 Passage 3: Academic Research into Work, Career & Automation",
       "topic": "work",
       "topicName": "Work, Career & Automation",
       "questionType": "tfng",
@@ -81887,7 +80572,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_97",
       "skill": "reading",
       "testNum": 97,
-      "title": "Cam 6 (Classic) Test 33 Passage 1: Academic Research into Education & Academic Growth (Passage 2)",
+      "title": "Cam 6 (Classic) Test 33 Passage 1: Academic Research into Education & Academic Growth",
       "topic": "education",
       "topicName": "Education & Academic Growth",
       "questionType": "matching_headings",
@@ -82276,7 +80961,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_98",
       "skill": "reading",
       "testNum": 98,
-      "title": "Cam 7 (Classic) Test 33 Passage 2: Academic Research into Environment & Climate Resilience (Passage 3)",
+      "title": "Cam 7 (Classic) Test 33 Passage 2: Academic Research into Environment & Climate Resilience",
       "topic": "environment",
       "topicName": "Environment & Climate Resilience",
       "questionType": "summary_completion",
@@ -82665,7 +81350,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_99",
       "skill": "reading",
       "testNum": 99,
-      "title": "Cam 8 (Classic) Test 34 Passage 3: Academic Research into Technology & Artificial Intelligence (Passage 1)",
+      "title": "Cam 8 (Classic) Test 34 Passage 3: Academic Research into Technology & Artificial Intelligence",
       "topic": "technology",
       "topicName": "Technology & Artificial Intelligence",
       "questionType": "multiple_choice",
@@ -83074,7 +81759,7 @@ var IELTS_BANK_100 = {
       "id": "read_test_100",
       "skill": "reading",
       "testNum": 100,
-      "title": "Cam 9 (Classic) Test 34 Passage 1: Academic Research into Health, Medicine & Well-being (Passage 2)",
+      "title": "Cam 9 (Classic) Test 34 Passage 1: Academic Research into Health, Medicine & Well-being",
       "topic": "health",
       "topicName": "Health, Medicine & Well-being",
       "questionType": "matching_info",
@@ -138632,9 +137317,5 @@ var IELTS_BANK_100 = {
   ]
 };
 
-if (typeof window !== 'undefined') {
-  window.IELTS_BANK_100 = IELTS_BANK_100;
-}
-if (typeof module !== 'undefined' && module.exports) {
-  module.exports = { IELTS_BANK_100 };
-}
+if (typeof window !== "undefined") window.IELTS_BANK_100 = IELTS_BANK_100;
+if (typeof module !== "undefined" && module.exports) module.exports = { IELTS_BANK_100 };

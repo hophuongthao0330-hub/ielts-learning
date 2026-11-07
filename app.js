@@ -3185,7 +3185,8 @@ let activeArenaState = {
   timerInterval: null,
   isPaused: false,
   userAnswers: {},
-  wordCount: 0
+  wordCount: 0,
+  activePassageIdx: 0
 };
 
 // -------------------------------------------------------------------------
@@ -4360,6 +4361,164 @@ function resetSkillTestFilters(skill) {
 // =========================================================================
 // 4. SPLIT-SCREEN EXAM ARENA (INTERACTIVE TEST PLAYER)
 // =========================================================================
+
+function switchReadingPassageTab(idx) {
+  if (!activeArenaState.test) return;
+  activeArenaState.activePassageIdx = idx;
+  renderReadingLeftPane(activeArenaState.test, idx);
+
+  // If multi-passage test, smooth scroll to the first question of this passage
+  if (activeArenaState.test.passages && activeArenaState.test.passages[idx]) {
+    const firstQ = activeArenaState.test.passages[idx].fromQ;
+    const qEl = document.getElementById(`arenaQContainer_${firstQ}`);
+    if (qEl) {
+      qEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+}
+
+function formatReadingPassageToHtml(rawText) {
+  if (!rawText) return '<p class="text-slate-400 italic">Nội dung bài đọc đang được cập nhật...</p>';
+
+  // Clean PDF headers/footers
+  let text = rawText
+    .replace(/^Test \d+\s*$/gim, '')
+    .replace(/^Reading\s*$/gim, '')
+    .replace(/^\d{1,3}\s*$/gm, '')
+    .replace(/^READING PASSAGE \d+\s*$/gim, '')
+    .replace(/^You should spend about 20 minutes on Questions.*?(below|\.)\s*$/gim, '')
+    .replace(/\r\n/g, '\n')
+    .trim();
+
+  // Split into raw paragraph blocks
+  const blocks = text.split(/\n\s*\n+/);
+  let html = '';
+
+  blocks.forEach(b => {
+    b = b.trim();
+    if (!b) return;
+
+    // Check for footnote or glossary
+    if (b.startsWith('*')) {
+      html += `
+        <div class="p-3.5 rounded-xl bg-amber-500/10 border border-amber-500/25 text-xs text-amber-200/90 italic flex items-start gap-2.5 my-3 shadow-sm font-sans">
+          <i data-lucide="info" class="w-4 h-4 text-amber-400 shrink-0 mt-0.5"></i>
+          <div class="leading-relaxed">${b.replace(/\s+/g, ' ')}</div>
+        </div>
+      `;
+      return;
+    }
+
+    // Check for Section / Paragraph marker [A], [B], or "A\t", "A. ", "Paragraph A:"
+    const letterMatch = b.match(/^\[?([A-G])\]?[\t\s\.\-:]\s*([\s\S]*)$/i) || b.match(/^Paragraph\s*([A-G])[\t\s\.\-:]\s*([\s\S]*)$/i);
+
+    if (letterMatch) {
+      const letter = letterMatch[1].toUpperCase();
+      const body = letterMatch[2].trim().replace(/\s+/g, ' ');
+      html += `
+        <div class="p-4 rounded-2xl bg-slate-900/50 border border-slate-800/90 hover:border-emerald-500/40 transition mb-3.5 space-y-2 group shadow-sm">
+          <div class="flex items-center justify-between pb-1.5 border-b border-slate-800/60">
+            <span class="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-lg bg-emerald-500/15 text-emerald-400 font-bold border border-emerald-500/30 text-xs uppercase tracking-wider">
+              <i data-lucide="bookmark" class="w-3.5 h-3.5"></i> Paragraph ${letter}
+            </span>
+            <span class="text-[10px] text-slate-500 font-medium uppercase tracking-wider">Section ${letter}</span>
+          </div>
+          <p class="text-slate-200 text-sm leading-relaxed text-justify font-serif tracking-normal pt-1">${body}</p>
+        </div>
+      `;
+    } else {
+      // Standard narrative paragraph
+      const cleanPara = b.replace(/\s+/g, ' ');
+      html += `
+        <p class="text-slate-200 text-sm leading-relaxed text-justify font-serif mb-4 indent-6">${cleanPara}</p>
+      `;
+    }
+  });
+
+  return html;
+}
+
+function renderReadingLeftPane(test, activePassageIdx = 0) {
+  const leftPane = document.getElementById('arenaLeftPane');
+  if (!leftPane) return;
+
+  // Multi-passage check
+  let passages = [];
+  if (test.passages && Array.isArray(test.passages) && test.passages.length > 0) {
+    passages = test.passages;
+  } else if (test.passage && test.passage.includes('=== READING PASSAGE')) {
+    const parts = test.passage.split(/(?==== READING PASSAGE)/);
+    passages = parts.map((pt, i) => {
+      const titleMatch = pt.match(/===\s*(.*?)\s*===/);
+      const title = titleMatch ? titleMatch[1] : `Passage ${i + 1}`;
+      const text = pt.replace(/===\s*.*?\s*===/, '').trim();
+      return {
+        id: i + 1,
+        title: title,
+        text: text,
+        fromQ: i === 0 ? 1 : (i === 1 ? 14 : 27),
+        toQ: i === 0 ? 13 : (i === 1 ? 26 : 40)
+      };
+    });
+  }
+
+  let tabsHtml = '';
+  let activeText = test.passage || '';
+  let activeTitle = test.title;
+  let wordCount = test.wordCount || 850;
+
+  if (passages.length > 1) {
+    if (activePassageIdx >= passages.length) activePassageIdx = 0;
+    activeArenaState.activePassageIdx = activePassageIdx;
+    const curPsg = passages[activePassageIdx];
+    activeText = curPsg.text || curPsg.passage || '';
+    activeTitle = curPsg.title || `Passage ${activePassageIdx + 1}`;
+    wordCount = curPsg.wordCount || activeText.split(/\s+/).length;
+
+    tabsHtml = `
+      <div class="flex items-center gap-2 p-1.5 bg-slate-900/90 rounded-2xl border border-slate-800 mb-3 overflow-x-auto shadow-inner">
+        ${passages.map((psg, idx) => {
+          const isCur = idx === activePassageIdx;
+          const cls = isCur
+            ? 'bg-gradient-to-r from-emerald-600 to-teal-600 text-white shadow-md ring-1 ring-emerald-400/40'
+            : 'text-slate-400 hover:text-slate-200 hover:bg-slate-800/80';
+          return `
+            <button type="button" onclick="switchReadingPassageTab(${idx})" class="px-3.5 py-2 rounded-xl text-xs font-bold transition flex items-center gap-1.5 whitespace-nowrap ${cls}">
+              <i data-lucide="book-open" class="w-3.5 h-3.5"></i>
+              Passage ${idx + 1} (${psg.fromQ ? `Câu ${psg.fromQ}–${psg.toQ}` : 'Đọc'})
+            </button>
+          `;
+        }).join('')}
+      </div>
+    `;
+  }
+
+  const paragraphsHtml = formatReadingPassageToHtml(activeText);
+
+  leftPane.innerHTML = `
+    <div class="space-y-3.5 select-text">
+      ${tabsHtml}
+      <div class="flex items-center justify-between pb-2 border-b border-slate-800 text-xs text-slate-400">
+        <span class="font-bold text-slate-300 flex items-center gap-1.5 truncate max-w-[70%]">
+          <i data-lucide="file-text" class="w-3.5 h-3.5 text-emerald-400 shrink-0"></i>
+          <span class="truncate">${activeTitle}</span>
+        </span>
+        <div class="flex items-center gap-2 shrink-0">
+          <span class="text-slate-400 text-[11px]">${wordCount} từ</span>
+          <span class="text-emerald-400 font-semibold text-[11px] bg-emerald-950/60 px-2 py-0.5 rounded border border-emerald-800/60">
+            Bôi đen để Highlight
+          </span>
+        </div>
+      </div>
+      <div id="arenaPassageContent" class="text-slate-200 text-sm leading-relaxed space-y-3.5 font-serif select-text">
+        ${paragraphsHtml}
+      </div>
+    </div>
+  `;
+
+  if (window.lucide) window.lucide.createIcons();
+}
+
 function openTestArena(skill, testId) {
   const bank = getIeltsBank();
   const allTests = (bank && bank[skill]) ? bank[skill] : [];
@@ -4371,10 +4530,24 @@ function openTestArena(skill, testId) {
 
   activeArenaState.test = test;
   activeArenaState.skill = skill;
-  activeArenaState.secondsRemaining = (skill === 'writing') ? 1200 : 600; // 20m or 10m
+
+  // Authentic exam timer setup
+  let durationSecs = 1200; // default 20m
+  if (test.duration) {
+    const minsMatch = test.duration.match(/(\d+)/);
+    if (minsMatch) durationSecs = parseInt(minsMatch[1]) * 60;
+  } else if (skill === 'listening') {
+    durationSecs = (test.questions && test.questions.length > 20) ? 1800 : 600;
+  } else if (skill === 'reading') {
+    durationSecs = (test.questions && test.questions.length > 20) ? 3600 : 1200;
+  } else if (skill === 'writing') {
+    durationSecs = (test.taskType === 'Task 2') ? 2400 : 1200;
+  }
+  activeArenaState.secondsRemaining = durationSecs;
   activeArenaState.isPaused = false;
   activeArenaState.userAnswers = {};
   activeArenaState.wordCount = 0;
+  activeArenaState.activePassageIdx = 0;
 
   if (activeArenaState.timerInterval) clearInterval(activeArenaState.timerInterval);
   activeArenaState.timerInterval = setInterval(updateArenaTimerTick, 1000);
@@ -4513,17 +4686,7 @@ function openTestArena(skill, testId) {
     }, 50);
 
   } else if (skill === 'reading') {
-    leftPane.innerHTML = `
-      <div class="space-y-4 select-text">
-        <div class="flex items-center justify-between pb-2 border-b border-slate-800 text-xs text-slate-400">
-          <span>Đoạn văn đọc học thuật (${test.wordCount || 850} từ)</span>
-          <span class="text-emerald-400 font-semibold">Bôi đen chữ để Highlight</span>
-        </div>
-        <div id="arenaPassageContent" class="text-slate-200 text-sm leading-relaxed space-y-4 font-serif">
-          ${test.passage.split('\n\n').map(p => `<p class="p-1">${p}</p>`).join('')}
-        </div>
-      </div>
-    `;
+    renderReadingLeftPane(test, 0);
   } else if (skill === 'writing') {
     leftPane.innerHTML = `
       <div class="space-y-4 text-xs">
@@ -4585,11 +4748,26 @@ function openTestArena(skill, testId) {
     // If test has questionGroups, render with authentic group headers
     if (qGroups.length > 0) {
       qGroups.forEach(group => {
+        let passageJumpBtn = '';
+        if (test.passages && test.passages.length > 1) {
+          const matchPsgIdx = test.passages.findIndex(p => group.from >= p.fromQ && group.to <= p.toQ);
+          if (matchPsgIdx !== -1) {
+            passageJumpBtn = `
+              <button type="button" onclick="switchReadingPassageTab(${matchPsgIdx})" class="ml-auto px-2.5 py-1 rounded-lg bg-emerald-600/25 hover:bg-emerald-600 text-emerald-300 hover:text-white border border-emerald-500/40 text-[11px] font-bold flex items-center gap-1 transition">
+                <i data-lucide="book-open" class="w-3 h-3"></i> Xem Bài Đọc Passage ${matchPsgIdx + 1}
+              </button>
+            `;
+          }
+        }
+
         questionsHtml += `
           <div class="p-4 rounded-2xl bg-gradient-to-r from-slate-900 via-indigo-950/60 to-slate-900 border border-slate-700/80 mb-3 space-y-1.5 shadow-md">
-            <div class="flex items-center gap-2">
-              <span class="text-[10px] font-black px-2.5 py-0.5 rounded-full bg-amber-400 text-slate-950 uppercase tracking-wider">Questions ${group.from}–${group.to}</span>
-              <span class="text-xs font-bold text-white">${group.typeLabel}</span>
+            <div class="flex items-center justify-between gap-2">
+              <div class="flex items-center gap-2">
+                <span class="text-[10px] font-black px-2.5 py-0.5 rounded-full bg-amber-400 text-slate-950 uppercase tracking-wider">Questions ${group.from}–${group.to}</span>
+                <span class="text-xs font-bold text-white">${group.typeLabel}</span>
+              </div>
+              ${passageJumpBtn}
             </div>
             <p class="text-xs text-slate-300 italic">${group.instruction}</p>
           </div>
@@ -5798,8 +5976,38 @@ function renderPreTestContent() {
   if (!body || !currentPreTest.test) return;
 
   const test = currentPreTest.test;
-  const vocabList = (test.testVocabulary && test.testVocabulary.length > 0) ? test.testVocabulary : (test.vocabulary || []);
-  const practiceData = test.testVocabPractice || { flashcards: [], matching: [], quiz: [] };
+  let vocabList = (test.testVocabulary && test.testVocabulary.length > 0) ? test.testVocabulary : (test.vocabulary || []);
+  
+  // Intelligent auto-fallback: If no specific vocabulary is attached to this test, dynamically pull from Cambridge Vocab Bank
+  if (!vocabList || vocabList.length === 0) {
+    if (typeof CAMBRIDGE_VOCAB_BANK !== 'undefined' && CAMBRIDGE_VOCAB_BANK.length > 0) {
+      const topicMatches = CAMBRIDGE_VOCAB_BANK.filter(v => v.theme === test.topic);
+      const pool = topicMatches.length >= 5 ? topicMatches : CAMBRIDGE_VOCAB_BANK;
+      vocabList = pool.slice(0, 8).map((v, i) => ({
+        id: `fb_voc_${test.id}_${i}`,
+        term: v.word || v.term || 'Academic Term',
+        ipa: v.ipa || '',
+        type: v.type || 'noun',
+        meaning: v.meaning || '',
+        example: v.example || '',
+        paraphrase: v.camSource || v.paraphrase || 'Cambridge Academic Core',
+        collocation: v.collocation || ''
+      }));
+    }
+  }
+
+  const practiceData = (test.testVocabPractice && test.testVocabPractice.flashcards && test.testVocabPractice.flashcards.length > 0) 
+    ? test.testVocabPractice 
+    : {
+        flashcards: vocabList.map(w => ({ front: w.term || w.word, back: `${w.meaning} (${w.type || ''})`, ipa: w.ipa || '', example: w.example || '' })),
+        matching: vocabList.slice(0, 5).map(w => ({ left: w.term || w.word, right: w.meaning })),
+        quiz: vocabList.slice(0, 4).map((w, idx) => ({
+          question: `Từ nào sau đây mang ý nghĩa: "${w.meaning}"?`,
+          options: [w.term || w.word, 'alternative approach', 'substantial evidence', 'preliminary analysis'].sort(() => 0.5 - Math.random()),
+          correct: w.term || w.word,
+          explanation: `"${w.term || w.word}" có nghĩa là: ${w.meaning}`
+        }))
+      };
 
   if (currentPreTest.subTab === 'vocab') {
     let html = `
@@ -5816,18 +6024,19 @@ function renderPreTestContent() {
 
     vocabList.forEach(w => {
       const isBookmarked = appSavedVocab.includes(w.id);
+      const termName = w.term || w.word || 'Vocabulary';
       html += `
         <div class="p-4 rounded-2xl border border-slate-200 dark:border-slate-800 bg-slate-50/60 dark:bg-slate-900/60 space-y-2.5 transition hover:border-purple-300">
           <div class="flex items-start justify-between gap-3">
             <div>
               <div class="flex flex-wrap items-center gap-2">
-                <h4 class="text-sm font-black text-slate-900 dark:text-white">${w.term}</h4>
-                <span class="text-xs text-slate-400 font-mono">${w.ipa}</span>
+                <h4 class="text-sm font-black text-slate-900 dark:text-white">${termName}</h4>
+                <span class="text-xs text-slate-400 font-mono">${w.ipa || ''}</span>
                 <span class="text-[10px] font-bold uppercase px-2 py-0.5 rounded bg-purple-100 dark:bg-purple-950 text-purple-700 dark:text-purple-300">
-                  ${w.type}
+                  ${w.type || 'term'}
                 </span>
               </div>
-              <p class="text-xs font-bold text-slate-800 dark:text-slate-200 mt-1">${w.meaning}</p>
+              <p class="text-xs font-bold text-slate-800 dark:text-slate-200 mt-1">${w.meaning || ''}</p>
             </div>
             <button onclick="toggleBookmarkVocab('${w.id}')" class="p-1.5 rounded-lg ${isBookmarked ? 'bg-amber-500 text-white' : 'bg-slate-100 dark:bg-slate-800 text-slate-400 hover:text-amber-500'} transition" title="Lưu từ vào sổ ôn lại">
               <i data-lucide="bookmark" class="w-4 h-4 ${isBookmarked ? 'fill-current' : ''}"></i>
@@ -5835,12 +6044,12 @@ function renderPreTestContent() {
           </div>
 
           <div class="p-2.5 rounded-xl bg-white dark:bg-slate-950 border border-slate-200/80 dark:border-slate-800 text-xs text-slate-600 dark:text-slate-300 italic">
-            "${w.example}"
+            "${w.example || ''}"
           </div>
 
           <div class="flex flex-wrap items-center gap-3 text-[11px]">
             <span class="text-purple-700 dark:text-purple-300 font-semibold flex items-center gap-1">
-              <i data-lucide="refresh-cw" class="w-3 h-3"></i> Paraphrase: <strong>${w.paraphrase}</strong>
+              <i data-lucide="refresh-cw" class="w-3 h-3"></i> Paraphrase: <strong>${w.paraphrase || 'Cambridge Core'}</strong>
             </span>
             ${w.collocation ? `
               <span class="text-indigo-600 dark:text-indigo-400 font-semibold flex items-center gap-1">
@@ -6133,4 +6342,10 @@ function toggleArenaVocabDrawer() {
     drawer.classList.add('hidden');
   }
   if (window.lucide) window.lucide.createIcons();
+}
+
+if (typeof window !== 'undefined') {
+  window.switchReadingPassageTab = switchReadingPassageTab;
+  window.renderReadingLeftPane = renderReadingLeftPane;
+  window.formatReadingPassageToHtml = formatReadingPassageToHtml;
 }
