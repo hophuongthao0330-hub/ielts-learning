@@ -4119,22 +4119,35 @@ function renderSkillZoneD(skill) {
   let filtered = allTests.filter(t => {
     if (filters.cam && filters.cam !== 'all') {
       if (filters.cam === 'cam_classic') {
-        const modern = ['cam_21', 'cam_19', 'cam_18', 'cam_17', 'cam_16', 'cam_15', 'cam_13', 'cam_12', 'cam_11', 'cam_10'];
-        if (modern.includes(t.camSeries)) return false;
+        const classic = ['cam_1', 'cam_2', 'cam_3', 'cam_4', 'cam_5', 'cam_6', 'cam_7', 'cam_8', 'cam_9'];
+        if (!classic.includes(t.camSeries)) return false;
       } else if (t.camSeries !== filters.cam) {
         return false;
       }
     }
     if (filters.topic !== 'all' && t.topic !== filters.topic) return false;
     if (filters.type !== 'all') {
-      if (filters.type === 'form_completion') {
-        if (t.questionType !== 'form_completion' && t.questionType !== 'notes_completion' && t.questionType !== 'fill') return false;
+      if (filters.type === 'form_completion' || filters.type === 'completion') {
+        const compTypes = ['form_completion', 'notes_completion', 'sentence_completion', 'summary_completion', 'table_completion', 'completion_tfng', 'fill'];
+        if (!compTypes.includes(t.questionType)) return false;
       } else if (filters.type === 'matching') {
-        if (t.questionType !== 'matching' && t.questionType !== 'matching_features' && t.questionType !== 'matching_info') return false;
+        const matchTypes = ['matching', 'matching_features', 'matching_info', 'matching_headings'];
+        if (!matchTypes.includes(t.questionType)) return false;
+      } else if (filters.type === 'matching_headings') {
+        if (t.questionType !== 'matching_headings') return false;
       } else if (filters.type === 'choose_two') {
         if (t.questionType !== 'choose_two' && t.questionType !== 'multiple_choice_multi') return false;
       } else if (filters.type === 'table_completion') {
         if (t.questionType !== 'table_completion' && t.questionType !== 'summary_word_bank') return false;
+      } else if (filters.type === 'tfng') {
+        const tfngTypes = ['tfng', 'true_false_not_given', 'yes_no_not_given', 'completion_tfng'];
+        if (!tfngTypes.includes(t.questionType)) return false;
+      } else if (filters.type === 'multiple_choice') {
+        const mcTypes = ['multiple_choice', 'choose_two', 'multiple_choice_multi'];
+        if (!mcTypes.includes(t.questionType)) return false;
+      } else if (filters.type === 'full_test') {
+        const isFull = (t.passages && t.passages.length >= 3) || (t.testNum % 4 === 0) || t.questionType === 'full_mock_test' || t.questionType === 'full_exam' || t.questionType === 'full_test';
+        if (!isFull) return false;
       } else if (t.questionType !== filters.type) {
         return false;
       }
@@ -4177,20 +4190,30 @@ function renderSkillZoneD(skill) {
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 text-xs">
         <!-- Cambridge Book Series Filter -->
         <div>
-          <label class="block text-[11px] font-bold text-slate-400 mb-1">Bộ Sách Cambridge (Cam 1 - 21):</label>
+          <label class="block text-[11px] font-bold text-slate-400 mb-1">Bộ Sách Cambridge:</label>
           <select onchange="setSkillTestFilter('${skill}', 'cam', this.value)" class="w-full px-3 py-2 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs text-slate-800 dark:text-slate-200 font-bold text-indigo-600 dark:text-indigo-400">
-            <option value="all" ${filters.cam === 'all' ? 'selected' : ''}>Tất cả các bộ (Cam 1 - 21)</option>
-            <option value="cam_21" ${filters.cam === 'cam_21' ? 'selected' : ''}>Cambridge 21 (Mới Nhất 2026)</option>
-            <option value="cam_19" ${filters.cam === 'cam_19' ? 'selected' : ''}>Cambridge 19 (Hot 2024)</option>
-            <option value="cam_18" ${filters.cam === 'cam_18' ? 'selected' : ''}>Cambridge 18 (2023)</option>
-            <option value="cam_17" ${filters.cam === 'cam_17' ? 'selected' : ''}>Cambridge 17 (2022)</option>
-            <option value="cam_16" ${filters.cam === 'cam_16' ? 'selected' : ''}>Cambridge 16 (2021)</option>
-            <option value="cam_15" ${filters.cam === 'cam_15' ? 'selected' : ''}>Cambridge 15 (2020)</option>
-            <option value="cam_13" ${filters.cam === 'cam_13' ? 'selected' : ''}>Cambridge 13 (2018)</option>
-            <option value="cam_12" ${filters.cam === 'cam_12' ? 'selected' : ''}>Cambridge 12 (2017)</option>
-            <option value="cam_11" ${filters.cam === 'cam_11' ? 'selected' : ''}>Cambridge 11 (2016)</option>
-            <option value="cam_10" ${filters.cam === 'cam_10' ? 'selected' : ''}>Cambridge 10 (2015)</option>
-            <option value="cam_classic" ${filters.cam === 'cam_classic' ? 'selected' : ''}>Cambridge 1 – 9 (Nền Tảng Cổ Điển)</option>
+            ${skill === 'reading' ? `
+              <option value="all" ${filters.cam === 'all' ? 'selected' : ''}>Tất cả các bộ (Cam 1 - 21)</option>
+              <option value="cam_21" ${filters.cam === 'cam_21' ? 'selected' : ''}>Cambridge 21 (Mới Nhất 2026 - 20 bài)</option>
+              <option value="cam_19" ${filters.cam === 'cam_19' ? 'selected' : ''}>Cambridge 19 (Hot 2024 - 16 bài)</option>
+              <option value="cam_17" ${filters.cam === 'cam_17' ? 'selected' : ''}>Cambridge 17 (2022 - 12 bài)</option>
+              <option value="cam_3" ${filters.cam === 'cam_3' ? 'selected' : ''}>Cambridge 3 (20 bài)</option>
+              <option value="cam_2" ${filters.cam === 'cam_2' ? 'selected' : ''}>Cambridge 2 (16 bài)</option>
+              <option value="cam_1" ${filters.cam === 'cam_1' ? 'selected' : ''}>Cambridge 1 (16 bài)</option>
+              <option value="cam_classic" ${filters.cam === 'cam_classic' ? 'selected' : ''}>Cambridge Cổ Điển (Cam 1, 2, 3 - 52 bài)</option>
+            ` : `
+              <option value="all" ${filters.cam === 'all' ? 'selected' : ''}>Tất cả các bộ (Cam 10 - 21)</option>
+              <option value="cam_21" ${filters.cam === 'cam_21' ? 'selected' : ''}>Cambridge 21 (Mới Nhất 2026)</option>
+              <option value="cam_19" ${filters.cam === 'cam_19' ? 'selected' : ''}>Cambridge 19 (Hot 2024)</option>
+              <option value="cam_18" ${filters.cam === 'cam_18' ? 'selected' : ''}>Cambridge 18 (2023)</option>
+              <option value="cam_17" ${filters.cam === 'cam_17' ? 'selected' : ''}>Cambridge 17 (2022)</option>
+              <option value="cam_16" ${filters.cam === 'cam_16' ? 'selected' : ''}>Cambridge 16 (2021)</option>
+              <option value="cam_15" ${filters.cam === 'cam_15' ? 'selected' : ''}>Cambridge 15 (2020)</option>
+              <option value="cam_13" ${filters.cam === 'cam_13' ? 'selected' : ''}>Cambridge 13 (2018)</option>
+              <option value="cam_12" ${filters.cam === 'cam_12' ? 'selected' : ''}>Cambridge 12 (2017)</option>
+              <option value="cam_11" ${filters.cam === 'cam_11' ? 'selected' : ''}>Cambridge 11 (2016)</option>
+              <option value="cam_10" ${filters.cam === 'cam_10' ? 'selected' : ''}>Cambridge 10 (2015)</option>
+            `}
           </select>
         </div>
 
@@ -4209,18 +4232,18 @@ function renderSkillZoneD(skill) {
           <select onchange="setSkillTestFilter('${skill}', 'type', this.value)" class="w-full px-3 py-2 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs text-slate-800 dark:text-slate-200 font-bold text-amber-600 dark:text-amber-400">
             <option value="all" ${filters.type === 'all' ? 'selected' : ''}>Tất cả các dạng bài (${filtered.length} bài)</option>
             ${skill === 'listening' ? `
-              <option value="map_labelling" ${filters.type === 'map_labelling' ? 'selected' : ''}>🗺️ Map / Plan Labelling (Gán nhãn bản đồ A-H)</option>
-              <option value="matching" ${filters.type === 'matching' ? 'selected' : ''}>🔗 Matching Features / Opinions (Nối thông tin A-F)</option>
-              <option value="multiple_choice" ${filters.type === 'multiple_choice' ? 'selected' : ''}>🔘 Multiple Choice (Trắc nghiệm A, B, C)</option>
-              <option value="choose_two" ${filters.type === 'choose_two' ? 'selected' : ''}>☑️ Choose TWO Letters (Chọn 2 đáp án A-E)</option>
               <option value="form_completion" ${filters.type === 'form_completion' ? 'selected' : ''}>📝 Form / Notes Completion (Điền đơn / ghi chú)</option>
+              <option value="multiple_choice" ${filters.type === 'multiple_choice' ? 'selected' : ''}>🔘 Multiple Choice (Trắc nghiệm A, B, C)</option>
+              <option value="matching" ${filters.type === 'matching' ? 'selected' : ''}>🔗 Matching Features / Opinions (Nối thông tin)</option>
+              <option value="map_labelling" ${filters.type === 'map_labelling' ? 'selected' : ''}>🗺️ Map / Plan Labelling (Gán nhãn bản đồ A-H)</option>
+              <option value="choose_two" ${filters.type === 'choose_two' ? 'selected' : ''}>☑️ Choose TWO Letters (Chọn 2 đáp án A-E)</option>
               <option value="table_completion" ${filters.type === 'table_completion' ? 'selected' : ''}>📊 Table / Flowchart Completion (Điền bảng)</option>
             ` : `
-              <option value="tfng" ${filters.type === 'tfng' ? 'selected' : ''}>🟢 True / False / Not Given</option>
-              <option value="matching_headings" ${filters.type === 'matching_headings' ? 'selected' : ''}>📑 Matching Headings (Số La Mã i-viii)</option>
-              <option value="summary_completion" ${filters.type === 'summary_completion' ? 'selected' : ''}>📋 Summary Completion / Word Bank</option>
-              <option value="multiple_choice" ${filters.type === 'multiple_choice' ? 'selected' : ''}>🔘 Multiple Choice</option>
-              <option value="form_completion" ${filters.type === 'form_completion' ? 'selected' : ''}>✏️ Sentence / Notes Completion</option>
+              <option value="tfng" ${filters.type === 'tfng' ? 'selected' : ''}>🟢 True / False / Not Given & Yes/No/NG</option>
+              <option value="matching" ${filters.type === 'matching' ? 'selected' : ''}>📑 Matching (Headings / Info / Features)</option>
+              <option value="multiple_choice" ${filters.type === 'multiple_choice' ? 'selected' : ''}>🔘 Multiple Choice (Trắc nghiệm)</option>
+              <option value="completion" ${filters.type === 'completion' ? 'selected' : ''}>📝 Completion (Notes / Summary / Sentence)</option>
+              <option value="full_test" ${filters.type === 'full_test' ? 'selected' : ''}>🏆 Full Mock Test 40 Câu (Đề thi thử 3 bài đọc)</option>
             `}
           </select>
         </div>
@@ -4256,22 +4279,24 @@ function renderSkillZoneD(skill) {
     // Question Type Display Badge
     let typeBadge = '';
     const qt = t.questionType || '';
-    if (qt === 'map_labelling') {
+    if ((t.passages && t.passages.length >= 3) || t.testNum % 4 === 0) {
+      typeBadge = `<span class="px-2 py-0.5 rounded text-[10px] font-black bg-purple-100 dark:bg-purple-950/80 text-purple-700 dark:text-purple-300 border border-purple-200 dark:border-purple-800">🏆 Full Mock Test (3 Passages • 40 Qs)</span>`;
+    } else if (qt === 'map_labelling') {
       typeBadge = `<span class="px-2 py-0.5 rounded text-[10px] font-black bg-violet-100 dark:bg-violet-950/80 text-violet-700 dark:text-violet-300 border border-violet-200 dark:border-violet-800">🗺️ Map / Plan Labelling</span>`;
-    } else if (qt === 'matching' || qt === 'matching_features') {
-      typeBadge = `<span class="px-2 py-0.5 rounded text-[10px] font-black bg-indigo-100 dark:bg-indigo-950/80 text-indigo-700 dark:text-indigo-300 border border-indigo-200 dark:border-indigo-800">🔗 Matching Features</span>`;
+    } else if (qt === 'matching' || qt === 'matching_features' || qt === 'matching_info') {
+      typeBadge = `<span class="px-2 py-0.5 rounded text-[10px] font-black bg-indigo-100 dark:bg-indigo-950/80 text-indigo-700 dark:text-indigo-300 border border-indigo-200 dark:border-indigo-800">🔗 Matching Features / Info</span>`;
     } else if (qt === 'choose_two' || qt === 'multiple_choice_multi') {
       typeBadge = `<span class="px-2 py-0.5 rounded text-[10px] font-black bg-pink-100 dark:bg-pink-950/80 text-pink-700 dark:text-pink-300 border border-pink-200 dark:border-pink-800">☑️ Choose TWO Letters</span>`;
     } else if (qt === 'multiple_choice') {
-      typeBadge = `<span class="px-2 py-0.5 rounded text-[10px] font-black bg-purple-100 dark:bg-purple-950/80 text-purple-700 dark:text-purple-300 border border-purple-200 dark:border-purple-800">🔘 Multiple Choice (A-B-C)</span>`;
+      typeBadge = `<span class="px-2 py-0.5 rounded text-[10px] font-black bg-purple-100 dark:bg-purple-950/80 text-purple-700 dark:text-purple-300 border border-purple-200 dark:border-purple-800">🔘 Multiple Choice</span>`;
     } else if (qt === 'table_completion') {
       typeBadge = `<span class="px-2 py-0.5 rounded text-[10px] font-black bg-teal-100 dark:bg-teal-950/80 text-teal-700 dark:text-teal-300 border border-teal-200 dark:border-teal-800">📊 Table Completion</span>`;
-    } else if (qt === 'tfng') {
+    } else if (qt === 'tfng' || qt === 'true_false_not_given' || qt === 'yes_no_not_given') {
       typeBadge = `<span class="px-2 py-0.5 rounded text-[10px] font-black bg-emerald-100 dark:bg-emerald-950/80 text-emerald-700 dark:text-emerald-300 border border-emerald-200 dark:border-emerald-800">🟢 True / False / Not Given</span>`;
     } else if (qt === 'matching_headings') {
       typeBadge = `<span class="px-2 py-0.5 rounded text-[10px] font-black bg-amber-100 dark:bg-amber-950/80 text-amber-700 dark:text-amber-300 border border-amber-200 dark:border-amber-800">📑 Matching Headings</span>`;
     } else {
-      typeBadge = `<span class="px-2 py-0.5 rounded text-[10px] font-black bg-blue-100 dark:bg-blue-950/80 text-blue-700 dark:text-blue-300 border border-blue-200 dark:border-blue-800">📝 Form / Notes Completion</span>`;
+      typeBadge = `<span class="px-2 py-0.5 rounded text-[10px] font-black bg-blue-100 dark:bg-blue-950/80 text-blue-700 dark:text-blue-300 border border-blue-200 dark:border-blue-800">📝 Notes / Sentence Completion</span>`;
     }
 
     html += `
